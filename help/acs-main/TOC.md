@@ -9,9 +9,9 @@ tutorials-url: https://docs.adobe.com/content/help/en/campaign-standard-learn/tu
 getting-started-title: Documentatie
 getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/using/campaign-standard-home.html
 translation-type: tm+mt
-source-git-commit: 96cc4e9c52ed122e8c6fbbc7cd91f38c4ad98333
+source-git-commit: 6aa25917e32ca40af73ef33fbfd51c2b14902b04
 workflow-type: tm+mt
-source-wordcount: '528'
+source-wordcount: '522'
 ht-degree: 0%
 
 ---
@@ -83,7 +83,6 @@ ht-degree: 0%
       + [Een voorbeeld van uw e-mail- en antispamanalyse bekijken](/help/designing-content/email-designer/preview-your-email.md)
       + [Werken met bestaande inhoud](/help/designing-content/email-designer/working-with-existing-content.md)
       + [Inhoud maken met Adobe Dreamweaver](/help/designing-content/email-designer/dreamweaver-integration.md)
-      + [Afbeeldingen bewerken met de Creative Cloud SDK](/help/designing-content/email-designer/adobe-creative-cloud-sdk-integration.md)
    + [Productaanbiedingen configureren in transactie-e-mails](/help/designing-content/product-listings-in-transactional-email.md)
 + Processen en gegevens beheren {#managing-processes-and-data}
    + [Een workflow maken](/help/managing-processes-and-data/create-workflow.md)

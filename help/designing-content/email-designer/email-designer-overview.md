@@ -8,9 +8,9 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 39e7f9fc2a6631ebc5f2555dad651a72464e4344
+source-git-commit: 58fd8bec8adfca14188ea66423c107a14253834e
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
@@ -39,4 +39,3 @@ De volgende gedetailleerde zelfstudies zijn beschikbaar:
 * [Een voorbeeld van uw e-mail bekijken](/help/designing-content/email-designer/preview-your-email.md)
 * [Werken met bestaande inhoud](/help/designing-content/email-designer/working-with-existing-content.md)
 * [Inhoud maken met Adobe Dreamweaver](/help/designing-content/email-designer/dreamweaver-integration.md)
-* [Afbeeldingen bewerken met Adobe Creative Cloud SDK](/help/designing-content/email-designer/adobe-creative-cloud-sdk-integration.md)

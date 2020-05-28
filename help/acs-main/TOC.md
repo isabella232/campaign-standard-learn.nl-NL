@@ -9,9 +9,9 @@ tutorials-url: https://docs.adobe.com/content/help/en/campaign-standard-learn/tu
 getting-started-title: Documentatie
 getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/using/campaign-standard-home.html
 translation-type: tm+mt
-source-git-commit: 6aa25917e32ca40af73ef33fbfd51c2b14902b04
+source-git-commit: b6d8914043194c7589859d919c3a62c0035b5497
 workflow-type: tm+mt
-source-wordcount: '522'
+source-wordcount: '488'
 ht-degree: 0%
 
 ---
@@ -99,17 +99,6 @@ ht-degree: 0%
 + Ontwikkelen {#developing}
    + Aangepaste bronnen {#custom-resources-develop}
       + [Aangepaste bronnen maken](/help/managing-processes-and-data/custom-resources/creating-custom-resources.md)
-+ Integreren {#integrating}
-   + Microsoft Dynamics 365 Connector {#microsoft-dynamics365-connector}
-      + [Inleiding](/help/integrating/microsoft-dynamics-365-connector/introduction.md)
-      + [Single Sign On (SSO)](/help/integrating/microsoft-dynamics-365-connector/single-sign-on.md)
-      + [Ondersteuning voor URL van spiegel](/help/integrating/microsoft-dynamics-365-connector/mirror-page-url.md)
-      + [Microsoft Dynamics 365 configureren](/help/integrating/microsoft-dynamics-365-connector/configure-microsoft-dynamics-365.md)
-      + [Adobe IO configureren](/help/integrating/microsoft-dynamics-365-connector/configure-adobe-io.md)
-      + [Unifi configureren - Introductie](/help/integrating/microsoft-dynamics-365-connector/configure-unifi-introduction.md)
-      + [Unifi jobs - Overzicht](/help/integrating/microsoft-dynamics-365-connector/configure-unifi-jobs-overview.md)
-      + [Unifi jobs - ingres en egress](/help/integrating/microsoft-dynamics-365-connector/configure-unifi-jobs-ingress-egress.md)
-      + [Unifi - exploitatie en bewaking](/help/integrating/microsoft-dynamics-365-connector/configure-unifi-operalization-and-monitoring.md)
 + Beheer {#administrating}
    + [Toegangsrechten van gebruikers beheren](/help/administrating/managing-user-access-rights.md)
    + Deelvenster Beheer {#control-panel}

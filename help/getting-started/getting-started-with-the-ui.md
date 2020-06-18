@@ -1,16 +1,17 @@
 ---
 title: 'Aan de slag met de gebruikersinterface '
-description: In deze video ziet u een overzicht van de gebruikersinterface van Adobe Campagne Standard en de belangrijkste functies en kernfuncties.
+description: Deze video geeft u een overzicht van de Adobe Campaign Standard-gebruikersinterface en de belangrijkste functies en kernfuncties.
 feature: User Interface
-topics: null
+topics: Getting started
 kt: 3882
+thumbnail: null
 doc-type: feature video
 activity: understand
-team: WWFRE
+team: TM
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: 381e1873293b8e7ab9331529acc0a3a1d42b7486
 workflow-type: tm+mt
-source-wordcount: '64'
+source-wordcount: '81'
 ht-degree: 0%
 
 ---
@@ -18,12 +19,11 @@ ht-degree: 0%
 
 # Aan de slag met de gebruikersinterface
 
-In deze video ziet u een overzicht van Adobe Campagne Standard.
-
-U zult:
-
-* De belangrijkste functies en kernfuncties van Adobe Campagne Standard begrijpen
-* Hoe te binnen het systeem te navigeren
-* De menu&#39;s van de startpagina begrijpen
+Deze video geeft u een overzicht van de Adobe Campaign Standard-gebruikersinterface en legt uit hoe u naar belangrijke functies en kernfuncties kunt navigeren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/18469?quality=12)
+
+## Aanvullende bronnen
+
+* [Over de interface](https://docs.adobe.com/content/help/en/campaign-standard/using/getting-started/discovering-the-interface/about-the-interface.html)
+* [Interfacebeschrijving](https://docs.adobe.com/content/help/en/campaign-standard/using/getting-started/discovering-the-interface/interface-description.html)

@@ -1,6 +1,6 @@
 ---
 title: Hiërarchie- en marketingactiviteiten verkennen
-description: In deze video wordt uitgelegd hoe u de programma's en campagnes in de Adobe Campagne Standard (ACS) hebt geordend, hoe u een marketingprogramma maakt en hoe u een marketingcampagne binnen een programma kunt maken.
+description: In deze video wordt uitgelegd hoe u programma's en campagnes in Adobe Campaign Standard (ACS) hiërarchisch ordent, hoe u een marketingprogramma maakt en hoe u een marketingcampagne binnen een programma maakt.
 feature: managing campaigns
 topics: null
 kt: 3892
@@ -8,7 +8,7 @@ doc-type: feature video
 activity: Understand
 team: WWFRE
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: ec12edfcfb8d56c8472fdc55c16a087880a5063d
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%

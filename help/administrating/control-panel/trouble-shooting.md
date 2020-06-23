@@ -1,6 +1,6 @@
 ---
 title: Problemen met het openen van het regelpaneel
-description: Met het Configuratiescherm kunt u uw SFTP-opslag per instantie en whitelist IP-adressen controleren en beheren.
+description: Met het Configuratiescherm kunt u uw SFTP-opslag per instantie controleren en beheren en IP-adressen van lijsten toestaan.
 feature: Control Panel
 topics: null
 kt: 2938
@@ -8,9 +8,9 @@ doc-type: article
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
+source-git-commit: b277b1ad17d9c03b307f8483d776b796e6c0cbef
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '336'
 ht-degree: 0%
 
 ---
@@ -62,8 +62,8 @@ De beheerder moet de gebruiker aan het Profiel van het Product `Campaign-xxx-Adm
 
 Voor verbinding met SFTP-servers is het volgende vereist:
 
-* [!UICONTROL Whitelisting] het IP-adres waarvan u verbinding maakt met de SFTP-server
-* Persoonlijke/openbare sleutelparen die moeten worden geregistreerd met Adobe Campagne
+* [!UICONTROL allow listing] het IP-adres waarvan u verbinding maakt met de SFTP-server
+* Persoonlijk/openbaar sleutelpaar dat bij Adobe Campaign moet worden geregistreerd
 * Als u rechtstreeks verbinding maakt met de SFTP-server, hebt u ook SFTP-clientsoftware nodig
 
 ### Nuttige documentatie

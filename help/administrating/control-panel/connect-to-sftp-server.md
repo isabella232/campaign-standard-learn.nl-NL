@@ -8,9 +8,9 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
+source-git-commit: b277b1ad17d9c03b307f8483d776b796e6c0cbef
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
@@ -33,8 +33,8 @@ Ga naar:
 
 Voor verbinding met SFTP-servers is het volgende vereist:
 
-* [!!UICONTROL Whitelisting] van het IP adres waarvan u met de server SFTP verbindt
-* Persoonlijke/openbare sleutelparen die moeten worden geregistreerd met Adobe Campagne
+* [!!UICONTROL staat een lijst toe] van het IP adres waarvan u met de server verbindt SFTP
+* Persoonlijk/openbaar sleutelpaar dat bij Adobe Campaign moet worden geregistreerd
 * Als u rechtstreeks verbinding maakt met de SFTP-server, hebt u ook SFTP-clientsoftware nodig
 
 In deze video wordt uitgelegd hoe u verbinding maakt met uw SFTP-server met behulp van een client-SFTP-toepassing. Hierbij worden de sleutels gebruikt die u in het Configuratiescherm hebt opgeslagen.

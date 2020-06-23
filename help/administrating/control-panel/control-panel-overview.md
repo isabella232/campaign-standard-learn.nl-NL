@@ -1,6 +1,6 @@
 ---
 title: Deelvenster Beheer
-description: Met het Configuratiescherm kunt u uw SFTP-opslag per instantie en whitelist IP-adressen controleren en beheren.
+description: Met het Configuratiescherm kunt u uw SFTP-opslag per instantie controleren en beheren en IP-adressen van lijsten toestaan.
 feature: Control Panel
 topics: Control Panel
 kt: 4696
@@ -8,9 +8,9 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
+source-git-commit: 4bbe44e592085428d0eaa588aa5e773c925ce3bb
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '361'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,11 @@ ht-degree: 0%
 
 # [!UICONTROL Control Panel] {#control-panel}
 
-Met dit programma [!UICONTROL Control Panel] kunnen Adobe Campagnebeheerders belangrijke elementen controleren en beheertaken uitvoeren, zoals het beheren van de SFTP-opslag per instantie of whitelist IP-adressen.
+>[!NOTE]
+>
+>De termen &quot;[!UICONTROL whitelist]&quot; en &quot;[!UICONTROL blacklist]&quot; zijn vervangen door &quot;[!UICONTROL allow list]&quot; en &quot;[!UICONTROL block list]&quot; in de documentatie van Adobe Campaign. Sommige van deze termen staan nog steeds in de gebruikersinterface van het product, optienamen, interne code en de zelfstudievideo&#39;s. Deze worden vervangen in toekomstige versies van het Configuratiescherm.
+
+Met [!UICONTROL Control Panel] deze optie kunnen Adobe Campaign-beheerders belangrijke elementen controleren en beheertaken uitvoeren, zoals het beheren van de SFTP-opslag per instantie of [!UICONTROL allow list] IP-adressen.
 
 ## Toegang [!UICONTROL Control Panel]
 
@@ -55,25 +59,34 @@ De volgende video laat zien hoe u een beheerder aan een Campagne-instantie kunt 
 ## Zelfstudies voor het regelpaneel
 
 * **SFTP-servers beheren**
-   <br>
-   *Leer hoe te om de servercapaciteit, whitelist IP adressen te controleren, en SSH sleutels toe te voegen*
 
-   * [De servercapaciteit van de controle, flits IP adressen, en het toevoegen van de sleutels van SSH](/help/administrating/control-panel/monitoring-server-capacity-whitelisting-adding-ssh-key.md)
+   *Leer hoe u de servercapaciteit kunt controleren, lijst-IP-adressen kunt toestaan en SSH-toetsen kunt toevoegen*
+
+   * [Servercapaciteit controleren, IP-adressen vermelden en SSH-sleutels toevoegen](/help/administrating/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
    * [Een SSH-sleutel genereren](/help/administrating/control-panel/generate-ssh-key.md)
    * [Verbinding maken met een SFTP-server](/help/administrating/control-panel/connect-to-sftp-server.md)
-* **[Subdomeinen delegeren](/help/administrating/control-panel/subdomain-delegation.md)**   <br>
-   *Leer hoe u een subdomein volledig kunt delegeren aan Adobe Campagne*
-* **[SSL-certificaten toevoegen](/help/administrating/control-panel/adding-ssl-certificates.md)**   <br>
+* **[Subdomeinen delegeren](/help/administrating/control-panel/subdomain-delegation.md)**
+
+   *Leer hoe u een subdomein volledig kunt delegeren aan Adobe Campaign*
+* **[SSL-certificaten toevoegen](/help/administrating/control-panel/adding-ssl-certificates.md)**
+
    *Leer hoe u SSL-certificaten kunt toevoegen om uw subdomeinen te beveiligen.*
-* **[SSL-certificaten beheren](/help/administrating/control-panel/managing-ssl-certificates.md)**   <br>
+* **[SSL-certificaten beheren](/help/administrating/control-panel/managing-ssl-certificates.md)**
+
    *Leer hoe u de status van de SSL-certificaten van uw subdomeinen kunt bekijken en verlengingen kunt aanvragen.*
-* **[Google TXT-recordbeheer](/help/administrating/control-panel/google-txt-record-management.md)**   <br>
+* **[Google TXT-recordbeheer](/help/administrating/control-panel/google-txt-record-management.md)**
+
    *Leer hoe u een Google TXT-site-verificatierecord toevoegt aan al uw subdomeinen die worden gebruikt om e-mails naar GMAIL-adressen te verzenden via het Configuratiescherm voor Campagne.*
 
-* **[Opname problemen](/help/administrating/control-panel/trouble-shooting.md)**   <br>
+* **[GPG-toetsen genereren en installeren](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)**
+
+   *Leer hoe u een nieuw openbare/persoonlijke GPG-sleutelpaar genereert en installeert op een opgegeven instantie en hoe u een openbare sleutel importeert en installeert in uw Adobe Campaign-instantie.*
+
+* **[Opname problemen](/help/administrating/control-panel/trouble-shooting.md)**
+
    *Begrijp hoe te om het Controlebord problemen op te lossen*
 
 ## Aanvullende bronnen
 
-* [[!Help-centrum van configuratiescherm UICONTROL]](https://docs.adobe.com/content/help/en/control-panel/using/control-panel-home.html)
+* [Help-centrum van regelpaneel](https://docs.adobe.com/content/help/en/control-panel/using/control-panel-home.html)
 

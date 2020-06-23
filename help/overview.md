@@ -3,7 +3,7 @@ title: Zelfstudies voor Adobe Campaign Standard - Overzicht
 description: Adobe Campaign biedt een platform voor het ontwerpen van interkanaalervaringen voor klanten en biedt een omgeving voor visuele campagneorchestratie, realtime interactiebeheer en uitvoering via meerdere kanalen. Deze gebruikershandleiding bevat video's en zelfstudies over de vele functies en mogelijkheden van Adobe Campaign Standard.
 products: SG_CAMPAIGN/STANDARD
 translation-type: tm+mt
-source-git-commit: 3f3fec14bcd2777146a08a269c298f9b8ca17acd
+source-git-commit: dc7295c80b8c4ef3d641baf885d50ee55d4f5197
 workflow-type: tm+mt
 source-wordcount: '302'
 ht-degree: 0%
@@ -17,15 +17,17 @@ Adobe Campaign biedt een platform voor het ontwerpen van interkanaalervaringen v
 
 ## Nieuwe functies
 
-* **[Configuratiescherm: GPG-toetsen genereren en installeren](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)**   <br>
+* **[Configuratiescherm - GPG-toetsen genereren en installeren](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)**
+
    *Leer hoe u een nieuw openbare/persoonlijke GPG-sleutelpaar genereert en installeert op een opgegeven instantie en hoe u een openbare sleutel importeert en installeert in uw Adobe Campaign-instantie.*
 
-* **[Externe API-activiteit](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)**   <br>
+* **[Externe API-activiteit](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)**
+
    *Leer hoe u een workflow configureert en uitvoert met de externe API-activiteit.*
 
-* **[Profielvervanging - E-mailberichten testen met behulp van doelprofielen](/help/communication-channels/email/profile-substitution.md)**   <br>
-   *Leer hoe u een proefdruk ter controle verzendt met de exacte weergave van het bericht dat het profiel ontvangt.*
+* **[Profielvervanging - E-mailberichten testen met behulp van doelprofielen](/help/communication-channels/email/profile-substitution.md)**
 
+   *Leer hoe u een proefdruk ter controle verzendt met de exacte weergave van het bericht dat het profiel ontvangt.*
 
 ## Personeelspictogrammen
 

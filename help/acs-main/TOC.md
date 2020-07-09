@@ -9,9 +9,9 @@ tutorials-url: https://docs.adobe.com/content/help/en/campaign-standard-learn/tu
 getting-started-title: Documentatie
 getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/using/campaign-standard-home.html
 translation-type: tm+mt
-source-git-commit: 837aeb12ed95929b291c25097a9e91e34fa5d4a6
+source-git-commit: 9b1d8c5fb895d84da14a0402ec1f130b90a991b0
 workflow-type: tm+mt
-source-wordcount: '495'
+source-wordcount: '514'
 ht-degree: 0%
 
 ---
@@ -111,7 +111,11 @@ ht-degree: 0%
       + [SSL-certificaten toevoegen](/help/administrating/control-panel/adding-ssl-certificates.md)
       + [SSL-certificaten beheren](/help/administrating/control-panel/managing-ssl-certificates.md)
       + [Google TXT-recordbeheer](/help/administrating/control-panel/google-txt-record-management.md)
-      + [GPG-toetsen genereren en installeren](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)
+      + GPG-sleutelbeheer {#gpg-key-management}
+         + [GPG-sleutelbeheer - overzicht](/help/administrating/control-panel/gpg-key-management/gpg-key-management-overview.md)
+         + [GPG-sleutels voor gegevenscodering genereren en installeren](/help/administrating/control-panel/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
+         + [Gegevens versleutelen met een GPG-sleutel](/help/administrating/control-panel/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
+         + [Gegevens decoderen](/help/administrating/control-panel/gpg-key-management/decrypting-data.md)
       + [Opname problemen](/help/administrating/control-panel/trouble-shooting.md)
    + Adobe Experience Platform Data Connector {adobe-experience-platform-data-connector}
       + [De Adobe Experience Platform Data Connector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)

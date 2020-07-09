@@ -7,7 +7,7 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 39e7f9fc2a6631ebc5f2555dad651a72464e4344
+source-git-commit: f0d95ab02496a9caa6b79a2c536ce9b7090da943
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 0%
@@ -17,10 +17,10 @@ ht-degree: 0%
 
 # Inhoud maken met Adobe Dreamweaver
 
-Dankzij de integratie van Adobe Campaign Standard met Adobe Dreamweaver kunt u de inhoud van een e-mail rechtstreeks bewerken in de Dreamweaver-interface:
+Dankzij de Adobe Campaign Standard-integratie met Adobe Dreamweaver kunt u de inhoud van een e-mail rechtstreeks bewerken in de Dreamweaver-interface:
 
 * Bidirectionele realtime synchronisatie van de inhoud
-* Lokale afbeeldingen uploaden naar Adobe-campagne via Dreamweaver
+* Lokale afbeeldingen uploaden naar Adobe Campaign via Dreamweaver
 * Ondersteunt de personalisatie van campagnes in Dreamweaver
 
 >[!NOTE]
@@ -30,7 +30,7 @@ Dankzij de integratie van Adobe Campaign Standard met Adobe Dreamweaver kunt u d
 In de video wordt uitgelegd wat er nodig is om de integratie met Dreamweaver mogelijk te maken en hoe u inhoud voor Adobe Campaign Standard kunt maken en bewerken met Dreamweaver.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23121?quality=12)
-*De Dreamweaver-integratie gebruiken in Adobe Campagne (20:37 min)*
+*De Dreamweaver-integratie gebruiken in Adobe Campaign (20:37 min)*
 
 ## Aanvullende bronnen
 

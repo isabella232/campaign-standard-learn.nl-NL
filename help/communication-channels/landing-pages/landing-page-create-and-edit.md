@@ -1,6 +1,6 @@
 ---
 title: Een openingspagina maken en bewerken
-description: Adobe Campaign wordt geleverd met bestemmingspagina's die online formulieren zijn die kunnen worden gebruikt om informatie over uw publiek vast te leggen, abonnementen op een service aan te bieden, gegevens weer te geven en uw database uit te breiden. Openingspagina's kunnen ook worden gebruikt voor het aanschaffen of bijwerken van bestaande profielen. In deze video's wordt uitgelegd hoe u bestemmingspagina's kunt maken, bewerken en testen in Adobe Campaign Standard.
+description: Adobe Campaign wordt geleverd met bestemmingspagina's die online formulieren zijn die kunnen worden gebruikt om informatie over uw publiek vast te leggen, abonnementen op een service aan te bieden, gegevens weer te geven en uw database uit te breiden. Openingspagina's kunnen ook worden gebruikt voor het aanschaffen of bijwerken van bestaande profielen. In deze video's wordt uitgelegd hoe u bestemmingspagina's in Adobe Campaign Standard kunt maken, bewerken en testen.
 feature: Landing Pages
 topics: null
 kt: 1808
@@ -8,7 +8,7 @@ doc-type: feature video
 activity: use
 team: DOC
 translation-type: tm+mt
-source-git-commit: 82fb2d39dc61a55c0aa20ca1fa215f35a7dd9088
+source-git-commit: f0d95ab02496a9caa6b79a2c536ce9b7090da943
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%

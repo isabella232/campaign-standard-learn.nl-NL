@@ -8,7 +8,7 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
+source-git-commit: f0d95ab02496a9caa6b79a2c536ce9b7090da943
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 >Deze mogelijkheid wordt momenteel in bèta aangeboden en kan zonder voorafgaande kennisgeving regelmatig worden bijgewerkt en gewijzigd.
 >Neem contact op met [!UICONTROL Adobe Customer Support] als u deze functie wilt implementeren.
 
-Leer hoe u een kaart kunt maken [!UICONTROL Experience Events] in Adobe Experience Platform (AEP).
+Leer hoe u [!UICONTROL Experience Events] in Adobe Experience Platform (AEP) kunt toewijzen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27265?quality=12)
 

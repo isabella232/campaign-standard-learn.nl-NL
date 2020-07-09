@@ -3,9 +3,9 @@ title: Zelfstudies voor Adobe Campaign Standard - Overzicht
 description: Adobe Campaign biedt een platform voor het ontwerpen van interkanaalervaringen voor klanten en biedt een omgeving voor visuele campagneorchestratie, realtime interactiebeheer en uitvoering via meerdere kanalen. Deze gebruikershandleiding bevat video's en zelfstudies over de vele functies en mogelijkheden van Adobe Campaign Standard.
 products: SG_CAMPAIGN/STANDARD
 translation-type: tm+mt
-source-git-commit: dc7295c80b8c4ef3d641baf885d50ee55d4f5197
+source-git-commit: 9b1d8c5fb895d84da14a0402ec1f130b90a991b0
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '308'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,9 @@ Adobe Campaign biedt een platform voor het ontwerpen van interkanaalervaringen v
 
 ## Nieuwe functies
 
-* **[Configuratiescherm - GPG-toetsen genereren en installeren](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)**
+* **[GPG-sleutelbeheer](/help/administrating/control-panel/gpg-key-management/gpg-key-management-overview.md)**
 
-   *Leer hoe u een nieuw openbare/persoonlijke GPG-sleutelpaar genereert en installeert op een opgegeven instantie en hoe u een openbare sleutel importeert en installeert in uw Adobe Campaign-instantie.*
+   *Leer hoe te om een openbare/privé zeer belangrijke paar op een gespecificeerde instantie van de Campagne voor de encryptie van uitgaande gegevens te produceren en te installeren, evenals een openbare sleutel op een instantie van de Campagne voor de decryptie van binnenkomende gegevens in te voeren en te installeren.*
 
 * **[Externe API-activiteit](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)**
 

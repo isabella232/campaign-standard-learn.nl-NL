@@ -9,9 +9,9 @@ tutorials-url: https://docs.adobe.com/content/help/en/campaign-standard-learn/tu
 getting-started-title: Documentatie
 getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/using/campaign-standard-home.html
 translation-type: tm+mt
-source-git-commit: 9b1d8c5fb895d84da14a0402ec1f130b90a991b0
+source-git-commit: 7f43a2a89428bc3b087ebb40a65d610bd9eb3f5b
 workflow-type: tm+mt
-source-wordcount: '514'
+source-wordcount: '503'
 ht-degree: 0%
 
 ---
@@ -57,7 +57,6 @@ ht-degree: 0%
    + Mobiel {#mobile}
       + SMS{#sms}
          + [Een SMS-levering maken](/help/communication-channels/mobile/sms/sms-delivery.md)
-         + [Meertalige e-mail- en sms-leveringen maken](/help/communication-channels/create-multilingual-deliveries.md)
          + [Een bestaande e-mail, SMS-levering of sjabloon converteren naar meertalig](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + Pushmeldingen {#push}
          + [Een pushmelding maken](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
@@ -87,7 +86,6 @@ ht-degree: 0%
    + [Productaanbiedingen configureren in transactie-e-mails](/help/designing-content/product-listings-in-transactional-email.md)
 + Processen en gegevens beheren {#managing-processes-and-data}
    + [Een workflow maken](/help/managing-processes-and-data/create-workflow.md)
-   + [Profielen importeren met een workflow](/help/managing-processes-and-data/importing-profiles.md)
    + Uitvoeringsactiviteiten {#execution-activities}
       + [Externe signaalactiviteit](/help/managing-processes-and-data/execution-activities/external-signal-activity.md)
    + Gegevensbeheer {#data-management-activities}

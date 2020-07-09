@@ -8,7 +8,7 @@ doc-type: tutorial
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: afe1ae6c8d73b7b776e0eec327fa16db76c23ce1
+source-git-commit: f0d95ab02496a9caa6b79a2c536ce9b7090da943
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 2%
@@ -18,9 +18,9 @@ ht-degree: 2%
 
 # Deel 6 - Uw werk [!UICONTROL Push Notification] testen
 
-We moeten nu een [!UICONTROL Push Notification] Adobe-campagne maken en verzenden. . Voer de volgende stappen uit om een eenvoudige pushmelding voor testdoeleinden te maken.
+We moeten nu een [!UICONTROL Push Notification] Adobe Campaign maken en verzenden. . Voer de volgende stappen uit om een eenvoudige pushmelding voor testdoeleinden te maken.
 
-* Aanmelden bij uw Adobe Campagne Standard-exemplaar
+* Aanmelden bij uw Adobe Campaign Standard-exemplaar
 * Klik op **[!UICONTROL Marketing Activities]->[!UICONTROL Create]->[!UICONTROL Push Notification]**
 * Selecteer **[!UICONTROL Send push to app subscribers(mobileApp)]** en klik op Volgende
 * Selecteer de geschikte mobiele toepassing in de **[!UICONTROL Associate a Mobile App to a delivery]** vervolgkeuzelijst en klik op **[!UICONTROL Next]**

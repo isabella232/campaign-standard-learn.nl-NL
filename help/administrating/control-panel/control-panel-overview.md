@@ -1,6 +1,6 @@
 ---
 title: Deelvenster Beheer
-description: Met het Configuratiescherm kunt u uw SFTP-opslag per instantie controleren en beheren en IP-adressen van lijsten toestaan.
+description: Met het Configuratiescherm kunt u uw SFTP-opslag op instantie en IP-adressen van lijsten van gewenste personen controleren en beheren.
 feature: Control Panel
 topics: Control Panel
 kt: 4696
@@ -8,9 +8,9 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 4bbe44e592085428d0eaa588aa5e773c925ce3bb
+source-git-commit: db20c4e6aeb10dc04a6c4556fefaa8cd18366c44
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '386'
 ht-degree: 0%
 
 ---
@@ -60,7 +60,7 @@ De volgende video laat zien hoe u een beheerder aan een Campagne-instantie kunt 
 
 * **SFTP-servers beheren**
 
-   *Leer hoe u de servercapaciteit kunt controleren, lijst-IP-adressen kunt toestaan en SSH-toetsen kunt toevoegen*
+   *Leer hoe te om de servercapaciteit te controleren, IP van de lijst van gewenste personen adressen, en SSH sleutels toe te voegen:*
 
    * [Servercapaciteit controleren, IP-adressen vermelden en SSH-sleutels toevoegen](/help/administrating/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
    * [Een SSH-sleutel genereren](/help/administrating/control-panel/generate-ssh-key.md)
@@ -78,9 +78,13 @@ De volgende video laat zien hoe u een beheerder aan een Campagne-instantie kunt 
 
    *Leer hoe u een Google TXT-site-verificatierecord toevoegt aan al uw subdomeinen die worden gebruikt om e-mails naar GMAIL-adressen te verzenden via het Configuratiescherm voor Campagne.*
 
-* **[GPG-toetsen genereren en installeren](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)**
+* **GPG-sleutelbeheer**
 
-   *Leer hoe u een nieuw openbare/persoonlijke GPG-sleutelpaar genereert en installeert op een opgegeven instantie en hoe u een openbare sleutel importeert en installeert in uw Adobe Campaign-instantie.*
+   *Leer hoe te om een openbare/privé zeer belangrijke paar op een gespecificeerde instantie van de Campagne voor de encryptie van uitgaande gegevens te produceren en te installeren, evenals een openbare sleutel op een instantie van de Campagne voor de decryptie van binnenkomende gegevens in te voeren en te installeren:*
+
+   * [GPG-sleutels voor gegevenscodering genereren en installeren](./gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
+   * [Gegevens versleutelen met een GPG-sleutel](./gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
+   * [Gegevens decoderen](./gpg-key-management/decrypting-data.md)
 
 * **[Opname problemen](/help/administrating/control-panel/trouble-shooting.md)**
 

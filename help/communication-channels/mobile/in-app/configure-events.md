@@ -1,6 +1,6 @@
 ---
 title: Gebeurtenissen configureren
-description: 'Wanneer het vormen van een bericht in-app in de gebeurtenissen van de Norm van de Campagne van Adobe (ACS) bepaalt welke gebruiker in werking gestelde actie het te tonen bericht zal teweegbrengen. '
+description: 'Wanneer het vormen van een bericht in-app in de gebeurtenissen van Adobe Campaign Standard (ACS) bepaalt welke gebruiker in werking gestelde actie het bericht zal teweegbrengen om worden getoond. '
 feature: In-App
 topics: Mobile
 kt: 2548
@@ -10,7 +10,7 @@ team: TM
 translation-type: tm+mt
 source-git-commit: 82fb2d39dc61a55c0aa20ca1fa215f35a7dd9088
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -59,7 +59,7 @@ De volgende drie categorieën worden ondersteund, afhankelijk van wat er van ins
 
 >[!NOTE]
 >
->[!UICONTROL Analytics events] een Adobe Analytics-licentie vereisen. Zodra u de [[!DNL Analytics] uitbreiding hebt gevormd](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#configure-analytics-extension-in-launch) en [Analytics aan uw App](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#add-analytics-to-your-app)toegevoegd, worden deze gebeurtenissen beschikbaar in de [!UICONTROL In-App] configuratie in ACS.
+>[!UICONTROL Analytics events] een Adobe Analytics-licentie vereisen. Zodra u de gevormde [[!DNL Analytics] ](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#configure-analytics-extension-in-launch) uitbreiding hebt en [Analytics aan uw App](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#add-analytics-to-your-app)hebt toegevoegd, worden deze gebeurtenissen beschikbaar in de [!UICONTROL In-App] configuratie in ACS.
 
 ## Aanvullende bronnen
 

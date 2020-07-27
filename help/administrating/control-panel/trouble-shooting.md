@@ -1,6 +1,6 @@
 ---
 title: Problemen met het openen van het regelpaneel
-description: Met het Configuratiescherm kunt u uw SFTP-opslag per instantie controleren en beheren en IP-adressen van lijsten toestaan.
+description: Met het Configuratiescherm kunt u uw SFTP-opslag op instantie en IP-adressen van lijsten van gewenste personen controleren en beheren.
 feature: Control Panel
 topics: null
 kt: 2938
@@ -10,8 +10,8 @@ team: PM
 translation-type: tm+mt
 source-git-commit: b277b1ad17d9c03b307f8483d776b796e6c0cbef
 workflow-type: tm+mt
-source-wordcount: '336'
-ht-degree: 0%
+source-wordcount: '330'
+ht-degree: 1%
 
 ---
 
@@ -55,8 +55,8 @@ De beheerder moet de gebruiker aan het Profiel van het Product `Campaign-xxx-Adm
 
 ### Nuttige documentatie
 
-* [Ontdek het [!UICONTROL-Configuratiescherm]](https://helpx.adobe.com/campaign/kb/control-panel-overview.html)
-* [Rechten beheren voor het [!UICONTROL-configuratiescherm]](https://helpx.adobe.com/campaign/kb/control-panel-access.html)
+* [Ontdek de [!UICONTROL Control Panel]](https://helpx.adobe.com/campaign/kb/control-panel-overview.html)
+* [Machtigingen beheren voor de [!UICONTROL Control Panel]](https://helpx.adobe.com/campaign/kb/control-panel-access.html)
 
 ## Verbinding met SFTP-server tot stand brengen (client of API)
 

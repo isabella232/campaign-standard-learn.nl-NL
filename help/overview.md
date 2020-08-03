@@ -1,12 +1,12 @@
 ---
-title: Zelfstudies voor Adobe Campaign Standard - Overzicht
+title: Adobe Campaign Standard Tutorials - Overzicht
 description: Adobe Campaign biedt een platform voor het ontwerpen van interkanaalervaringen voor klanten en biedt een omgeving voor visuele campagneorchestratie, realtime interactiebeheer en uitvoering via meerdere kanalen. Deze gebruikershandleiding bevat video's en zelfstudies over de vele functies en mogelijkheden van Adobe Campaign Standard.
 products: SG_CAMPAIGN/STANDARD
 translation-type: tm+mt
 source-git-commit: 9b1d8c5fb895d84da14a0402ec1f130b90a991b0
 workflow-type: tm+mt
-source-wordcount: '308'
-ht-degree: 0%
+source-wordcount: '280'
+ht-degree: 4%
 
 ---
 
@@ -24,10 +24,6 @@ Adobe Campaign biedt een platform voor het ontwerpen van interkanaalervaringen v
 * **[Externe API-activiteit](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)**
 
    *Leer hoe u een workflow configureert en uitvoert met de externe API-activiteit.*
-
-* **[Profielvervanging - E-mailberichten testen met behulp van doelprofielen](/help/communication-channels/email/profile-substitution.md)**
-
-   *Leer hoe u een proefdruk ter controle verzendt met de exacte weergave van het bericht dat het profiel ontvangt.*
 
 ## Personeelspictogrammen
 
@@ -77,4 +73,4 @@ Adobe Campaign biedt een platform voor het ontwerpen van interkanaalervaringen v
 
 ## Aanvullende bronnen
 
-* [Documentatie](https://docs.adobe.com/content/help/en/campaign-standard/using/campaign-standard-home.html)
+* [Documentatie](https://docs.adobe.com/content/help/nl-NL/campaign-standard/using/campaign-standard-home.html)

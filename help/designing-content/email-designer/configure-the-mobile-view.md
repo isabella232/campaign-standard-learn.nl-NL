@@ -1,6 +1,6 @@
 ---
 title: De mobiele weergave configureren in de e-mailontwerper
-description: In deze video wordt uitgelegd hoe u het responsieve ontwerp van een e-mailbericht in Adobe Campagne Standard (ACS) kunt perfectioneren door alle stijlopties voor mobiele weergave afzonderlijk te bewerken.
+description: In deze video wordt uitgelegd hoe u het responsieve ontwerp van een e-mailbericht in Adobe Campaign Standard (ACS) kunt verfijnen door alle stijlopties voor mobiele weergave afzonderlijk te bewerken.
 feature: Email Designer
 topics: null
 kt: 2423

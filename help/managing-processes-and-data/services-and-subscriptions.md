@@ -1,6 +1,6 @@
 ---
 title: Services en abonnementen beheren
-description: Met Adobe Campaign kunt u via een reeks services nieuwsbrieven en communicatie tussen kanalen maken en beheren. In deze video ziet u hoe u een service kunt maken en de abonnementen ervan kunt beheren in Adobe Campagne Standard (ACS).
+description: Adobe Campaign staat u toe om nieuwsbrieven en dwars-kanaalmededelingen tot stand te brengen en te beheren, door een reeks diensten. Deze video zal u tonen hoe te om de dienst tot stand te brengen en zijn abonnementen in Adobe Campaign Standard (ACS) te beheren.
 feature: Subscriptions and Services
 topics: null
 kt: 1815
@@ -11,14 +11,14 @@ translation-type: tm+mt
 source-git-commit: 556bff4c94e16d3a94561dee1ccb311bc003b631
 workflow-type: tm+mt
 source-wordcount: '181'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
 
 # Services en abonnementen beheren{#managing-services-and-subscriptions}
 
-Met Adobe Campaign kunt u via een reeks services nieuwsbrieven en communicatie tussen kanalen maken en beheren. Berichten kunnen alleen worden verzonden naar profielen die zijn geabonneerd op de service (aanmelden). Deze profielen worden geïdentificeerd met een speciaal filter wanneer u een bericht maakt.
+Adobe Campaign staat u toe om nieuwsbrieven en dwars-kanaalmededelingen tot stand te brengen en te beheren, door een reeks diensten. Berichten kunnen alleen worden verzonden naar profielen die zijn geabonneerd op de service (aanmelden). Deze profielen worden geïdentificeerd met een speciaal filter wanneer u een bericht maakt.
 
 Abonnementsmechanismen kunnen worden ingesteld om uw klanten de kans te bieden zich op deze services in te schrijven, met name via e-mails en landingspagina&#39;s.
 

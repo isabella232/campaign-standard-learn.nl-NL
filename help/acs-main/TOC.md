@@ -1,23 +1,23 @@
 ---
 product: adobe campaign standard
-user-guide-title: Adobe Campaign Standard-zelfstudies
+user-guide-title: Adobe Campaign Standard Tutorials
 user-guide-url: https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/overview.html
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Standard#recommended/solutions/campaign
-tutorials-title: Zelfstudies
+tutorials-title: Tutorials
 tutorials-url: https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/overview.html
 getting-started-title: Documentatie
-getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/using/campaign-standard-home.html
+getting-started-url: https://docs.adobe.com/content/help/nl-NL/campaign-standard/using/campaign-standard-home.html
 translation-type: tm+mt
 source-git-commit: 7f43a2a89428bc3b087ebb40a65d610bd9eb3f5b
 workflow-type: tm+mt
-source-wordcount: '503'
-ht-degree: 0%
+source-wordcount: '529'
+ht-degree: 2%
 
 ---
 
 
-# Adobe Campaign Standard-zelfstudies {#tutorials}
+# Adobe Campaign Standard Tutorials {#tutorials}
 
 + [Overzicht](/help/overview.md)
 + Aan de slag {#getting-started}
@@ -57,6 +57,7 @@ ht-degree: 0%
    + Mobiel {#mobile}
       + SMS{#sms}
          + [Een SMS-levering maken](/help/communication-channels/mobile/sms/sms-delivery.md)
+         + [Een meertalige e-mail- of sms-levering maken](/help/communication-channels/create-multilingual-deliveries.md)
          + [Een bestaande e-mail, SMS-levering of sjabloon converteren naar meertalig](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + Pushmeldingen {#push}
          + [Een pushmelding maken](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
@@ -86,6 +87,7 @@ ht-degree: 0%
    + [Productaanbiedingen configureren in transactie-e-mails](/help/designing-content/product-listings-in-transactional-email.md)
 + Processen en gegevens beheren {#managing-processes-and-data}
    + [Een workflow maken](/help/managing-processes-and-data/create-workflow.md)
+   + [Profielen importeren met een workflow](/help/managing-processes-and-data/importing-profiles.md)
    + Uitvoeringsactiviteiten {#execution-activities}
       + [Externe signaalactiviteit](/help/managing-processes-and-data/execution-activities/external-signal-activity.md)
    + Gegevensbeheer {#data-management-activities}
@@ -100,7 +102,7 @@ ht-degree: 0%
       + [Aangepaste bronnen maken](/help/managing-processes-and-data/custom-resources/creating-custom-resources.md)
 + Beheer {#administrating}
    + [Toegangsrechten van gebruikers beheren](/help/administrating/managing-user-access-rights.md)
-   + Deelvenster Beheer {#control-panel}
+   + Configuratiescherm {#control-panel}
       + [Overzicht van het regelpaneel](/help/administrating/control-panel/control-panel-overview.md)
       + [Servercapaciteit controleren, IP-adressen vermelden en SSH-sleutels toevoegen](/help/administrating/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
       + [Een SSH-toets genereren](/help/administrating/control-panel/generate-ssh-key.md)
@@ -108,7 +110,7 @@ ht-degree: 0%
       + [Subdomeinen delegeren](/help/administrating/control-panel/subdomain-delegation.md)
       + [SSL-certificaten toevoegen](/help/administrating/control-panel/adding-ssl-certificates.md)
       + [SSL-certificaten beheren](/help/administrating/control-panel/managing-ssl-certificates.md)
-      + [Google TXT-recordbeheer](/help/administrating/control-panel/google-txt-record-management.md)
+      + [Beheer van Google-TXT-records](/help/administrating/control-panel/google-txt-record-management.md)
       + GPG-sleutelbeheer {#gpg-key-management}
          + [GPG-sleutelbeheer - overzicht](/help/administrating/control-panel/gpg-key-management/gpg-key-management-overview.md)
          + [GPG-sleutels voor gegevenscodering genereren en installeren](/help/administrating/control-panel/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
@@ -131,3 +133,5 @@ ht-degree: 0%
    + [Aangepaste bronnen voor privacyverzoeken wijzigen](/help/privacy/custom-resources-for-privacy-requests.md)
    + [Privacy-aanvragen handmatig maken en bijhouden](/help/privacy/create-and-track-privacy-requests.md)
    + [Privacyverzoeken uitvoeren](/help/privacy/execute-privacy-requests.md)
++ [Handleiding voor beste praktijken voor Adobe Campaign-levering](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/deliverability-best-practice-guide/introduction.html)
+

@@ -1,6 +1,6 @@
 ---
-title: Werken met de gegevensconnector van het Adobe Experience Platform
-description: Met de Adobe Experience Platform Data Connector kunnen bestaande klanten hun gegevens beschikbaar maken op het Adobe Experience Platform door XTK-gegevens (gegevens die in Campaign worden opgenomen) toe te wijzen aan Experience Data Model (XDM)-gegevens op het Adobe Experience Platform.
+title: De Adobe Experience Platform Data Connector
+description: De Verbinding van Gegevens van het Adobe Experience Platform helpt bestaande klanten om hun gegevens op Adobe Experience Platform ter beschikking te stellen door de gegevens van XTK (die in Campagne worden opgenomen) aan de gegevens van het Model van Gegevens van de Ervaring (XDM) op Adobe Experience Platform in kaart te brengen.
 feature: Adobe Experience Platform Data Connector
 topics: ACoP
 kt: 2826
@@ -16,20 +16,21 @@ ht-degree: 0%
 ---
 
 
-# Werken met het Adobe Experience Platform [!UICONTROL Data Connector]
+# Het Adobe Experience Platform begrijpen [!UICONTROL Data Connector]
 
 >[!NOTE]
 >
 >Deze mogelijkheid wordt momenteel in bèta aangeboden en kan zonder voorafgaande kennisgeving regelmatig worden bijgewerkt en gewijzigd.
+>
 >Neem contact op met [!UICONTROL Adobe Customer Support] als u deze functie wilt implementeren.
 
 ## Overzicht
 
-Met het Adobe Experience Platform kunnen bestaande klanten hun gegevens beschikbaar maken op het Adobe Experience Platform door XTK-gegevens (gegevens die in Adobe Campaign worden opgenomen) toe te wijzen aan [!UICONTROL Data Connector] [!DNL Experience Data Model] (XDM) gegevens op het Adobe Experience Platform.
+Adobe Experience Platform [!UICONTROL Data Connector] helpt bestaande klanten hun gegevens op Adobe Experience Platform beschikbaar te maken door XTK-gegevens (gegevens die in Adobe Campaign worden opgenomen) toe te wijzen aan [!DNL Experience Data Model] (XDM) gegevens op Adobe Experience Platform.
 
-De connector is in één richting en verzendt de gegevens van Adobe Campaign Standard naar Adobe Experience Platform. De gegevens worden nooit van het Adobe Experience Platform naar Adobe Campagne Standard verzonden.
+Merk op dat de schakelaar uni-directioneel is en de gegevens van Adobe Campaign Standard naar Adobe Experience Platform verzendt. De gegevens worden nooit van het Adobe Experience Platform naar Adobe Campaign Standard verzonden.
 
-Adobe Experience Platform [!UICONTROL Data Connector] is bedoeld voor gegevensengineers die Adobe Campaign Standard begrijpen [!UICONTROL custom resources] en begrijpen hoe het algemene gegevensschema van de klant zich in het Adobe Experience Platform moet bevinden.
+Adobe Experience Platform [!UICONTROL Data Connector] is bedoeld voor gegevensengineers die Adobe Campaign Standard begrijpen [!UICONTROL custom resources] en begrijpen hoe het algemene gegevensschema van de klant in Adobe Experience Platform moet zijn.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27304?quality=12)
 
@@ -37,12 +38,13 @@ Adobe Experience Platform [!UICONTROL Data Connector] is bedoeld voor gegevensen
 
 >[!NOTE]
 >
->De out-of-the-box overdracht van [!UICONTROL subscription events] wordt niet ondersteund. Om over te brengen [!UICONTROL subscription events], kunt u overeenkomstige XDM en dataset op het Platform van de Ervaring van Adobe tot stand brengen, dan een afbeelding van douanegegevens voor deze gegevens vormen.
->Bestaande bestanden [!UICONTROL experience events] kunnen niet worden opgenomen in het Adobe Experience Platform, maar de gegenereerde gegevens [!UICONTROL experience events] worden gestreamd naar het Adobe Experience Platform.
+>De out-of-the-box overdracht van [!UICONTROL subscription events] wordt niet ondersteund. Om over te brengen [!UICONTROL subscription events], kunt u overeenkomstige XDM en dataset op Adobe Experience Platform tot stand brengen, dan een afbeelding van douanegegevens voor deze gegevens vormen.
+>
+>Bestaande bestanden [!UICONTROL experience events] kunnen niet in het Adobe Experience Platform worden opgenomen, maar gegenereerde bestanden [!UICONTROL experience events] worden naar het Adobe Experience Platform gestreamd.
 
 ## Belangrijke stappen voor het uitvoeren van een gegevenstoewijzing
 
-In de volgende zelfstudies worden de belangrijkste stappen beschreven voor het uitvoeren van gegevenstoewijzing tussen Campaign Standard en Adobe Experience Platform:
+De volgende zelfstudies beschrijven de belangrijkste stappen om een gegevenstoewijzing tussen Campaign Standard en Adobe Experience Platform uit te voeren:
 
 1. [Aangepaste bronnen toewijzen](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
 2. [Toewijzingsgebeurtenissen](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)

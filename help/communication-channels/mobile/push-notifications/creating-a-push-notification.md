@@ -1,6 +1,6 @@
 ---
 title: Een pushmelding maken
-description: 'Leer hoe u een pushmelding maakt in Adobe Campagne Standard (ACS). '
+description: 'Leer hoe u een pushmelding maakt in Adobe Campaign Standard (ACS). '
 feature: Push
 topics: Mobile
 kt: 1401
@@ -11,18 +11,18 @@ translation-type: tm+mt
 source-git-commit: 39e7f9fc2a6631ebc5f2555dad651a72464e4344
 workflow-type: tm+mt
 source-wordcount: '162'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
 
 # Een [!UICONTROL push notification]
 
-Leer hoe u een bestand maakt [!UICONTROL push notification] in Adobe Campagne Standard (ACS):
+Leer hoe u een project maakt [!UICONTROL push notification] in Adobe Campaign Standard (ACS):
 
-Met Adobe Campaign kunt u persoonlijke en gesegmenteerde apparaten naar mobiele apparaten met iOS en Android verzenden. [!UICONTROL push notifications] U hebt twee opties:
+Met Adobe Campaign kunt u gepersonaliseerde en gesegmenteerde apparaten verzenden [!UICONTROL push notifications] naar mobiele apparaten met iOS en Android. U hebt twee opties:
 
-* **[!UICONTROL Send push notification to Campaign profiles]**: Hiermee kunt u zich richten op de Adobe Campagne CRM-profielen die zijn geabonneerd op uw mobiele toepassing en die zich hebben aangemeld om te worden ontvangen [!UICONTROL push notifications]. U kunt verpersoonlijkingsgebieden in uw opnemen, [!UICONTROL push notification]zoals de voornaam van de ontvanger.
+* **[!UICONTROL Send push notification to Campaign profiles]**: Hiermee kunt u zich richten op de Adobe Campaign CRM-profielen die zijn geabonneerd op uw mobiele toepassing en zich hebben aangemeld voor ontvangst [!UICONTROL push notifications]. U kunt verpersoonlijkingsgebieden in uw opnemen, [!UICONTROL push notification]zoals de voornaam van de ontvanger.
 
 * **[!UICONTROL Send push notification to app subscribers]**: Hiermee kunt u een bericht verzenden [!UICONTROL push notification] naar alle bekende en anonieme gebruikers van mobiele toepassingen die zich hebben aangemeld om meldingen van uw toepassing te ontvangen. U kunt deze berichten personaliseren met gegevens die uit uw mobiele toepassing worden verzameld.
 
@@ -37,6 +37,6 @@ Documentatie:
 * [Informatie over pushberichten](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/push-notifications/about-push-notifications.html)
 * [Een pushmelding voorbereiden en verzenden](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/push-notifications/preparing-and-sending-a-push-notification.html)
 
-Zelfstudies:
+Tutorials:
 
 * [Een meertalige pushmelding maken](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)

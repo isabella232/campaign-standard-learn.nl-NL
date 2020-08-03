@@ -1,6 +1,6 @@
 ---
-title: Profielen en publiek begrijpen in Adobe Campagne Standard
-description: In deze video wordt uitgelegd hoe u profielen en soorten publiek kunt maken en hoe u profielen en doelgroepen kunt maken in Adobe Campaign Standard.
+title: Profielen en publiek in Adobe Campaign Standard begrijpen
+description: In deze video wordt uitgelegd hoe u profielen en doelgroepen kunt maken en hoe u profielen en doelgroepen kunt maken in Adobe Campaign Standard.
 feature: Profiles and Audiences
 topics: null
 kt: 3893
@@ -11,12 +11,12 @@ translation-type: tm+mt
 source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
 workflow-type: tm+mt
 source-wordcount: '62'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
 
-# Profielen en publiek begrijpen in Adobe Campagne Standard
+# Profielen en publiek in Adobe Campaign Standard begrijpen
 
 In deze video wordt uitgelegd hoe u profielen en doelgroepen kunt maken.
 

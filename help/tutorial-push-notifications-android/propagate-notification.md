@@ -1,6 +1,6 @@
 ---
 title: Stap 5 - Meldingen doorgeven
-description: In dit deel wordt het bericht dat is ontvangen van Adobe Campaign doorgegeven via Android Notification Manager.Firebase
+description: In dit deel geven we het bericht door dat we van Adobe Campaign hebben ontvangen via Android Notification Manager.Firebase
 feature: Push
 topics: Mobile
 kt: 4829
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 # Service toevoegen om melding te verzenden
 
-In dit deel, zullen wij het bericht verspreiden dat van de Campagne van Adobe wordt ontvangen gebruikend [!DNL Android Notification Manager]. [!DNL Notification manager] wordt gebruikt om de gebruiker op de hoogte te stellen van gebeurtenissen die plaatsvinden.
+In dit deel zullen we de boodschap die we van Adobe Campaign ontvangen, verspreiden met behulp van [!DNL Android Notification Manager]. [!DNL Notification manager] wordt gebruikt om de gebruiker op de hoogte te stellen van gebeurtenissen die plaatsvinden.
 Zo vertelt u de gebruiker dat er iets op de achtergrond is gebeurd:
 
 * Starten [!DNL Android Studio]

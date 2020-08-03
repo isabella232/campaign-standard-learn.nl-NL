@@ -1,6 +1,6 @@
 ---
 title: Een SSH-sleutel genereren
-description: U moet een SSH-sleutel kunnen genereren om deze aan het Configuratiescherm van Adobe te kunnen toevoegen. De video hieronder verklaart hoe te om een sleutel van SSH te produceren gebruikend een terminal.
+description: U moet een SSH-sleutel kunnen genereren om deze aan het Adobe Campaign-configuratiescherm toe te voegen. De video hieronder verklaart hoe te om een sleutel van SSH te produceren gebruikend een terminal.
 feature: Control Panel
 topics: null
 kt: 2923

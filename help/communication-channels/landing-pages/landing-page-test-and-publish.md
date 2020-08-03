@@ -1,6 +1,6 @@
 ---
 title: Een openingspagina testen en publiceren
-description: In deze video wordt uitgelegd hoe u een openingspagina test die is gemaakt in Adobe Campagne Standard en hoe u deze publiceert.
+description: In deze video wordt uitgelegd hoe u een bestemmingspagina test die in Adobe Campaign Standard is gemaakt en hoe u deze kunt publiceren.
 uuid: 410b8e37-b9b6-4763-988c-31312c1dc8a6
 discoiquuid: b7dd29cf-cb56-4e6b-8050-400293a2e5e5
 feature: Landing Pages

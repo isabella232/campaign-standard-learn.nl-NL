@@ -1,6 +1,6 @@
 ---
 title: Servercapaciteit controleren, IP-adressen vermelden en SSH-sleutels toevoegen
-description: Met het Configuratiescherm kunt u uw SFTP-opslag per instantie controleren en beheren en IP-adressen toevoegen om lijsten toe te staan.
+description: Met het Configuratiescherm kunt u uw SFTP-opslag per instantie controleren en beheren en IP-adressen aan lijsten van gewenste personen toevoegen.
 feature: Control Panel
 topics: null
 kt: 3266

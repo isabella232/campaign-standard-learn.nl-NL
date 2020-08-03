@@ -94,10 +94,11 @@ Het is nu een goed moment om uw app te testen voordat u verder gaat.
 
 ### Abonnees voor mobiele toepassingen controleren
 
-Meld u aan bij uw Adobe Campagne Standard-exemplaar.
+Meld u aan bij uw Adobe Campaign Standard-exemplaar.
 Navigeren **[!UICONTROL Administration->Channels->Mobile App(AEP SDK)]**. Open de juiste mobiele toepassing. Tab to the [!UICONTROL Mobile Application Subscribers] tab. Je moet een [!UICONTROL registration token ]lijst zien.
 
 ![mobiele applicatie-abonnees](assets/mobile-application-subscribers.PNG)
 
 >[OPMERKING]
+>
 >Als u geen registratietoken ziet in de [!UICONTROL Mobile Application Subscribers] tab STOP hier voordat u verdergaat.

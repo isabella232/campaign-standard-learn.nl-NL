@@ -1,6 +1,6 @@
 ---
 title: SSL-certificaten beheren
-description: In het Configuratiescherm kunt u de subdomeinen beheren die u hebt gedelegeerd aan Adobe Campagne. U kunt uw subdomeinen bekijken, evenals om vernieuwing van hun certificaten te verzoeken.
+description: In het Configuratiescherm kunt u de subdomeinen beheren die u aan Adobe Campaign hebt gedelegeerd. U kunt uw subdomeinen bekijken, evenals om vernieuwing van hun certificaten te verzoeken.
 feature: Control Panel
 topics: null
 kt: 3379
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # SSL-certificaten beheren
 
-In het Configuratiescherm kunt u de subdomeinen beheren die u hebt gedelegeerd aan Adobe Campagne. U kunt uw subdomeinen bekijken, evenals om vernieuwing van hun certificaten te verzoeken.
+In het Configuratiescherm kunt u de subdomeinen beheren die u aan Adobe Campaign hebt gedelegeerd. U kunt uw subdomeinen bekijken, evenals om vernieuwing van hun certificaten te verzoeken.
 
 ## Toegang [!UICONTROL Control Panel] [!UICONTROL Subdomain Management]
 

@@ -1,6 +1,6 @@
 ---
-title: Privacy-aanvragen handmatig maken en bijhouden via de gebruikersinterface van Adobe Campagne
-description: Met Adobe Campaign kunt u aanvragen voor toegang tot en verwijdering van PII-gegevens maken in overeenstemming met privacywetten zoals GDPR en CCPA. In deze video's wordt getoond hoe u handmatig privacyverzoeken kunt maken en de ontwikkeling ervan kunt volgen in de gebruikersinterface van Adobe Campagne Standard.
+title: Privacy-aanvragen handmatig maken en bijhouden via de Adobe Campaign-gebruikersinterface
+description: Met Adobe Campaign kunt u aanvragen voor toegang tot en verwijdering van PII-gegevens maken in overeenstemming met privacywetten zoals GDPR en CCPA. In deze video's wordt getoond hoe u handmatig privacyverzoeken kunt maken en de ontwikkeling ervan kunt volgen in de gebruikersinterface van Adobe Campaign Standard.
 feature: GDPR, CCPA
 topic: null
 kt: 1242
@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: 556bff4c94e16d3a94561dee1ccb311bc003b631
 workflow-type: tm+mt
 source-wordcount: '125'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Met Adobe Campaign kunt u aanvragen voor toegang tot en verwijdering van PII-gegevens maken in overeenstemming met privacywetten zoals GDPR en CCPA.
 
-In deze video&#39;s wordt getoond hoe u handmatig privacyverzoeken kunt maken en de ontwikkeling ervan kunt volgen in de gebruikersinterface van Adobe Campagne Standard.
+In deze video&#39;s wordt getoond hoe u handmatig privacyverzoeken kunt maken en de ontwikkeling ervan kunt volgen in de gebruikersinterface van Adobe Campaign Standard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29235?quality=12)
 

@@ -1,6 +1,6 @@
 ---
 title: Aangepaste bronnen maken
-description: Met Adobe Campaign Standard kunt u bronnen uitbreiden of geheel nieuwe bronnen maken. Deze zelfstudie met meerdere onderdelen begeleidt u door de stappen die nodig zijn om aangepaste bronnen te maken en te koppelen.
+description: Adobe Campaign Standard biedt de mogelijkheid om bronnen uit te breiden of gloednieuwe bronnen te maken. Deze zelfstudie met meerdere onderdelen begeleidt u door de stappen die nodig zijn om aangepaste bronnen te maken en te koppelen.
 feature: Custom Resources
 topics: null
 kt: 2998
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Aangepaste &#x200B; maken
 
-Met Adobe Campaign Standard kunt u bronnen uitbreiden of geheel nieuwe bronnen maken. Deze zelfstudie met meerdere onderdelen begeleidt u door de stappen die nodig zijn om aangepaste bronnen te maken en te koppelen. Aan het einde van deze zelfstudie hebt u de volgende &#x200B; geleerd
+Adobe Campaign Standard biedt de mogelijkheid om bronnen uit te breiden of gloednieuwe bronnen te maken. Deze zelfstudie met meerdere onderdelen begeleidt u door de stappen die nodig zijn om aangepaste bronnen te maken en te koppelen. Aan het einde van deze zelfstudie hebt u de volgende &#x200B; geleerd
 
 * Een aangepaste bron maken
 * Velden toevoegen aan de aangepaste bron

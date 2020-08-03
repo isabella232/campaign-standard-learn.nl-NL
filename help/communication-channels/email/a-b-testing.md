@@ -1,6 +1,6 @@
 ---
 title: A/B-tests
-description: 'In deze video wordt uitgelegd hoe u een A/B-test configureert en verzendt in Adobe Campaign Standard en de onderwerpregel test. '
+description: 'In deze video wordt uitgelegd hoe u een A/B-test in Adobe Campaign Standard configureert en verzendt en de onderwerpregel test. '
 feature: A/B Testing
 topics: null
 kt: 3907
@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
 workflow-type: tm+mt
 source-wordcount: '112'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 

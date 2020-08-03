@@ -20,18 +20,19 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Deze mogelijkheid wordt momenteel in bèta aangeboden en kan zonder voorafgaande kennisgeving regelmatig worden bijgewerkt en gewijzigd. [!UICONTROL Audience Destinations] is gebaseerd op het Adobe Experience Platform en vereist een specifieke configuratie.
+>Deze mogelijkheid wordt momenteel in bèta aangeboden en kan zonder voorafgaande kennisgeving regelmatig worden bijgewerkt en gewijzigd. [!UICONTROL Audience Destinations] is gebaseerd op Adobe Experience Platform en vereist een specifieke configuratie.
+>
 >Neem contact op met [!UICONTROL Adobe Customer Support] als u deze functie wilt implementeren.
 
-Met Adobe Campaign Standard kunt u een publiek maken dat gegevens uit het [realtime profiel](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html) van de klant van Adobe Experience Cloud gebruikt met behulp van het Adobe Experience Platform [!UICONTROL Unified Segment Builder].
+Met Adobe Campaign Standard kunt u een publiek maken met behulp van gegevens uit het Adobe Experience Cloud [Real-Time Klantprofiel](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html) met behulp van het Adobe Experience Platform [!UICONTROL Unified Segment Builder].
 
-U hebt [!UICONTROL Unified Segment Builder] rechtstreeks via de [!UICONTROL Audiences ] module toegang tot de map Adobe Campagne Standard. Hierdoor kunt u deze doelgroepen rechtstreeks beheren in de [!UICONTROL Audiences] lijstweergave, waar u een nieuw publiek van het Adobe Experience Platform rechtstreeks vanuit de Adobe Campagne-interface kunt bewerken of maken
+U hebt [!UICONTROL Unified Segment Builder] rechtstreeks via de [!UICONTROL Audiences ] module toegang tot het bestand in Adobe Campaign Standard. Hierdoor kunt u dit publiek rechtstreeks beheren in de [!UICONTROL Audiences] lijstweergave, waar u een nieuw publiek voor het Adobe Experience Platform rechtstreeks vanuit de Adobe Campaign-interface kunt bewerken of maken
 
-In de onderstaande video wordt uitgelegd hoe u een nieuw publiek maakt met [!UICONTROL Unified Segment Builder] Adobe Campagne Standard.
+In de onderstaande video wordt uitgelegd hoe u een nieuw publiek maakt met [!UICONTROL Unified Segment Builder] Adobe Campaign Standard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27638?quality=12)
 
-*Hoe te om een nieuw publiek in de Norm van de Campagne van Adobe tot stand te brengen gebruikend de Verenigde Bouwer van het Segment (min 02:47)*
+*Hoe te om een nieuw publiek in Adobe Campaign Standard tot stand te brengen gebruikend de Verenigde Bouwer van het Segment (min 02:47)*
 
 ## Aanvullende bronnen
 
@@ -43,4 +44,4 @@ Documentatie:
 Videobronnen:
 
 * [AEP-publiek activeren in een workflow](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
-* [Wijzig de doeldimensie van een levering voor een platformpubliek](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
+* [Wijzig de doeldimensie van een levering voor een publiek van een Platform](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)

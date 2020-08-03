@@ -1,6 +1,6 @@
 ---
 title: Overzicht van E-mailDesigner
-description: In deze video wordt uitgelegd wat de algemene functionaliteit van e-mailontwerper is en hoe u een e-mailbericht helemaal vanaf het begin kunt ontwerpen. Deze pagina bevat alle beschikbare video's met functies voor de e-mailontwerper van Adobe Campagne
+description: In deze video wordt uitgelegd wat de algemene functionaliteit van e-mailontwerper is en hoe u een e-mailbericht helemaal vanaf het begin kunt ontwerpen. Deze pagina bevat een overzicht van alle beschikbare video's met functies voor de Adobe Campaign-e-mailontwerper
 feature: Email Designer
 topics: Content Creation
 kt: 2391
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Met deze [!UICONTROL Email Designer] functie kunt u snel en moeiteloos individuele e-mails maken zonder dat u een script hoeft te schrijven voor één regel code die het maken van e-mails helpt schalen. Hiermee kunt u e-mailinhoud en sjablonen voor e-mailinhoud maken. Het is compatibel met eenvoudige e-mails, transactionele e-mails, e-mails voor A/B-tests, meertalige e-mails en terugkerende e-mails.
 
-In deze video ziet u een uitgebreid overzicht van de functionaliteit en het gebruik van de Adobe Campagnestandaard [!UICONTROL Email Designer].
+Deze video geeft u een uitgebreid overzicht van de functionaliteit en het gebruik van de Adobe Campaign Standard [!UICONTROL Email Designer].
 
 >[!VIDEO](https://video.tv.adobe.com/v/22771?quality=12)
 
@@ -30,7 +30,7 @@ In deze video wordt uitgelegd wat de algemene functionaliteit van de e-mail is [
 
 >[!VIDEO](https://video.tv.adobe.com/v/25912?quality=12)
 
-## Zelfstudies
+## Tutorials
 
 De volgende gedetailleerde zelfstudies zijn beschikbaar:
 

@@ -10,13 +10,13 @@ team: PM
 translation-type: tm+mt
 source-git-commit: 2f0527f3d9e2248eea68079e00855cce7a96fce4
 workflow-type: tm+mt
-source-wordcount: '327'
+source-wordcount: '330'
 ht-degree: 1%
 
 ---
 
 
-# Het oplossen van problemen [!UICONTROL Control Panel]
+# Probleemoplossing voor het [!UICONTROL-configuratiescherm]
 
 Leer hoe u problemen kunt oplossen wanneer u het Configuratiescherm gebruikt.
 
@@ -24,7 +24,7 @@ Leer hoe u problemen kunt oplossen wanneer u het Configuratiescherm gebruikt.
 
 Problemen met aanmelding en homepage.
 
-### Symptoom: Kan niet aanmelden bij Adobe Experience Cloud
+### Symptoom: Aanmelden bij Adobe Experience Cloud is niet mogelijk
 
 **Wat moet u doen:**
 De gebruiker moet hun [!DNL IMS Org ID] (xxx) vinden. De beheerder moet de gebruiker aan [!UICONTROL product profile] [!DNL “Campaign-xxx-Admins”] voor elke instantie toevoegen die zij zouden willen beheren. Als de gebruiker een beheerder van alle instanties is zouden zij nog kunnen moeten toevoegen als *[!UICONTROL user]*.

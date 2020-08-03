@@ -1,6 +1,6 @@
 ---
 title: Productaanbiedingen configureren in transactie-e-mails
-description: In de video's worden de stappen uitgelegd die nodig zijn om productlijsten in transactie-e-mails in Adobe Campagne Standard (ACS) te configureren.
+description: In de video's worden de stappen beschreven die nodig zijn om productlijsten in transactie-e-mails in Adobe Campaign Standard (ACS) te configureren.
 feature: Transactional Emails
 topics: Content Creation
 kt: 1728
@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: 39e7f9fc2a6631ebc5f2555dad651a72464e4344
 workflow-type: tm+mt
 source-wordcount: '175'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 

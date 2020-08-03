@@ -1,5 +1,5 @@
 ---
-title: Groeien met Adobe-campagne
+title: Groei met Adobe Campaign
 description: Deze video benadrukt de potentiële volgende stappen aan ware kanaalorkest.
 feature: null
 topics: null
@@ -16,7 +16,7 @@ ht-degree: 0%
 ---
 
 
-# Groeien met Adobe-campagne
+# Groei met Adobe Campaign
 
 Deze video benadrukt de potentiële volgende stappen aan ware kanaalorkest.
 

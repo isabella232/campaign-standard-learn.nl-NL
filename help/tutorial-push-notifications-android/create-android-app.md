@@ -1,6 +1,6 @@
 ---
 title: Stap 1 - Een Android-toepassing maken en configureren voor gebruik van Firebase Cloud Messaging
-description: In dit onderdeel maken we een [!DNL Android]-app voor het ontvangen van [!UICONTROL Push-meldingen] die zijn verzonden vanuit Adobe Campagnestandaard. Als u pushmeldingen wilt ontvangen, moet de app zijn geregistreerd bij [!DNL Firebase Cloud Service] van Google.
+description: In dit deel zullen we [!DNL Android] App to receive [!UICONTROL Push notifications] uit Adobe Campaign Standard ontstaan. Om de pushberichten te ontvangen, moet de app zijn geregistreerd bij Google [!DNL Firebase Cloud Service].
 feature: Push
 topics: Mobile
 kt: 4825
@@ -10,7 +10,7 @@ team: TM
 translation-type: tm+mt
 source-git-commit: afe1ae6c8d73b7b776e0eec327fa16db76c23ce1
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '316'
 ht-degree: 1%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 1%
 
 # Stap 1 - Het creëren van [!DNL Android] App en het vormen aan gebruik [!DNL Firebase Cloud Messaging]
 
-In dit deel maakt u een [!DNL Android] app die u van Adobe Campagne Standard kunt [!UICONTROL Push notifications] ontvangen. Om de pushberichten te ontvangen, moet de app worden geregistreerd bij Google [!DNL Firebase Cloud Service].
+In dit gedeelte maakt u een [!DNL Android] app die u van Adobe Campaign Standard kunt [!UICONTROL Push notifications] ontvangen. Om de pushberichten te ontvangen, moet de app worden geregistreerd bij Google [!DNL Firebase Cloud Service].
 
 1. Meld u aan bij uw [!DNL Firebase] account.
 
@@ -58,7 +58,7 @@ Als uw app met Firebase is geïntegreerd, ontvangt u een bericht zoals hieronder
 
 ![[!DNL fcm-successfull]](assets/android-firebase-success.PNG)
 
-[Controleer of uw project wordt vermeld in [!DNL Firebase ]console](https://console.firebase.google.com/)
+[Zorg ervoor uw project vermeld [!DNL Firebase ]binnen console is](https://console.firebase.google.com/)
 
 ## Instellingen [!UICONTROL Push Channel] configureren
 
@@ -73,7 +73,7 @@ Als uw app met Firebase is geïntegreerd, ontvangt u een bericht zoals hieronder
 
    ![serversleutel](assets/firebase-server-key.PNG)
 
-6. Aanmelden bij uw Adobe Campagne Standard-exemplaar
+6. Aanmelden bij uw Adobe Campaign Standard-exemplaar
 7. Klik op **[!UICONTROL Adobe Campaign]** > **[!UICONTROL Administration]** > **[!UICONTROL Channels]** > **[!UICONTROL Mobile App].**
 8. Selecteer de gewenste optie **[!UICONTROL Mobile Application Property].**
 9. Klik op het **[!DNL Android]pictogram **in de **[!UICONTROL Push Channel settings]**sectie.
@@ -83,4 +83,4 @@ Als alles goed gaat, zou u een SUCCESS bericht moeten zien.
 
 ![push-channel-instellingen](assets/push-channel-settings.PNG)
 
-Samenvattend, hebben wij een [!DNL Android App] en verbonden met [!DNL Android App] met [!DNL Firebase]. Vervolgens hebben we de Mobile-app in Adobe Campaign verbonden met de toepassing [!DNL Android App] door de serversleutel van de [!DNL Android] app in de Mobile-app in Adobe Campaign Standard te plakken.
+Samenvattend, hebben wij een [!DNL Android App] en verbonden met [!DNL Android App] met [!DNL Firebase]. Vervolgens hebben we de Mobile App in Adobe Campaign verbonden met de [!DNL Android App] app door de serversleutel van de [!DNL Android] App in de Mobile App in Adobe Campaign Standard te plakken.

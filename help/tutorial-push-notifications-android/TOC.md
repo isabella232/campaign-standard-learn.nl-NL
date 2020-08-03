@@ -1,6 +1,6 @@
 ---
 product: adobe campaign standard
-user-guide-title: Adobe Campagne Standard - Aan de slag met pushberichten voor Android
+user-guide-title: Adobe Campaign Standard - Aan de slag met pushberichten voor Android
 translation-type: tm+mt
 source-git-commit: ac7733530ca6d6fecc2ec636343a280ae1837933
 workflow-type: tm+mt

@@ -1,6 +1,6 @@
 ---
-title: Aangepaste bronnen aanpassen bij het instellen van de Adobe Campagnestandaard (ACS) voor privacyverzoeken
-description: Wanneer u Adobe Campagnestandaard (ACS) instelt voor het verwerken van privacyverzoeken, moet u ervoor zorgen dat aangepaste gegevens die aan een profiel zijn gekoppeld, worden verwijderd wanneer het profiel wordt verwijderd. In deze video wordt uitgelegd hoe u uw aangepaste bronnen kunt aanpassen om aan deze vereiste te voldoen.
+title: Aangepaste bronnen wijzigen bij het instellen van Adobe Campaign Standard (ACS) voor privacyverzoeken
+description: Wanneer u Adobe Campaign Standard (ACS) instelt voor het verwerken van privacyverzoeken, moet u ervoor zorgen dat aangepaste gegevens die aan een profiel zijn gekoppeld, worden verwijderd wanneer het profiel wordt verwijderd. In deze video wordt uitgelegd hoe u uw aangepaste bronnen kunt aanpassen om aan deze vereiste te voldoen.
 feature: GDPR, CCPA
 topic: null
 kt: 1243
@@ -11,21 +11,22 @@ translation-type: tm+mt
 source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
 workflow-type: tm+mt
 source-wordcount: '199'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
 
 # Aangepaste bronnen voor privacyverzoeken wijzigen
 
-Als u Adobe Campaign Standard instelt voor het verwerken van privacyverzoeken, moet u ervoor zorgen dat aangepaste gegevens die aan een profiel zijn gekoppeld, worden verwijderd wanneer het profiel wordt verwijderd. In deze video wordt uitgelegd hoe u uw aangepaste bronnen kunt aanpassen om aan deze vereiste te voldoen.
+Wanneer u Adobe Campaign Standard instelt voor het verwerken van privacyverzoeken, moet u ervoor zorgen dat aangepaste gegevens die aan een profiel zijn gekoppeld, worden verwijderd wanneer het profiel wordt verwijderd. In deze video wordt uitgelegd hoe u uw aangepaste bronnen kunt aanpassen om aan deze vereiste te voldoen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23326?quality=12)
 
 >[!NOTE]
 >
 >**Opt-out voor de verkoop van persoonlijke gegevens**
->Beginnend met 19.4, wordt een uit-weg gebied CCPA verstrekt uit-van-de-doos in de interface van de Campagne en API. Voor 19.3 moet u dit veld >maken in Adobe Campagnestandaard om deze informatie te kunnen gebruiken. Zie de [gedetailleerde documentatie](https://helpx.adobe.com/campaign/kb/acs-privacy.html#ccpa) voor meer informatie.
+>
+>Beginnend met 19.4, wordt een uit-weg gebied CCPA verstrekt uit-van-de-doos in de interface van de Campagne en API. Voor 19.3 moet u dit veld >in Adobe Campaign Standard maken om deze informatie te kunnen gebruiken. Zie de [gedetailleerde documentatie](https://helpx.adobe.com/campaign/kb/acs-privacy.html#ccpa) voor meer informatie.
 >
 > U kunt uw versie controleren door op te klikken? in de rechterbovenhoek van de interface en het selecteren van Info.
 

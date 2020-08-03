@@ -1,6 +1,6 @@
 ---
 title: Aan de slag met pushmeldingen met Android-app
-description: Met Adobe Campaign kunt u persoonlijke en gesegmenteerde pushmeldingen verzenden naar mobiele apparaten met iOS en Android. Deze berichten worden ontvangen op mobiele toepassingen die u instelt in Adobe Campagne door de Experience Cloud Mobile SDK V4 of Experience Platform SDK te gebruiken. Deze zelfstudie begeleidt u door de stappen die nodig zijn voor het verzenden van pushmeldingen vanuit Adobe Campaign en het ontvangen van deze meldingen in uw Android-app.
+description: Met Adobe Campaign kunt u persoonlijke en gesegmenteerde pushmeldingen verzenden naar mobiele apparaten met iOS en Android. Deze berichten worden ontvangen op mobiele toepassingen die u in Adobe Campaign instelt door gebruik te maken van de Experience Cloud Mobile SDK V4 of Experience Platform SDK. Deze zelfstudie begeleidt u door de stappen die nodig zijn voor het verzenden van pushberichten van Adobe Campaign en het ontvangen van deze meldingen in uw Android-app.
 feature: Push
 topics: Mobile
 kt: 3846
@@ -18,12 +18,12 @@ ht-degree: 0%
 # Aan de slag met pushmeldingen met Android-app
 
 Met Adobe Campaign kunt u persoonlijke en gesegmenteerde pushmeldingen verzenden naar mobiele apparaten met iOS en Android.
-Deze berichten worden ontvangen op mobiele toepassingen die u instelt in Adobe Campagne door de Experience Cloud Mobile SDK V4 of Experience Platform SDK te gebruiken.
-Deze zelfstudie begeleidt u door de stappen die nodig zijn voor het verzenden van pushmeldingen vanuit Adobe Campaign en het ontvangen van deze meldingen in uw Android-app.
+Deze berichten worden ontvangen op mobiele toepassingen die u in Adobe Campaign instelt door gebruik te maken van de Experience Cloud Mobile SDK V4 of Experience Platform SDK.
+Deze zelfstudie begeleidt u door de stappen die nodig zijn voor het verzenden van pushberichten van Adobe Campaign en het ontvangen van deze meldingen in uw Android-app.
 
 ## Vereisten
 
-* U moet de opstarteigenschap hebben geconfigureerd met de standaardextensie van Adobe Campagne. Volg de onderstaande online Help.
+* U moet de opstarteigenschap hebben geconfigureerd met Adobe Campaign Standard Extension. Volg de onderstaande online Help.
    * [Videozelfstudie](https://video.tv.adobe.com/v/26224?quality=12&captions=dut)
    * [Documentatie](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.html)
 

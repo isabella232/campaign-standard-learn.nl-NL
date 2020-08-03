@@ -1,6 +1,6 @@
 ---
 title: Functioneel overzicht
-description: In deze video ziet u een overzicht van de functionaliteit van Adobe Campagne Standard (ACS).
+description: Deze video geeft u een overzicht over de Adobe Campaign Standard (ACS) functionaliteit.
 feature: Profiles and Audiences
 topics: Getting Started
 kt: 3971
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Functioneel overzicht
 
-In deze video ziet u een overzicht van de functionaliteit Adobe Campagne Standard.
+Deze video geeft u een overzicht van de Adobe Campaign Standard-functionaliteit.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29430?quality=12)

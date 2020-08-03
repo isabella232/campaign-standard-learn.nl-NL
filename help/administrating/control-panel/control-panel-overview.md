@@ -1,5 +1,5 @@
 ---
-title: Deelvenster Beheer
+title: Configuratiescherm
 description: Met het Configuratiescherm kunt u uw SFTP-opslag op instantie en IP-adressen van lijsten van gewenste personen controleren en beheren.
 feature: Control Panel
 topics: Control Panel
@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: db20c4e6aeb10dc04a6c4556fefaa8cd18366c44
 workflow-type: tm+mt
 source-wordcount: '386'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -56,7 +56,7 @@ De volgende video laat zien hoe u een beheerder aan een Campagne-instantie kunt 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
 *Hoe te om een beheerder aan het productprofiel &quot;[!UICONTROL Administrators]&quot;toe te voegen om te kunnen gebruiken[!UICONTROL Control Panel](01:03 min)*
 
-## Zelfstudies voor het regelpaneel
+## Tutorials in regelpaneel
 
 * **SFTP-servers beheren**
 
@@ -74,7 +74,7 @@ De volgende video laat zien hoe u een beheerder aan een Campagne-instantie kunt 
 * **[SSL-certificaten beheren](/help/administrating/control-panel/managing-ssl-certificates.md)**
 
    *Leer hoe u de status van de SSL-certificaten van uw subdomeinen kunt bekijken en verlengingen kunt aanvragen.*
-* **[Google TXT-recordbeheer](/help/administrating/control-panel/google-txt-record-management.md)**
+* **[Beheer van Google-TXT-records](/help/administrating/control-panel/google-txt-record-management.md)**
 
    *Leer hoe u een Google TXT-site-verificatierecord toevoegt aan al uw subdomeinen die worden gebruikt om e-mails naar GMAIL-adressen te verzenden via het Configuratiescherm voor Campagne.*
 

@@ -1,6 +1,6 @@
 ---
 title: Profielen importeren met een workflow
-description: U kunt gegevens van een bestand verzamelen om het te verwerken en/of te importeren in de Adobe Campagne-database. In deze video wordt uitgelegd hoe u profielgegevens importeert met een workflow.
+description: U kunt gegevens uit een bestand verzamelen om het te verwerken en/of te importeren in de Adobe Campaign-database. In deze video wordt uitgelegd hoe u profielgegevens importeert met een workflow.
 feature: Data management Activities
 topics: null
 kt: 1818
@@ -11,14 +11,14 @@ translation-type: tm+mt
 source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
 workflow-type: tm+mt
 source-wordcount: '112'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
 
 # Profielen importeren met een workflow{#import-profiles-with-a-workflow}
 
-U kunt gegevens van een bestand verzamelen om het te verwerken en/of te importeren in de Adobe Campagne-database.
+U kunt gegevens uit een bestand verzamelen om het te verwerken en/of te importeren in de Adobe Campaign-database.
 
 In deze video wordt uitgelegd hoe u de [!UICONTROL Data Management] activiteiten in een workflow kunt gebruiken om profielgegevens te importeren.
 
@@ -27,4 +27,4 @@ In deze video wordt uitgelegd hoe u de [!UICONTROL Data Management] activiteiten
 ## Aanvullende bronnen
 
 * [Zelfstudie Gegevens stap voor stap importeren](https://docs.adobe.com/content/help/en/campaign-standard/using/managing-processes-and-data/workflow-general-operation/importing-data.html#example--import-workflow-template)
-* [Adobe Campagne Standard - Processen en gegevens beheren](https://docs.adobe.com/content/help/en/campaign-standard/using/managing-processes-and-data/about-workflows-and-data-management/discovering-workflows.html)
+* [Adobe Campaign Standard - Processen en gegevens beheren](https://docs.adobe.com/content/help/en/campaign-standard/using/managing-processes-and-data/about-workflows-and-data-management/discovering-workflows.html)

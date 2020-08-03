@@ -1,6 +1,6 @@
 ---
 title: Een test verzenden, een e-mail voorbereiden en verzenden
-description: 'In deze video wordt uitgelegd hoe u een test-e-mail verzendt, een e-maillevering voorbereidt en vervolgens verzendt in Adobe Campagne Standard (ACS). '
+description: 'In deze video wordt uitgelegd hoe u een test-e-mail verzendt, een e-maillevering voorbereidt en vervolgens verzendt in Adobe Campaign Standard (ACS). '
 feature: Email
 topics: null
 kt: 1812
@@ -11,14 +11,14 @@ translation-type: tm+mt
 source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
 
 # Een test verzenden, een e-mail voorbereiden en verzenden
 
-In deze video wordt uitgelegd hoe u een test-e-mail verzendt, een e-maillevering voorbereidt en vervolgens verzendt in Adobe Campagne Standard (ACS).
+In deze video wordt uitgelegd hoe u een test-e-mail verzendt, een e-maillevering voorbereidt en vervolgens verzendt in Adobe Campaign Standard (ACS).
 
 >[!VIDEO](https://video.tv.adobe.com/v/24013/)
 

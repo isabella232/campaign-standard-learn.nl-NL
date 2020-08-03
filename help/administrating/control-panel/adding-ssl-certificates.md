@@ -1,6 +1,6 @@
 ---
 title: SSL-certificaten toevoegen
-description: In het Configuratiescherm van Adobe Campagne kunt u SSL-certificaten toevoegen om uw subdomeinen te beveiligen.
+description: In het Configuratiescherm van Adobe Campaign kunt u SSL-certificaten toevoegen om uw subdomeinen te beveiligen.
 feature: Control Panel
 topics: null
 kt: 4219
@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
 workflow-type: tm+mt
 source-wordcount: '192'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
@@ -60,4 +60,4 @@ In de onderstaande video ziet u hoe u SSL-certificaten kunt installeren in [!UIC
 ## Aanvullende bronnen
 
 * [Subdomeinen delegeren](/help/administrating/control-panel/subdomain-delegation.md)
-* [Subdomeinen en certificaten - Documentatie](https://docs.adobe.com/content/help/en/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
+* [Subdomeinen en certificaten - Documentatie](https://docs.adobe.com/content/help/nl-NL/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)

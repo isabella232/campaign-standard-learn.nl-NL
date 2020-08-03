@@ -1,6 +1,6 @@
 ---
 title: 'Een profiel maken '
-description: In deze video wordt uitgelegd hoe u een profiel maakt en hoe u dit aan een publiek kunt toevoegen in Adobe Campagne Standard (ACS)
+description: In deze video wordt uitgelegd hoe u een profiel maakt en hoe u dit aan een publiek in Adobe Campaign Standard (ACS) toevoegt
 feature: Profiles and Audiences
 topic: null
 kt: 1820

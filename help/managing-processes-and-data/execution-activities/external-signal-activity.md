@@ -27,13 +27,11 @@ Dit omvat ook een nieuwe Activiteit van de **Test** waar u tests op deze functio
 In de volgende video worden de vereiste configuratiestappen uitgelegd:
 
 1. **Ontvang externe parameters** van een extern systeem, zoals een systeem van het inhoudsbeheer (CRM):
-
    * De parameters in de externe signaalactiviteit declareren
    * Configureer de API-aanroep om de parameters te definiëren en de workflow Externe signaalactiviteit te activeren. Voor meer informatie over hoe te om een API vraag te vormen gelieve te zien het [Teweegbrengen van een Activiteit](https://docs.campaign.adobe.com/doc/standard/en/api/ACS_API.html#triggering-a-signal-activity)van het Signaal.
 
 1. **Een workflow aanpassen met externe parameters** (gebeurtenisvariabelen):
-
-   Nadat de workflow is geactiveerd, worden de parameters opgenomen in de gebeurtenisvariabelen van de workflow en kunnen deze binnen de workflow worden gebruikt. Zie de [documentatie](https://helpx.adobe.com/campaign/standard/automating/using/calling-a-workflow-with-external-parameters.html) voor alle activiteiten die met gebeurtenisvariabelen kunnen worden aangepast:
+Nadat de workflow is geactiveerd, worden de parameters opgenomen in de gebeurtenisvariabelen van de workflow en kunnen deze binnen de workflow worden gebruikt. Zie de [documentatie](https://helpx.adobe.com/campaign/standard/automating/using/calling-a-workflow-with-external-parameters.html) voor alle activiteiten die met gebeurtenisvariabelen kunnen worden aangepast:
 
    * De testactiviteit configureren (nieuw in 19.2)
    * Activiteit voor leespubliek en e-maillevering configureren

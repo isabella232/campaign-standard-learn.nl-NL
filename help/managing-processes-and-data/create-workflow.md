@@ -1,6 +1,6 @@
 ---
 title: Een workflow maken
-description: In deze video ziet u hoe u een workflow maakt en bewerkt in Adobe Campagne Standard.
+description: In deze video ziet u hoe u een workflow in Adobe Campaign Standard kunt maken en bewerken.
 feature: Workflows
 topics: null
 kt: 1809
@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
 workflow-type: tm+mt
 source-wordcount: '93'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -25,7 +25,7 @@ Workflows kunnen in verschillende contexten worden gebruikt, zoals:
 * Gegevens importeren in de Campagne-database
 * Technische processen zoals het opschonen van databases, het herstellen van trackinggegevens, enz.
 
-In deze video ziet u hoe u een workflow maakt en bewerkt in Adobe Campagne Standard.
+In deze video ziet u hoe u een workflow in Adobe Campaign Standard kunt maken en bewerken.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23937?quality=12)
 

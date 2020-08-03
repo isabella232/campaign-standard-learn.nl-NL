@@ -1,6 +1,6 @@
 ---
 title: De doeldimensie wijzigen
-description: In deze video wordt uitgelegd hoe u de doeldimensie van een levering voor een platformpubliek buiten de tabel met primaire profielen in Adobe Campagnestandaard kunt wijzigen.
+description: In deze video wordt uitgelegd hoe u de doeldimensie van een levering voor een Platform Publiek buiten de hoofdprofielentabel in Adobe Campaign Standard wijzigt.
 feature: Audience Destinations
 topics: ACOP
 kt: 3739
@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
 workflow-type: tm+mt
 source-wordcount: '165'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -20,10 +20,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Deze mogelijkheid wordt momenteel in bèta aangeboden en kan zonder voorafgaande kennisgeving regelmatig worden bijgewerkt en gewijzigd. [!UICONTROL Audience Destinations] is gebaseerd op het Adobe Experience Platform en vereist een specifieke configuratie.
+>Deze mogelijkheid wordt momenteel in bèta aangeboden en kan zonder voorafgaande kennisgeving regelmatig worden bijgewerkt en gewijzigd. [!UICONTROL Audience Destinations] is gebaseerd op Adobe Experience Platform en vereist een specifieke configuratie.
+>
 >Neem contact op met [!UICONTROL Adobe Customer Support] als u deze functie wilt implementeren.
 
-In deze video wordt uitgelegd hoe u de doeldimensie van een levering voor een [!UICONTROL Platform Audience] buiten de tabel met primaire profielen in Adobe Campagnestandaard wijzigt.
+In deze video wordt uitgelegd hoe u de doeldimensie van een levering voor een [!UICONTROL Platform Audience] buiten de hoofdprofieltabel in Adobe Campaign Standard wijzigt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/30151?quality=12)
 
@@ -38,4 +39,4 @@ Documentatie:
 Videobronnen:
 
 * [Creeer een nieuw publiek gebruikend de Verenigde Bouwer van het Segment](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
-* [Adobe Experience Platform-publiek activeren in een marketingworkflow](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
+* [Adobe Experience Platforms in een marketingworkflow activeren](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)

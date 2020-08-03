@@ -1,6 +1,6 @@
 ---
 title: Inleiding tot sjablonen voor e-mailinhoud
-description: Adobe Campagne Standard biedt 18 volledig aanpasbare e-mailsjablonen uit de verpakking die reageren.  Deze sjablonen zijn speciaal gemaakt voor Adobe Campagne Standard en zijn eenvoudig te bewerken en te wijzigen. Ze zijn een goed uitgangspunt voor het maken van e-mails.
+description: Adobe Campaign Standard biedt 18 volledig aanpasbare, responsieve e-mailsjablonen uit de verpakking.  Deze sjablonen zijn speciaal voor Adobe Campaign Standard gemaakt en zijn eenvoudig te bewerken en te wijzigen. Ze zijn een goed uitgangspunt voor het maken van e-mails.
 feature: Email Designer
 topics: null
 kt: 1442
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Inleiding tot sjablonen voor e-mailinhoud {#introduction-to-the-email-content-templates}
 
-Adobe Campagne Standard biedt 18 volledig aanpasbare e-mailsjablonen uit de verpakking die reageren. Deze sjablonen zijn speciaal gemaakt voor Adobe Campagne Standard en zijn eenvoudig te bewerken en te wijzigen. Ze zijn een goed uitgangspunt voor het maken van e-mails.
+Adobe Campaign Standard biedt 18 volledig aanpasbare, responsieve e-mailsjablonen uit de verpakking. Deze sjablonen zijn speciaal voor Adobe Campaign Standard gemaakt en zijn eenvoudig te bewerken en te wijzigen. Ze zijn een goed uitgangspunt voor het maken van e-mails.
 
 In deze video worden de sjablonen uitgelegd en uitgelegd hoe u uw eigen sjabloon kunt maken.
 

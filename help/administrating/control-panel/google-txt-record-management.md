@@ -1,5 +1,5 @@
 ---
-title: Google TXT-recordbeheer
+title: Beheer van Google-TXT-records
 description: U kunt een Google TXT-site-verificatierecord toevoegen aan al uw subdomeinen die worden gebruikt om e-mails naar GMAIL-adressen te verzenden via het Configuratiescherm voor Campagne.
 feature: Google TXT record management
 topics: Control Panel
@@ -11,14 +11,14 @@ translation-type: tm+mt
 source-git-commit: f0d95ab02496a9caa6b79a2c536ce9b7090da943
 workflow-type: tm+mt
 source-wordcount: '120'
-ht-degree: 0%
+ht-degree: 24%
 
 ---
 
 
 # [!DNL Google] TXT-recordbeheer
 
-Om hoge inbox tarieven en lage spamtarieven te verzekeren, [!DNL Google] vereisen sommige diensten als dat u een verslag TXT aan uw domein toevoegt die plaatst om te verifiëren dat u het domein bezit. TXT-records zijn een type DNS-records dat wordt gebruikt om tekstgegevens over een domein te verstrekken en dat kan worden gelezen door externe bronnen.
+To ensure high inbox rates and low spam rates, some services like [!DNL Google] require that you add a TXT record to your domain setting to verify that you own the domain. TXT-records zijn DNS-records die worden gebruikt om tekstgegevens over een domein te verstrekken en die kunnen worden gelezen door externe bronnen.
 
 In de onderstaande video ziet u hoe u [!DNL Google] TXT-siteverificatierecords kunt toevoegen aan al uw subdomeinen die worden gebruikt om e-mails naar GMAIL-adressen te verzenden [!UICONTROL Campaign Control Panel].
 

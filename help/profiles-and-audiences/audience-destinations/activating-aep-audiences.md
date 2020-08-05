@@ -1,5 +1,5 @@
 ---
-title: Adobe Experience Platforms in een workflow activeren
+title: Adobe Experience Platform-publiek activeren in een workflow
 description: In deze video wordt uitgelegd hoe u de Query Audience van Data Services binnen een workflow activeert met de activiteit ‘Lezen publiek’.
 feature: Audience Destinations
 topics: ACOP
@@ -16,7 +16,7 @@ ht-degree: 1%
 ---
 
 
-# Het publiek van Adobe Experience Platforms activeren in een workflow [!UICONTROL Adobe Experience Platform Audiences] in een marketingworkflow
+# Adobe Experience Platform-publiek activeren in een workflow [!UICONTROL Adobe Experience Platform Audiences] in een marketingworkflow
 
 >[!NOTE]
 >
@@ -27,7 +27,7 @@ ht-degree: 1%
 In deze video wordt uitgelegd hoe u de bewerking [!UICONTROL Data Services Query Audience] binnen een workflow activeert met behulp van de [!UICONTROL Read Audience] activiteit.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27647?quality=12)
-*Een Adobe Experience Platform in een workflow activeren (20:37 min)*
+*Een Adobe Experience Platform-publiek activeren in een workflow (20:37 min)*
 
 ## Aanvullende bronnen
 

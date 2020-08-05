@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
 workflow-type: tm+mt
 source-wordcount: '90'
-ht-degree: 2%
+ht-degree: 4%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 2%
 Adobe Campaign heeft twee typen of profielen:
 
 * Geïdentificeerde profielen
-* Testprofielen
+* Test profiles
 
 Profielen die volgens een of meer gemeenschappelijke criteria zijn gegroepeerd, worden **publiek** genoemd.
 

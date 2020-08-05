@@ -11,22 +11,22 @@ translation-type: tm+mt
 source-git-commit: 556bff4c94e16d3a94561dee1ccb311bc003b631
 workflow-type: tm+mt
 source-wordcount: '181'
-ht-degree: 1%
+ht-degree: 27%
 
 ---
 
 
-# Services en abonnementen beheren{#managing-services-and-subscriptions}
+# Manage services and subscriptions{#managing-services-and-subscriptions}
 
 Adobe Campaign staat u toe om nieuwsbrieven en dwars-kanaalmededelingen tot stand te brengen en te beheren, door een reeks diensten. Berichten kunnen alleen worden verzonden naar profielen die zijn geabonneerd op de service (aanmelden). Deze profielen worden geïdentificeerd met een speciaal filter wanneer u een bericht maakt.
 
-Abonnementsmechanismen kunnen worden ingesteld om uw klanten de kans te bieden zich op deze services in te schrijven, met name via e-mails en landingspagina&#39;s.
+Abonnementmechanismen kunnen worden ingesteld om uw klanten de mogelijkheid te bieden zich voor deze services in te schrijven, met name via e-mails en landingspagina’s.
 
 Elke service wordt geleverd met:
 
 * Abonneren (opt-in) en afmelden (opt-out).
 * Bevestigingsmechanismen abonneren en/of afmelden.
-* Een abonnementsgeschiedenis.
+* een abonnementsgeschiedenis.
 
 In deze video ziet u hoe u een service kunt maken en de abonnementen kunt beheren.
 

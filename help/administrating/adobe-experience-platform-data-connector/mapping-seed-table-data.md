@@ -1,6 +1,6 @@
 ---
 title: Toewijzing van zaadtabelgegevens
-description: Leer hoe u zaadgegevens in kaart brengt en hoe te om profielen met het Adobe Experience Platform (AEP) te testen
+description: Leer hoe u zaadgegevens kunt toewijzen en hoe u profielen kunt testen met de Adobe Experience Platform (AEP)
 feature: Adobe Experience Platform Data Connector
 topics: ACoP
 kt: 2900
@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
 workflow-type: tm+mt
 source-wordcount: '92'
-ht-degree: 2%
+ht-degree: 6%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 2%
 >
 >Neem contact op met [!UICONTROL Adobe Customer Support] als u deze functie wilt implementeren.
 
-Leer hoe u zaadgegevens en testprofielen aan het Adobe Experience Platform toewijst.
+Leer hoe u zaadgegevens en testprofielen toewijst aan de Adobe Experience Platform.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27264?quality=12)
 

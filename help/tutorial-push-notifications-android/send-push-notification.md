@@ -22,7 +22,7 @@ We moeten nu een [!UICONTROL Push Notification] Adobe Campaign maken en verzende
 
 * Aanmelden bij uw Adobe Campaign Standard-exemplaar
 * Klik op **[!UICONTROL Marketing Activities]->[!UICONTROL Create]->[!UICONTROL Push Notification]**
-* Selecteer **[!UICONTROL Send push to app subscribers(mobileApp)]** en klik op Volgende
+* Select **[!UICONTROL Send push to app subscribers(mobileApp)]** and click Next
 * Selecteer de geschikte mobiele toepassing in de **[!UICONTROL Associate a Mobile App to a delivery]** vervolgkeuzelijst en klik op **[!UICONTROL Next]**
 * Klik op het tellabel en retourneert een waarde groter dan 0. Klik op **[!UICONTROL Next]**
 * Geef een betekenisvolle [!UICONTROL Message title] en [!UICONTROL Message body] klik op **[!UICONTROL Create]**.

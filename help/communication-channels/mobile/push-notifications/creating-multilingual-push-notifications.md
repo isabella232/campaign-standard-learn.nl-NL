@@ -11,12 +11,12 @@ translation-type: tm+mt
 source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
 workflow-type: tm+mt
 source-wordcount: '70'
-ht-degree: 2%
+ht-degree: 17%
 
 ---
 
 
-# Een meertalige pushmelding maken [!UICONTROL push notification]
+# Create a multilingual push notification [!UICONTROL push notification]
 
 Leer hoe u een meertalig document maakt [!UICONTROL push notifications] in Adobe Campaign Standard.
 

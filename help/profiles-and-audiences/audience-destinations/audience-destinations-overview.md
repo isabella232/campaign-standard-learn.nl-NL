@@ -1,6 +1,6 @@
 ---
 title: Bestemmingen van het publiek - Overzicht
-description: Hefboomfinanciering voor Adobe Experience Platform (AEP) publiek in Adobe Campaign Standard (ACS)
+description: Hefboomwerking Adobe Experience Platform (AEP) publiek in Adobe Campaign Standard (ACS)
 feature: Audience Destinations
 topics: ACOP
 kt: 2755
@@ -18,7 +18,7 @@ ht-degree: 1%
 
 # [!UICONTROL Audience Destinations] (BETA) - Overzicht
 
-## Gebruik van Adobe Experience Platform publiek in Adobe Campaign Standard
+## Adobe Experience Platform-doelgroepen in Adobe Campaign Standard benutten
 
 >[!NOTE]
 >
@@ -27,9 +27,9 @@ ht-degree: 1%
 >Neem contact op met [!UICONTROL Adobe Customer Support] als u deze functie wilt implementeren.
 
 
-In deze zelfstudie wordt uitgelegd hoe u gecentraliseerde en geconsolideerde profielgegevens van het Adobe Experience Platform kunt gebruiken voor marketingcampagnes in Adobe Campaign Standard.
+In deze zelfstudie wordt uitgelegd hoe u gecentraliseerde en geconsolideerde profielgegevens van de Adobe Experience Platform kunt gebruiken voor marketingcampagnes in Adobe Campaign Standard.
 
-Met de [!UICONTROL Audiences] module in Adobe Campaign Standard kunt u segmenten maken met behulp van gegevens uit het [Adobe Experience Platform - Data Services](https://www.adobe.io/apis/experienceplatform/home/services.html) die in het [realtime-klantprofiel](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html)aanwezig zijn.
+Met de [!UICONTROL Audiences] module in Adobe Campaign Standard kunt u segmenten maken met behulp van gegevens van de [Adobe Experience Platform - Data Services](https://www.adobe.io/apis/experienceplatform/home/services.html) die in het [realtime-klantprofiel](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html)aanwezig zijn.
 
 De volgende videozelfstudies begeleiden u bij de verschillende stappen:
 
@@ -39,5 +39,5 @@ De volgende videozelfstudies begeleiden u bij de verschillende stappen:
 
 ## Aanvullende bronnen
 
-*[Inzicht in de gegevensconnector van het Adobe Experience Platform](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
+*[Werken met de Adobe Experience Platform Data Connector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
 

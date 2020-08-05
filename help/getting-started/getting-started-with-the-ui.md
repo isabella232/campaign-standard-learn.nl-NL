@@ -12,7 +12,7 @@ translation-type: tm+mt
 source-git-commit: 0a37f5949b580490ef03f6884cfba01ed09afe86
 workflow-type: tm+mt
 source-wordcount: '81'
-ht-degree: 2%
+ht-degree: 8%
 
 ---
 
@@ -25,5 +25,5 @@ Deze video geeft u een overzicht van de Adobe Campaign Standard-gebruikersinterf
 
 ## Aanvullende bronnen
 
-* [Over de interface](https://docs.adobe.com/content/help/en/campaign-standard/using/getting-started/discovering-the-interface/about-the-interface.html)
-* [Interfacebeschrijving](https://docs.adobe.com/content/help/en/campaign-standard/using/getting-started/discovering-the-interface/interface-description.html)
+* [Informatie over de interface](https://docs.adobe.com/content/help/en/campaign-standard/using/getting-started/discovering-the-interface/about-the-interface.html)
+* [Beschrijving van de interface](https://docs.adobe.com/content/help/en/campaign-standard/using/getting-started/discovering-the-interface/interface-description.html)

@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: 39e7f9fc2a6631ebc5f2555dad651a72464e4344
 workflow-type: tm+mt
 source-wordcount: '162'
-ht-degree: 1%
+ht-degree: 7%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 1%
 
 Leer hoe u een project maakt [!UICONTROL push notification] in Adobe Campaign Standard (ACS):
 
-Met Adobe Campaign kunt u gepersonaliseerde en gesegmenteerde apparaten verzenden [!UICONTROL push notifications] naar mobiele apparaten met iOS en Android. U hebt twee opties:
+Adobe Campaign allows you to send personalized and segmented [!UICONTROL push notifications] to iOS and Android mobile devices. U hebt twee opties:
 
 * **[!UICONTROL Send push notification to Campaign profiles]**: Hiermee kunt u zich richten op de Adobe Campaign CRM-profielen die zijn geabonneerd op uw mobiele toepassing en zich hebben aangemeld voor ontvangst [!UICONTROL push notifications]. U kunt verpersoonlijkingsgebieden in uw opnemen, [!UICONTROL push notification]zoals de voornaam van de ontvanger.
 

@@ -1,6 +1,6 @@
 ---
 title: 'Aangepaste bronnen toewijzen '
-description: Leer hoe te om verschillende gegevenstypes tussen Adobe Campaign Standard (ACS) en Adobe Experience Platform (AEP) in kaart te brengen
+description: Leer hoe u verschillende gegevenstypen kunt toewijzen tussen Adobe Campaign Standard (ACS) en Adobe Experience Platform (AEP)
 feature: Adobe Experience Platform Data Connector
 topics: ACoP
 kt: 2828
@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
 workflow-type: tm+mt
 source-wordcount: '76'
-ht-degree: 2%
+ht-degree: 5%
 
 ---
 

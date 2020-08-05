@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
 workflow-type: tm+mt
 source-wordcount: '120'
-ht-degree: 1%
+ht-degree: 9%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 1%
 >
 >Neem contact op met [!UICONTROL Adobe Customer Support] als u deze functie wilt implementeren.
 
-Leer hoe u de status van een gegevensinnametaak kunt controleren en of de gegevens vanuit Adobe Campaign Standard in het Adobe Experience Platform zijn ingevoerd.
+Leer hoe u de status van een gegevensinnametaak kunt controleren en of de gegevens vanuit Adobe Campaign Standard in Adobe Experience Platform zijn ingevoerd.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27268?quality=12)
 
@@ -32,4 +32,4 @@ Leer hoe u de status van een gegevensinnametaak kunt controleren en of de gegeve
 
 * [Toewijzingsdefinitie](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-mapping-definition.html)
 * [Toewijzingsactivering](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-mapping-activation.html)
-* [Gegevensinvoer via API&#39;s activeren](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-triggering-data-ingestion.html)
+* [Data-opname via API&#39;s activeren](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-triggering-data-ingestion.html)

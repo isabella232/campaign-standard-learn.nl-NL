@@ -10,7 +10,7 @@ translation-type: tm+mt
 source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
 workflow-type: tm+mt
 source-wordcount: '133'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
@@ -25,4 +25,4 @@ In deze video wordt uitgelegd hoe u een rapport maakt op basis van aangepaste pr
 
 ## Aanvullende bronnen
 
-* [Over rapportage](https://docs.adobe.com/content/help/en/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html)
+* [Informatie over rapportage](https://docs.adobe.com/content/help/en/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html)

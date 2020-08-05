@@ -13,14 +13,14 @@ translation-type: tm+mt
 source-git-commit: 82fb2d39dc61a55c0aa20ca1fa215f35a7dd9088
 workflow-type: tm+mt
 source-wordcount: '204'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
 
 
 # Een [!UICONTROL In-App] levering maken binnen een workflow
 
-De leveringsactiviteit in de app wordt over het algemeen gebruikt om het verzenden van een [!UICONTROL In-App] bericht naar een doelpubliek te automatiseren dat in de zelfde werkstroom wordt berekend.
+The In-App delivery activity is generally used to automate sending an [!UICONTROL In-App] message to a target audience calculated in the same workflow.
 
 De ontvangers worden vóór de activiteit in de zelfde werkschema gedefinieerd, via het richten van activiteiten zoals vragen, snijpunten, enz.
 

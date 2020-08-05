@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: db20c4e6aeb10dc04a6c4556fefaa8cd18366c44
 workflow-type: tm+mt
 source-wordcount: '386'
-ht-degree: 2%
+ht-degree: 4%
 
 ---
 
@@ -92,5 +92,5 @@ De volgende video laat zien hoe u een beheerder aan een Campagne-instantie kunt 
 
 ## Aanvullende bronnen
 
-* [Help-centrum van regelpaneel](https://docs.adobe.com/content/help/en/control-panel/using/control-panel-home.html)
+* [Help-centrum van regelpaneel](https://docs.adobe.com/content/help/nl-NL/control-panel/using/control-panel-home.html)
 

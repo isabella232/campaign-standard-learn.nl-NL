@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: 556bff4c94e16d3a94561dee1ccb311bc003b631
 workflow-type: tm+mt
 source-wordcount: '368'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -30,7 +30,7 @@ Adobe Campaign biedt gegevensverwerkingsverantwoordelijken drie methoden voor he
 >
 > **WIJZIGINGEN MET ACS 19.4:**
 > 
-> De [Privacy Service integratie](https://adobe.io/apis/cloudplatform/gdpr.html) is de methode u voor alle toegang zou moeten gebruiken en verzoeken schrapt. Vanaf 19.4 is het gebruik van de campagne-API en de interface voor toegangs- en verwijderingsverzoeken afgekeurd. Raadpleeg [deze pagina](https://helpx.adobe.com/campaign/kb/acs-deprecated-and-removed-features.html)voor meer informatie over afgekeurde en verwijderde functies van Campaign Standard.
+> De [Privacy Service integratie](https://adobe.io/apis/cloudplatform/gdpr.html) is de methode u voor alle toegang zou moeten gebruiken en verzoeken schrapt. Vanaf 19.4 is het gebruik van de campagne-API en de interface voor toegangs- en verwijderingsverzoeken afgekeurd. Raadpleeg [deze pagina](https://docs.adobe.com/content/help/nl-NL/campaign-standard/using/release-notes/deprecated-features.html)voor meer informatie over afgekeurde en verwijderde functies van Campaign Standard.
 >
 >**Opt-out voor de verkoop van persoonlijke gegevens**
 >

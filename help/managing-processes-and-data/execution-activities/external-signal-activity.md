@@ -1,6 +1,6 @@
 ---
 title: Externe signaalactiviteit - Een workflow met parameters aanroepen
-description: De externe signaalactiviteit wordt gebruikt om verschillende processen te organiseren en te ordenen die deel van de zelfde klantenreis in verschillende werkschema's uitmaken. Het staat toe om één werkschema van een andere te beginnen, toelatend om complexere klantenreizen te steunen, terwijl het kunnen beter controleren en reageren in geval van kwestie.
+description: De externe signaalactiviteit wordt gebruikt om verschillende processen te organiseren en te ordenen die deel van de zelfde klantenreis in verschillende werkschema's uitmaken. Deze activiteit maakt het mogelijk een workflow te starten vanuit een andere workflow ter ondersteuning van complexere klanttrajecten, terwijl u in geval van problemen gemakkelijker kunt opvolgen en reageren.
 feature: External Signal Activity
 topics: Workflows
 kt: 2750
@@ -11,14 +11,14 @@ translation-type: tm+mt
 source-git-commit: 9b1d8c5fb895d84da14a0402ec1f130b90a991b0
 workflow-type: tm+mt
 source-wordcount: '332'
-ht-degree: 0%
+ht-degree: 16%
 
 ---
 
 
 # [!UICONTROL External Signal activity ]- Een workflow met parameters bellen
 
-Het [!UICONTROL External Signal activity] wordt gebruikt om verschillende processen te organiseren en te ordenen die deel van de zelfde klantenreis in verschillende werkschema&#39;s uitmaken. Het staat toe om één werkschema van een andere te beginnen, toelatend om complexere klantenreizen te steunen, terwijl het kunnen beter controleren en reageren in geval van kwestie.
+The [!UICONTROL External Signal activity] is used to organize and orchestrate different processes that are part of the same customer journey into different workflows. Deze activiteit maakt het mogelijk een workflow te starten vanuit een andere workflow ter ondersteuning van complexere klanttrajecten, terwijl u in geval van problemen gemakkelijker kunt opvolgen en reageren.
 
 In ACS 19.2 [!UICONTROL External Signal activity] kan het niet alleen een werkschema roepen, maar ook parameters tot het werkschema overgaan (een publieksnaam aan doel, een dossier - naam om in te voeren, een deel van berichtinhoud, enz.) vanuit een andere workflow of via een REST API-aanroep om te integreren met uw externe systemen.
 

@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
 workflow-type: tm+mt
 source-wordcount: '59'
-ht-degree: 3%
+ht-degree: 8%
 
 ---
 
@@ -24,4 +24,4 @@ In deze video wordt uitgelegd hoe u de machtigingen definieert en beheert die aa
 
 ## Aanvullende bronnen
 
-* [Over toegangsbeheer](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/users-and-security/about-access-management.html)
+* [Toegangsbeheer](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/users-and-security/about-access-management.html)

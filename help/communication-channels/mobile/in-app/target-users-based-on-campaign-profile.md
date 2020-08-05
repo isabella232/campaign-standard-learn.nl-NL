@@ -1,5 +1,5 @@
 ---
-title: Target-gebruikers op basis van hun Campagneprofiel
+title: Doelgebruikers gebaseerd op hun Campagneprofiel
 description: Met deze sjabloon kunt u bekende gebruikers van mobiele apps berichten sturen die zijn gepersonaliseerd met CRM-profielkenmerken die beschikbaar zijn in Adobe Campaign Standard (ACS).
 feature: In-App
 topics: Channels
@@ -16,7 +16,7 @@ ht-degree: 1%
 ---
 
 
-# Target-gebruikers op basis van hun [!DNL Campaign] profiel
+# Doelgebruikers op basis van hun [!DNL Campaign] profiel
 
 U kunt bekende gebruikers van een mobiele app als doel instellen (gebruikers die zich hebben aangemeld bij de app met PII) met berichten die zijn aangepast met CRM-profielkenmerken die beschikbaar zijn in Adobe Campaign Standard. Deze sjabloon is handig ter ondersteuning van gevallen waarin gebruikers al via andere kanalen, zoals e-mail of push, zijn aangewezen en die zijn gebaseerd op hun reactie, een [!UICONTROL In-App] bericht willen sturen.
 

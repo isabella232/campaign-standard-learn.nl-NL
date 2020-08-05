@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
 workflow-type: tm+mt
 source-wordcount: '165'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 
@@ -32,11 +32,11 @@ In deze video wordt uitgelegd hoe u de doeldimensie van een levering voor een [!
 
 Documentatie:
 
-* [Informatie over de service Bestemmingen publiek](https://docs.adobe.com/content/help/en/campaign-standard/using/profiles-and-audiences/working-with-adobe-experience-platform/aep-about-audience-destinations-service.html)
+* [Informatie over de service Audiences Destinations](https://docs.adobe.com/content/help/en/campaign-standard/using/profiles-and-audiences/working-with-adobe-experience-platform/aep-about-audience-destinations-service.html)
 * [Hoe te om een doelafbeelding tot stand te brengen](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/application-settings/target-mappings-in-campaign.html)
 * [Een leveringssjabloon maken](https://docs.adobe.com/content/help/en/campaign-standard/using/getting-started/marketing-plans/marketing-activity-templates.html)
 
 Videobronnen:
 
 * [Creeer een nieuw publiek gebruikend de Verenigde Bouwer van het Segment](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
-* [Adobe Experience Platforms in een marketingworkflow activeren](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
+* [Adobe Experience Platform-publiek activeren in een marketingworkflow](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)

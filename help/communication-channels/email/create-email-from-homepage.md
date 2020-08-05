@@ -11,12 +11,12 @@ translation-type: tm+mt
 source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
 workflow-type: tm+mt
 source-wordcount: '134'
-ht-degree: 1%
+ht-degree: 8%
 
 ---
 
 
-# Een e-maillevering maken {#create-an-email-delivery}
+# Create an email delivery {#create-an-email-delivery}
 
 U kunt een stand-alone e-maillevering van een campagne, van de homepage van Adobe Campaign, of in de [!UICONTROL Marketing Activity] lijst tot stand brengen. U kunt vanuit een workflow ook eenmalige en terugkerende e-mails maken en verzenden.
 

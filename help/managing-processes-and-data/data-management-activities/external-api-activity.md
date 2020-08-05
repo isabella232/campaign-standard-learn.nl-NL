@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: f0d95ab02496a9caa6b79a2c536ce9b7090da943
 workflow-type: tm+mt
 source-wordcount: '201'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
@@ -35,7 +35,7 @@ In deze video wordt het gebruik van de [!UICONTROL External API activity]video g
 
 >[!NOTE]
 >
->De activiteit is bedoeld voor het ophalen van gegevens voor de hele campagne (laatste reeks aanbiedingen, laatste scores, enz.), niet voor het ophalen van specifieke informatie voor elk profiel, omdat dit kan leiden tot grote hoeveelheden gegevens die worden overgedragen. Als het gebruiksgeval dit vereist, is de aanbeveling om de activiteit van het Dossier van de Overdracht te gebruiken.
+>De activiteit is bedoeld voor het ophalen van gegevens voor de hele campagne (laatste reeks aanbiedingen, laatste scores, enz.), niet voor het ophalen van specifieke informatie voor elk profiel, omdat dit kan leiden tot grote hoeveelheden gegevens die worden overgedragen. Als het gebruiksscenario dit vereist, wordt aangeraden om de activiteit Transfer File te gebruiken.
 
 ## Aanvullende bronnen
 

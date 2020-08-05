@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: f0d95ab02496a9caa6b79a2c536ce9b7090da943
 workflow-type: tm+mt
 source-wordcount: '76'
-ht-degree: 2%
+ht-degree: 7%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 2%
 >
 >Neem contact op met [!UICONTROL Adobe Customer Support] als u deze functie wilt implementeren.
 
-Leer hoe u [!UICONTROL Experience Events] in Adobe Experience Platform (AEP) kunt toewijzen.
+Leer hoe u [!UICONTROL Experience Events] in Adobe Experience Platform (AEP) kaart maakt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27265?quality=12)
 

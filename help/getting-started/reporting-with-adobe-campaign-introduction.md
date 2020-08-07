@@ -1,6 +1,6 @@
 ---
 title: Inleiding tot rapportage
-description: In deze video ziet u een overzicht van de rapportmogelijkheden van Adobe Campaign Standard
+description: In deze video ziet u een overzicht van de rapportagemogelijkheden van Adobe Campaign Standard
 feature: Dynamic Reports
 topics: null
 kt: 3974
@@ -11,14 +11,14 @@ translation-type: tm+mt
 source-git-commit: f0d95ab02496a9caa6b79a2c536ce9b7090da943
 workflow-type: tm+mt
 source-wordcount: '54'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
 
 # Inleiding tot rapportage
 
-In deze video ziet u een overzicht van de rapportmogelijkheden van Adobe Campaign Standard
+In deze video ziet u een overzicht van de rapportagemogelijkheden van Adobe Campaign Standard
 
 >[!VIDEO](https://video.tv.adobe.com/v/29461?quality=12)
 

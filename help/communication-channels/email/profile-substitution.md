@@ -4,7 +4,7 @@ description: In deze video wordt uitgelegd hoe u uw e-mailberichten kunt testen 
 feature: Email
 topics: Channels
 kt: 4667
-thumbnail: 32368.jpg
+thumbnail: 32368
 doc-type: feature video
 activity: use
 team: TM

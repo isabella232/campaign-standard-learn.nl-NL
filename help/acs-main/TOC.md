@@ -9,10 +9,10 @@ tutorials-url: https://docs.adobe.com/content/help/nl-NL/campaign-standard-learn
 getting-started-title: Documentatie
 getting-started-url: https://docs.adobe.com/content/help/nl-NL/campaign-standard/using/campaign-standard-home.html
 translation-type: tm+mt
-source-git-commit: 7f43a2a89428bc3b087ebb40a65d610bd9eb3f5b
+source-git-commit: 906b1d76e4723b50e2d06f6525763bbd73b98e10
 workflow-type: tm+mt
-source-wordcount: '529'
-ht-degree: 91%
+source-wordcount: '500'
+ht-degree: 100%
 
 ---
 
@@ -49,7 +49,7 @@ ht-degree: 91%
       + [Een e-mail maken](/help/communication-channels/email/create-email-from-homepage.md)
       + [Een test verzenden, een e-mail voorbereiden en verzenden](/help/communication-channels/email/sending-test-preparing-sending-email.md)
       + [Een meertalige e-mail- of sms-levering maken](/help/communication-channels/create-multilingual-deliveries.md)
-      + [Een bestaande e-mail, SMS-levering of sjabloon converteren naar meertalig](/help/communication-channels/covert-into-multilingual-deliveries.md)
+      + [Een bestaande e-mail, sms-levering of sjabloon converteren naar meertalig](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [A/B-tests](/help/communication-channels/email/a-b-testing.md)
       + [E-mailberichten testen met doelprofielen](/help/communication-channels/email/profile-substitution.md)
       + [Een e-maillevering en rapporten reviewen](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
@@ -57,8 +57,7 @@ ht-degree: 91%
    + Mobiel {#mobile}
       + Sms{#sms}
          + [Een sms-levering maken](/help/communication-channels/mobile/sms/sms-delivery.md)
-         + [Een meertalige e-mail- of sms-levering maken](/help/communication-channels/create-multilingual-deliveries.md)
-         + [Een bestaande e-mail, SMS-levering of sjabloon converteren naar meertalig](/help/communication-channels/covert-into-multilingual-deliveries.md)
+         + [Een bestaande e-mail, sms-levering of sjabloon converteren naar meertalig](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + Pushmeldingen {#push}
          + [Een pushmelding maken](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
          + [Een meertalige pushmelding maken](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
@@ -87,7 +86,6 @@ ht-degree: 91%
    + [Productvermeldingen configureren in transactie-e-mails](/help/designing-content/product-listings-in-transactional-email.md)
 + Processen en data beheren {#managing-processes-and-data}
    + [Een workflow maken](/help/managing-processes-and-data/create-workflow.md)
-   + [Profielen importeren met een workflow](/help/managing-processes-and-data/importing-profiles.md)
    + Uitvoeringsactiviteiten {#execution-activities}
       + [Externe signaalactiviteit](/help/managing-processes-and-data/execution-activities/external-signal-activity.md)
    + Activiteiten voor data management{#data-management-activities}
@@ -109,7 +107,6 @@ ht-degree: 91%
       + [Verbinding maken met een SFTP-server](/help/administrating/control-panel/connect-to-sftp-server.md)
       + [Subdomeinen delegeren](/help/administrating/control-panel/subdomain-delegation.md)
       + [SSL-certificaten toevoegen](/help/administrating/control-panel/adding-ssl-certificates.md)
-      + [SSL-certificaten beheren](/help/administrating/control-panel/managing-ssl-certificates.md)
       + [Beheer van Google-TXT-records](/help/administrating/control-panel/google-txt-record-management.md)
       + GPG-sleutelbeheer {#gpg-key-management}
          + [GPG-sleutelbeheer - overzicht](/help/administrating/control-panel/gpg-key-management/gpg-key-management-overview.md)
@@ -133,5 +130,3 @@ ht-degree: 91%
    + [Aangepaste bronnen voor privacyaanvragen wijzigen](/help/privacy/custom-resources-for-privacy-requests.md)
    + [Privacyaanvragen handmatig maken en bijhouden](/help/privacy/create-and-track-privacy-requests.md)
    + [Privacyaanvragen uitvoeren](/help/privacy/execute-privacy-requests.md)
-+ [Handleiding voor beste praktijken voor Adobe Campaign-levering](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/deliverability-best-practice-guide/introduction.html)
-

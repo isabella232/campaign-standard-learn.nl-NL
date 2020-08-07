@@ -1,6 +1,6 @@
 ---
 title: Beheer van Google-TXT-records
-description: U kunt een Google TXT-site-verificatierecord toevoegen aan al uw subdomeinen die worden gebruikt om e-mails naar GMAIL-adressen te verzenden via het Configuratiescherm voor Campagne.
+description: U kunt een Google-TXT-record voor websiteverificatie toevoegen aan al uw subdomeinen die worden gebruikt om e-mails naar GMAIL-adressen te verzenden via het Configuratiescherm van Campaign.
 feature: Google TXT record management
 topics: Control Panel
 kt: 4744
@@ -11,19 +11,19 @@ translation-type: tm+mt
 source-git-commit: f0d95ab02496a9caa6b79a2c536ce9b7090da943
 workflow-type: tm+mt
 source-wordcount: '120'
-ht-degree: 24%
+ht-degree: 100%
 
 ---
 
 
 # [!DNL Google] TXT-recordbeheer
 
-To ensure high inbox rates and low spam rates, some services like [!DNL Google] require that you add a TXT record to your domain setting to verify that you own the domain. TXT-records zijn DNS-records die worden gebruikt om tekstgegevens over een domein te verstrekken en die kunnen worden gelezen door externe bronnen.
+Om hoge inboxpercentages en lage spampercentages te waarborgen, vereisen sommige services zoals [!DNL Google] dat u een TXT-record aan uw domeininstelling toevoegt om te verifiëren dat u het domein bezit. TXT-records zijn DNS-records die worden gebruikt om tekstdata over een domein te verstrekken die kunnen worden gelezen door externe bronnen.
 
-In de onderstaande video ziet u hoe u [!DNL Google] TXT-siteverificatierecords kunt toevoegen aan al uw subdomeinen die worden gebruikt om e-mails naar GMAIL-adressen te verzenden [!UICONTROL Campaign Control Panel].
+In de onderstaande video ziet u hoe u [!DNL Google] TXT-siteverificatierecords kunt toevoegen aan al uw subdomeinen die worden gebruikt om e-mails naar GMAIL-adressen te verzenden met [!UICONTROL Campaign Control Panel].
 
 >[!VIDEO](https://video.tv.adobe.com/v/32369?quality=12)
 
 ## Aanvullende bronnen
 
-* [Documentatie](https://docs.adobe.com/content/help/en/control-panel/using/subdomains-and-certificates/managing-txt-records.html)
+* [Documentatie](https://docs.adobe.com/content/help/nl-NL/control-panel/using/subdomains-and-certificates/managing-txt-records.html)

@@ -8,9 +8,9 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: db20c4e6aeb10dc04a6c4556fefaa8cd18366c44
+source-git-commit: 906b1d76e4723b50e2d06f6525763bbd73b98e10
 workflow-type: tm+mt
-source-wordcount: '386'
+source-wordcount: '364'
 ht-degree: 100%
 
 ---
@@ -71,9 +71,7 @@ De volgende video laat zien hoe u een beheerder aan een Campaign-instantie kunt 
 * **[SSL-certificaten toevoegen](/help/administrating/control-panel/adding-ssl-certificates.md)**
 
    *Leer hoe u SSL-certificaten kunt toevoegen om uw subdomeinen te beveiligen.*
-* **[SSL-certificaten beheren](/help/administrating/control-panel/managing-ssl-certificates.md)**
 
-   *Leer hoe u de status van de SSL-certificaten van uw subdomeinen kunt bekijken en verlengingen kunt aanvragen.*
 * **[Beheer van Google-TXT-records](/help/administrating/control-panel/google-txt-record-management.md)**
 
    *Leer hoe u een Google-TXT-record voor websiteverificatie toevoegt aan al uw subdomeinen die worden gebruikt om e-mails naar GMAIL-adressen te verzenden via het Configuratiescherm van Campaign.*

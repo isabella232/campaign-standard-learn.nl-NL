@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: f0d95ab02496a9caa6b79a2c536ce9b7090da943
 workflow-type: tm+mt
 source-wordcount: '51'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
@@ -24,6 +24,6 @@ In deze video wordt uitgelegd welke Adobe Campaign Standard-functies uw marketin
 
 ## Aanvullende bronnen
 
-* [In-app berichten met Adobe Campaign](/help/communication-channels/mobile/in-app/in-app-message-overview.md)
-* [Een push maken is geen](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
-* [Leveringen via SMS](/help/communication-channels/mobile/sms/sms-delivery.md)
+* [In-app-berichten met Adobe Campaign](/help/communication-channels/mobile/in-app/in-app-message-overview.md)
+* [Een pushmelding maken](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
+* [Sms-leveringen](/help/communication-channels/mobile/sms/sms-delivery.md)

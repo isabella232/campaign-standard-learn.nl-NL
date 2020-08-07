@@ -1,6 +1,6 @@
 ---
-title: Problemen met het openen van het regelpaneel
-description: Met het Configuratiescherm kunt u uw SFTP-opslag op instantie en IP-adressen van lijsten van gewenste personen controleren en beheren.
+title: Problemen oplossen met het Configuratiescherm
+description: Met het Configuratiescherm kunt u uw SFTP-opslag per instantie controleren en beheren en IP-adressen op lijsten van gewenste adressen plaatsen.
 feature: Control Panel
 topics: null
 kt: 2938
@@ -10,63 +10,63 @@ team: PM
 translation-type: tm+mt
 source-git-commit: 2f0527f3d9e2248eea68079e00855cce7a96fce4
 workflow-type: tm+mt
-source-wordcount: '330'
-ht-degree: 1%
+source-wordcount: '327'
+ht-degree: 99%
 
 ---
 
 
-# Probleemoplossing voor het [!UICONTROL-configuratiescherm]
+# Het oplossen van problemen [!UICONTROL Control Panel]
 
-Leer hoe u problemen kunt oplossen wanneer u het Configuratiescherm gebruikt.
+Leer hoe u problemen met het gebruik van het Configuratiescherm kunt oplossen.
 
-## Aanmelding en homepage
+## Aanmelding en startpagina
 
-Problemen met aanmelding en homepage.
+Problemen met aanmelding en de startpagina.
 
-### Symptoom: Aanmelden bij Adobe Experience Cloud is niet mogelijk
+### Probleem: Kan niet aanmelden bij Adobe Experience Cloud
 
-**Wat moet u doen:**
-De gebruiker moet hun [!DNL IMS Org ID] (xxx) vinden. De beheerder moet de gebruiker aan [!UICONTROL product profile] [!DNL “Campaign-xxx-Admins”] voor elke instantie toevoegen die zij zouden willen beheren. Als de gebruiker een beheerder van alle instanties is zouden zij nog kunnen moeten toevoegen als *[!UICONTROL user]*.
+**Oplossing:**
+De gebruiker moet zijn of haar [!DNL IMS Org ID] (xxx) opzoeken. De beheerder moet de gebruiker toevoegen aan het [!UICONTROL product profile] [!DNL “Campaign-xxx-Admins”] voor elke instantie die de gebruiker wil beheren. Als de gebruiker een beheerder van alle instanties is, moet hij of zij zichzelf mogelijk toch nog toevoegen als *[!UICONTROL user]*.
 
-### Symptoom: Koppelingen in het [!UICONTROL Adobe Experience Cloud Home] toegangspunt [!UICONTROL Control Panel] worden niet weergegeven voor een gebruiker
+### Probleem: Gebruiker ziet de koppelingen in [!UICONTROL Adobe Experience Cloud Home] voor toegang tot het [!UICONTROL Control Panel] niet
 
 **Oorzaak:**
 Gebruikers zien de koppelingen pas nadat ze als gebruikers zijn toegevoegd aan [!UICONTROL product profile] `Campaign-xxx-Administrators/Admin`
 
-**Wat moet u doen:**
-De beheerder moet de gebruiker aan [!UICONTROL product profile] *[!DNL Campaign-xxx-Admins]* voor elke instantie toevoegen die zij zouden willen beheren. Als de gebruiker een beheerder van alle instanties is zouden zij nog kunnen moeten toevoegen als *[!UICONTROL user]*.
+**Oplossing:**
+De beheerder moet de gebruiker toevoegen aan het [!UICONTROL product profile] *[!DNL Campaign-xxx-Admins]* voor elke instantie die de gebruiker wil beheren. Als de gebruiker een beheerder van alle instanties is, moet hij of zij zichzelf mogelijk toch nog toevoegen als *[!UICONTROL user]*.
 
-### Symptoom: Een instantie wordt niet vermeld in het dialoogvenster [!UICONTROL Control Panel]
+### Probleem: Een instantie wordt niet vermeld in het [!UICONTROL Control Panel]
 
 **Oorzaak:**
-De meest waarschijnlijke gebruiker moet worden toegevoegd als een *[!UICONTROL user]* productprofiel `!DNL Campaign-xxx-Administrators/Admin` voor de instantie die ontbreekt
+Waarschijnlijk moet de gebruiker worden toegevoegd als een *[!UICONTROL user]* Productprofiel`!DNL Campaign-xxx-Administrators/Admin` voor de instantie die ontbreekt
 
-**Wat moet u doen:**
-De beheerder moet de gebruiker aan het Profiel van het Product `Campaign-xxx-Admins` voor elke instantie toevoegen die zij willen beheren. Als de gebruiker een beheerder van alle instanties is zouden zij nog kunnen moeten toevoegen als *[!UICONTROL user]*.
+**Oplossing:**
+De beheerder moet de gebruiker toevoegen aan het Productprofiel `Campaign-xxx-Admins` voor elke instantie die de gebruiker wil beheren. Als de gebruiker een beheerder van alle instanties is, moet hij of zij zichzelf mogelijk toch nog toevoegen als *[!UICONTROL user]*.
 
-### Nuttige video&#39;s
+### Nuttige video’s
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
-*Controle[!DNL IMS Org ID](00:26 min)*
+*Controleer[!DNL IMS Org ID](00:26 min)*
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
-*Hoe te om een beheerder aan toe te voegen[!UICONTROL product profile]om te kunnen gebruiken *[!DNL administrators]*[!UICONTROL Control Panel](01:03 min)*
+*Een beheerder toevoegen aan het[!UICONTROL product profile]*[!DNL administrators]*om het[!UICONTROL Control Panel]te kunnen gebruiken (01:03 min)*
 
-### Nuttige documentatie
+### Handige documentatie
 
-* [Ontdek de [!UICONTROL Control Panel]](https://helpx.adobe.com/campaign/kb/control-panel-overview.html)
-* [Machtigingen beheren voor de [!UICONTROL Control Panel]](https://helpx.adobe.com/campaign/kb/control-panel-access.html)
+* [Het [!UICONTROL Control Panel] ontdekken](https://docs.adobe.com/content/help/nl-NL/control-panel/using/control-panel-home.html)
+* [Toestemmingen beheren voor het [!UICONTROL Control Panel]](https://docs.adobe.com/content/help/nl-NL/control-panel/using/control-panel-home.html)
 
 ## Verbinding met SFTP-server tot stand brengen (client of API)
 
 Voor verbinding met SFTP-servers is het volgende vereist:
 
-* [!UICONTROL allow listing] het IP-adres waarvan u verbinding maakt met de SFTP-server
-* Persoonlijk/openbaar sleutelpaar dat bij Adobe Campaign moet worden geregistreerd
+* [!UICONTROL allow listing] van het IP-adres waarvandaan u verbinding maakt met SFTP-server
+* Persoonlijk/openbaar sleutelpaar dat bij Adobe Campaign is geregistreerd
 * Als u rechtstreeks verbinding maakt met de SFTP-server, hebt u ook SFTP-clientsoftware nodig
 
-### Nuttige documentatie
+### Handige documentatie
 
-* [Aanmelden bij uw SFTP-server](https://helpx.adobe.com/campaign/kb/control-panel-sftp.html#LoggingintoyourSFTPserver)
+* [Aanmelden bij uw SFTP-server](https://docs.adobe.com/content/help/nl-NL/control-panel/using/control-panel-home.html#LoggingintoyourSFTPserver)
 

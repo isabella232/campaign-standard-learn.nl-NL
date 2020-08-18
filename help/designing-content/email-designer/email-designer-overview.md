@@ -3,15 +3,15 @@ title: Overzicht van E-mailDesigner
 description: In deze video wordt uitgelegd wat de algemene functionaliteit van e-mailontwerper is en hoe u een e-mailbericht helemaal vanaf het begin kunt ontwerpen. Deze pagina bevat een overzicht van alle beschikbare video's met functies voor de Adobe Campaign-e-mailontwerper
 feature: Email Designer
 topics: Content Creation
-kt: 2391
+kt: null
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 58fd8bec8adfca14188ea66423c107a14253834e
+source-git-commit: d4819df4d0ed07955881cd157ec4caf7da847e96
 workflow-type: tm+mt
-source-wordcount: '151'
-ht-degree: 0%
+source-wordcount: '137'
+ht-degree: 10%
 
 ---
 
@@ -24,18 +24,13 @@ Deze video geeft u een uitgebreid overzicht van de functionaliteit en het gebrui
 
 >[!VIDEO](https://video.tv.adobe.com/v/22771?quality=12)
 
-## Aan de slag met de [!UICONTROL Email Designer]
-
-In deze video wordt uitgelegd wat de algemene functionaliteit van de e-mail is [!UICONTROL Email Designer] en hoe u een geheel nieuwe e-mail kunt ontwerpen.
-
->[!VIDEO](https://video.tv.adobe.com/v/25912?quality=12)
-
 ## Tutorials
 
 De volgende gedetailleerde zelfstudies zijn beschikbaar:
 
+* [Aan de slag met e-mailontwerper](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
 * [Inhoudssjablonen](/help/designing-content/email-designer/email-content-templates.md)
 * [De mobiele weergave configureren](/help/designing-content/email-designer/configure-the-mobile-view.md)
 * [Een voorbeeld van uw e-mail bekijken](/help/designing-content/email-designer/preview-your-email.md)
-* [Werken met bestaande inhoud](/help/designing-content/email-designer/working-with-existing-content.md)
-* [Inhoud maken met Adobe Dreamweaver](/help/designing-content/email-designer/dreamweaver-integration.md)
+* [Werken met bestaande content](/help/designing-content/email-designer/working-with-existing-content.md)
+* [Content maken met Adobe Dreamweaver](/help/designing-content/email-designer/dreamweaver-integration.md)

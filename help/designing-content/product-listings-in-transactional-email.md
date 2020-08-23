@@ -1,5 +1,5 @@
 ---
-title: Productaanbiedingen configureren in transactie-e-mails
+title: Productvermeldingen configureren in transactie-e-mails
 description: In de video's worden de stappen beschreven die nodig zijn om productlijsten in transactie-e-mails in Adobe Campaign Standard (ACS) te configureren.
 feature: Transactional Emails
 topics: Content Creation
@@ -8,10 +8,10 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 39e7f9fc2a6631ebc5f2555dad651a72464e4344
+source-git-commit: bbe5f985ae791f55e94c7369fbf1aefcfd9d2b76
 workflow-type: tm+mt
-source-wordcount: '175'
-ht-degree: 1%
+source-wordcount: '174'
+ht-degree: 4%
 
 ---
 
@@ -22,7 +22,7 @@ U kunt een e-mailbericht configureren dat een lijst met producten bevat die onbe
 
 De volgende video&#39;s verklaren de stappen die worden vereist om [!UICONTROL product listings] binnen te vormen [!UICONTROL transactional emails].
 
->[OPMERKING]
+>[!NOTE]
 >
 >Deze functie wordt momenteel in de video&#39;s Loop genoemd.
 
@@ -38,7 +38,7 @@ De volgende video&#39;s verklaren de stappen die worden vereist om [!UICONTROL p
 
 >[!VIDEO](https://video.tv.adobe.com/v/25916?quality=12)
 
-## Aanvullende bronnen
+## Aanvullende resources
 
 * [Productaanbiedingen gebruiken in een transactiebericht (documentatie)](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/transactional-messaging/event-transactional-messages.html#using-product-listings-in-a-transactional-message)
 * [Gegevensverzamelingen definiëren (documentatie)](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/configuring-channels/configuring-transactional-messaging.html#defining-data-collections)

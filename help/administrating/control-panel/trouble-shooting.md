@@ -8,15 +8,15 @@ doc-type: article
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 2f0527f3d9e2248eea68079e00855cce7a96fce4
+source-git-commit: 2fd2e62663f4b09ce7afc6387b53e194fbcafde8
 workflow-type: tm+mt
-source-wordcount: '330'
-ht-degree: 100%
+source-wordcount: '327'
+ht-degree: 99%
 
 ---
 
 
-# Problemen oplossen met het 
+# Het oplossen van problemen [!UICONTROL Control Panel]
 
 Leer hoe u problemen met het gebruik van het Configuratiescherm kunt oplossen.
 
@@ -40,7 +40,7 @@ De beheerder moet de gebruiker toevoegen aan het [!UICONTROL product profile] *[
 ### Probleem: Een instantie wordt niet vermeld in het [!UICONTROL Control Panel]
 
 **Oorzaak:**
-Waarschijnlijk moet de gebruiker worden toegevoegd als een *[!UICONTROL user]* Productprofiel`!DNL Campaign-xxx-Administrators/Admin` voor de instantie die ontbreekt
+Waarschijnlijk moet de gebruiker worden toegevoegd als een *[!UICONTROL user]* Productprofiel`Campaign-xxx-Administrators/Admin` voor de instantie die ontbreekt
 
 **Oplossing:**
 De beheerder moet de gebruiker toevoegen aan het Productprofiel `Campaign-xxx-Admins` voor elke instantie die de gebruiker wil beheren. Als de gebruiker een beheerder van alle instanties is, moet hij of zij zichzelf mogelijk toch nog toevoegen als *[!UICONTROL user]*.
@@ -55,15 +55,15 @@ De beheerder moet de gebruiker toevoegen aan het Productprofiel `Campaign-xxx-Ad
 
 ### Handige documentatie
 
-* [Het [!UICONTROL Control Panel] ontdekken](https://docs.adobe.com/content/help/nl-NL/control-panel/using/control-panel-home.html)
-* [Toestemmingen beheren voor het [!UICONTROL Control Panel]](https://docs.adobe.com/content/help/nl-NL/control-panel/using/control-panel-home.html)
+* [Het [!UICONTROL Control Panel] ontdekken](https://helpx.adobe.com/nl/campaign/kb/control-panel-overview.html)
+* [Toestemmingen beheren voor het [!UICONTROL Control Panel]](https://helpx.adobe.com/nl/campaign/kb/control-panel-access.html)
 
 ## Verbinding met SFTP-server tot stand brengen (client of API)
 
 Voor verbinding met SFTP-servers is het volgende vereist:
 
-* [!UICONTROL allow listing] van het IP-adres waarvandaan u verbinding maakt met SFTP-server
-* Persoonlijk/openbaar sleutelpaar dat bij Adobe Campaign is geregistreerd
+* [!UICONTROL allow listing] het IP-adres waarvan u verbinding maakt met de SFTP-server
+* Privé/openbaar sleutelpaar dat bij Adobe Campaign moet worden geregistreerd
 * Als u rechtstreeks verbinding maakt met de SFTP-server, hebt u ook SFTP-clientsoftware nodig
 
 ### Handige documentatie

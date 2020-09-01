@@ -29,6 +29,7 @@ ht-degree: 94%
    + [Hiërarchie- en marketingactiviteiten verkennen](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
    + [Campagnes beheren](/help/getting-started/managing-campaigns.md)
    + [Inzicht in profielen en doelgroepen](/help/getting-started/understanding-profiles-and-audiences.md)
+   + [Create and email](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
    + [Een workflow maken](/help/managing-processes-and-data/create-workflow.md)
    + [Inleiding tot rapportage](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
    + [Mobiele marketing met Adobe Campaign](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
@@ -78,6 +79,7 @@ ht-degree: 94%
 + Content ontwerpen en personaliseren {#designing-content}
    + Email Designer{#email-designer}
       + [Overzicht](/help/designing-content/email-designer/email-designer-overview.md)
+      + [Getting started with the Email Designer](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
       + [Inleiding tot sjablonen voor e-mailcontent](/help/designing-content/email-designer/email-content-templates.md)
       + [De mobiele weergave configureren](/help/designing-content/email-designer/configure-the-mobile-view.md)
       + [Een voorbeeld van uw e-mail- en antispamanalyse bekijken](/help/designing-content/email-designer/preview-your-email.md)

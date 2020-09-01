@@ -46,7 +46,7 @@ Voordat u aan de slag gaat, moet u aan de volgende voorwaarden voldoen:
 U moet uw [!DNL IMS org ID] weten. In de volgende video wordt beschreven waar u de [!DNL IMS org ID] van uw instantie kunt vinden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
-*Controleer[!DNL IMS Org ID](00:26 min)*
+*Controleer[!DNL IMS Org ID] (00:26 min)*
 
 ### Beheerdersrechten
 

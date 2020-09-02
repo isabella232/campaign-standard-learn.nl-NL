@@ -8,12 +8,11 @@ tutorials-title: Tutorials
 tutorials-url: https://docs.adobe.com/content/help/nl-NL/campaign-standard-learn/tutorials/overview.html
 getting-started-title: Documentatie
 getting-started-url: https://docs.adobe.com/content/help/nl-NL/campaign-standard/using/campaign-standard-home.html
-type: Tutorial
 translation-type: tm+mt
 source-git-commit: 5d176b2df0da17dd66c6b2990b9da051296fd508
 workflow-type: tm+mt
-source-wordcount: '519'
-ht-degree: 96%
+source-wordcount: '514'
+ht-degree: 94%
 
 ---
 
@@ -30,7 +29,6 @@ ht-degree: 96%
    + [Hiërarchie- en marketingactiviteiten verkennen](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
    + [Campagnes beheren](/help/getting-started/managing-campaigns.md)
    + [Inzicht in profielen en doelgroepen](/help/getting-started/understanding-profiles-and-audiences.md)
-   + [Maken en e-mailen](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
    + [Een workflow maken](/help/managing-processes-and-data/create-workflow.md)
    + [Inleiding tot rapportage](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
    + [Mobiele marketing met Adobe Campaign](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
@@ -51,7 +49,7 @@ ht-degree: 96%
       + [Een e-mail maken](/help/communication-channels/email/create-email-from-homepage.md)
       + [Een test verzenden, een e-mail voorbereiden en verzenden](/help/communication-channels/email/sending-test-preparing-sending-email.md)
       + [Een meertalige e-mail- of sms-levering maken](/help/communication-channels/create-multilingual-deliveries.md)
-      + [Een bestaande e-mail, sms-levering of sjabloon converteren naar meertalig](/help/communication-channels/covert-into-multilingual-deliveries.md)
+      + [Een bestaande e-mail, SMS-levering of sjabloon converteren naar meertalig](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [A/B-tests](/help/communication-channels/email/a-b-testing.md)
       + [E-mailberichten testen met doelprofielen](/help/communication-channels/email/profile-substitution.md)
       + [Een e-maillevering en rapporten reviewen](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
@@ -80,7 +78,6 @@ ht-degree: 96%
 + Content ontwerpen en personaliseren {#designing-content}
    + Email Designer{#email-designer}
       + [Overzicht](/help/designing-content/email-designer/email-designer-overview.md)
-      + [Aan de slag met e-mailontwerper](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
       + [Inleiding tot sjablonen voor e-mailcontent](/help/designing-content/email-designer/email-content-templates.md)
       + [De mobiele weergave configureren](/help/designing-content/email-designer/configure-the-mobile-view.md)
       + [Een voorbeeld van uw e-mail- en antispamanalyse bekijken](/help/designing-content/email-designer/preview-your-email.md)
@@ -98,7 +95,7 @@ ht-degree: 96%
    + [Een dynamisch rapport maken](/help/reporting/creating-a-dynamic-report.md)
    + [Een rapport maken op basis van aangepaste profielkenmerken](/help/reporting/custom-profile-attributes-dynamic-reports.md)
    + [Een rapport maken op basis van workflowsegmenten](/help/reporting/report-on-workflow-segments.md)
-+ {#developing} ontwikkelen
++ Ontwikkelen {#developing}
    + Aangepaste bronnen {#custom-resources-develop}
       + [Aangepaste bronnen maken](/help/managing-processes-and-data/custom-resources/creating-custom-resources.md)
 + Beheer {#administrating}
@@ -133,3 +130,5 @@ ht-degree: 96%
    + [Aangepaste bronnen voor privacyaanvragen wijzigen](/help/privacy/custom-resources-for-privacy-requests.md)
    + [Privacyaanvragen handmatig maken en bijhouden](/help/privacy/create-and-track-privacy-requests.md)
    + [Privacyaanvragen uitvoeren](/help/privacy/execute-privacy-requests.md)
++ [Handleiding voor beste praktijken voor Adobe Campaign-levering](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/deliverability-best-practice-guide/introduction.html)
+

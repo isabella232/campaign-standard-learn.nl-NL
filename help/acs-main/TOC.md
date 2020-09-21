@@ -11,10 +11,10 @@ getting-started-title: Documentatie
 getting-started-url: https://docs.adobe.com/content/help/nl-NL/campaign-standard/using/campaign-standard-home.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: 94c15068a733b95a41201cd2a451d2adea4b9c29
+source-git-commit: 06a4a418906d4bf74cad5faf809bea086537bbd3
 workflow-type: tm+mt
-source-wordcount: '519'
-ht-degree: 96%
+source-wordcount: '536'
+ht-degree: 93%
 
 ---
 
@@ -51,12 +51,16 @@ ht-degree: 96%
    + E-mail {#email}
       + [Een e-mail maken](/help/communication-channels/email/create-email-from-homepage.md)
       + [Een test verzenden, een e-mail voorbereiden en verzenden](/help/communication-channels/email/sending-test-preparing-sending-email.md)
-      + [Een meertalige e-mail- of sms-levering maken](/help/communication-channels/create-multilingual-deliveries.md)
-      + [Een bestaande e-mail, sms-levering of sjabloon converteren naar meertalig](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [A/B-tests](/help/communication-channels/email/a-b-testing.md)
       + [E-mailberichten testen met doelprofielen](/help/communication-channels/email/profile-substitution.md)
+      + [Een controlegroep toevoegen aan een levering](/help/communication-channels/email/control-groups.md)
+      + [Een meertalige e-mail- of sms-levering maken](/help/communication-channels/create-multilingual-deliveries.md)
+      + [Een bestaande e-mail, sms-levering of sjabloon converteren naar meertalig](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [Een e-maillevering en rapporten reviewen](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
       + [E-mails maken en verzenden via een workflow](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
+      + E-mails met AI-mogelijkheden {#journey-ai}
+         + [Optimalisatie van verzendtijd](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)
+         + [Predictieve betrokkenheidsscoring](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)
    + Mobiel {#mobile}
       + Sms{#sms}
          + [Een sms-levering maken](/help/communication-channels/mobile/sms/sms-delivery.md)

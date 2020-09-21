@@ -3,10 +3,10 @@ title: Adobe Campaign Standard-tutorials - overzicht
 description: Adobe Campaign biedt een platform voor het ontwerpen van kanaaloverschrijdende klantervaringen en biedt een omgeving voor visuele campagnelay-out, real-time interactiebeheer en kanaaloverschrijdende uitvoering. Deze gebruikershandleiding bevat video’s en tutorials over de vele functies en mogelijkheden van Adobe Campaign Standard.
 products: SG_CAMPAIGN/STANDARD
 translation-type: tm+mt
-source-git-commit: 9b1d8c5fb895d84da14a0402ec1f130b90a991b0
+source-git-commit: 106645d51da04a8457c73096865329bd0b87381d
 workflow-type: tm+mt
-source-wordcount: '280'
-ht-degree: 100%
+source-wordcount: '318'
+ht-degree: 62%
 
 ---
 
@@ -17,13 +17,17 @@ Adobe Campaign biedt een platform voor het ontwerpen van kanaaloverschrijdende k
 
 ## Nieuwe functies
 
-* **[GPG-sleutelbeheer](/help/administrating/control-panel/gpg-key-management/gpg-key-management-overview.md)**
+* **[Controlegroepen toevoegen aan een levering](/help/communication-channels/email/control-groups.md)**
 
-   *Leer hoe u een persoonlijk/openbaar sleutelpaar kunt genereren en installeren in een opgegeven Campaign-instantie voor de codering van uitgaande data. Ook wordt uitgelegd hoe u een openbare sleutel kunt importeren en installeren in een Campaign-instantie voor de decodering van binnenkomende data.*
+   *Leer hoe u een document maakt[!UICONTROL control group]wanneer u het doel van de levering definieert.*
 
-* **[Externe API-activiteit](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)**
+* **[Optimalisatie van verzendtijd](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)**
 
-   *Leer hoe u een workflow configureert en uitvoert met de externe API-activiteit.*
+   *Begrijp welke werkschema&#39;s worden vereist om gegevens tussen Adobe Campaign en het model van Journey AI te synchroniseren. Leer hoe u de verzendtijdscores weergeeft op het niveau van elk afzonderlijk profiel en hoe u e-mailleveringen uitvoert met een verzendtijdformule.*
+
+* **[Predictieve betrokkenheidsscoring](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)**
+
+   *Leer hoe u de betrokkenheidsscores op het individuele profielniveau kunt weergeven, scores kunt gebruiken voor betrokken gebruikers en moedige gebruikers kunt onderdrukken en hoe u typologische regels kunt maken om de moeheid van de klant te beheren.*
 
 ## Aanbevolen door medewerkers van Adobe
 
@@ -43,16 +47,16 @@ Adobe Campaign biedt een platform voor het ontwerpen van kanaaloverschrijdende k
     <p>
   </td>
    <td>
-    <a href="./designing-content/email-designer/email-designer-overview.md">
-      <img alt="Email Designer (video’s)" src="./assets/email_designer_tutorial.png" />
+    <a href="./administrating/control-panel/control-panel-overview.md">
+      <img alt="Deelvenster Beheer (video's)" src="./assets/control-panel.png" />
     </a>
     <div>
-      <a href="./designing-content/email-designer/email-designer-overview.md">
-    <strong>Email Designer (video’s)</strong>
+    <a href="./administrating/control-panel/control-panel-overview.md">
+    <strong>Deelvenster Beheer (video's)</strong>
     </a>
     </div>
     <p>
-    <em>Met de Email Designer kunt u snel en moeiteloos op visuele wijze individuele, gepersonaliseerde e-mails maken.</em>
+    <em> Verhoog uw efficiëntie als beheerder door instellingen te beheren en het gebruik van uw instanties te volgen met het Configuratiescherm.</em>
     <p>
   </td>
   <td>

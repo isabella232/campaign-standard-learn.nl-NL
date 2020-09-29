@@ -1,5 +1,5 @@
 ---
-title: Creeer een nieuw publiek gebruikend de Verenigde Bouwer van het Segment
+title: Een nieuwe doelgroep maken met de Unified Segment Builder
 description: null
 feature: Audience Destinations
 topics: ACOP
@@ -8,15 +8,15 @@ doc-type: feature video
 activity: using
 team: PM
 translation-type: tm+mt
-source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
+source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
 workflow-type: tm+mt
 source-wordcount: '225'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
 
-# Creeer een nieuw publiek gebruikend de Verenigde Bouwer van het Segment
+# Een nieuwe doelgroep maken met de Unified Segment Builder
 
 >[!NOTE]
 >
@@ -34,7 +34,7 @@ In de onderstaande video wordt uitgelegd hoe u een nieuw publiek maakt met [!UIC
 
 *Hoe te om een nieuw publiek in Adobe Campaign Standard tot stand te brengen gebruikend de Verenigde Bouwer van het Segment (min 02:47)*
 
-## Aanvullende bronnen
+## Aanvullende resources
 
 Documentatie:
 

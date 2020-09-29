@@ -8,9 +8,9 @@ doc-type: tutorial
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: c3ff1a137fb8ee9506a11f82e1a27d010bbd97e6
+source-git-commit: 13b4f1d395dfe53f9fc5263e7b06be700e30b986
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -26,6 +26,10 @@ Zo vertelt u de gebruiker dat er iets op de achtergrond is gebeurd:
 * Klik met de rechtermuisknop op de pakketmap ([!DNL com.example.acspushtutorial]) en [!DNL New ->Java Class]
 * Noem deze klasse *[!DNL MyService]* en zorg ervoor het uitbreidt [!DNL FirebaseMessagingService]
 * Maak *[!DNL sendNotification]* methode in deze klasse. In deze methode moet u de inhoud en het kanaal van het bericht instellen met een [!DNL NotificationCompat.Builder] object. Om het bericht te maken verschijnen, vraag [!DNL NotificationManagerCompat.notify()], die het een unieke identiteitskaart voor het bericht en het resultaat van [!DNL NotificationCompat.Builder.build()]. overgaat
+
+<!--
+Removed `{.line-numbers}` below
+-->
 
 ```java
 package com.example.pushmessaging;
@@ -91,6 +95,10 @@ notificationManager.notify(0 /* ID of notification */, notificationBuilder.build
 ## Wijzigen [!DNL AndroidManifest.xml]
 
 Voeg de service toe die u hebt gemaakt. [!DNL AndroidManifest.xml] De uiteindelijke afbeelding [!DNL AndroidManifest.xml] moet er als volgt uitzien:
+
+<!--
+Removed `{.line-numbers}` below
+-->
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>

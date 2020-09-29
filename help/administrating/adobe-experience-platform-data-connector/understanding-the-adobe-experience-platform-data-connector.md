@@ -1,5 +1,5 @@
 ---
-title: Adobe Experience Platform Data Connector
+title: Inzicht in de Adobe Experience Platform-dataconnector
 description: Adobe Experience Platform Data Connector helpt bestaande klanten hun gegevens op Adobe Experience Platform beschikbaar te maken door XTK-gegevens (gegevens die in Campaign worden opgenomen) toe te wijzen aan XDM-gegevens (Experience Data Model) op Adobe Experience Platform.
 feature: Adobe Experience Platform Data Connector
 topics: ACoP
@@ -8,10 +8,10 @@ doc-type: feature video
 activity: understand
 team: TM
 translation-type: tm+mt
-source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
+source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
 workflow-type: tm+mt
 source-wordcount: '343'
-ht-degree: 4%
+ht-degree: 10%
 
 ---
 
@@ -47,12 +47,12 @@ Adobe Experience Platform [!UICONTROL Data Connector] is bedoeld voor gegevensen
 De volgende zelfstudies beschrijven de belangrijkste stappen voor het uitvoeren van een gegevenstoewijzing tussen Campaign Standard en Adobe Experience Platform:
 
 1. [Aangepaste bronnen toewijzen](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
-2. [Toewijzingsgebeurtenissen](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
+2. [Experience-gebeurtenissen toewijzen](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
 3. [Tabelgegevens toewijzen](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
 4. [De gegevenstoewijzing wijzigen](/help/administrating/adobe-experience-platform-data-connector/modifying-data-mapping.md)
-5. [De status van taken voor gegevensinvoer controleren](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
+5. [De status van taken voor dataopname controleren](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
 
-## Aanvullende bronnen
+## Aanvullende resources
 
 * [Informatie over de Adobe Experience Platform-gegevensconnector](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-about-data-connector.html)
 * [Overzicht van het ervaringsgegevensmodel](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-data-model-overview.html)

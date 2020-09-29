@@ -8,10 +8,10 @@ doc-type: feature video
 activity: using
 team: TM
 translation-type: tm+mt
-source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
+source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
 workflow-type: tm+mt
 source-wordcount: '165'
-ht-degree: 4%
+ht-degree: 15%
 
 ---
 
@@ -28,7 +28,7 @@ In deze video wordt uitgelegd hoe u de doeldimensie van een levering voor een [!
 
 >[!VIDEO](https://video.tv.adobe.com/v/30151?quality=12)
 
-## Aanvullende bronnen
+## Aanvullende resources
 
 Documentatie:
 
@@ -38,5 +38,5 @@ Documentatie:
 
 Videobronnen:
 
-* [Creeer een nieuw publiek gebruikend de Verenigde Bouwer van het Segment](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+* [Een nieuwe doelgroep maken met de Unified Segment Builder](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
 * [Adobe Experience Platform-publiek activeren in een marketingworkflow](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)

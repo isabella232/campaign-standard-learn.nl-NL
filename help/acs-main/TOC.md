@@ -11,10 +11,10 @@ getting-started-title: Documentatie
 getting-started-url: https://docs.adobe.com/content/help/nl-NL/campaign-standard/using/campaign-standard-home.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: 06a4a418906d4bf74cad5faf809bea086537bbd3
+source-git-commit: 6c88336d9c02faa683973d74ec21e38622afdf3f
 workflow-type: tm+mt
-source-wordcount: '536'
-ht-degree: 93%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -31,13 +31,13 @@ ht-degree: 93%
    + [Hiërarchie- en marketingactiviteiten verkennen](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
    + [Campagnes beheren](/help/getting-started/managing-campaigns.md)
    + [Inzicht in profielen en doelgroepen](/help/getting-started/understanding-profiles-and-audiences.md)
-   + [Maken en e-mailen](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
+   + [Een e-mail maken](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
    + [Een workflow maken](/help/managing-processes-and-data/create-workflow.md)
    + [Inleiding tot rapportage](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
    + [Mobiele marketing met Adobe Campaign](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
    + [Groeien met Adobe Campaign](/help/getting-started/growing-with-adobe-campaign.md)
 + Profielen en doelgroepen{#profiles-and-audiences}
-   + [Profielen en doelgroepen maken - overzicht](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
+   + [Profielen en publiek maken - Overzicht](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
    + [Een profiel maken](/help/profiles-and-audiences/creating-a-profile.md)
    + [Een testprofiel maken](/help/profiles-and-audiences/test-profiles.md)
    + [Profielen importeren met een workflow](/help/managing-processes-and-data/importing-profiles.md)

@@ -4,27 +4,28 @@ description: In het Configuratiescherm van Adobe Campaign kunt u SSL-certificate
 feature: Control Panel
 topics: null
 kt: 4219
+thumbnail: 31317.jpg
 doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
+source-git-commit: d95453ddd484e2cc0c79a347e150a2cecaa73d56
 workflow-type: tm+mt
-source-wordcount: '192'
-ht-degree: 5%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
 # SSL-certificaten toevoegen
 
-[!UICONTROL Adobe Campaign Control Panel] kunt u SSL-certificaten toevoegen om uw subdomeinen te beveiligen.
+In het [!UICONTROL Adobe Campaign Control Panel] van kunt u SSL-certificaten toevoegen om uw subdomeinen te beveiligen.
 
-## Toegang tot [!UICONTROL Control Panel] subdomeinbeheer
+## Toegang tot subdomeinbeheer op het [!UICONTROL Control Panel]
 
-Ga naar [!UICONTROL Control Panel]om toegang te krijgen tot Subdomain Management in:
+Om toegang te krijgen tot subdomeinbeheer in het [!UICONTROL Control Panel] gaat u naar:
 
-* [Experience Cloud Home](https://experience.adobe.com/#/home) > [!UICONTROL Solution picker]: [!DNL Campaign] > **[!UICONTROL Control Panel]** Kaart > [!UICONTROL **Subdomeinen &amp; Certificaten **]kaart
+* [Experience Cloud Home](https://experience.adobe.com/#/home) > [!UICONTROL Solution picker]: [!DNL Campaign] > **[!UICONTROL Control Panel]** Kaart > [!UICONTROL **Subdomeinen &amp; Certificaten**] kaart
 
    of
 * Rechtstreeks via de URL: [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
@@ -35,7 +36,7 @@ Voor het toevoegen van SSL-certificaten zijn drie stappen vereist:
 
 ### Stap 1: Genereren [!UICONTROL Certificate Signing Requests]
 
-De [!UICONTROL Certificate Signing Request] (CSR) is vereist voor de aanschaf van een SSL-certificaat. Het moet voor de instantie en subdomeinen worden geproduceerd u van plan bent te beveiligen.
+The [!UICONTROL Certificate Signing Request] (CSR) is required for the purchase of a SSL certificate. Het moet voor de instantie en subdomeinen worden geproduceerd u van plan bent te beveiligen.
 
 In de onderstaande video wordt beschreven hoe u een [!UICONTROL Certificate Signing Request] insteekmodule kunt genereren [!UICONTROL Control Panel].
 
@@ -57,7 +58,7 @@ In de onderstaande video ziet u hoe u SSL-certificaten kunt installeren in [!UIC
 
 *SSL-certificaten installeren (01:25 min)*
 
-## Aanvullende bronnen
+## Aanvullende resources
 
 * [Subdomeinen delegeren](/help/administrating/control-panel/subdomain-delegation.md)
 * [Subdomeinen en certificaten - Documentatie](https://docs.adobe.com/content/help/nl-NL/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)

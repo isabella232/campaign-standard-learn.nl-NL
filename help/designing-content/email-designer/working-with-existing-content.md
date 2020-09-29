@@ -1,22 +1,22 @@
 ---
-title: Werken met bestaande inhoud
+title: Werken met bestaande content
 description: In deze video wordt uitgelegd hoe u uw creatieve inhoud snel van een website kunt ophalen en in de e-mailontwerper kunt laden.
 feature: Email Designer
 topics: Content Creation
-kt: 1453
+kt: 6295
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: a0943a06cad4c53f35713c733bcedf5eef0df93f
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 
-# Werken met bestaande inhoud{#working-with-existing-content}
+# Werken met bestaande content{#working-with-existing-content}
 
 ## Inhoud van een URL importeren
 

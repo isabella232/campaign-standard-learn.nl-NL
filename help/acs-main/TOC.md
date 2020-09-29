@@ -11,7 +11,7 @@ getting-started-title: Documentatie
 getting-started-url: https://docs.adobe.com/content/help/nl-NL/campaign-standard/using/campaign-standard-home.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: 6c88336d9c02faa683973d74ec21e38622afdf3f
+source-git-commit: bbbfc6d235cd2224ac14a31fbc52142d7481b144
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -64,7 +64,6 @@ ht-degree: 0%
    + Mobiel {#mobile}
       + Sms{#sms}
          + [Een sms-levering maken](/help/communication-channels/mobile/sms/sms-delivery.md)
-         + [Een bestaande e-mail, sms-levering of sjabloon converteren naar meertalig](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + Pushmeldingen {#push}
          + [Een pushmelding maken](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
          + [Een meertalige pushmelding maken](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
@@ -138,3 +137,5 @@ ht-degree: 0%
    + [Aangepaste bronnen voor privacyaanvragen wijzigen](/help/privacy/custom-resources-for-privacy-requests.md)
    + [Privacyaanvragen handmatig maken en bijhouden](/help/privacy/create-and-track-privacy-requests.md)
    + [Privacyaanvragen uitvoeren](/help/privacy/execute-privacy-requests.md)
++ [Handleiding voor beste praktijken voor Adobe Campaign-levering](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/deliverability-best-practice-guide/introduction.html)
+

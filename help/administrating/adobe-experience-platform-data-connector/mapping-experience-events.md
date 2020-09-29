@@ -1,5 +1,5 @@
 ---
-title: Toewijzingsgebeurtenissen
+title: Experience-gebeurtenissen toewijzen
 description: Leer hoe u Experience Events in Adobe Experience Platform (AEP) in kaart brengt
 feature: Adobe Experience Platform Data Connector
 topics: ACoP
@@ -8,10 +8,10 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: f0d95ab02496a9caa6b79a2c536ce9b7090da943
+source-git-commit: b8f093b8e95a451bbf50ce7aca6ca4db35e3a324
 workflow-type: tm+mt
 source-wordcount: '76'
-ht-degree: 7%
+ht-degree: 11%
 
 ---
 
@@ -28,7 +28,7 @@ Leer hoe u [!UICONTROL Experience Events] in Adobe Experience Platform (AEP) kaa
 
 >[!VIDEO](https://video.tv.adobe.com/v/27265?quality=12)
 
-## Aanvullende bronnen
+## Aanvullende resources
 
 * [Toewijzingsdefinitie](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-mapping-definition.html)
 * [Toewijzingsactivering](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-mapping-activation.html)

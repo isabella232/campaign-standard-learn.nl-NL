@@ -8,9 +8,9 @@ doc-type: tutorial
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: c3ff1a137fb8ee9506a11f82e1a27d010bbd97e6
+source-git-commit: 13b4f1d395dfe53f9fc5263e7b06be700e30b986
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -27,6 +27,10 @@ In dit deel integreren we de [!DNL Android] app met [!UICONTROL Mobile SDK]. Voe
 
 * Vouw de [!DNL Gradle Scripts] map uit. Dubbelklik op het [!DNL build.gradle] tabblad van de module. Plak de volgende afhankelijkheden in de sectie voor afhankelijkheden van het [!DNL build.gradle] bestand. Het [!DNL build.gradle] bestand moet er hieronder als volgt uitzien
 
+<!--
+Removed `{.line-numbers}` below
+-->
+
 ```java
 implementation 'com.adobe.marketing.mobile:campaign:1.+'
 implementation 'com.adobe.marketing.mobile:userprofile:1.+'
@@ -41,12 +45,20 @@ implementation 'com.adobe.marketing.mobile:sdk-core:1.+'
 
 Open *AndroidManifest.xml* en plak de volgende twee regels na het manifestelement en vóór het toepassingselement. Hierdoor kan uw app communiceren met externe gebruikers
 
+<!--
+Removed `{.line-numbers}` below
+-->
+
 ```xml
 <uses-permission android:name="android.permission.INTERNET" />
 <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 ```
 
 Kopieer de volgende regel in het toepassingselement[!DNL android:name=".MainApp"]Sla [!DNL AndroidManifest.xml]uw [!DNL AndroidManifest.xml] moet er als volgt uitzien
+
+<!--
+Removed `{.line-numbers}` below
+-->
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>

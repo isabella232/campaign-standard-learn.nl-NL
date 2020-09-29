@@ -8,9 +8,9 @@ doc-type: tutorial
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: c3ff1a137fb8ee9506a11f82e1a27d010bbd97e6
+source-git-commit: 13b4f1d395dfe53f9fc5263e7b06be700e30b986
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -23,6 +23,10 @@ In dit deel voegen we de code toe voor het registreren van de extensies Gebruike
 Open je project in [!DNL Android] studio. Verwijder de gehele code in MainApp **behalve de eerste regel die de pakketinstructie** is.
 
 Plak de volgende code in MainApp
+
+<!--
+Removed `{.line-numbers}` below
+-->
 
 ```java
 import [!DNL android].app.Application;

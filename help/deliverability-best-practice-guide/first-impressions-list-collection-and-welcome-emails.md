@@ -8,7 +8,7 @@ doc-type: article
 activity: understand
 team: TM
 translation-type: tm+mt
-source-git-commit: f797faaf9189f64eb6fc57b84c5e38d4418d5f51
+source-git-commit: 4acbb9129cfa36f4d7d00e5f8abaa32d006eaeac
 workflow-type: tm+mt
 source-wordcount: '2410'
 ht-degree: 0%
@@ -33,7 +33,7 @@ De meest voorkomende vorm van **websiteaanmelding** is &quot;Single opt-in&quot;
 * Niet-bevestigde e-mailadressen kunnen typos hebben of onjuist zijn geformuleerd, onjuist zijn of slecht worden gebruikt. De typos en de misvormde adressen veroorzaken hoge stuittarieven, die en veroorzaken blokken die door ISPs of IP reputatieverlies worden uitgegeven.
 * De kwaadwillige voorlegging van bekende spamvallen (soms genoemd &quot;lijstvergiftiging&quot;) kan enorme problemen met levering en reputatie veroorzaken als de eigenaar van die val actie onderneemt. Het is onmogelijk te weten of de ontvanger zonder bevestiging echt aan een marketinglijst wil worden toegevoegd. Dit maakt het even onmogelijk om de verwachtingen van de ontvanger te bepalen en kan tot verhoogde spamklachten leiden-en soms zwarte lijst als de verzamelde e-mail een spamval toevallig is.
 
-Voor begeleiding op hoe te om de kwesties te minimaliseren die in zowel fysieke opslag als enige opt-in worden voorgesteld, ga naar de sectie [van de Kwaliteit en van de hygiëne van](#data-quality-and-hygiene) Gegevens in deze gids voor de details en de voordelen van dubbele opt-in.
+Voor begeleiding op hoe te om de kwesties te minimaliseren die in zowel fysieke opslag als enige opt-in worden voorgesteld, ga naar de sectie van de Kwaliteit en van de hygiëne van Gegevens in deze gids voor de details en de voordelen van dubbel opt-in.
 
 Abonnees gebruiken vaak wegwerpadressen, verlopen adressen of adressen die niet van hen zijn om te krijgen wat zij van een website willen, maar om te voorkomen dat zij worden toegevoegd aan marketinglijsten. Als dit gebeurt, kunnen lijsten van marketeers resulteren in een groot aantal harde stuiteringen, hoge tarieven voor spamklachten en abonnees die niet klikken, openen of positief reageren op e-mails. Dit kan als rode vlag voor brievenbusleveranciers en ISPs worden gezien.
 

@@ -11,10 +11,10 @@ getting-started-title: Documentatie
 getting-started-url: https://docs.adobe.com/content/help/nl-NL/campaign-standard/using/campaign-standard-home.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: a7eeaf46d27110384c7ddb143927f3a4ed06e2eb
+source-git-commit: bf087838a03c404d3036f0ad9c36f483dff5d4a4
 workflow-type: tm+mt
-source-wordcount: '526'
-ht-degree: 91%
+source-wordcount: '548'
+ht-degree: 94%
 
 ---
 
@@ -25,13 +25,12 @@ ht-degree: 91%
 + Aan de slag {#getting-started}
    + [Overzicht](/help/getting-started/getting-started-overview.md)
    + [Inleiding tot Adobe Campaign Standard](/help/getting-started/adobe-campaign-standard-introduction.md)
-   + [Functioneel overzicht](/help/getting-started/functional-overview.md)
    + [Aan de slag met de gebruikersinterface](/help/getting-started/getting-started-with-the-ui.md)
    + [Een lijst configureren](/help/getting-started/configure-a-list.md)
    + [Hiërarchie- en marketingactiviteiten verkennen](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
    + [Campagnes beheren](/help/getting-started/managing-campaigns.md)
    + [Inzicht in profielen en doelgroepen](/help/getting-started/understanding-profiles-and-audiences.md)
-   + [Een e-mail maken](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
+   + [Een e-mail maken](https://docs.adobe.com/content/help/nl-NL/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
    + [Een workflow maken](/help/managing-processes-and-data/create-workflow.md)
    + [Inleiding tot rapportage](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
    + [Mobiele marketing met Adobe Campaign](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
@@ -59,8 +58,8 @@ ht-degree: 91%
       + [Een e-maillevering en rapporten reviewen](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
       + [E-mails maken en verzenden via een workflow](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
       + E-mails met AI-mogelijkheden {#journey-ai}
-         + [Optimalisatie van verzendtijd](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)
-         + [Predictieve betrokkenheidsscoring](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)
+         + [Voorspellende optimalisatie van verzendtijd](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)
+         + [Voorspellende betrokkenheidsscore](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)
    + Mobiel {#mobile}
       + Sms{#sms}
          + [Een sms-levering maken](/help/communication-channels/mobile/sms/sms-delivery.md)
@@ -84,14 +83,14 @@ ht-degree: 91%
 + Content ontwerpen en personaliseren {#designing-content}
    + Email Designer{#email-designer}
       + [Overzicht](/help/designing-content/email-designer/email-designer-overview.md)
-      + [Aan de slag met e-mailontwerper](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
+      + [Aan de slag met Email Designer](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
       + [Inleiding tot sjablonen voor e-mailcontent](/help/designing-content/email-designer/email-content-templates.md)
       + [De mobiele weergave configureren](/help/designing-content/email-designer/configure-the-mobile-view.md)
       + [Een voorbeeld van uw e-mail- en antispamanalyse bekijken](/help/designing-content/email-designer/preview-your-email.md)
       + [Werken met bestaande content](/help/designing-content/email-designer/working-with-existing-content.md)
       + [Content maken met Adobe Dreamweaver](/help/designing-content/email-designer/dreamweaver-integration.md)
    + [Productvermeldingen configureren in transactie-e-mails](/help/designing-content/product-listings-in-transactional-email.md)
-+ Processen en data beheren {#managing-processes-and-data}
++ Processen en gegevens beheren {#managing-processes-and-data}
    + [Een workflow maken](/help/managing-processes-and-data/create-workflow.md)
    + Uitvoeringsactiviteiten {#execution-activities}
       + [Externe signaalactiviteit](/help/managing-processes-and-data/execution-activities/external-signal-activity.md)
@@ -119,15 +118,15 @@ ht-degree: 91%
          + [GPG-sleutelbeheer - Overzicht](/help/administrating/control-panel/gpg-key-management/gpg-key-management-overview.md)
          + [GPG-sleutels voor gegevensversleuteling genereren en installeren](/help/administrating/control-panel/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
          + [Gegevens versleutelen met een GPG-sleutel](/help/administrating/control-panel/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
-         + [Data decoderen](/help/administrating/control-panel/gpg-key-management/decrypting-data.md)
+         + [Gegevens decoderen](/help/administrating/control-panel/gpg-key-management/decrypting-data.md)
       + [Problemen oplossen](/help/administrating/control-panel/trouble-shooting.md)
-   + Adobe Experience Platform-dataconnector {adobe-experience-platform-data-connector}
-      + [Inzicht in de Adobe Experience Platform-dataconnector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
+   + Adobe Experience Platform-gegevensconnector {adobe-experience-platform-data-connector}
+      + [Inzicht in de Adobe Experience Platform-gegevensconnector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
       + [Aangepaste bronnen toewijzen](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
       + [Experience-gebeurtenissen toewijzen](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
-      + [Seed-tabeldata toewijzen](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
-      + [De datatoewijzing wijzigen](/help/administrating/adobe-experience-platform-data-connector/modifying-data-mapping.md)
-      + [De status van taken voor dataopname controleren](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
+      + [Seed-tabelgegevens toewijzen](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
+      + [De gegevenstoewijzing wijzigen](/help/administrating/adobe-experience-platform-data-connector/modifying-data-mapping.md)
+      + [De status van taken voor gegevensopname controleren](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
    + Typologieregels{#typology-rules}
       + Vermoeidheidsbeheer{#fatigue-management}
          + [Vermoeidheidsregels maken](/help/administrating/typology-rules/fatigue-management/create-fatigue-rules.md)
@@ -137,3 +136,5 @@ ht-degree: 91%
    + [Aangepaste bronnen voor privacyaanvragen wijzigen](/help/privacy/custom-resources-for-privacy-requests.md)
    + [Privacyaanvragen handmatig maken en bijhouden](/help/privacy/create-and-track-privacy-requests.md)
    + [Privacyaanvragen uitvoeren](/help/privacy/execute-privacy-requests.md)
++ [Handleiding voor beste praktijken voor Adobe Campaign-levering](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/deliverability-best-practice-guide/introduction.html)
++ [Configuratiescherm](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/control-panel/control-panel-overview.html)

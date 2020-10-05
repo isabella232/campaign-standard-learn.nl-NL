@@ -7,16 +7,16 @@ kt: 2938
 doc-type: article
 activity: use
 team: PM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 2fd2e62663f4b09ce7afc6387b53e194fbcafde8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '327'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
 
-# Het oplossen van problemen [!UICONTROL Control Panel]
+# Het oplossen van problemen met het [!UICONTROL Control Panel]
 
 Leer hoe u problemen met het gebruik van het Configuratiescherm kunt oplossen.
 
@@ -47,10 +47,10 @@ De beheerder moet de gebruiker toevoegen aan het Productprofiel `Campaign-xxx-Ad
 
 ### Nuttige video’s
 
->[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12&captions=dut)
 *Controleer[!DNL IMS Org ID](00:26 min)*
 
->[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12&captions=dut)
 *Een beheerder toevoegen aan het[!UICONTROL product profile]*[!DNL administrators]*om het[!UICONTROL Control Panel]te kunnen gebruiken (01:03 min)*
 
 ### Handige documentatie

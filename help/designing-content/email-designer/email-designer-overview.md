@@ -1,36 +1,36 @@
 ---
-title: Overzicht van E-mailDesigner
-description: In deze video wordt uitgelegd wat de algemene functionaliteit van e-mailontwerper is en hoe u een e-mailbericht helemaal vanaf het begin kunt ontwerpen. Deze pagina bevat een overzicht van alle beschikbare video's met functies voor de Adobe Campaign-e-mailontwerper
+title: E-mail Designer - overzicht
+description: In deze video wordt besproken wat de algemene functionaliteit van Email Designer is, en hoe u een heel nieuw e-mailbericht kunt ontwerpen. Deze pagina bevat een overzicht van alle beschikbare video’s over functies voor de Adobe Campaign Email Designer
 feature: Email Designer
 topics: Content Creation
 kt: null
 doc-type: feature video
 activity: use
 team: TM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: d4819df4d0ed07955881cd157ec4caf7da847e96
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '137'
-ht-degree: 10%
+ht-degree: 100%
 
 ---
 
 
-# [!UICONTROL Email Designer] overzicht
+# [!UICONTROL Email Designer] - overzicht
 
-Met deze [!UICONTROL Email Designer] functie kunt u snel en moeiteloos individuele e-mails maken zonder dat u een script hoeft te schrijven voor één regel code die het maken van e-mails helpt schalen. Hiermee kunt u e-mailinhoud en sjablonen voor e-mailinhoud maken. Het is compatibel met eenvoudige e-mails, transactionele e-mails, e-mails voor A/B-tests, meertalige e-mails en terugkerende e-mails.
+Met de [!UICONTROL Email Designer] kunt u snel en moeiteloos individueel gepersonaliseerde e-mails maken met visuele middelen zonder ook maar één regel code te schrijven, waarmee het maken van e-mails kan worden geschaald. Hierdoor kunt u e-mailcontent en sjablonen voor e-mailcontent maken. De functie is compatibel met eenvoudige e-mails, transactionele e-mails, e-mails voor A/B-tests, meertalige e-mails en terugkerende e-mails.
 
-Deze video geeft u een uitgebreid overzicht van de functionaliteit en het gebruik van de Adobe Campaign Standard [!UICONTROL Email Designer].
+Deze video bevat een uitgebreid overzicht van de functionaliteit en het gebruik van Adobe Campaign Standard [!UICONTROL Email Designer].
 
->[!VIDEO](https://video.tv.adobe.com/v/22771?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/22771?quality=12&captions=dut)
 
 ## Tutorials
 
-De volgende gedetailleerde zelfstudies zijn beschikbaar:
+De volgende gedetailleerde tutorials zijn beschikbaar:
 
-* [Aan de slag met e-mailontwerper](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
-* [Inhoudssjablonen](/help/designing-content/email-designer/email-content-templates.md)
+* [Aan de slag met Email Designer](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
+* [Contentsjablonen](/help/designing-content/email-designer/email-content-templates.md)
 * [De mobiele weergave configureren](/help/designing-content/email-designer/configure-the-mobile-view.md)
-* [Een voorbeeld van uw e-mail bekijken](/help/designing-content/email-designer/preview-your-email.md)
+* [Een voorvertoning van uw e-mail bekijken](/help/designing-content/email-designer/preview-your-email.md)
 * [Werken met bestaande content](/help/designing-content/email-designer/working-with-existing-content.md)
 * [Content maken met Adobe Dreamweaver](/help/designing-content/email-designer/dreamweaver-integration.md)

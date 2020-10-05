@@ -8,7 +8,7 @@ doc-type: tutorial
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: afe1ae6c8d73b7b776e0eec327fa16db76c23ce1
+source-git-commit: cdd78e97f2769503d3d4f26933ccc7f35e9b20b9
 workflow-type: tm+mt
 source-wordcount: '316'
 ht-degree: 2%
@@ -41,7 +41,7 @@ In dit gedeelte maakt u een [!DNL Android] app die u van Adobe Campaign Standard
 
    ![android-projectstructuur](assets/android-project-structure.PNG)
 
-8. Klik op **[!UICONTROL Tools]** > **[!UICONTROL Firebase].**(hiermee wordt het project toegevoegd aan[!DNL Firebase])
+8. Klik op **[!UICONTROL Tools]** > **[!UICONTROL Firebase].** (hiermee wordt het project toegevoegd aan [!DNL Firebase])
 9. Klik op **[!UICONTROL Set up Firebase Cloud Messaging].**
 
    ![installatiefirewall](assets/android-project-firebase-messaging.PNG)
@@ -76,7 +76,7 @@ Als uw app met Firebase is geïntegreerd, ontvangt u een bericht zoals hieronder
 6. Aanmelden bij uw Adobe Campaign Standard-exemplaar
 7. Klik op **[!UICONTROL Adobe Campaign]** > **[!UICONTROL Administration]** > **[!UICONTROL Channels]** > **[!UICONTROL Mobile App].**
 8. Selecteer de gewenste optie **[!UICONTROL Mobile Application Property].**
-9. Klik op het **[!DNL Android]pictogram **in de **[!UICONTROL Push Channel settings]**sectie.
+9. Klik op het **[!DNL Android]pictogram** in de **[!UICONTROL Push Channel settings]** sectie.
 10. Plak de serversleutel in het veld met de serversleutel.
 
 Als alles goed gaat, zou u een SUCCESS bericht moeten zien.

@@ -1,6 +1,6 @@
 ---
-title: Optimalisatie van verzendtijd
-description: Begrijp welke werkschema's worden vereist om gegevens tussen Adobe Campaign en het model van Journey AI te synchroniseren. Leer hoe u de verzendtijdscores weergeeft op het niveau van elk afzonderlijk profiel en hoe u e-mailleveringen uitvoert met een verzendtijdformule.
+title: Voorspellende optimalisatie van verzendtijd
+description: Begrijp welke workflows nodig zijn om gegevens tussen Adobe Campaign en het Journey AI-model te synchroniseren. Leer hoe u verzendtijdscores weergeeft op individueel profielniveau en hoe u e-mailverzendingen uitvoert met een verzendtijdformule.
 feature: predictive send time
 topics: null
 kt: 6274
@@ -8,34 +8,34 @@ thumbnail: 40469.jpg
 doc-type: feature video
 activity: use
 team: ACS
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 06a4a418906d4bf74cad5faf809bea086537bbd3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '200'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
 
-# Optimalisatie van verzendtijd
+# Voorspellende optimalisatie van verzendtijd
 
-Aangedreven door [!UICONTROL Journey AI], [!DNL Adobe Campaign] kan open tarieven analyseren en voorspellen, optimale verzendtijden, en waarschijnlijke prijs die op historische betrokkenheidsmetriek wordt gebaseerd.
+[!UICONTROL Journey AI], aangestuurd door [!DNL Adobe Campaign], kan open tarieven, optimale verzendtijden en waarschijnlijk verloop analyseren en voorspellen op basis van historische betrokkenheidscijfers.
 
 >[!CAUTION]
->Deze mogelijkheid is niet beschikbaar buiten de verpakking als onderdeel van het product. Voor de implementatie moet Adobe Consulting worden ingeschakeld. Neem contact op met uw Adobe-vertegenwoordiger voor meer informatie.
+>Deze mogelijkheid is niet rechtstreeks beschikbaar als onderdeel van het product. Voor de implementatie moet Adobe Consulting worden ingeschakeld. Neem contact op met uw Adobe-vertegenwoordiger voor meer informatie.
 
-[!UICONTROL Predictive send time optimization] Hiermee kunt u voorspellen welke de beste verzendtijd is voor elk ontvangend profiel voor e-mail wordt geopend of klikt. Voor elk ontvankelijk profiel, wijzen de scores op het beste verzendtijd voor elke weekdag en welke weekdag het beste is om voor beste resultaten te verzenden.
+[!UICONTROL Predictive send time optimization] voorspelt wat de beste verzendtijd is voor elk ontvangend profiel voor het openen van of klikken op e-mails. Voor elk ontvangend profiel geven de scores aan wat de beste verzendtijd is op elke weekdag, en welke weekdag het geschiktst is voor verzending om de beste resultaten te bereiken.
 
-Begrijp welke werkschema&#39;s worden vereist om gegevens tussen Adobe Campaign en het model van Journey AI te synchroniseren. Leer hoe u de verzendtijdscores weergeeft op het niveau van elk afzonderlijk profiel en hoe u e-mailleveringen uitvoert met een verzendtijdformule.
+Begrijp welke workflows nodig zijn om gegevens tussen Adobe Campaign en het Journey AI-model te synchroniseren. Leer hoe u verzendtijdscores weergeeft op individueel profielniveau en hoe u e-mailverzendingen uitvoert met een verzendtijdformule.
 
->[!VIDEO](https://video.tv.adobe.com/v/40469?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/40469?quality=12&captions=dut)
 
 ## Aanvullende resources
 
 Tutorials:
 
-* [Predictieve betrokkenheidsscoring](predictive-engagement-scoring.md)
+* [Voorspellende betrokkenheidsscore](predictive-engagement-scoring.md)
 
 Documentatie:
 
-* [Ontwerp en levering optimaliseren met e-mails met AI-mogelijkheden](https://docs.adobe.com/help/en/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/predictive.html)
+* [Ontwerp en levering optimaliseren met e-mails met AI-mogelijkheden](https://docs.adobe.com/help/nl-NL/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/predictive.html)

@@ -7,9 +7,9 @@ kt: 4696
 doc-type: feature video
 activity: use
 team: PM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 906b1d76e4723b50e2d06f6525763bbd73b98e10
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '364'
 ht-degree: 100%
 
@@ -22,7 +22,7 @@ ht-degree: 100%
 >
 >De termen ‘[!UICONTROL whitelist]’ en ‘[!UICONTROL blacklist]’ zijn vervangen door ‘[!UICONTROL allow list]’ en ‘[!UICONTROL block list]’ in de Adobe Campaign-documentatie. Sommige van deze termen kunnen nog steeds voorkomen in de gebruikersinterface van het product, optienamen, interne code en de tutorialvideo’s. Deze worden vervangen in toekomstige versies van het Configuratiescherm.
 
-Met het [!UICONTROL Control Panel] kunnen Adobe Campaign-beheerders belangrijke assets controleren en beheertaken uitvoeren zoals het beheren van de SFTP-opslag per instantie of het plaatsen van IP-adressen op [!UICONTROL allow list].
+Met het [!UICONTROL Control Panel] kunnen Adobe Campaign-beheerders belangrijke assets controleren en beheertaken uitvoeren, zoals het beheren van de SFTP-opslag per instantie of [!UICONTROL allow list] IP-adressen.
 
 ## Toegang tot het [!UICONTROL Control Panel]
 
@@ -31,7 +31,7 @@ Ga naar Experience Cloud Home voor toegang tot het Configuratiescherm: [https://
 * **[!UICONTROL Experience Cloud Home]** > **[!UICONTROL Quick Access]**
 
    of
-* **[!UICONTROL Experience Cloud Home]**  > [!UICONTROL Solution picker]: **Campaign** > **[!UICONTROL Control Panel]-kaart **
+* **[!UICONTROL Experience Cloud Home]**  > [!UICONTROL Solution picker]: **Campaign** > kaart **[!UICONTROL Control Panel]**
 
    of
 
@@ -43,17 +43,17 @@ Voordat u aan de slag gaat, moet u aan de volgende voorwaarden voldoen:
 
 ### [!DNL IMS Org ID] bevestigen
 
-U moet uw [!DNL IMS org ID] weten. In de volgende video wordt beschreven waar u de [!DNL IMS org ID] van uw instantie kunt vinden.
+U dient uw [!DNL IMS org ID] te weten. De volgende video beschrijft waar u de [!DNL IMS org ID] van uw instantie kunt zoeken.
 
->[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
-*Controleer[!DNL IMS Org ID] (00:26 min)*
+>[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12&captions=dut)
+*Controleer[!DNL IMS Org ID](00:26 min)*
 
 ### Beheerdersrechten
 
 Beheerdersrechten zijn vereist voor toegang tot het [!UICONTROL Control Panel].
 De volgende video laat zien hoe u een beheerder aan een Campaign-instantie kunt toevoegen
 
->[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12&captions=dut)
 *Een beheerder toevoegen aan het productprofiel[!UICONTROL Administrators]om het[!UICONTROL Control Panel]te kunnen gebruiken (01:03 min)*
 
 ## Tutorials voor het Configuratiescherm
@@ -78,10 +78,10 @@ De volgende video laat zien hoe u een beheerder aan een Campaign-instantie kunt 
 
 * **GPG-sleutelbeheer**
 
-   *Leer hoe u een persoonlijk/openbaar sleutelpaar kunt genereren en installeren in een opgegeven Campaign-instantie voor de codering van uitgaande data. Ook wordt uitgelegd hoe u een openbare sleutel kunt importeren en installeren in een Campaign-instantie voor de decodering van binnenkomende data:*
+   *Ontdek hoe u een openbaar/privé sleutelpaar kunt genereren en installeren op een gespecificeerde instantie van Campaign voor de versleuteling van uitgaande gegevens en hoe u een openbare sleutel kunt importeren en installeren op een instantie van Campaign voor de ontsleuteling van binnenkomende gegevens:*
 
-   * [GPG-sleutels voor datacodering genereren en installeren](./gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
-   * [Een GPG-sleutel gebruiken om data te coderen](./gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
+   * [GPG-sleutels voor gegevensversleuteling genereren en installeren](./gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
+   * [Gegevens versleutelen met een GPG-sleutel](./gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
    * [Data decoderen](./gpg-key-management/decrypting-data.md)
 
 * **[Problemen oplossen](/help/administrating/control-panel/trouble-shooting.md)**
@@ -90,5 +90,5 @@ De volgende video laat zien hoe u een beheerder aan een Campaign-instantie kunt 
 
 ## Aanvullende bronnen
 
-* [Help Center van het Configuratiescherm](https://docs.adobe.com/content/help/nl-NL/control-panel/using/control-panel-home.html)
+* [Help Center voor het Configuratiescherm](https://docs.adobe.com/content/help/nl-NL/control-panel/using/control-panel-home.html)
 

@@ -2,11 +2,11 @@
 title: Adobe Campaign Standard-tutorials - overzicht
 description: Adobe Campaign biedt een platform voor het ontwerpen van kanaaloverschrijdende klantervaringen en biedt een omgeving voor visuele campagnelay-out, real-time interactiebeheer en kanaaloverschrijdende uitvoering. Deze gebruikershandleiding bevat video’s en tutorials over de vele functies en mogelijkheden van Adobe Campaign Standard.
 products: SG_CAMPAIGN/STANDARD
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 106645d51da04a8457c73096865329bd0b87381d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '318'
-ht-degree: 62%
+ht-degree: 100%
 
 ---
 
@@ -19,15 +19,15 @@ Adobe Campaign biedt een platform voor het ontwerpen van kanaaloverschrijdende k
 
 * **[Controlegroepen toevoegen aan een levering](/help/communication-channels/email/control-groups.md)**
 
-   *Leer hoe u een document maakt[!UICONTROL control group]wanneer u het doel van de levering definieert.*
+   *Leer hoe u een[!UICONTROL control group]maakt bij het definiëren van de target van uw levering.*
 
-* **[Optimalisatie van verzendtijd](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)**
+* **[Voorspellende optimalisatie van verzendtijd](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)**
 
-   *Begrijp welke werkschema&#39;s worden vereist om gegevens tussen Adobe Campaign en het model van Journey AI te synchroniseren. Leer hoe u de verzendtijdscores weergeeft op het niveau van elk afzonderlijk profiel en hoe u e-mailleveringen uitvoert met een verzendtijdformule.*
+   *Begrijp welke workflows nodig zijn om gegevens tussen Adobe Campaign en het Journey AI-model te synchroniseren. Leer hoe u de verzendtijdscores weergeeft op het niveau van elk afzonderlijk profiel en hoe u e-mailleveringen uitvoert met gebruik van een verzendtijdformule.*
 
-* **[Predictieve betrokkenheidsscoring](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)**
+* **[Voorspellende betrokkenheidsscore](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)**
 
-   *Leer hoe u de betrokkenheidsscores op het individuele profielniveau kunt weergeven, scores kunt gebruiken voor betrokken gebruikers en moedige gebruikers kunt onderdrukken en hoe u typologische regels kunt maken om de moeheid van de klant te beheren.*
+   *Leer hoe u de betrokkenheidsscores op individueel profielniveau kunt weergeven, scores kunt gebruiken voor targeting van betrokken gebruikers en onderdrukking van vermoeide gebruikers, en hoe u typologische regels kunt maken om vermoeidheid van de klant aan te pakken.*
 
 ## Aanbevolen door medewerkers van Adobe
 
@@ -48,11 +48,11 @@ Adobe Campaign biedt een platform voor het ontwerpen van kanaaloverschrijdende k
   </td>
    <td>
     <a href="./administrating/control-panel/control-panel-overview.md">
-      <img alt="Deelvenster Beheer (video's)" src="./assets/control-panel.png" />
+      <img alt="Configuratiescherm (video’s)" src="./assets/control-panel.png" />
     </a>
     <div>
     <a href="./administrating/control-panel/control-panel-overview.md">
-    <strong>Deelvenster Beheer (video's)</strong>
+    <strong>Configuratiescherm (video’s)</strong>
     </a>
     </div>
     <p>

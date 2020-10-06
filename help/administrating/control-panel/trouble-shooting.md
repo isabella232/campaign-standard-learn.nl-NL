@@ -7,9 +7,9 @@ kt: 2938
 doc-type: article
 activity: use
 team: PM
-translation-type: ht
-source-git-commit: 2fd2e62663f4b09ce7afc6387b53e194fbcafde8
-workflow-type: ht
+translation-type: tm+mt
+source-git-commit: 66b8f4b6378eb974dc858b28c0479a9cb5d52a6b
+workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 100%
 
@@ -47,10 +47,12 @@ De beheerder moet de gebruiker toevoegen aan het Productprofiel `Campaign-xxx-Ad
 
 ### Nuttige video’s
 
->[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12&captions=dut)
-*Controleer[!DNL IMS Org ID](00:26 min)*
+>[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
 
->[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12&captions=dut)
+*[!DNL IMS Org ID]controleren (00:26 min)*
+
+>[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
+
 *Een beheerder toevoegen aan het[!UICONTROL product profile]*[!DNL administrators]*om het[!UICONTROL Control Panel]te kunnen gebruiken (01:03 min)*
 
 ### Handige documentatie

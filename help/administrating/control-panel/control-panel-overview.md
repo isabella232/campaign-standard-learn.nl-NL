@@ -7,9 +7,9 @@ kt: 4696
 doc-type: feature video
 activity: use
 team: PM
-translation-type: ht
-source-git-commit: 906b1d76e4723b50e2d06f6525763bbd73b98e10
-workflow-type: ht
+translation-type: tm+mt
+source-git-commit: a078367ce8ffece206d3b83bfeefc4df4f8078d6
+workflow-type: tm+mt
 source-wordcount: '364'
 ht-degree: 100%
 
@@ -45,16 +45,18 @@ Voordat u aan de slag gaat, moet u aan de volgende voorwaarden voldoen:
 
 U dient uw [!DNL IMS org ID] te weten. De volgende video beschrijft waar u de [!DNL IMS org ID] van uw instantie kunt zoeken.
 
->[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12&captions=dut)
-*Controleer[!DNL IMS Org ID](00:26 min)*
+>[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
+
+*[!DNL IMS Org ID]controleren (00:26 min)*
 
 ### Beheerdersrechten
 
 Beheerdersrechten zijn vereist voor toegang tot het [!UICONTROL Control Panel].
 De volgende video laat zien hoe u een beheerder aan een Campaign-instantie kunt toevoegen
 
->[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12&captions=dut)
-*Een beheerder toevoegen aan het productprofiel[!UICONTROL Administrators]om het[!UICONTROL Control Panel]te kunnen gebruiken (01:03 min)*
+>[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
+
+*Een beheerder toevoegen aan het productprofiel[!UICONTROL Administrators]om[!UICONTROL Control Panel]te kunnen gebruiken (01:03 min)*
 
 ## Tutorials voor het Configuratiescherm
 
@@ -82,7 +84,7 @@ De volgende video laat zien hoe u een beheerder aan een Campaign-instantie kunt 
 
    * [GPG-sleutels voor gegevensversleuteling genereren en installeren](./gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
    * [Gegevens versleutelen met een GPG-sleutel](./gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
-   * [Data decoderen](./gpg-key-management/decrypting-data.md)
+   * [Gegevens decoderen](./gpg-key-management/decrypting-data.md)
 
 * **[Problemen oplossen](/help/administrating/control-panel/trouble-shooting.md)**
 

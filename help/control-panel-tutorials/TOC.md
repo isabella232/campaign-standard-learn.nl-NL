@@ -12,10 +12,10 @@ getting-started-url: https://docs.adobe.com/content/help/nl-NL/campaign-standard
 type: Tutorial
 index: true
 translation-type: tm+mt
-source-git-commit: 5feb9aad00d0be3766e60542618c1718a0a8d2e7
+source-git-commit: 9877dad05963e28c29f27cd0e8b8f0c1cc04c2a2
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 88%
+source-wordcount: '111'
+ht-degree: 83%
 
 ---
 
@@ -23,6 +23,7 @@ ht-degree: 88%
 # Tutorials in het regelpaneel van Adobe Campaign {#control-panel}
 
 + [Overzicht van het Configuratiescherm](/help/control-panel-tutorials/control-panel-overview.md)
++ [Aan de slag met het Configuratiescherm](/help/control-panel-tutorials/getting-started-with-the-control-panel.md)
 + SFTP-beheer {#sftp-management}
    + [Verbinding maken met een SFTP-server](/help/control-panel-tutorials/sftp-management/connect-to-sftp-server.md)
    + [Servercapaciteit controleren, IP-adressen op de acceptatielijst plaatsen en SSH-sleutels toevoegen](/help/control-panel-tutorials/sftp-management/monitoring-server-capacity-allow-listing-adding-ssh-key.md)

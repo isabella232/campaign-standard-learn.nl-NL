@@ -8,10 +8,10 @@ doc-type: feature video
 activity: using
 team: PM
 translation-type: tm+mt
-source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
+source-git-commit: 9d71fbf2067611c2d3c088d6ed6bc02b2d3ffc1c
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '147'
+ht-degree: 7%
 
 ---
 
@@ -27,6 +27,7 @@ ht-degree: 0%
 In deze video wordt uitgelegd hoe u de bewerking [!UICONTROL Data Services Query Audience] binnen een workflow activeert met behulp van de [!UICONTROL Read Audience] activiteit.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27647?quality=12)
+
 *Een Adobe Experience Platform-publiek activeren in een workflow (20:37 min)*
 
 ## Aanvullende resources

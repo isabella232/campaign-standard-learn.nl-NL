@@ -1,18 +1,19 @@
 ---
 title: Aan de slag met het Configuratiescherm
-description: Met het Configuratiescherm kunnen Adobe Campaign-beheerders belangrijke elementen controleren en beheertaken uitvoeren, zoals het beheren van de SFTP-opslag per instantie, het beheren van GPG-sleutels of subdomeinen en certificaten.
+description: In dit artikel wordt uitgelegd hoe u toegang krijgt tot het Configuratiescherm en wat de voorwaarden zijn om met het Configuratiescherm te kunnen werken.
 feature: Control Panel
 topics: Control Panel
+audience: administrator
 kt: 6385
 thumbnail: kt-6385.jpg
 doc-type: feature video
-activity: use
+activity: setup
 team: TM
 translation-type: tm+mt
-source-git-commit: 9d71fbf2067611c2d3c088d6ed6bc02b2d3ffc1c
+source-git-commit: fcb815eba6f704ae948d98acc0c3fbf9ef778264
 workflow-type: tm+mt
-source-wordcount: '201'
-ht-degree: 68%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -24,6 +25,8 @@ ht-degree: 68%
 >De termen ‘[!UICONTROL whitelist]’ en ‘[!UICONTROL blacklist]’ zijn vervangen door ‘[!UICONTROL allowlist]’ en ‘[!UICONTROL denylist]’ in de documentatie van Adobe Campaign. Sommige van deze termen staan nog steeds in de gebruikersinterface van het product, optienamen, interne code en de tutorialvideo’s. Deze worden vervangen in toekomstige versies van het Configuratiescherm.
 
 The [!UICONTROL Control Panel] allows Adobe Campaign administrators to monitor key assets and perform administrative tasks, such as managing the [!DNL SFTP] storage by instance, managing [!DNL GPG] keys, or [!UICONTROL subdomains] and [!UICONTROL certificates].
+
+In dit artikel wordt uitgelegd hoe u toegang krijgt tot het Configuratiescherm en wat de voorwaarden zijn om met het Configuratiescherm te kunnen werken.
 
 ## Toegang tot het [!UICONTROL Control Panel]
 
@@ -47,8 +50,6 @@ Voordat u aan de slag gaat, moet u aan de volgende voorwaarden voldoen:
 U dient uw [!DNL IMS org ID] te weten. De volgende video beschrijft waar u de [!DNL IMS org ID] van uw instantie kunt zoeken.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
-
-*[!DNL IMS Org ID]controleren (00:26 min)*
 
 ### Beheerdersrechten
 

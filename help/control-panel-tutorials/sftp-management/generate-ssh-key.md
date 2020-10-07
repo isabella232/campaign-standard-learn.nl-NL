@@ -1,17 +1,18 @@
 ---
 title: Een SSH-sleutel genereren
-description: U moet een SSH-sleutel kunnen genereren om deze aan het Adobe Campaign-configuratiescherm toe te voegen. In de video hieronder wordt uitgelegd hoe u een SSH-sleutel kunt genereren met behulp van een terminal.
+description: Leer hoe te om een sleutel van SSH te produceren gebruikend een terminal en hoe te om de openbare versie van de sleutel in het Controlebord op te slaan.
 feature: Control Panel
 topics: null
 kt: 2923
+thumbnail: 27259.jpg
 doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 356e9e4b43b0f192782fc28473be87005b9d2921
+source-git-commit: 21e864e4becac6a88f28c73d7df483014199387b
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 67%
+source-wordcount: '110'
+ht-degree: 35%
 
 ---
 
@@ -31,6 +32,6 @@ To access the SFTP Management in [!UICONTROL Control Panel], go to:
 
 ## Een SSH-sleutel genereren
 
-De volgende video verklaart hoe te om een sleutel van SSH te produceren gebruikend een terminal.
+Leer hoe te om een sleutel van SSH te produceren gebruikend een terminal en hoe te om de openbare versie van de sleutel in het Controlebord op te slaan.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27259?quality=12)

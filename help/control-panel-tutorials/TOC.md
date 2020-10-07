@@ -12,7 +12,7 @@ getting-started-url: https://docs.adobe.com/content/help/nl-NL/campaign-standard
 type: Tutorial
 index: true
 translation-type: tm+mt
-source-git-commit: 9e1a79692d12189657e21ea728ace94ff0403840
+source-git-commit: fcb815eba6f704ae948d98acc0c3fbf9ef778264
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 83%
@@ -34,8 +34,8 @@ ht-degree: 83%
    + [Beheer van Google-TXT-records](/help/control-panel-tutorials/subdomains-and-certificates/google-txt-record-management.md)
 + Instantie-instellingen {#instance-settings}
    + GPG-sleutelbeheer {#gpg-key-management}
-      + [GPG-sleutelbeheer - Overzicht](/help/control-panel-tutorials/instance-settings/gpg-key-management/gpg-key-management-overview.md)
-      + [GPG-sleutels voor gegevensversleuteling genereren en installeren](/help/control-panel-tutorials/instance-settings/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
-      + [Gegevens versleutelen met een GPG-sleutel](/help/control-panel-tutorials/instance-settings/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
-      + [Gegevens ontsleutelen](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypting-data.md)
+   + [GPG-sleutelbeheer - Overzicht](/help/control-panel-tutorials/instance-settings/gpg-key-management/gpg-key-management-overview.md)
+   + [GPG-sleutels voor gegevensversleuteling genereren en installeren](/help/control-panel-tutorials/instance-settings/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
+   + [Gegevens versleutelen met een GPG-sleutel](/help/control-panel-tutorials/instance-settings/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
+   + [Gegevens ontsleutelen](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypting-data.md)
 + [Problemen met het Configuratiescherm oplossen](/help/control-panel-tutorials/trouble-shooting.md)

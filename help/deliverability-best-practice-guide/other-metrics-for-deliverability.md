@@ -8,9 +8,9 @@ doc-type: article
 activity: understand
 team: TM
 translation-type: tm+mt
-source-git-commit: 7aa32d583ac2ea756945a17634fb477d7b94cb7f
+source-git-commit: 6e4824185b84715d514bf21aace9e57c602e970d
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1367'
 ht-degree: 0%
 
 ---
@@ -46,7 +46,8 @@ De zachte grenzen zijn tijdelijke mislukkingen die ISPs produceert wanneer zij m
 >[!NOTE]
 >
 >De stuiteringen zijn een zeer belangrijke indicator van een reputatie kwestie omdat zij een slechte gegevensbron (harde stuit) of een reputatie kwestie met ISP (zachte stuit) kunnen benadrukken.
-Zachte grenzen treden vaak op als onderdeel van het verzenden van e-mail en moeten tijdens de hertestverwerking kunnen worden opgelost voordat ze worden gekarakteriseerd als een probleem dat werkelijk te leveren is. Als uw soft bounce tarief voor één enkele ISP groter is dan 30 percenten en niet binnen 24 uren oplost, is het een goed idee om een zorg met uw adviseur van de Leesbaarheid van Adobe Campaign te verhogen.
+>
+>Zachte grenzen treden vaak op als onderdeel van het verzenden van e-mail en moeten tijdens de hertestverwerking kunnen worden opgelost voordat ze worden gekarakteriseerd als een probleem dat werkelijk te leveren is. Als uw soft bounce tarief voor één enkele ISP groter is dan 30 percenten en niet binnen 24 uren oplost, is het een goed idee om een zorg met uw adviseur van de Leesbaarheid van Adobe Campaign te verhogen.
 
 ## Klachten
 

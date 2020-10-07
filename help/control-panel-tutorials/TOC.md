@@ -12,7 +12,7 @@ getting-started-url: https://docs.adobe.com/content/help/nl-NL/campaign-standard
 type: Tutorial
 index: true
 translation-type: tm+mt
-source-git-commit: 9877dad05963e28c29f27cd0e8b8f0c1cc04c2a2
+source-git-commit: 9e1a79692d12189657e21ea728ace94ff0403840
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 83%
@@ -25,9 +25,9 @@ ht-degree: 83%
 + [Overzicht van het Configuratiescherm](/help/control-panel-tutorials/control-panel-overview.md)
 + [Aan de slag met het Configuratiescherm](/help/control-panel-tutorials/getting-started-with-the-control-panel.md)
 + SFTP-beheer {#sftp-management}
+   + [Een SSH-sleutel genereren](/help/control-panel-tutorials/sftp-management/generate-ssh-key.md)
    + [Verbinding maken met een SFTP-server](/help/control-panel-tutorials/sftp-management/connect-to-sftp-server.md)
    + [Servercapaciteit controleren, IP-adressen op de acceptatielijst plaatsen en SSH-sleutels toevoegen](/help/control-panel-tutorials/sftp-management/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
-   + [Een SSH-sleutel genereren](/help/control-panel-tutorials/sftp-management/generate-ssh-key.md)
 + Subdomeinen en certificaten {#subdomains-and-certificates}
    + [Subdomeinen delegeren](/help/control-panel-tutorials/subdomains-and-certificates/subdomain-delegation.md)
    + [SSL-certificaten toevoegen](/help/control-panel-tutorials/subdomains-and-certificates/adding-ssl-certificates.md)

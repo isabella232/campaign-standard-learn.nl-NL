@@ -3,16 +3,16 @@ title: Servercapaciteit controleren, IP-adressen op lijsten van gewenste adresse
 description: Met het Configuratiescherm kunt u uw SFTP-opslag per instantie controleren en beheren en IP-adressen toevoegen aan lijsten van gewenste adressen.
 feature: Control Panel
 topics: null
-audience: administrator
 kt: 3266
 doc-type: feature video
+audience: administrator
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 05550c50713e65793309e51355a8e31683f81e0b
+source-git-commit: cba7384847a4708764a54cddd77af80f3b760dca
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '235'
+ht-degree: 100%
 
 ---
 

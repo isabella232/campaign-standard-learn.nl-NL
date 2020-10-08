@@ -3,17 +3,17 @@ title: Verbinding maken met een SFTP-server
 description: In deze video wordt uitgelegd hoe u verbinding maakt met uw SFTP-server met behulp van een SFTP-clientapplicatie. Hierbij worden de sleutels gebruikt die u in het Configuratiescherm hebt opgeslagen.
 feature: SFTP Management
 topics: Control Panel
-audience: administrator
 kt: 2924
 thumbnail: 27263.jpg
 doc-type: feature video
+audience: administrator
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: dd218f7956b3dd487f59424246b81c115829160a
+source-git-commit: cba7384847a4708764a54cddd77af80f3b760dca
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '163'
+ht-degree: 100%
 
 ---
 

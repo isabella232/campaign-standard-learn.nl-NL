@@ -1,6 +1,6 @@
 ---
 title: Servercapaciteit controleren
-description: Met het Configuratiescherm kunt u uw SFTP-opslag per instantie controleren en beheren en IP-adressen toevoegen aan lijsten van gewenste adressen.
+description: Leer hoe u de opslagcapaciteit van uw SFTP-servers kunt controleren.
 feature: SFTP Management
 topics: Control Panel
 audience: administrator
@@ -10,10 +10,10 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 8e6298c9d6fc7989b5296dc0fbea2ebeffc337a6
+source-git-commit: 1a108846158bfaf8f9efd1b7a78f652c0d3f3211
 workflow-type: tm+mt
-source-wordcount: '211'
-ht-degree: 82%
+source-wordcount: '83'
+ht-degree: 49%
 
 ---
 
@@ -33,25 +33,6 @@ Om toegang te krijgen tot subdomeinbeheer in het [!UICONTROL Control Panel] gaat
 
 ## Servercapaciteit controleren, IP-adressen [!UICONTROL allow list] en SSH-sleutels toevoegen
 
-In deze video wordt uitgelegd hoe u toegang krijgt tot de server [!UICONTROL Adobe Campaign Control Panel] en waar u de opslag van SFTP-servers kunt controleren.
+Leer hoe u de opslagcapaciteit van uw SFTP-servers kunt controleren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27270?quality=12)
-
-### Interfacebeschrijvingen
-
-**Instanties:** Alleen de instanties waarvoor u beheerdersrechten hebt, worden weergegeven.
-
-**Taaklogboeken:** Alleen taken die in de [!UICONTROL Control Panel] zijn uitgevoerd, worden weergegeven. De taken die buiten [!UICONTROL Control Panel] zijn uitgevoerd, zijn niet inbegrepen (bijvoorbeeld workflows die worden uitgevoerd, enz.)
-
-De logboeken omvatten alleen de taken die door de beheerders van uw organisatie worden uitgevoerd. Als er verscheidene organisaties zijn, zult u niet de logboeken van andere organisaties in de taaklogboeken zien
-
-**Tabblad Opslag:** De koptekst toont de drie meest gebruikte servers. Als u meer dan drie servers hebt, kunt u de rest op het tabblad [!UICONTROL Storage] zien.
-
-**Waarschuwingsbericht:**
-
-* Oranje - de server wordt voor 80% gebruikt
-* Rood - server wordt voor 90% gebruikt
-
-## Aanvullende bronnen
-
-* [Een SSH-sleutel genereren](./generate-ssh-key.md)

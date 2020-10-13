@@ -10,9 +10,9 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 0e18e57b68ab324af15cb2ec14f3e2f35f972be2
+source-git-commit: 1eea268dadaf6d4cef15daaadaa085c3cab0e676
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '157'
 ht-degree: 100%
 
 ---
@@ -42,5 +42,3 @@ Voor verbinding met SFTP-servers is het volgende vereist:
 In deze video wordt uitgelegd hoe u verbinding maakt met uw SFTP-server met behulp van een SFTP-clientapplicatie. Hierbij worden de sleutels gebruikt die u in het Configuratiescherm hebt opgeslagen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27263?quality=12)
-
-*Verbinding maken met een SFTP-server (02:04 min)*

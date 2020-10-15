@@ -3,7 +3,7 @@ title: Adobe Campaign Standard-tutorials - overzicht
 description: Adobe Campaign biedt een platform voor het ontwerpen van kanaaloverschrijdende klantervaringen en biedt een omgeving voor visuele campagnelay-out, real-time interactiebeheer en kanaaloverschrijdende uitvoering. Deze gebruikershandleiding bevat video’s en tutorials over de vele functies en mogelijkheden van Adobe Campaign Standard.
 products: SG_CAMPAIGN/STANDARD
 translation-type: tm+mt
-source-git-commit: facd23e8d2949f42e4d1126a0e69c33cd49b429b
+source-git-commit: f82963aaa1c1673aaa888a79b6aae11c7ee2de59
 workflow-type: tm+mt
 source-wordcount: '321'
 ht-degree: 98%
@@ -19,7 +19,7 @@ Adobe Campaign biedt een platform voor het ontwerpen van kanaaloverschrijdende k
 
 * **[Controlegroepen toevoegen aan een levering](/help/communication-channels/email/control-groups.md)**
 
-   *Leer hoe u een[!UICONTROL control group]maakt bij het definiëren van de target van uw levering.*
+   *Leer hoe u een [!UICONTROL control group] maakt bij het definiëren van de target van uw levering.*
 
 * **[Voorspellende optimalisatie van verzendtijd](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)**
 
@@ -47,11 +47,11 @@ Adobe Campaign biedt een platform voor het ontwerpen van kanaaloverschrijdende k
     <p>
   </td>
    <td>
-    <a href="./administrating/control-panel/control-panel-overview.md">
+    <a href="./control-panel-tutorials/control-panel-overview.md">
       <img alt="Configuratiescherm (video’s)" src="./assets/control-panel.png" />
     </a>
     <div>
-    <a href="./administrating/control-panel/control-panel-overview.md">
+    <a href="./control-panel-tutorials/control-panel-overview.md">
     <strong>Configuratiescherm (video’s)</strong>
     </a>
     </div>

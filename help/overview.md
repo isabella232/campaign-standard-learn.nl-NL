@@ -3,10 +3,10 @@ title: Adobe Campaign Standard-tutorials - overzicht
 description: Adobe Campaign biedt een platform voor het ontwerpen van kanaaloverschrijdende klantervaringen en biedt een omgeving voor visuele campagnelay-out, real-time interactiebeheer en kanaaloverschrijdende uitvoering. Deze gebruikershandleiding bevat video’s en tutorials over de vele functies en mogelijkheden van Adobe Campaign Standard.
 products: SG_CAMPAIGN/STANDARD
 translation-type: tm+mt
-source-git-commit: f82963aaa1c1673aaa888a79b6aae11c7ee2de59
+source-git-commit: f25c49f242710f2426f79cc47f46def81dd01cb1
 workflow-type: tm+mt
-source-wordcount: '321'
-ht-degree: 98%
+source-wordcount: '337'
+ht-degree: 94%
 
 ---
 
@@ -47,11 +47,11 @@ Adobe Campaign biedt een platform voor het ontwerpen van kanaaloverschrijdende k
     <p>
   </td>
    <td>
-    <a href="./control-panel-tutorials/control-panel-overview.md">
+    <a href="https://docs.adobe.com/content/help/en/campaign-standard-learn/control-panel/control-panel-overview.html)">
       <img alt="Configuratiescherm (video’s)" src="./assets/control-panel.png" />
     </a>
     <div>
-    <a href="./control-panel-tutorials/control-panel-overview.md">
+    <a href="https://docs.adobe.com/content/help/en/campaign-standard-learn/control-panel/control-panel-overview.html">
     <strong>Configuratiescherm (video’s)</strong>
     </a>
     </div>

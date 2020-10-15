@@ -11,10 +11,10 @@ getting-started-title: Documentatie
 getting-started-url: https://docs.adobe.com/content/help/nl-NL/campaign-standard/using/campaign-standard-home.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: 370c10f0f3c696ce006c4af8d01c80bafa25b50c
+source-git-commit: 314fa481c3467ba305c242e6c338caad5a836315
 workflow-type: tm+mt
-source-wordcount: '571'
-ht-degree: 90%
+source-wordcount: '492'
+ht-degree: 92%
 
 ---
 
@@ -106,20 +106,7 @@ ht-degree: 90%
       + [Aangepaste bronnen maken](/help/managing-processes-and-data/custom-resources/creating-custom-resources.md)
 + Beheer {#administrating}
    + [Toegangsrechten van gebruikers beheren](/help/administrating/managing-user-access-rights.md)
-   + Configuratiescherm {#control-panel}
-      + [Overzicht van het Configuratiescherm](/help/administrating/control-panel/control-panel-overview.md)
-      + [Servercapaciteit controleren, IP-adressen op lijsten van gewenste adressen plaatsen en SSH-sleutels toevoegen](/help/administrating/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
-      + [Een SSH-sleutel genereren](/help/administrating/control-panel/generate-ssh-key.md)
-      + [Verbinding maken met een SFTP-server](/help/administrating/control-panel/connect-to-sftp-server.md)
-      + [Subdomeinen delegeren](/help/administrating/control-panel/subdomain-delegation.md)
-      + [SSL-certificaten toevoegen](/help/administrating/control-panel/adding-ssl-certificates.md)
-      + [Beheer van Google-TXT-records](/help/administrating/control-panel/google-txt-record-management.md)
-      + GPG-sleutelbeheer {#gpg-key-management}
-         + [GPG-sleutelbeheer - Overzicht](/help/administrating/control-panel/gpg-key-management/gpg-key-management-overview.md)
-         + [GPG-sleutels voor gegevensversleuteling genereren en installeren](/help/administrating/control-panel/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
-         + [Gegevens versleutelen met een GPG-sleutel](/help/administrating/control-panel/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
-         + [Gegevens decoderen](/help/administrating/control-panel/gpg-key-management/decrypting-data.md)
-      + [Problemen oplossen](/help/administrating/control-panel/trouble-shooting.md)
+   + [Regelpaneel] (/help/control-panel-tutorials/control-panel-overview.md)
    + Adobe Experience Platform-gegevensconnector {adobe-experience-platform-data-connector}
       + [Inzicht in de Adobe Experience Platform-gegevensconnector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
       + [Aangepaste bronnen toewijzen](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
@@ -136,5 +123,3 @@ ht-degree: 90%
    + [Aangepaste bronnen voor privacyaanvragen wijzigen](/help/privacy/custom-resources-for-privacy-requests.md)
    + [Privacyaanvragen handmatig maken en bijhouden](/help/privacy/create-and-track-privacy-requests.md)
    + [Privacyaanvragen uitvoeren](/help/privacy/execute-privacy-requests.md)
-+ [Handleiding voor beste praktijken voor Adobe Campaign-levering](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/deliverability-best-practice-guide/introduction.html)
-+ [Configuratiescherm](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/control-panel/control-panel-overview.html)

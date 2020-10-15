@@ -11,7 +11,7 @@ getting-started-title: Documentatie
 getting-started-url: https://docs.adobe.com/content/help/nl-NL/campaign-standard/using/campaign-standard-home.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: 8216cb314c055c9c4286d0a47fd49a6e50952e06
+source-git-commit: c1717885f4221f2323c8a580c718c17ffd4269e4
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -106,7 +106,7 @@ ht-degree: 0%
       + [Aangepaste bronnen maken](/help/managing-processes-and-data/custom-resources/creating-custom-resources.md)
 + Beheer {#administrating}
    + [Toegangsrechten van gebruikers beheren](/help/administrating/managing-user-access-rights.md)
-   + [Regelpaneel] (help/control-panel-tutorials/control-panel-overview.md)
+   + [Configuratiescherm](/help/control-panel-tutorials/control-panel-overview.md)
    + Adobe Experience Platform-gegevensconnector {adobe-experience-platform-data-connector}
       + [Inzicht in de Adobe Experience Platform-gegevensconnector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
       + [Aangepaste bronnen toewijzen](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)

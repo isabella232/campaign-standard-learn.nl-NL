@@ -8,7 +8,7 @@ doc-type: article
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 747aa1610f29a9a9409091169c7b398523dd1f77
+source-git-commit: f120eaf237378db3ddd5833930c0222ee028941d
 workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 100%
@@ -68,7 +68,7 @@ Voor verbinding met SFTP-servers is het volgende vereist:
 * Privé/openbaar sleutelpaar dat bij Adobe Campaign moet worden geregistreerd
 * Als u rechtstreeks verbinding maakt met de SFTP-server, hebt u ook SFTP-clientsoftware nodig
 
-### Handige documentatie
+### Handige documentatie {#helpful-docs}
 
 * [Aanmelden bij uw SFTP-server](https://docs.adobe.com/content/help/nl-NL/control-panel/using/control-panel-home.html#LoggingintoyourSFTPserver)
 

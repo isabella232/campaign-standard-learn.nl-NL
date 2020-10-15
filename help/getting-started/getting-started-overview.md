@@ -11,16 +11,16 @@ translation-type: tm+mt
 source-git-commit: 4fa09f7aaddffc4ecbcc703e197785e594b6cb65
 workflow-type: tm+mt
 source-wordcount: '191'
-ht-degree: 38%
+ht-degree: 67%
 
 ---
 
 
 # Aan de slag met Adobe Campaign Standard
 
-Adobe Campaign Standard is een krachtig hulpprogramma voor het beheer van campagnes over meerdere kanalen waarmee u uw online- en offlinestrategieën kunt uitlijnen om persoonlijke ervaringen van klanten te creëren.
+Adobe Campaign Standard is een krachtige cross-channel campagne managementtool waarmee u uw online en offline strategieën op elkaar kunt afstemmen om gepersonaliseerde klantervaringen te maken.
 
-Het volledige proces van het creëren, uitvoeren, en het volgen van kanaalcampagnes, evenals berichten verzenden die volgens het profiel, het gedrag, de voorkeur, en de behoeften van de cliënten worden gepersonaliseerd. U kunt het hele marketingproces eenvoudig ordenen, modelleren en automatiseren en integreren met andere Adobe-oplossingen.
+Beheer het volledige proces van het maken, uitvoeren en volgen van cross-channel campagnes, evenals het verzenden van berichten die zijn gepersonaliseerd volgens het profiel, de gedragingen, de voorkeuren en de behoeften van klanten. U kunt het hele marketingproces eenvoudig ordenen, modelleren en automatiseren en integreren met andere Adobe-oplossingen.
 
 Er is een aantal zelfstudievideo&#39;s beschikbaar waarmee u aan de slag kunt met Adobe Campaign Standard:
 

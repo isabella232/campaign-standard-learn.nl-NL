@@ -1,6 +1,6 @@
 ---
 product: adobe campaign standard
-user-guide-title: Tutorials in het regelpaneel van Adobe Campaign
+user-guide-title: Adobe Campaign-configuratiescherm - tutorials
 user-guide-description: Met het Configuratiescherm kunnen Adobe Campaign-beheerders belangrijke elementen controleren en beheertaken uitvoeren, zoals het beheren van de SFTP-opslag via instantie of lijst van gewenste personen IP-adressen.
 breadcrumb-title: Tutorials voor het Configuratiescherm
 solution-title: Experience League
@@ -12,15 +12,15 @@ getting-started-url: https://docs.adobe.com/content/help/nl-NL/campaign-standard
 type: Tutorial
 index: true
 translation-type: tm+mt
-source-git-commit: 8e6298c9d6fc7989b5296dc0fbea2ebeffc337a6
+source-git-commit: d2f63c27e950cffa354c7b4722546afd7c96d05e
 workflow-type: tm+mt
 source-wordcount: '141'
-ht-degree: 60%
+ht-degree: 73%
 
 ---
 
 
-# Tutorials in het regelpaneel van Adobe Campaign {#control-panel}
+# Adobe Campaign-configuratiescherm - tutorials {#control-panel}
 
 + [Overzicht van het Configuratiescherm](/help/control-panel-tutorials/control-panel-overview.md)
 + [Aan de slag met het Configuratiescherm](/help/control-panel-tutorials/getting-started-with-the-control-panel.md)
@@ -35,8 +35,8 @@ ht-degree: 60%
    + [Beheer van Google-TXT-records](/help/control-panel-tutorials/subdomains-and-certificates/google-txt-record-management.md)
 + Instantie-instellingen {#instance-settings}
    + GPG-sleutelbeheer {#gpg-key-management}
-   + [GPG-sleutelbeheer - Overzicht](/help/control-panel-tutorials/instance-settings/gpg-key-management/gpg-key-management-overview.md)
-   + [GPG-sleutels voor gegevensversleuteling genereren en installeren](/help/control-panel-tutorials/instance-settings/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
-   + [Gegevens versleutelen met een GPG-sleutel](/help/control-panel-tutorials/instance-settings/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
-   + [Gegevens ontsleutelen](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypting-data.md)
+      + [GPG-sleutelbeheer - Overzicht](/help/control-panel-tutorials/instance-settings/gpg-key-management/gpg-key-management-overview.md)
+      + [GPG-sleutels voor gegevensversleuteling genereren en installeren](/help/control-panel-tutorials/instance-settings/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
+      + [Gegevens versleutelen met een GPG-sleutel](/help/control-panel-tutorials/instance-settings/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
+      + [Gegevens ontsleutelen](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypting-data.md)
 + [Problemen met het Configuratiescherm oplossen](/help/control-panel-tutorials/trouble-shooting.md)

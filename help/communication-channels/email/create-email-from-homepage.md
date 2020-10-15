@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
 workflow-type: tm+mt
 source-wordcount: '134'
-ht-degree: 8%
+ht-degree: 13%
 
 ---
 
@@ -24,8 +24,8 @@ In deze video wordt uitgelegd hoe u een zelfstandige e-maillevering vanaf de sta
 
 >[!VIDEO](https://video.tv.adobe.com/v/23721?quality=12)
 
-## Aanvullende bronnen
+## Aanvullende resources
 
 * [E-mails maken en verzenden via een workflow](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
 * [Een e-mail maken (documentatie)](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/email-messages/creating-an-email.html)
-* [Best practices voor levering](https://docs.campaign.adobe.com/doc/standard/getting_started/en/ACS_DeliveryBestPractices.html)
+* [Best practices voor levering](https://docs.adobe.com/content/help/nl-NL/campaign-standard/using/communication-channels/delivery-bestpractices/delivery-best-practices.html)

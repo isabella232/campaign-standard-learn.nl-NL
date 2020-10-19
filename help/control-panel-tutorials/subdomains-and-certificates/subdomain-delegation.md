@@ -1,5 +1,5 @@
 ---
-title: Subdomeinen delegeren
+title: Volledige subdomeindelegatie
 description: Met het Configuratiescherm van Adobe Campaign kunt u een subdomein volledig delegeren aan Adobe Campaign. Volg de onderstaande stappen om dit te doen.
 feature: Subdomains and certificates
 topics: null
@@ -10,15 +10,15 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: f82963aaa1c1673aaa888a79b6aae11c7ee2de59
+source-git-commit: 98b300b507f4e315e7904f82b004cdc1302b445f
 workflow-type: tm+mt
-source-wordcount: '117'
+source-wordcount: '119'
 ht-degree: 80%
 
 ---
 
 
-# Subdomeinen delegeren
+# Volledige subdomeindelegatie
 
 Met het [!UICONTROL Control Panel] van Adobe Campaign kunt u een subdomein volledig delegeren aan Adobe Campaign.
 

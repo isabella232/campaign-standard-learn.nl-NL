@@ -6,12 +6,12 @@ translation-type: tm+mt
 source-git-commit: 98b300b507f4e315e7904f82b004cdc1302b445f
 workflow-type: tm+mt
 source-wordcount: '262'
-ht-degree: 85%
+ht-degree: 86%
 
 ---
 
 
-# Adobe Campaign Standard - Overzicht
+# Adobe Campaign Standard - overzicht
 
 Adobe Campaign biedt een platform voor het ontwerpen van kanaaloverschrijdende klantervaringen en biedt een omgeving voor visuele campagneorkestratie, realtime-interactiebeheer en uitvoering via meerdere kanalen. Deze gebruikershandleiding bevat video’s en tutorials over de vele functies en mogelijkheden van Adobe Campaign Standard.
 

@@ -9,7 +9,7 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 98b300b507f4e315e7904f82b004cdc1302b445f
+source-git-commit: fe305d729e8e1c7113ae1c310b3b8177f3cad093
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 22%
@@ -27,9 +27,9 @@ Als u met Adobe Campaign e-mailberichten wilt verzenden of bestemmingspagina&#39
 
 Leer hoe u een subdomein instelt en verzendt met gebruik van CNAME&#39;s in het Configuratiescherm.
 
->[!VIDEO](https://video.tv.adobe.com/v/326612?quality=12))
+>[!VIDEO](https://video.tv.adobe.com/v/326612?quality=12)
 
-## Aanvullende resources
+## Aanvullende bronnen
 
 * [Volledige subdomeindelegatie (video)](./subdomain-delegation.md)
 * [Een nieuw subdomein instellen (documentatie)](https://docs.adobe.com/content/help/nl/control-panel/using/subdomains-and-certificates/setting-up-new-subdomain.html)

@@ -1,36 +1,36 @@
 ---
-title: Aangepaste bronnen wijzigen bij het instellen van Adobe Campaign Standard (ACS) voor privacyverzoeken
-description: Wanneer u Adobe Campaign Standard (ACS) instelt voor het verwerken van privacyverzoeken, moet u ervoor zorgen dat aangepaste gegevens die aan een profiel zijn gekoppeld, worden verwijderd wanneer het profiel wordt verwijderd. In deze video wordt uitgelegd hoe u uw aangepaste bronnen kunt aanpassen om aan deze vereiste te voldoen.
+title: Aangepaste bronnen wijzigen bij het instellen van Adobe Campaign Standard (ACS) voor verzoeken om toegang tot persoonsgegevens
+description: Wanneer u Adobe Campaign Standard (ACS) instelt voor het verwerken van verzoeken om toegang tot persoonsgegevens, moet u ervoor zorgen dat aangepaste gegevens die aan een profiel zijn gekoppeld, worden verwijderd wanneer het profiel wordt verwijderd. In deze video wordt uitgelegd hoe u aangepaste bronnen kunt aanpassen om aan deze eis te voldoen.
 feature: GDPR, CCPA
 topic: null
 kt: 1243
 doc-type: feature video
 activity: use
 team: TM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '199'
+ht-degree: 100%
 
 ---
 
 
-# Aangepaste bronnen voor privacyaanvragen wijzigen
+# Aangepaste bronnen voor verzoeken om toegang tot persoonsgegevens wijzigen
 
-Wanneer u Adobe Campaign Standard instelt voor het verwerken van privacyverzoeken, moet u ervoor zorgen dat aangepaste gegevens die aan een profiel zijn gekoppeld, worden verwijderd wanneer het profiel wordt verwijderd. In deze video wordt uitgelegd hoe u uw aangepaste bronnen kunt aanpassen om aan deze vereiste te voldoen.
+Wanneer u Adobe Campaign Standard instelt voor het verwerken van verzoeken om toegang tot persoonsgegevens, moet u ervoor zorgen dat aangepaste gegevens die aan een profiel zijn gekoppeld, worden verwijderd wanneer het profiel wordt verwijderd. In deze video wordt uitgelegd hoe u aangepaste bronnen kunt aanpassen om aan deze eis te voldoen.
 
->[!VIDEO](https://video.tv.adobe.com/v/23326?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23326?quality=12&captions=dut)
 
 >[!NOTE]
 >
->**Opt-out voor de verkoop van persoonlijke gegevens**
+>**Opt-out voor de verkoop van persoonlijke gegevens (CCPA)**
 >
->Beginnend met 19.4, wordt een uit-weg gebied CCPA verstrekt uit-van-de-doos in de interface van de Campagne en API. Voor 19.3 moet u dit veld >maken in Adobe Campaign Standard om deze informatie te kunnen gebruiken. Zie de [gedetailleerde documentatie](https://helpx.adobe.com/campaign/kb/acs-privacy.html#ccpa) voor meer informatie.
+>Vanaf versie 19.4 wordt een gebruiksklaar CCPA-veld voor afmelden meegeleverd in de interface en API van Campaign. Als u deze informatie in versie 19.3 wilt gebruiken, moet u dit veld in Adobe Campaign Standard maken. Zie de [gedetailleerde documentatie](https://helpx.adobe.com/nl/campaign/kb/acs-privacy.html#ccpa) voor meer informatie.
 >
-> U kunt uw versie controleren door op te klikken? in de rechterbovenhoek van de interface en het selecteren van Info.
+> U kunt uw versie controleren door te klikken op het pictogram ? in de rechterbovenhoek van de interface en Info te selecteren.
 
-## Aanvullende resources
+## Aanvullende bronnen
 
-* [Algemene richtlijnen voor privacy voor campagne](https://helpx.adobe.com/nl/campaign/kb/campaign-privacy-overview.html)
+* [Algemene richtlijnen op het gebied van privacy voor Campaign](https://helpx.adobe.com/nl/campaign/kb/campaign-privacy-overview.html)
 * [Aangepaste bronnen maken](/help/managing-processes-and-data/custom-resources/creating-custom-resources.md)

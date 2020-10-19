@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: 4fa09f7aaddffc4ecbcc703e197785e594b6cb65
 workflow-type: tm+mt
 source-wordcount: '191'
-ht-degree: 67%
+ht-degree: 100%
 
 ---
 
@@ -20,9 +20,9 @@ ht-degree: 67%
 
 Adobe Campaign Standard is een krachtige cross-channel campagne managementtool waarmee u uw online en offline strategieën op elkaar kunt afstemmen om gepersonaliseerde klantervaringen te maken.
 
-Beheer het volledige proces van het maken, uitvoeren en volgen van cross-channel campagnes, evenals het verzenden van berichten die zijn gepersonaliseerd volgens het profiel, de gedragingen, de voorkeuren en de behoeften van klanten. U kunt het hele marketingproces eenvoudig ordenen, modelleren en automatiseren en integreren met andere Adobe-oplossingen.
+Beheer het volledige proces van het maken, uitvoeren en volgen van cross-channel campagnes, evenals het verzenden van berichten die zijn gepersonaliseerd volgens het profiel, de gedragingen, de voorkeuren en de behoeften van klanten. U kunt het hele marketingproces niet alleen eenvoudig orkestreren, modelleren en automatiseren, maar ook integreren met andere Adobe-oplossingen.
 
-Er is een aantal zelfstudievideo&#39;s beschikbaar waarmee u aan de slag kunt met Adobe Campaign Standard:
+Er zijn diverse tutorialvideo’s beschikbaar om u te helpen aan de slag te gaan met Adobe Campaign Standard:
 
 * [Inleiding tot Adobe Campaign Standard](/help/getting-started/adobe-campaign-standard-introduction.md)
 * [Aan de slag met de gebruikersinterface](/help/getting-started/getting-started-with-the-ui.md)
@@ -36,6 +36,6 @@ Er is een aantal zelfstudievideo&#39;s beschikbaar waarmee u aan de slag kunt me
 * [Mobiele marketing met Adobe Campaign](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
 * [Groeien met Adobe Campaign](/help/getting-started/growing-with-adobe-campaign.md)
 
-## Aanvullende resources
+## Aanvullende bronnen
 
-* [Documentatie - Aan de slag met Adobe Campaign Standard](https://docs.adobe.com/content/help/en/campaign-standard/using/getting-started/about-campaign-standard.html)
+* [Documentatie - Aan de slag met Adobe Campaign Standard](https://docs.adobe.com/content/help/nl-NL/campaign-standard/using/getting-started/about-campaign-standard.html)

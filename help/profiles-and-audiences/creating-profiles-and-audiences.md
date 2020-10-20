@@ -1,5 +1,5 @@
 ---
-title: Profielen en publiek maken - Overzicht
+title: Profielen en doelgroepen maken - overzicht
 description: Leer hoe u naar bestaande profielen kunt navigeren en hoe u profielen en doelgroepen kunt maken in Adobe Campaign Standard.
 feature: Profiles and Audiences
 topics: null
@@ -11,12 +11,12 @@ translation-type: tm+mt
 source-git-commit: 6c88336d9c02faa683973d74ec21e38622afdf3f
 workflow-type: tm+mt
 source-wordcount: '87'
-ht-degree: 4%
+ht-degree: 16%
 
 ---
 
 
-# Profielen en publiek maken - Overzicht
+# Profielen en doelgroepen maken - overzicht
 
 Adobe Campaign heeft twee typen of profielen:
 
@@ -29,7 +29,7 @@ In deze video wordt uitgelegd hoe u naar bestaande profielen kunt navigeren en h
 
 >[!VIDEO](https://video.tv.adobe.com/v/18463/?quality=12)
 
-## Aanvullende resources
+## Aanvullende bronnen
 
 * [Een profiel maken](/help/profiles-and-audiences/creating-a-profile.md)
 * [Een testprofiel maken](/help/profiles-and-audiences/test-profiles.md)

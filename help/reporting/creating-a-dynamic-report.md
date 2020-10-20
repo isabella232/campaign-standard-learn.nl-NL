@@ -23,6 +23,6 @@ Leer hoe u een rapport maakt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25264/?quality=12)
 
-## Aanvullende resources
+## Aanvullende bronnen
 
 * [Informatie over rapportage](https://docs.adobe.com/content/help/en/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html)

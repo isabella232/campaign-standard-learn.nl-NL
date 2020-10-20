@@ -13,8 +13,8 @@ type: Tutorial
 translation-type: tm+mt
 source-git-commit: f25c49f242710f2426f79cc47f46def81dd01cb1
 workflow-type: tm+mt
-source-wordcount: '497'
-ht-degree: 93%
+source-wordcount: '521'
+ht-degree: 89%
 
 ---
 
@@ -123,3 +123,5 @@ ht-degree: 93%
    + [Aangepaste bronnen voor privacyaanvragen wijzigen](/help/privacy/custom-resources-for-privacy-requests.md)
    + [Privacyaanvragen handmatig maken en bijhouden](/help/privacy/create-and-track-privacy-requests.md)
    + [Privacyaanvragen uitvoeren](/help/privacy/execute-privacy-requests.md)
++ [Handleiding voor beste praktijken voor Adobe Campaign-levering](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/deliverability-best-practice-guide/introduction.html)
++ [Configuratiescherm](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/control-panel/control-panel-overview.html)

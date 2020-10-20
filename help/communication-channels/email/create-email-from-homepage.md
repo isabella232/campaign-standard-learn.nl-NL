@@ -24,7 +24,7 @@ In deze video wordt uitgelegd hoe u een zelfstandige e-maillevering vanaf de sta
 
 >[!VIDEO](https://video.tv.adobe.com/v/23721?quality=12)
 
-## Aanvullende resources
+## Aanvullende bronnen
 
 * [E-mails maken en verzenden via een workflow](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
 * [Een e-mail maken (documentatie)](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/email-messages/creating-an-email.html)

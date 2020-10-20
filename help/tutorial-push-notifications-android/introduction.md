@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: 6c88336d9c02faa683973d74ec21e38622afdf3f
 workflow-type: tm+mt
 source-wordcount: '199'
-ht-degree: 9%
+ht-degree: 17%
 
 ---
 
@@ -36,6 +36,6 @@ Deze zelfstudie begeleidt u door de stappen die nodig zijn voor het verzenden va
 * [Stap 1 - Een Android-app maken](/help/tutorial-push-notifications-android/create-android-app.md)
 * [Stap 2 - De mobiele SDK integreren](/help/tutorial-push-notifications-android/integrating-with-mobile-sdk.md)
 * [Stap 3 - Extensies registreren voor uw mobiele app](/help/tutorial-push-notifications-android/register-mobile-extensions.md)
-* [Stap 4 - Push Identifier instellen](/help/tutorial-push-notifications-android/set-push-identifier.md)
+* [Stap 4 - Push-ID instellen](/help/tutorial-push-notifications-android/set-push-identifier.md)
 * [Stap 5 - Meldingen doorgeven](/help/tutorial-push-notifications-android/propagate-notification.md)
 * [Stap 6 - pushmelding verzenden](/help/tutorial-push-notifications-android/send-push-notification.md)

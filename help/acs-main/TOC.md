@@ -9,12 +9,11 @@ tutorials-title: Tutorials
 tutorials-url: https://docs.adobe.com/content/help/nl-NL/campaign-standard-learn/tutorials/overview.html
 getting-started-title: Documentatie
 getting-started-url: https://docs.adobe.com/content/help/nl-NL/campaign-standard/using/campaign-standard-home.html
-type: Tutorial
 translation-type: tm+mt
-source-git-commit: f25c49f242710f2426f79cc47f46def81dd01cb1
+source-git-commit: ab38f860429da19c662bacb68c04d9c166422782
 workflow-type: tm+mt
-source-wordcount: '521'
-ht-degree: 89%
+source-wordcount: '497'
+ht-degree: 93%
 
 ---
 
@@ -123,5 +122,3 @@ ht-degree: 89%
    + [Aangepaste bronnen voor privacyaanvragen wijzigen](/help/privacy/custom-resources-for-privacy-requests.md)
    + [Privacyaanvragen handmatig maken en bijhouden](/help/privacy/create-and-track-privacy-requests.md)
    + [Privacyaanvragen uitvoeren](/help/privacy/execute-privacy-requests.md)
-+ [Handleiding voor beste praktijken voor Adobe Campaign-levering](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/deliverability-best-practice-guide/introduction.html)
-+ [Configuratiescherm](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/control-panel/control-panel-overview.html)

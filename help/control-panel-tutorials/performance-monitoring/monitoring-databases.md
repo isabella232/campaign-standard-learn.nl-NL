@@ -10,19 +10,19 @@ audience: administrator
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 68324e2e234b3c98e9cc2cd8400a03d272306093
+source-git-commit: da28f90f376f867e861194f828493fc66cc604e4
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 3%
+source-wordcount: '86'
+ht-degree: 2%
 
 ---
 
 
 # Controledatabases
 
-De databases van [!DNL Adobe Campaign] instanties bevatten alle elementen, workflows en gegevens die zijn opgeslagen in [!DNL Adobe Campaign]. Het is daarom van essentieel belang om de databases van uw instanties te bewaken om optimale prestaties te garanderen.
+De elementen, workflows en gegevens van al uw instantie Campagne worden opgeslagen in de database. De database die de maximale capaciteit bereikt, kan leiden tot problemen met uw exemplaar (niet aanmelden, e-mails verzenden, enz.). Het is daarom van essentieel belang om regelmatig de databases van uw instanties te controleren om optimale prestaties te garanderen.
 
-Leer hoe u het databasegebruik van uw instanties kunt controleren met de [!DNL Control Panel].
+Leer hoe u het databasegebruik van uw instanties kunt controleren met de [!DNL Control Panel]toepassing.
 
 >[!VIDEO](https://video.tv.adobe.com/v/327175?quality=12)
 

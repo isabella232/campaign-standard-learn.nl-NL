@@ -3,10 +3,10 @@ title: Adobe Campaign Standard-tutorials - overzicht
 description: Adobe Campaign biedt een platform voor het ontwerpen van kanaaloverschrijdende klantervaringen en biedt een omgeving voor visuele campagnelay-out, real-time interactiebeheer en kanaaloverschrijdende uitvoering. Deze gebruikershandleiding bevat video’s en tutorials over de vele functies en mogelijkheden van Adobe Campaign Standard.
 products: SG_CAMPAIGN/STANDARD
 translation-type: tm+mt
-source-git-commit: 98b300b507f4e315e7904f82b004cdc1302b445f
+source-git-commit: a180772da382d4b67070b8efd98446603b340dc6
 workflow-type: tm+mt
-source-wordcount: '262'
-ht-degree: 86%
+source-wordcount: '274'
+ht-degree: 89%
 
 ---
 
@@ -17,11 +17,15 @@ Adobe Campaign biedt een platform voor het ontwerpen van kanaaloverschrijdende k
 
 ## Nieuwe functies
 
+* **[Controledatabases](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)**
+
+   *Leer hoe u het databasegebruik van uw instanties kunt controleren.*
+
 * **[Subdomeinen delegeren met CNAME](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
 
-   *Leer hoe u een subdomein instelt en verzendt met gebruik van CNAME&#39;s in het Configuratiescherm.*
+   *Leer hoe u een subdomein instelt en verzendt met behulp van CNAME-records in het Configuratiescherm.*
 
-## Aanbevolen door medewerkers van Adobe
+## Personeelsselectie
 
 <table>
 <tr>

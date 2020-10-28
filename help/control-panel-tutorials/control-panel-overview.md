@@ -1,6 +1,6 @@
 ---
-title: Configuratiescherm - Overzicht
-description: Met het Adobe Campaign Control Panel kunnen Adobe Campaign-beheerders belangrijke elementen controleren en beheertaken uitvoeren, zoals het beheren van de SFTP-opslag per instantie, het beheren van GPG-sleutels of subdomeinen en certificaten.
+title: Overzicht van het Configuratiescherm
+description: Met het Adobe Campaign Configuratiescherm kunnen Adobe Campaign-beheerders belangrijke assets controleren en beheertaken uitvoeren, zoals het beheren van de SFTP-opslag per instantie, het beheren van GPG-sleutels of subdomeinen en certificaten.
 feature: Control Panel
 topics: Control Panel
 audience: administrator
@@ -9,22 +9,26 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 98b300b507f4e315e7904f82b004cdc1302b445f
+source-git-commit: 68324e2e234b3c98e9cc2cd8400a03d272306093
 workflow-type: tm+mt
-source-wordcount: '197'
-ht-degree: 18%
+source-wordcount: '209'
+ht-degree: 94%
 
 ---
 
-# Deelvenster Beheer - Overzicht
+# Overzicht van het Configuratiescherm
 
-Met het Adobe Campaign Control Panel kunnen Adobe Campaign-beheerders belangrijke elementen controleren en beheertaken uitvoeren, zoals het beheren van de SFTP-opslag per instantie, het beheren van GPG-sleutels of subdomeinen en certificaten.
+Met het Adobe Campaign Configuratiescherm kunnen Adobe Campaign-beheerders belangrijke assets controleren en beheertaken uitvoeren, zoals het beheren van de SFTP-opslag per instantie, het beheren van GPG-sleutels of subdomeinen en certificaten.
 
 ## Nieuwe functies
 
+* **[Controledatabases](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)**
+
+   *Leer hoe u het databasegebruik van uw instanties kunt controleren.*
+
 * **[Subdomeinen delegeren met CNAME](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
 
-   *Leer hoe u een subdomein instelt en verzendt met gebruik van CNAME&#39;s in het Configuratiescherm.*
+   *Leer hoe u een subdomein instelt en verzendt met behulp van CNAME-records in het Configuratiescherm.*
 
 ## Personeelsselectie
 
@@ -45,15 +49,15 @@ Met het Adobe Campaign Control Panel kunnen Adobe Campaign-beheerders belangrijk
   </td>
    <td>
     <a href="./subdomains-and-certificates/google-txt-record-management.md">
-      <img alt="Google TXT-recordbeheer (video's)" src="./assets/32369.jpg" />
+      <img alt="Google-TXT-recordbeheer (video’s)" src="./assets/32369.jpg" />
     </a>
     <div>
     <a href="./subdomains-and-certificates/google-txt-record-management.md">
-    <strong>Google TXT-recordbeheer(video's)</strong>
+    <strong>Google TXT-recordbeheer (video’s)</strong>
     </a>
     </div>
     <p>
-    <em> Leer hoe u verificatieverslagen van de Google TXT-site kunt toevoegen aan al uw subdomeinen die worden gebruikt om e-mails naar GMAIL-adressen te verzenden via het Configuratiescherm van de Campagne.</em>
+    <em> Leer hoe u via het Configuratiescherm van Campaign Google-TXT-records voor websiteverificatie toevoegt aan al uw subdomeinen die worden gebruikt om e-mails naar GMAIL-adressen te verzenden.</em>
     <p>
   </td>
   <td>
@@ -66,7 +70,7 @@ Met het Adobe Campaign Control Panel kunnen Adobe Campaign-beheerders belangrijk
     </a>
     </div>
     <p>
-    <em>Leer hoe u verbinding maakt met uw SFTP-server met behulp van een client-SFTP-toepassing met de sleutels die u hebt opgeslagen in het Configuratiescherm. </em>
+    <em>Ontdek hoe u verbinding maakt met uw SFTP-server met behulp van een client-SFTP-applicatie. Hierbij worden de sleutels gebruikt die u in het Configuratiescherm hebt opgeslagen. </em>
     <p>
   </td>
 </tr>

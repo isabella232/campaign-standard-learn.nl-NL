@@ -1,19 +1,19 @@
 ---
 product: adobe campaign standard
 user-guide-title: Adobe Campaign Standard-tutorials
-user-guide-description: Ontwerp klanten over het kanaal ervaringen en creeer een milieu voor visuele campagneorchestratie, interactiebeheer in real time, en kanaaluitvoering.
-breadcrumb-title: Campaign Standard Tutorials
+user-guide-description: Ontwerp cross-channel klantervaringen en creëer een omgeving voor visuele campagneorkestratie, realtime-interactiebeheer en uitvoering via meerdere kanalen.
+breadcrumb-title: Campaign Standard-tutorials
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Standard#recommended/solutions/campaign
 tutorials-title: Tutorials
 tutorials-url: https://docs.adobe.com/content/help/nl-NL/campaign-standard-learn/tutorials/overview.html
 getting-started-title: Documentatie
 getting-started-url: https://docs.adobe.com/content/help/nl-NL/campaign-standard/using/campaign-standard-home.html
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: ab38f860429da19c662bacb68c04d9c166422782
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '497'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -105,7 +105,7 @@ ht-degree: 93%
       + [Aangepaste bronnen maken](/help/managing-processes-and-data/custom-resources/creating-custom-resources.md)
 + Beheer {#administrating}
    + [Toegangsrechten van gebruikers beheren](/help/administrating/managing-user-access-rights.md)
-   + [Configuratiescherm](https://docs.adobe.com/content/help/en/campaign-standard-learn/control-panel/control-panel-overview.html)
+   + [Configuratiescherm](https://docs.adobe.com/content/help/nl-NL/campaign-standard-learn/control-panel/control-panel-overview.html)
    + Adobe Experience Platform-gegevensconnector {adobe-experience-platform-data-connector}
       + [Inzicht in de Adobe Experience Platform-gegevensconnector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
       + [Aangepaste bronnen toewijzen](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)

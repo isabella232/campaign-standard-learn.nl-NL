@@ -2,11 +2,11 @@
 title: Adobe Campaign Standard-tutorials - overzicht
 description: Adobe Campaign biedt een platform voor het ontwerpen van kanaaloverschrijdende klantervaringen en biedt een omgeving voor visuele campagnelay-out, real-time interactiebeheer en kanaaloverschrijdende uitvoering. Deze gebruikershandleiding bevat video’s en tutorials over de vele functies en mogelijkheden van Adobe Campaign Standard.
 products: SG_CAMPAIGN/STANDARD
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: a180772da382d4b67070b8efd98446603b340dc6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '274'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -17,9 +17,9 @@ Adobe Campaign biedt een platform voor het ontwerpen van kanaaloverschrijdende k
 
 ## Nieuwe functies
 
-* **[Controledatabases](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)**
+* **[Databases controleren](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)**
 
-   *Leer hoe u het databasegebruik van uw instanties kunt controleren.*
+   *Ontdek hoe u het databasegebruik van uw instanties kunt controleren.*
 
 * **[Subdomeinen delegeren met CNAME](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
 
@@ -43,11 +43,11 @@ Adobe Campaign biedt een platform voor het ontwerpen van kanaaloverschrijdende k
     <p>
   </td>
    <td>
-    <a href="https://docs.adobe.com/content/help/en/campaign-standard-learn/control-panel/control-panel-overview.html)">
+    <a href="https://docs.adobe.com/content/help/nl-NL/campaign-standard-learn/control-panel/control-panel-overview.html">
       <img alt="Configuratiescherm (video’s)" src="./assets/control-panel.png" />
     </a>
     <div>
-    <a href="https://docs.adobe.com/content/help/en/campaign-standard-learn/control-panel/control-panel-overview.html">
+    <a href="https://docs.adobe.com/content/help/nl-NL/campaign-standard-learn/control-panel/control-panel-overview.html">
     <strong>Configuratiescherm (video’s)</strong>
     </a>
     </div>

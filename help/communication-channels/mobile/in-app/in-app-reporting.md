@@ -1,21 +1,22 @@
 ---
-title: Rapport over uw levering in de app
+title: Rapporteren over uw in-app-levering
 description: Met In-App-berichten kunt u de gebruiker contextafhankelijke In-App-berichten geven als reactie op het realtime gedrag van de klant binnen de mobiele toepassing.
 feature: In-App
 topics: Mobile
 kt: 2558
+thumbnail: 26412.jpg
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 82fb2d39dc61a55c0aa20ca1fa215f35a7dd9088
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '84'
-ht-degree: 4%
+ht-degree: 10%
 
 ---
 
-# Rapport over uw [!UICONTROL In-App] levering {#in-app-message-reporting}
+# Report on your [!UICONTROL In-App] delivery {#in-app-message-reporting}
 
 U kunt uw [!UICONTROL In-App] leveringsgerelateerde gegevens in het leveringsoverzicht bekijken door [!UICONTROL In-App] specifieke metriek toe te voegen. U kunt ook de optie Buiten het vak [In-App-rapport](https://docs.adobe.com/content/help/en/campaign-standard/using/reporting/list-of-reports/in-app-report.html)gebruiken.
 

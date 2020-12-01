@@ -9,7 +9,7 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: a52d19279760efed1ed901610f7cbf146c2c54d4
+source-git-commit: dc9d084e8be1f0b942c6fd9bbefd7fcd3ded3f2d
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
@@ -42,11 +42,11 @@ Hiervoor verrijken we het [!DNL Campaign] gegevensmodel door de bronnen buiten d
 
 In deze zelfstudie wordt stapsgewijs uitgelegd hoe u dit doet:
 
-Stap 1 - [Creërend een douanemiddel](./creating-a-custom-resource)Stap 2 - [Vormend een](./configuring-a-screen-definition-for-a-custom-resource.md)Stap 3 van de het schermdefinitie - [Aangepaste middelen](./linking-custom-resources.md)Stap 4 verbinden - [Bevolgend douanemiddelen met gegevens](./populate-custom-resources-with-data.md)
+Stap 1 - [Creërend een douanemiddel](./creating-a-custom-resource.md)Stap 2 - [Vormend een](./configuring-a-screen-definition-for-a-custom-resource.md)Stap 3 van de het schermdefinitie - [Aangepaste middelen](./linking-custom-resources.md)Stap 4 verbinden - [Bevolgend douanemiddelen met gegevens](./populate-custom-resources-with-data.md)
 
 ## Zelfstudie starten
 
-[Een aangepaste bron maken](./create-a-custom-resource)
+[Een aangepaste bron maken](./create-a-custom-resourc.md)
 
 ## Aanvullende bronnen
 

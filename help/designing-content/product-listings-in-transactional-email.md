@@ -4,11 +4,12 @@ description: In de video's worden de stappen beschreven die nodig zijn om produc
 feature: Transactional Emails
 topics: Content Creation
 kt: 1728
+thumbnail: 25915
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: bbe5f985ae791f55e94c7369fbf1aefcfd9d2b76
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 4%
@@ -38,7 +39,7 @@ De volgende video&#39;s verklaren de stappen die worden vereist om [!UICONTROL p
 
 >[!VIDEO](https://video.tv.adobe.com/v/25916?quality=12)
 
-## Aanvullende resources
+## Aanvullende bronnen
 
 * [Productaanbiedingen gebruiken in een transactiebericht (documentatie)](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/transactional-messaging/event-transactional-messages.html#using-product-listings-in-a-transactional-message)
 * [Gegevensverzamelingen definiëren (documentatie)](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/configuring-channels/configuring-transactional-messaging.html#defining-data-collections)

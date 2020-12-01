@@ -4,14 +4,15 @@ description: Hefboomwerking Adobe Experience Platform (AEP) publiek in Adobe Cam
 feature: Audience Destinations
 topics: ACOP
 kt: 2755
+thumbnail: null
 doc-type: feature video
 activity: using
 team: TM
 translation-type: tm+mt
-source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '174'
+ht-degree: 10%
 
 ---
 
@@ -37,7 +38,7 @@ De volgende videozelfstudies begeleiden u bij de verschillende stappen:
 2. [AEP-publiek activeren in een marketingworkflow](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
 3. [Wijzig het richten dimensie van een levering voor een Publiek van het Platform](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
 
-## Aanvullende resources
+## Aanvullende bronnen
 
-*[Inzicht in de Adobe Experience Platform-dataconnector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
+*[Inzicht in de Adobe Experience Platform-gegevensconnector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
 

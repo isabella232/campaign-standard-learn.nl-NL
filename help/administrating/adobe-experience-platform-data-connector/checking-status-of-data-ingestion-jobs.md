@@ -5,11 +5,12 @@ feature: Adobe Experience Platform Data Connector
 topics: null
 audience: administrator
 kt: 2831
+thumbnail: 27268.jpg
 doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 05550c50713e65793309e51355a8e31683f81e0b
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 9%
@@ -29,7 +30,7 @@ Leer hoe u de status van een gegevensinnametaak kunt controleren en of de gegeve
 
 >[!VIDEO](https://video.tv.adobe.com/v/27268?quality=12)
 
-## Aanvullende resources
+## Aanvullende bronnen
 
 * [Toewijzingsdefinitie](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-mapping-definition.html)
 * [Toewijzingsactivering](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-mapping-activation.html)

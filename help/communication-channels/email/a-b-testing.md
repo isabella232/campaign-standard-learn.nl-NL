@@ -4,14 +4,15 @@ description: 'In deze video wordt uitgelegd hoe u een A/B-test in Adobe Campaign
 feature: A/B Testing
 topics: null
 kt: 3907
+thumbnail: 18480.jpg
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '112'
-ht-degree: 41%
+ht-degree: 47%
 
 ---
 
@@ -26,4 +27,4 @@ In deze video wordt uitgelegd hoe u een A/B-test configureert en verzendt, waarb
 
 ## Aanvullende bronnen
 
-* [Een e-mail met A/B-testfunctie ontwerpen](https://docs.adobe.com/help/en/campaign-standard/using/communication-channels/email-messages/designing-an-a-b-test-email.html)
+* [Een e-mail met een A/B-test ontwerpen](https://docs.adobe.com/help/en/campaign-standard/using/communication-channels/email-messages/designing-an-a-b-test-email.html)

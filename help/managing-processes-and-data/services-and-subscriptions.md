@@ -4,19 +4,20 @@ description: Adobe Campaign staat u toe om nieuwsbrieven en dwars-kanaalmededeli
 feature: Subscriptions and Services
 topics: null
 kt: 1815
+thumbnail: 24673.jpg
 doc-type: feature video
 activity: use
 team: DOC
 translation-type: tm+mt
-source-git-commit: 556bff4c94e16d3a94561dee1ccb311bc003b631
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '181'
-ht-degree: 27%
+ht-degree: 31%
 
 ---
 
 
-# Manage services and subscriptions{#managing-services-and-subscriptions}
+# Services en abonnementen beheren{#managing-services-and-subscriptions}
 
 Adobe Campaign staat u toe om nieuwsbrieven en dwars-kanaalmededelingen tot stand te brengen en te beheren, door een reeks diensten. Berichten kunnen alleen worden verzonden naar profielen die zijn geabonneerd op de service (aanmelden). Deze profielen worden geïdentificeerd met een speciaal filter wanneer u een bericht maakt.
 

@@ -1,5 +1,5 @@
 ---
-title: Aangepaste bronnen maken
+title: Aangepaste bronnen maken - Inleiding
 description: Adobe Campaign Standard biedt de mogelijkheid om bronnen uit te breiden of gloednieuwe bronnen te maken. Deze zelfstudie met meerdere onderdelen begeleidt u door de stappen die nodig zijn om aangepaste bronnen te maken en te koppelen.
 feature: Custom Resources
 topics: null
@@ -9,15 +9,15 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 763c7f51e28d025438f873314cc4fd60b96648ca
+source-git-commit: a52d19279760efed1ed901610f7cbf146c2c54d4
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
 
 
-# Aangepaste &#x200B; maken
+# Aangepaste bronnen &#x200B; maken - Inleiding
 
 [!DNL Adobe Campaign] wordt geleverd met een vooraf gedefinieerd gegevensmodel, waarbij gegevens via verschillende bronnen worden gedefinieerd. [!DNL Campaign] biedt de mogelijkheid om bronnen uit te breiden of gloednieuwe bronnen te maken.
 

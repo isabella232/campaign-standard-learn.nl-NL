@@ -6,14 +6,14 @@ breadcrumb-title: Campaign Standard-tutorials
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Standard#recommended/solutions/campaign
 tutorials-title: Tutorials
-tutorials-url: https://docs.adobe.com/content/help/nl-NL/campaign-standard-learn/tutorials/overview.html
+tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html
 getting-started-title: Documentatie
-getting-started-url: https://docs.adobe.com/content/help/nl-NL/campaign-standard/using/campaign-standard-home.html
+getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html
 translation-type: tm+mt
-source-git-commit: 99eedbf8c99fc6040dea5061ae4883cd6f0808ae
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
-source-wordcount: '502'
-ht-degree: 96%
+source-wordcount: '497'
+ht-degree: 89%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 96%
    + [Een lijst configureren](/help/getting-started/configure-a-list.md)
    + [Hiërarchie- en marketingactiviteiten verkennen](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
    + [Campagnes beheren](/help/getting-started/managing-campaigns.md)
-   + [Inzicht in profielen en doelgroepen](/help/getting-started/understanding-profiles-and-audiences.md)
+   + [Werken met profielen en soorten publiek](/help/getting-started/understanding-profiles-and-audiences.md)
    + [Een e-mail maken](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
    + [Een workflow maken](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/getting-started/creating-a-workflow.html)
    + [Inleiding tot rapportage](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
@@ -65,7 +65,7 @@ ht-degree: 96%
       + Pushmeldingen {#push}
          + [Een pushmelding maken](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
          + [Een meertalige pushmelding maken](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
-         + [Tutorial: Aan de slag met pushmeldingen voor Android](https://docs.adobe.com/content/help/nl-NL/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html)
+         + [Tutorial: Aan de slag met pushmeldingen voor Android](https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html)
       + In-app-berichten {#in-app}
          + [Inleiding tot in-app-berichten](/help/communication-channels/mobile/in-app/in-app-message-overview.md)
          + [Gebeurtenissen configureren](/help/communication-channels/mobile/in-app/configure-events.md)
@@ -100,12 +100,10 @@ ht-degree: 96%
    + [Een dynamisch rapport maken](/help/reporting/creating-a-dynamic-report.md)
    + [Een rapport maken op basis van aangepaste profielkenmerken](/help/reporting/custom-profile-attributes-dynamic-reports.md)
    + [Een rapport maken op basis van workflowsegmenten](/help/reporting/report-on-workflow-segments.md)
-+ Ontwikkelen {#developing}
-   + Aangepaste bronnen {#custom-resources-develop}
-      + [Aangepaste bronnen maken](/help/managing-processes-and-data/custom-resources/creating-custom-resources.md)
 + Beheer {#administrating}
    + [Toegangsrechten van gebruikers beheren](/help/administrating/managing-user-access-rights.md)
-   + [Configuratiescherm](https://docs.adobe.com/content/help/nl-NL/campaign-standard-learn/control-panel/control-panel-overview.html)
+   + [Aangepaste bronnen maken](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html)
+   + [Configuratiescherm](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=nl)
    + Adobe Experience Platform-gegevensconnector {adobe-experience-platform-data-connector}
       + [Inzicht in de Adobe Experience Platform-gegevensconnector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
       + [Aangepaste bronnen toewijzen](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)

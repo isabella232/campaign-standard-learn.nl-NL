@@ -4,19 +4,20 @@ description: 'Leer hoe u een pushmelding maakt in Adobe Campaign Standard (ACS).
 feature: Push
 topics: Mobile
 kt: 1401
+thumbnail: 31499.jpg
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 39e7f9fc2a6631ebc5f2555dad651a72464e4344
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '162'
-ht-degree: 7%
+ht-degree: 11%
 
 ---
 
 
-# Een [!UICONTROL push notification]
+# Create a [!UICONTROL push notification]
 
 Leer hoe u een project maakt [!UICONTROL push notification] in Adobe Campaign Standard (ACS):
 
@@ -30,7 +31,7 @@ In de video wordt beschreven hoe u een [!DNL push notification to app subscriber
 
 >[!VIDEO](https://video.tv.adobe.com/v/31499?quality=12)
 
-## Aanvullende bronnen
+## Aanvullende resources
 
 Documentatie:
 

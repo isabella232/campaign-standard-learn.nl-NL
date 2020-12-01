@@ -1,24 +1,23 @@
 ---
-title: Een openingspagina testen en publiceren
+title: Een landingspagina testen en publiceren
 description: In deze video wordt uitgelegd hoe u een bestemmingspagina test die in Adobe Campaign Standard is gemaakt en hoe u deze kunt publiceren.
-uuid: 410b8e37-b9b6-4763-988c-31312c1dc8a6
-discoiquuid: b7dd29cf-cb56-4e6b-8050-400293a2e5e5
 feature: Landing Pages
 topics: null
 kt: 1813
+thumbnail: 24992.jpg
 doc-type: feature video
 activity: use
 team: DOC
 translation-type: tm+mt
-source-git-commit: 82fb2d39dc61a55c0aa20ca1fa215f35a7dd9088
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '45'
-ht-degree: 0%
+ht-degree: 26%
 
 ---
 
 
-# Een openingspagina testen en publiceren
+# Een landingspagina testen en publiceren
 
 In deze video wordt uitgelegd hoe u een openingspagina test en hoe u deze kunt publiceren.
 

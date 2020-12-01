@@ -1,22 +1,23 @@
 ---
-title: Een e-maillevering en rapporten controleren
+title: Een e-maillevering en rapporten reviewen
 description: In deze video wordt uitgelegd hoe u een gepersonaliseerde e-maillevering kunt bekijken en worden verschillende rapporten besproken die beschikbaar zijn in Adobe Campaign Standard (ACS).
 feature: Reporting
 topics: null
 kt: 3904
+thumbnail: 21389.jpg
 doc-type: tutorial
 activity: understand
 team: WWFRE
 translation-type: tm+mt
-source-git-commit: 82fb2d39dc61a55c0aa20ca1fa215f35a7dd9088
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '83'
-ht-degree: 12%
+ht-degree: 31%
 
 ---
 
 
-# Een e-maillevering en rapporten controleren
+# Een e-maillevering en rapporten reviewen
 
 In deze video wordt uitgelegd hoe u een persoonlijke e-maillevering kunt bekijken en worden verschillende rapporten besproken die beschikbaar zijn in Adobe Campaign Standard.
 

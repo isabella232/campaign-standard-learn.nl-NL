@@ -1,22 +1,23 @@
 ---
-title: Seed-tabeldata toewijzen
+title: Seed-tabelgegevens toewijzen
 description: Leer hoe u zaadgegevens kunt toewijzen en hoe u profielen kunt testen met de Adobe Experience Platform (AEP)
 feature: Adobe Experience Platform Data Connector
 topics: ACoP
 kt: 2900
+thumbnail: 27264.jpg
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '92'
+ht-degree: 15%
 
 ---
 
 
-# Seed-tabeldata toewijzen
+# Seed-tabelgegevens toewijzen
 
 >[!NOTE]
 >
@@ -28,7 +29,7 @@ Leer hoe u zaadgegevens en testprofielen toewijst aan de Adobe Experience Platfo
 
 >[!VIDEO](https://video.tv.adobe.com/v/27264?quality=12)
 
-## Aanvullende resources
+## Aanvullende bronnen
 
 * [Toewijzingsdefinitie](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-mapping-definition.html)
 * [Toewijzingsactivering](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-mapping-activation.html)

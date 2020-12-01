@@ -4,14 +4,15 @@ description: De externe signaalactiviteit wordt gebruikt om verschillende proces
 feature: External Signal Activity
 topics: Workflows
 kt: 2750
+thumbnail: 27249
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 9b1d8c5fb895d84da14a0402ec1f130b90a991b0
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '332'
-ht-degree: 16%
+ht-degree: 19%
 
 ---
 
@@ -27,11 +28,13 @@ Dit omvat ook een nieuwe Activiteit van de **Test** waar u tests op deze functio
 In de volgende video worden de vereiste configuratiestappen uitgelegd:
 
 1. **Ontvang externe parameters** van een extern systeem, zoals een systeem van het inhoudsbeheer (CRM):
+
    * De parameters in de externe signaalactiviteit declareren
    * Configureer de API-aanroep om de parameters te definiëren en de workflow Externe signaalactiviteit te activeren. Voor meer informatie over hoe te om een API vraag te vormen gelieve te zien het [Teweegbrengen van een Activiteit](https://docs.campaign.adobe.com/doc/standard/en/api/ACS_API.html#triggering-a-signal-activity)van het Signaal.
 
 1. **Een workflow aanpassen met externe parameters** (gebeurtenisvariabelen):
-Nadat de workflow is geactiveerd, worden de parameters opgenomen in de gebeurtenisvariabelen van de workflow en kunnen deze binnen de workflow worden gebruikt. Zie de [documentatie](https://helpx.adobe.com/campaign/standard/automating/using/calling-a-workflow-with-external-parameters.html) voor alle activiteiten die met gebeurtenisvariabelen kunnen worden aangepast:
+
+   Nadat de workflow is geactiveerd, worden de parameters opgenomen in de gebeurtenisvariabelen van de workflow en kunnen deze binnen de workflow worden gebruikt. Zie de [documentatie](https://helpx.adobe.com/campaign/standard/automating/using/calling-a-workflow-with-external-parameters.html) voor alle activiteiten die met gebeurtenisvariabelen kunnen worden aangepast:
 
    * De testactiviteit configureren (nieuw in 19.2)
    * Activiteit voor leespubliek en e-maillevering configureren
@@ -42,4 +45,4 @@ Nadat de workflow is geactiveerd, worden de parameters opgenomen in de gebeurten
 
 ## Aanvullende bronnen
 
-* [Extern signaal (documentatie)](https://docs.adobe.com/content/help/en/campaign-standard/using/managing-processes-and-data/data-management-activities/external-api.html)
+* [Extern signaal (documentatie)](https://docs.adobe.com/content/help/nl-NL/campaign-standard/using/managing-processes-and-data/data-management-activities/external-api.html)

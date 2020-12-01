@@ -1,22 +1,23 @@
 ---
-title: Privacyverzoeken uitvoeren
+title: Privacyaanvragen uitvoeren
 description: In Adobe Campaign worden privacyverzoeken uitgevoerd door workflows. In deze video wordt beschreven welke workflows aanvragen benaderen en verwijderen en wat er gebeurt wanneer ze worden uitgevoerd.
 feature: GDPR, CCPA
 topic: null
 kt: 1525
+thumbnail: 22770.jpg
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '79'
-ht-degree: 2%
+ht-degree: 30%
 
 ---
 
 
-# Privacyverzoeken uitvoeren
+# Privacyaanvragen uitvoeren
 
 In Adobe Campaign worden privacyverzoeken uitgevoerd door workflows. In deze video wordt beschreven welke workflows aanvragen benaderen en verwijderen en wat er gebeurt wanneer ze worden uitgevoerd.
 
@@ -24,5 +25,5 @@ In Adobe Campaign worden privacyverzoeken uitgevoerd door workflows. In deze vid
 
 ## Aanvullende bronnen
 
-* [Algemene richtlijnen voor privacy voor campagne](https://helpx.adobe.com/campaign/kb/campaign-privacy-overview.html)
-* [CCPA voor Adobe Campaign Standard](https://helpx.adobe.com/campaign/kb/acs-privacy.html#ccpa)
+* [Algemene richtlijnen op het gebied van privacy voor Campaign](https://helpx.adobe.com/nl/campaign/kb/campaign-privacy-overview.html)
+* [CCPA voor Adobe Campaign Standard](https://helpx.adobe.com/nl/campaign/kb/acs-privacy.html#ccpa)

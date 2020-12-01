@@ -1,24 +1,25 @@
 ---
-title: Een levering in de app maken binnen een workflow
+title: Een in-app-levering maken binnen een workflow
 seo-title: In-app levering maken binnen een workflow
 description: De leveringsactiviteit in de app wordt over het algemeen gebruikt om het verzenden van een bericht in de app naar een doelpubliek te automatiseren dat in dezelfde workflow wordt berekend.
 seo-description: De leveringsactiviteit in de app wordt over het algemeen gebruikt om het verzenden van een bericht in de app naar een doelpubliek te automatiseren dat in dezelfde workflow wordt berekend.
 feature: In-App
 topics: Mobile
 kt: 2500
+thumbnail: 26226.jpg
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 82fb2d39dc61a55c0aa20ca1fa215f35a7dd9088
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '204'
-ht-degree: 14%
+ht-degree: 18%
 
 ---
 
 
-# Een [!UICONTROL In-App] levering maken binnen een workflow
+# Create an [!UICONTROL In-App] delivery within a workflow
 
 The In-App delivery activity is generally used to automate sending an [!UICONTROL In-App] message to a target audience calculated in the same workflow.
 

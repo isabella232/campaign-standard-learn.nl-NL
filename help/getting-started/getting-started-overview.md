@@ -8,10 +8,10 @@ doc-type: null
 activity: understand
 team: TM
 translation-type: tm+mt
-source-git-commit: 99eedbf8c99fc6040dea5061ae4883cd6f0808ae
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
-source-wordcount: '191'
-ht-degree: 100%
+source-wordcount: '189'
+ht-degree: 95%
 
 ---
 
@@ -30,7 +30,7 @@ Er zijn diverse tutorialvideo’s beschikbaar om u te helpen aan de slag te gaan
 * [Hiërarchie- en marketingactiviteiten verkennen](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
 * [Campagnes beheren](/help/getting-started/managing-campaigns.md)
 * [Inzicht in profielen en doelgroepen](/help/getting-started/understanding-profiles-and-audiences.md)
-* [Een e-mail maken](https://docs.adobe.com/content/help/nl-NL/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
+* [Een e-mail maken](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
 * [Een workflow maken](/help/managing-processes-and-data/creating-a-workflow.md)
 * [Inleiding tot rapportage](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
 * [Mobiele marketing met Adobe Campaign](/help/getting-started/mobile-marketing-with-adobe-campaign.md)

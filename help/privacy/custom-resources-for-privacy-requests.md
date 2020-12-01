@@ -4,12 +4,13 @@ description: Wanneer u Adobe Campaign Standard (ACS) instelt voor het verwerken 
 feature: GDPR, CCPA
 topic: null
 kt: 1243
+thumbnail: 23326.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: ht
-source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
-workflow-type: ht
+translation-type: tm+mt
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+workflow-type: tm+mt
 source-wordcount: '199'
 ht-degree: 100%
 
@@ -20,7 +21,7 @@ ht-degree: 100%
 
 Wanneer u Adobe Campaign Standard instelt voor het verwerken van verzoeken om toegang tot persoonsgegevens, moet u ervoor zorgen dat aangepaste gegevens die aan een profiel zijn gekoppeld, worden verwijderd wanneer het profiel wordt verwijderd. In deze video wordt uitgelegd hoe u aangepaste bronnen kunt aanpassen om aan deze eis te voldoen.
 
->[!VIDEO](https://video.tv.adobe.com/v/23326?quality=12&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/23326?quality=12)
 
 >[!NOTE]
 >

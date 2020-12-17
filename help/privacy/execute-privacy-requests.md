@@ -1,6 +1,6 @@
 ---
-title: Privacyaanvragen uitvoeren
-description: In Adobe Campaign worden privacyverzoeken uitgevoerd door workflows. In deze video wordt beschreven welke workflows aanvragen benaderen en verwijderen en wat er gebeurt wanneer ze worden uitgevoerd.
+title: Verzoeken om toegang tot persoonsgegevens uitvoeren
+description: In Adobe Campaign worden verzoeken om toegang tot persoonsgegevens uitgevoerd door workflows. In deze video wordt beschreven welke workflows toegang hebben tot verzoeken en verzoeken kunnen verwijderen. Daarnaast ziet u wat er gebeurt wanneer de workflows worden uitgevoerd.
 feature: GDPR, CCPA
 topic: null
 kt: 1525
@@ -8,22 +8,22 @@ thumbnail: 22770.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '79'
-ht-degree: 30%
+ht-degree: 100%
 
 ---
 
 
-# Privacyaanvragen uitvoeren
+# Verzoeken om toegang tot persoonsgegevens uitvoeren
 
-In Adobe Campaign worden privacyverzoeken uitgevoerd door workflows. In deze video wordt beschreven welke workflows aanvragen benaderen en verwijderen en wat er gebeurt wanneer ze worden uitgevoerd.
+In Adobe Campaign worden verzoeken om toegang tot persoonsgegevens uitgevoerd door workflows. In deze video wordt beschreven welke workflows toegang hebben tot verzoeken en verzoeken kunnen verwijderen. Daarnaast ziet u wat er gebeurt wanneer de workflows worden uitgevoerd.
 
->[!VIDEO](https://video.tv.adobe.com/v/22770?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/22770?quality=12&captions=dut)
 
 ## Aanvullende bronnen
 
 * [Algemene richtlijnen op het gebied van privacy voor Campaign](https://helpx.adobe.com/nl/campaign/kb/campaign-privacy-overview.html)
-* [CCPA voor Adobe Campaign Standard](https://helpx.adobe.com/nl/campaign/kb/acs-privacy.html#ccpa)
+* [CCPA (California Consumer Privacy Act) voor Adobe Campaign Standard](https://helpx.adobe.com/nl/campaign/kb/acs-privacy.html#ccpa)

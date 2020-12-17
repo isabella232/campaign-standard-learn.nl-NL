@@ -8,9 +8,9 @@ thumbnail: 23326.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 17428b8a45a70790d1e9c40fc1f00313cd1704ee
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '196'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Wanneer u Adobe Campaign Standard instelt voor het verwerken van verzoeken om toegang tot persoonsgegevens, moet u ervoor zorgen dat aangepaste gegevens die aan een profiel zijn gekoppeld, worden verwijderd wanneer het profiel wordt verwijderd. In deze video wordt uitgelegd hoe u aangepaste bronnen kunt aanpassen om aan deze eis te voldoen.
 
->[!VIDEO](https://video.tv.adobe.com/v/23326?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23326?quality=12&captions=dut)
 
 >[!NOTE]
 >

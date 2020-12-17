@@ -4,16 +4,16 @@ user-guide-title: Adobe Campaign Standard-tutorials
 user-guide-description: Ontwerp cross-channel klantervaringen en creëer een omgeving voor visuele campagneorkestratie, realtime-interactiebeheer en uitvoering via meerdere kanalen.
 breadcrumb-title: Campaign Standard-tutorials
 solution-title: Experience League
-solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Standard#recommended/solutions/campaign
+solution-hub-url: https://experienceleague.adobe.com/?lang=nl&tag=Campaign+Standard#recommended/solutions/campaign
 tutorials-title: Tutorials
-tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html
+tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=nl
 getting-started-title: Documentatie
-getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html
-translation-type: tm+mt
+getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=nl
+translation-type: ht
 source-git-commit: 5edcdcd98b00b4f992b9775707f2c555bf051aec
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '497'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -28,9 +28,9 @@ ht-degree: 89%
    + [Een lijst configureren](/help/getting-started/configure-a-list.md)
    + [Hiërarchie- en marketingactiviteiten verkennen](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
    + [Campagnes beheren](/help/getting-started/managing-campaigns.md)
-   + [Werken met profielen en soorten publiek](/help/getting-started/understanding-profiles-and-audiences.md)
-   + [Een e-mail maken](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
-   + [Een workflow maken](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/managing-processes-and-data/creating-a-workflow.html)
+   + [Inzicht in profielen en doelgroepen](/help/getting-started/understanding-profiles-and-audiences.md)
+   + [Een e-mail maken](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html?lang=nl)
+   + [Een workflow maken](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/managing-processes-and-data/creating-a-workflow.html?lang=nl)
    + [Inleiding tot rapportage](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
    + [Mobiele marketing met Adobe Campaign](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
    + [Groeien met Adobe Campaign](/help/getting-started/growing-with-adobe-campaign.md)
@@ -65,7 +65,7 @@ ht-degree: 89%
       + Pushmeldingen {#push}
          + [Een pushmelding maken](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
          + [Een meertalige pushmelding maken](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
-         + [Tutorial: Aan de slag met pushmeldingen voor Android](https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html)
+         + [Tutorial: Aan de slag met pushmeldingen voor Android](https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=nl)
       + In-app-berichten {#in-app}
          + [Inleiding tot in-app-berichten](/help/communication-channels/mobile/in-app/in-app-message-overview.md)
          + [Gebeurtenissen configureren](/help/communication-channels/mobile/in-app/configure-events.md)
@@ -102,7 +102,7 @@ ht-degree: 89%
    + [Een rapport maken op basis van workflowsegmenten](/help/reporting/report-on-workflow-segments.md)
 + Beheer {#administrating}
    + [Toegangsrechten van gebruikers beheren](/help/administrating/managing-user-access-rights.md)
-   + [Aangepaste bronnen maken](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html)
+   + [Aangepaste bronnen maken](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=nl)
    + [Configuratiescherm](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=nl)
    + Adobe Experience Platform-gegevensconnector {adobe-experience-platform-data-connector}
       + [Inzicht in de Adobe Experience Platform-gegevensconnector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
@@ -116,7 +116,7 @@ ht-degree: 89%
          + [Vermoeidheidsregels maken](/help/administrating/typology-rules/fatigue-management/create-fatigue-rules.md)
 + Privacy {#privacy}
    + [Overzicht](/help/privacy/privacy-overview.md)
-   + [Naamruimten maken voor privacyaanvragen](/help/privacy/namespaces-for-privacy-requests.md)
-   + [Aangepaste bronnen voor privacyaanvragen wijzigen](/help/privacy/custom-resources-for-privacy-requests.md)
-   + [Privacyaanvragen handmatig maken en bijhouden](/help/privacy/create-and-track-privacy-requests.md)
-   + [Privacyaanvragen uitvoeren](/help/privacy/execute-privacy-requests.md)
+   + [Naamruimten maken voor verzoeken om toegang tot persoonsgegevens](/help/privacy/namespaces-for-privacy-requests.md)
+   + [Aangepaste bronnen voor verzoeken om toegang tot persoonsgegevens wijzigen](/help/privacy/custom-resources-for-privacy-requests.md)
+   + [Verzoeken om toegang tot persoonsgegevens handmatig maken en bijhouden](/help/privacy/create-and-track-privacy-requests.md)
+   + [Verzoeken om toegang tot persoonsgegevens uitvoeren](/help/privacy/execute-privacy-requests.md)

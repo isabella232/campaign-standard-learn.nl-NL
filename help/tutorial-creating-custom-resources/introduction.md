@@ -1,6 +1,6 @@
 ---
 title: Aangepaste bronnen maken - Inleiding
-description: Adobe Campaign Standard biedt de mogelijkheid om bronnen uit te breiden of gloednieuwe bronnen te maken. Deze zelfstudie met meerdere onderdelen begeleidt u door de stappen die nodig zijn om aangepaste bronnen te maken en te koppelen.
+description: Adobe Campaign Standard biedt de mogelijkheid om bronnen uit te breiden of geheel nieuwe bronnen te maken. Deze tutorial met meerdere onderdelen begeleidt u door de stappen die nodig zijn om aangepaste bronnen te maken en te koppelen.
 feature: Custom Resources
 topics: null
 kt: 2999
@@ -8,46 +8,49 @@ thumbnail: 27715.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 17428b8a45a70790d1e9c40fc1f00313cd1704ee
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '233'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Aangepaste bronnen &#x200B; maken - Inleiding
+# Aangepaste bronnen maken - Inleiding
 
-[!DNL Adobe Campaign] wordt geleverd met een vooraf gedefinieerd gegevensmodel, waarbij gegevens via verschillende bronnen worden gedefinieerd. [!DNL Campaign] biedt de mogelijkheid om bronnen uit te breiden of gloednieuwe bronnen te maken.
+[!DNL Adobe Campaign] wordt geleverd met een vooraf gedefinieerd gegevensmodel, waarbij gegevens via verschillende bronnen worden gedefinieerd. [!DNL Campaign] biedt de mogelijkheid om bronnen uit te breiden of geheel nieuwe bronnen te maken.
 
-Deze zelfstudie met meerdere onderdelen begeleidt u door de stappen die nodig zijn om aangepaste bronnen te maken en te koppelen. Aan het einde van deze zelfstudie hebt u geleerd hoe u het volgende kunt doen:
+Deze tutorial met meerdere onderdelen begeleidt u door de stappen die nodig zijn om aangepaste bronnen te maken en te koppelen. Aan het einde van deze tutorial hebt u geleerd hoe u het volgende kunt doen:
 
 * Een aangepaste bron maken
 * Velden toevoegen aan de aangepaste bron
 * Twee aangepaste bronnen koppelen
-* Schermdefinitie configureren
+* Een schermdefinitie configureren
 
-## Voorwaarde
+## Vereiste
 
-Om douanemiddelen te kunnen tot stand brengen, moet u de rechten van de beleidsgebruiker hebben.
+U hebt beheerdersrechten nodig om aangepaste bronnen te kunnen maken.
 
-## Overzicht van zelfstudie
+## Overzicht van tutorial
 
-Wij zouden extra informatie over willen kunnen gebruiken wat een klant bestelde, zodat het voor marketing en re-marketing doeleinden beschikbaar is.
+We willen graag extra informatie over wat een klant heeft besteld, zodat we deze informatie kunnen gebruiken voor marketing- en remarketingdoeleinden.
 
-Hiervoor verrijken we het [!DNL Campaign] gegevensmodel door de bronnen buiten de box uit te breiden en onze eigen aangepaste tabellen toe te voegen. Wij zullen een klant en een ordetabel toevoegen.
+Daarom verrijken we het [!DNL Campaign]-gegevensmodel door de bestaande bronnen uit te breiden en onze eigen aangepaste tabellen toe te voegen. We gaan een tabel met klanten en een tabel met bestellingen toevoegen.
 
->[!VIDEO](https://video.tv.adobe.com/v/27715?quality=9)
+>[!VIDEO](https://video.tv.adobe.com/v/27715?quality=9&captions=dut)
 
-In deze zelfstudie wordt stapsgewijs uitgelegd hoe u dit doet:
+In deze tutorial wordt stapsgewijs uitgelegd hoe u:
 
-Stap 1 - [Creërend een douanemiddel](./creating-a-custom-resource.md)Stap 2 - [Vormend een](./configuring-a-screen-definition-for-a-custom-resource.md)Stap 3 van de het schermdefinitie - [Aangepaste middelen](./linking-custom-resources.md)Stap 4 verbinden - [Bevolgend douanemiddelen met gegevens](./populate-custom-resources-with-data.md)
+Stap 1 - [Een aangepaste bron maakt](./creating-a-custom-resource.md)
+Stap 2 - [Een schermdefinitie configureert](./configuring-a-screen-definition-for-a-custom-resource.md)
+Stap 3 - [Aangepaste bronnen koppelt](./linking-custom-resources.md)
+Stap 4 - [Aangepaste bronnen vult met gegevens](./populate-custom-resources-with-data.md)
 
-## Zelfstudie starten
+## De tutorial starten
 
 [Een aangepaste bron maken](./creating-a-custom-resource.md)
 
 ## Aanvullende bronnen
 
-[Aangepaste bronnen (documentatie)](https://experienceleague.adobe.com/docs/campaign-standard/using/working-with-apis/global-concepts/custom-resources.html)
+[Aangepaste bronnen (documentatie)](https://experienceleague.adobe.com/docs/campaign-standard/using/working-with-apis/global-concepts/custom-resources.html?lang=nl)

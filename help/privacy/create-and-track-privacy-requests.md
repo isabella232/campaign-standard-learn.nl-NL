@@ -1,6 +1,6 @@
 ---
-title: Privacy-aanvragen handmatig maken en bijhouden via de Adobe Campaign-gebruikersinterface
-description: Met Adobe Campaign kunt u aanvragen voor toegang tot en verwijdering van PII-gegevens maken in overeenstemming met privacywetten zoals GDPR en CCPA. In deze video's wordt getoond hoe u handmatig privacyverzoeken kunt maken en de ontwikkeling ervan kunt volgen in de gebruikersinterface van Adobe Campaign Standard.
+title: Verzoeken om toegang tot persoonsgegevens handmatig maken en bijhouden via de Adobe Campaign-gebruikersinterface
+description: Met Adobe Campaign kunt u verzoeken om toegang tot en verwijdering van PII-gegevens (persoonlijk identificeerbare informatie) maken in overeenstemming met privacywetten zoals de AVG en CCPA (California Consumer Privacy Act). Deze video laat zien hoe u handmatig verzoeken om toegang tot persoonsgegevens kunt maken en de ontwikkeling ervan kunt volgen in de gebruikersinterface van Adobe Campaign Standard.
 feature: GDPR, CCPA
 topic: null
 kt: 1242
@@ -8,22 +8,22 @@ thumbnail: 29235.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '125'
-ht-degree: 19%
+ht-degree: 100%
 
 ---
 
 
-# Privacyaanvragen handmatig maken en bijhouden
+# Verzoeken om toegang tot persoonsgegevens handmatig maken en bijhouden
 
-Met Adobe Campaign kunt u aanvragen voor toegang tot en verwijdering van PII-gegevens maken in overeenstemming met privacywetten zoals GDPR en CCPA.
+Met Adobe Campaign kunt u verzoeken om toegang tot en verwijdering van PII-gegevens (persoonlijk identificeerbare informatie) maken in overeenstemming met privacywetten zoals de AVG en CCPA (California Consumer Privacy Act).
 
-In deze video&#39;s wordt getoond hoe u handmatig privacyverzoeken kunt maken en de ontwikkeling ervan kunt volgen in de gebruikersinterface van Adobe Campaign Standard.
+Deze video laat zien hoe u handmatig verzoeken om toegang tot persoonsgegevens kunt maken en de ontwikkeling ervan kunt volgen in de gebruikersinterface van Adobe Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/29235?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/29235?quality=12&captions=dut)
 
 ## Aanvullende bronnen
 

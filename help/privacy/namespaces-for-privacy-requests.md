@@ -1,6 +1,6 @@
 ---
-title: Naamruimten maken voor privacyverzoeken in Adobe Campaign Standard (ACS)
-description: Een eerste vereiste om toegang tot privacy te kunnen creëren en verzoeken te kunnen schrappen, zoals vereist door GDPR of CCPA, is de definitie van namespace die zal worden gebruikt om het gegevenssubject binnen het gegevensbestand van Adobe Campaign te identificeren. In deze video's wordt uitgelegd hoe u naamruimten kunt maken voor privacyverzoeken.
+title: Naamruimten maken voor verzoeken om toegang tot persoonsgegevens in Adobe Campaign Standard (ACS)
+description: Voor het maken van verzoeken om toegang tot en verwijdering van persoonsgegevens, zoals vereist door de AVG of CCPA (California Consumer Privacy Act), is de definitie van de naamruimte vereist die zal worden gebruikt om de betrokkene in de Adobe Campaign-database te identificeren. In deze video wordt uitgelegd hoe u naamruimten kunt maken voor verzoeken om toegang tot persoonsgegevens.
 feature: GDPR, CCPA
 topic: null
 kt: 1460
@@ -8,23 +8,23 @@ thumbnail: 22600.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '123'
-ht-degree: 9%
+ht-degree: 100%
 
 ---
 
 
-# Naamruimten maken voor privacyaanvragen
+# Naamruimten maken voor verzoeken om toegang tot persoonsgegevens
 
-Een eerste vereiste om toegang tot privacy te kunnen creëren en verzoeken te kunnen schrappen, zoals vereist door GDPR of CCPA, is de definitie van namespace die zal worden gebruikt om het gegevenssubject binnen het gegevensbestand van Adobe Campaign te identificeren.
+Voor het maken van verzoeken om toegang tot en verwijdering van persoonsgegevens, zoals vereist door de AVG of CCPA (California Consumer Privacy Act), is de definitie van de naamruimte vereist die zal worden gebruikt om de betrokkene in de Adobe Campaign-database te identificeren.
 
-In deze video&#39;s wordt uitgelegd hoe u naamruimten kunt maken voor privacyverzoeken.
+In deze video wordt uitgelegd hoe u naamruimten kunt maken voor verzoeken om toegang tot persoonsgegevens.
 
->[!VIDEO](https://video.tv.adobe.com/v/22600?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/22600?quality=12&captions=dut)
 
 ## Aanvullende bronnen
 
-* [Algemene privacyrichtlijnen voor campagnes](https://helpx.adobe.com/nl/campaign/kb/campaign-privacy-overview.html)
+* [Algemene richtlijnen op het gebied van privacy voor Campaign](https://helpx.adobe.com/nl/campaign/kb/campaign-privacy-overview.html)

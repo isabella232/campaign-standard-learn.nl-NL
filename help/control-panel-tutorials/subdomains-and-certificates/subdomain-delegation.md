@@ -24,7 +24,7 @@ Met het [!UICONTROL Control Panel] van Adobe Campaign kunt u een subdomein volle
 
 >[!NOTE]
 >
->De delegatie van subdomein van de [!UICONTROL Control Panel] zal in bèta tegen eind Januari beschikbaar zijn, en onderworpen aan regelmatige updates en aanpassingen zonder bericht.
+>Subdomeindelegatie van [!UICONTROL Control Panel] zal in bèta tegen eind Januari beschikbaar zijn, en onderworpen aan regelmatige updates en aanpassingen zonder bericht.
 
 ## Toegang tot het [!UICONTROL Control Panel] [!UICONTROL Subdomain Management]
 

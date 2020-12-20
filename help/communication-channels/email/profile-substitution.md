@@ -4,7 +4,7 @@ description: In deze video wordt uitgelegd hoe u uw e-mailberichten kunt testen 
 feature: Email
 topics: Channels
 kt: 4667
-thumbnail: 32368
+thumbnail: 32368.jpg
 doc-type: feature video
 activity: use
 team: TM
@@ -33,6 +33,6 @@ Raadpleeg de gedetailleerde [productdocumentatie](https://docs.adobe.com/content
 
 ## Aanvullende bronnen
 
-* [Berichten testen met behulp van doelprofielen (documentatie)](https://docs.adobe.com/content/help/nl-NL/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html)
+* [Berichten testen met behulp van doelprofielen (documentatie)](https://docs.adobe.com/content/help/en/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html)
 * [Een e-mail met een A/B-test ontwerpen](/help/communication-channels/email/a-b-testing.md)
 * [Een test verzenden, een e-mail voorbereiden en verzenden](/help/communication-channels/email/sending-test-preparing-sending-email.md)

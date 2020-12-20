@@ -12,19 +12,19 @@ team: TM
 translation-type: tm+mt
 source-git-commit: fcb815eba6f704ae948d98acc0c3fbf9ef778264
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '215'
+ht-degree: 65%
 
 ---
 
 
-# Getting started with the [!UICONTROL Control Panel] {#control-panel}
+# Aan de slag met [!UICONTROL Control Panel] {#control-panel}
 
 >[!NOTE]
 >
 >De termen ‘[!UICONTROL whitelist]’ en ‘[!UICONTROL blacklist]’ zijn vervangen door ‘[!UICONTROL allowlist]’ en ‘[!UICONTROL denylist]’ in de documentatie van Adobe Campaign. Sommige van deze termen staan nog steeds in de gebruikersinterface van het product, optienamen, interne code en de tutorialvideo’s. Deze worden vervangen in toekomstige versies van het Configuratiescherm.
 
-The [!UICONTROL Control Panel] allows Adobe Campaign administrators to monitor key assets and perform administrative tasks, such as managing the [!DNL SFTP] storage by instance, managing [!DNL GPG] keys, or [!UICONTROL subdomains] and [!UICONTROL certificates].
+Met [!UICONTROL Control Panel] kunnen Adobe Campaign-beheerders belangrijke elementen controleren en beheertaken uitvoeren, zoals het beheren van de [!DNL SFTP]-opslag per instantie, het beheren van [!DNL GPG]-toetsen of [!UICONTROL subdomains] en [!UICONTROL certificates].
 
 In dit artikel wordt uitgelegd hoe u toegang krijgt tot het Configuratiescherm en wat de voorwaarden zijn om met het Configuratiescherm te kunnen werken.
 

@@ -20,11 +20,11 @@ ht-degree: 35%
 
 # Een SSH-sleutel genereren
 
-U moet een SSH-sleutel genereren zodat u deze aan de sleutel kunt toevoegen [!UICONTROL Control Panel].
+U moet een sleutel van SSH produceren zodat u het aan [!UICONTROL Control Panel] kunt toevoegen.
 
 ## Toegang tot SFTP-beheer via het [!UICONTROL Control Panel]
 
-To access the SFTP Management in [!UICONTROL Control Panel], go to:
+Ga naar:[!UICONTROL Control Panel]
 
 * [Experience Cloud Home](https://experience.adobe.com/#/home) > [!UICONTROL Solution picker]: [!UICONTROL Campaign] > **[!UICONTROL Control Panel]**-kaart > **SFTP**-kaart
 

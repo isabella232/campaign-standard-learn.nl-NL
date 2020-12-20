@@ -8,9 +8,9 @@ thumbnail: 27715.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 17428b8a45a70790d1e9c40fc1f00313cd1704ee
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 100%
 
@@ -38,7 +38,7 @@ We willen graag extra informatie over wat een klant heeft besteld, zodat we deze
 
 Daarom verrijken we het [!DNL Campaign]-gegevensmodel door de bestaande bronnen uit te breiden en onze eigen aangepaste tabellen toe te voegen. We gaan een tabel met klanten en een tabel met bestellingen toevoegen.
 
->[!VIDEO](https://video.tv.adobe.com/v/27715?quality=9&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/27715?quality=9)
 
 In deze tutorial wordt stapsgewijs uitgelegd hoe u:
 

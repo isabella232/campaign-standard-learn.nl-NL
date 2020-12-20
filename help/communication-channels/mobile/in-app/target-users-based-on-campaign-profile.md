@@ -17,9 +17,9 @@ ht-degree: 6%
 ---
 
 
-# Target users based on their [!DNL Campaign] profile
+# Doelgebruikers op basis van hun [!DNL Campaign]-profiel
 
-U kunt bekende gebruikers van een mobiele app als doel instellen (gebruikers die zich hebben aangemeld bij de app met PII) met berichten die zijn aangepast met CRM-profielkenmerken die beschikbaar zijn in Adobe Campaign Standard. Deze sjabloon is handig ter ondersteuning van gevallen waarin gebruikers al via andere kanalen, zoals e-mail of push, zijn aangewezen en die zijn gebaseerd op hun reactie, een [!UICONTROL In-App] bericht willen sturen.
+U kunt bekende gebruikers van een mobiele app als doel instellen (gebruikers die zich hebben aangemeld bij de app met PII) met berichten die zijn aangepast met CRM-profielkenmerken die beschikbaar zijn in Adobe Campaign Standard. Deze sjabloon is handig ter ondersteuning van gevallen waarin gebruikers al op andere kanalen, zoals E-mail of Push, zijn aangewezen en die zijn gebaseerd op hun reactie, een [!UICONTROL In-App]-bericht willen sturen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26200?quality=12)
 

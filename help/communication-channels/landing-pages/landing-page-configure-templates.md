@@ -16,8 +16,8 @@ ht-degree: 35%
 
 ---
 
-# Een [!UICONTROL landing page template]
+# Een [!UICONTROL landing page template] configureren
 
-In deze video wordt uitgelegd hoe u [!UICONTROL landing page] sjablonen kunt configureren.
+In deze video wordt uitgelegd hoe u [!UICONTROL landing page]-sjablonen kunt configureren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25200/?quality=12)

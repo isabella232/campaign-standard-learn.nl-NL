@@ -68,7 +68,7 @@ Voor verbinding met SFTP-servers is het volgende vereist:
 * Privé/openbaar sleutelpaar dat bij Adobe Campaign moet worden geregistreerd
 * Als u rechtstreeks verbinding maakt met de SFTP-server, hebt u ook SFTP-clientsoftware nodig
 
-### Handige documentatie {#helpful-docs}
+### Handige documentatie  {#helpful-docs}
 
 * [Aanmelden bij uw SFTP-server](https://docs.adobe.com/content/help/nl-NL/control-panel/using/control-panel-home.html#LoggingintoyourSFTPserver)
 

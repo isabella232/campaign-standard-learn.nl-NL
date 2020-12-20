@@ -19,7 +19,7 @@ ht-degree: 47%
 
 # A/B-tests
 
-The [!UICONTROL A/B Test] functionality in Adobe Campaign allows you to define two to three email variants. Elke variant wordt naar populatiesamples verzonden om te bepalen welke variant het beste resultaat oplevert. Zodra dit is bepaald, wordt de winnende variant naar de resterende populatie verzonden. U kunt de content, het onderwerp of de afzender van de e-mail variëren.
+Met de [!UICONTROL A/B Test]-functionaliteit in Adobe Campaign kunt u twee tot drie e-mailvarianten definiëren. Elke variant wordt naar populatiesamples verzonden om te bepalen welke variant het beste resultaat oplevert. Zodra dit is bepaald, wordt de winnende variant naar de resterende populatie verzonden. U kunt de content, het onderwerp of de afzender van de e-mail variëren.
 
 In deze video wordt uitgelegd hoe u een A/B-test configureert en verzendt, waarbij de onderwerpregel wordt getest.
 

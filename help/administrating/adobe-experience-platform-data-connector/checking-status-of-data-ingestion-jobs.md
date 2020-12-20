@@ -24,7 +24,7 @@ ht-degree: 9%
 >
 >Deze mogelijkheid wordt momenteel in bèta aangeboden en kan zonder voorafgaande kennisgeving regelmatig worden bijgewerkt en gewijzigd.
 >
->Neem contact op met [!UICONTROL Adobe Customer Support] als u deze functie wilt implementeren.
+>Neem contact op met [!UICONTROL Adobe Customer Support] als u van plan bent deze functie te implementeren.
 
 Leer hoe u de status van een gegevensinnametaak kunt controleren en of de gegevens vanuit Adobe Campaign Standard in Adobe Experience Platform zijn ingevoerd.
 

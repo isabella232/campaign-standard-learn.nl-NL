@@ -19,7 +19,7 @@ ht-degree: 34%
 
 # Een meertalige pushmelding maken [!UICONTROL push notification]
 
-Leer hoe u een meertalig document maakt [!UICONTROL push notifications] in Adobe Campaign Standard.
+Leer hoe u een meertalig [!UICONTROL push notifications] maakt in Adobe Campaign Standard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23304?quality=12)
 

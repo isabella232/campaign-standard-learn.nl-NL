@@ -16,9 +16,9 @@ ht-degree: 10%
 
 ---
 
-# Report on your [!UICONTROL In-App] delivery {#in-app-message-reporting}
+# Rapport over uw [!UICONTROL In-App] levering {#in-app-message-reporting}
 
-U kunt uw [!UICONTROL In-App] leveringsgerelateerde gegevens in het leveringsoverzicht bekijken door [!UICONTROL In-App] specifieke metriek toe te voegen. U kunt ook de optie Buiten het vak [In-App-rapport](https://docs.adobe.com/content/help/en/campaign-standard/using/reporting/list-of-reports/in-app-report.html)gebruiken.
+U kunt uw [!UICONTROL In-App] leverings verwante gegevens of in de leveringssamenvatting herzien door [!UICONTROL In-App] specifieke metriek toe te voegen. Alternatief, kunt u uit de doos [In-App Rapport](https://docs.adobe.com/content/help/en/campaign-standard/using/reporting/list-of-reports/in-app-report.html) gebruiken.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26412?quality=12)
 

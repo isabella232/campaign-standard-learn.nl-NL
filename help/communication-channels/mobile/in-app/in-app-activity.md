@@ -19,9 +19,9 @@ ht-degree: 18%
 ---
 
 
-# Create an [!UICONTROL In-App] delivery within a workflow
+# Een [!UICONTROL In-App]-levering maken binnen een workflow
 
-The In-App delivery activity is generally used to automate sending an [!UICONTROL In-App] message to a target audience calculated in the same workflow.
+De leveringsactiviteit in-app wordt over het algemeen gebruikt om het verzenden van een [!UICONTROL In-App] bericht aan een doelpubliek te automatiseren dat in het zelfde werkschema wordt berekend.
 
 De ontvangers worden vóór de activiteit in de zelfde werkschema gedefinieerd, via het richten van activiteiten zoals vragen, snijpunten, enz.
 

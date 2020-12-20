@@ -8,9 +8,9 @@ thumbnail: 40684.jpg
 doc-type: feature video
 activity: use
 team: PM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 06a4a418906d4bf74cad5faf809bea086537bbd3
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 100%
 
@@ -25,4 +25,4 @@ Met [!DNL Adobe Campaign Standard]kunt u een [!UICONTROL control group] maken di
 
 Leer hoe u een [!UICONTROL control group] voor uw [!UICONTROL delivery] kunt definiëren en hoe u de profielen die aan de [!UICONTROL control group] zijn toegewezen, kunt extraheren nadat de [!UICONTROL delivery] is verzonden.
 
->[!VIDEO](https://video.tv.adobe.com/v/40684?quality=12&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/40684?quality=12)

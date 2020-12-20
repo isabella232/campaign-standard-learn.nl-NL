@@ -23,9 +23,9 @@ ht-degree: 15%
 >
 >Deze mogelijkheid wordt momenteel in bèta aangeboden en kan zonder voorafgaande kennisgeving regelmatig worden bijgewerkt en gewijzigd. [!UICONTROL Audience Destinations] is gebaseerd op Adobe Experience Platform en vereist een specifieke configuratie.
 >
->Neem contact op met [!UICONTROL Adobe Customer Support] als u deze functie wilt implementeren.
+>Neem contact op met [!UICONTROL Adobe Customer Support] als u van plan bent deze functie te implementeren.
 
-In deze video wordt uitgelegd hoe u de doeldimensie van een levering voor een [!UICONTROL Platform Audience] buiten de hoofdprofieltabel in Adobe Campaign Standard wijzigt.
+In deze video wordt uitgelegd hoe u de doeldimensie van een levering voor een [!UICONTROL Platform Audience] buiten de primaire profielentabel in Adobe Campaign Standard wijzigt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/30151?quality=12)
 

@@ -21,7 +21,7 @@ ht-degree: 10%
 
 U kunt gegevens uit een bestand verzamelen om het te verwerken en/of te importeren in de Adobe Campaign-database.
 
-In deze video wordt uitgelegd hoe u de [!UICONTROL Data Management] activiteiten in een workflow kunt gebruiken om profielgegevens te importeren.
+In deze video wordt uitgelegd hoe u de [!UICONTROL Data Management]-activiteiten in een workflow kunt gebruiken om profielgegevens te importeren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24993?quality=12)
 

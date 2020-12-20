@@ -23,9 +23,9 @@ ht-degree: 11%
 >
 >Deze mogelijkheid wordt momenteel in bèta aangeboden en kan zonder voorafgaande kennisgeving regelmatig worden bijgewerkt en gewijzigd.
 >
->Neem contact op met [!UICONTROL Adobe Customer Support] als u deze functie wilt implementeren.
+>Neem contact op met [!UICONTROL Adobe Customer Support] als u van plan bent deze functie te implementeren.
 
-Leer hoe u [!UICONTROL Experience Events] in Adobe Experience Platform (AEP) kaart maakt.
+Leer hoe u [!UICONTROL Experience Events] in Adobe Experience Platform (AEP) in kaart brengt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27265?quality=12)
 

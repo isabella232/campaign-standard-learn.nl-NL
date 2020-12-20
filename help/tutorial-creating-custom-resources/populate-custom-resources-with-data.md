@@ -19,8 +19,8 @@ ht-degree: 0%
 
 # Aangepaste bronnen vullen met gegevens
 
-Leer hoe u aangepaste bronnen kunt vullen met gegevens uit een [!DNL CSV] bestand via een workflow.
+Leer hoe u aangepaste bronnen kunt vullen met gegevens uit een [!DNL CSV]-bestand met behulp van een workflow.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27714?quality=9)
 
-Raadpleeg de documentatie voor meer informatie over het vullen van aangepaste bronnen via een [!DNL API]koppeling: [Interactie met aangepaste bronnen](https://experienceleague.adobe.com/docs/campaign-standard/using/working-with-apis/interacting-with-custom-resources.html.)
+Raadpleeg de documentatie voor meer informatie over het vullen van aangepaste bronnen via een [!DNL API]: [Interactie met aangepaste bronnen](https://experienceleague.adobe.com/docs/campaign-standard/using/working-with-apis/interacting-with-custom-resources.html.)

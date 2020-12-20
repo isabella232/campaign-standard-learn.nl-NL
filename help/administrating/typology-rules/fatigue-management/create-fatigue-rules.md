@@ -17,14 +17,14 @@ ht-degree: 24%
 ---
 
 
-# Maken [!UICONTROL fatigue rules]
+# [!UICONTROL fatigue rules] maken
 
 [!UICONTROL Fatigue rules] marketers toestaan wereldwijde regels voor kanaalbedrijven in te stellen die overgevraagde profielen automatisch van campagnes uitsluiten.
-To create [!UICONTROL fatigue rules], you need to define a maximum number of messages per profile and select a period for which the rule will apply. Tijdens de voorbereiding van de levering worden, indien van toepassing, profielen uitgesloten van de levering, afhankelijk van het aantal berichten dat al naar hen is verzonden.
+Als u [!UICONTROL fatigue rules] wilt maken, moet u een maximumaantal berichten per profiel definiëren en een periode selecteren waarop de regel van toepassing is. Tijdens de voorbereiding van de levering worden, indien van toepassing, profielen uitgesloten van de levering, afhankelijk van het aantal berichten dat al naar hen is verzonden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28450?quality=12)
 
-*Hoe maakt u een [!UICONTROL fatigue rule] (04:49 min)*
+*Hoe maakt u een  [!UICONTROL fatigue rule] (04:49 min)*
 
 ## Aanvullende bronnen
 

@@ -1,11 +1,11 @@
 ---
 product: adobe campaign standard
 user-guide-title: Adobe Campaign Standard - Aan de slag met pushmeldingen voor Android
-user-guide-description: This tutorial will walk you through the steps involved in sending push notifications from Adobe Campaign and receiving these notifications in your Android app.
-translation-type: ht
+user-guide-description: Deze tutorial begeleidt u door de stappen voor het verzenden van pushmeldingen vanuit Adobe Campaign en het ontvangen van deze meldingen in uw Android-app.
+translation-type: tm+mt
 source-git-commit: 6c88336d9c02faa683973d74ec21e38622afdf3f
-workflow-type: ht
-source-wordcount: '42'
+workflow-type: tm+mt
+source-wordcount: '66'
 ht-degree: 100%
 
 ---

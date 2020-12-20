@@ -8,9 +8,9 @@ thumbnail: 29235.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 100%
 
@@ -23,7 +23,7 @@ Met Adobe Campaign kunt u verzoeken om toegang tot en verwijdering van PII-gegev
 
 Deze video laat zien hoe u handmatig verzoeken om toegang tot persoonsgegevens kunt maken en de ontwikkeling ervan kunt volgen in de gebruikersinterface van Adobe Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/29235?quality=12&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/29235?quality=12)
 
 ## Aanvullende bronnen
 

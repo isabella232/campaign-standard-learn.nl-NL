@@ -10,22 +10,22 @@ team: TM
 translation-type: tm+mt
 source-git-commit: 13b4f1d395dfe53f9fc5263e7b06be700e30b986
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '158'
+ht-degree: 3%
 
 ---
 
-# STAP 2 - Integreren [!UICONTROL Mobile SDK] met Android-toepassing
+# STAP 2 - [!UICONTROL Mobile SDK] integreren met Android-toepassing
 
-In dit deel integreren we de [!DNL Android] app met [!UICONTROL Mobile SDK]. Voer de volgende stappen uit om [!UICONTROL mobile SDK] [!DNL Android] de app te integreren:
+In dit deel integreren we de [!DNL Android]-toepassing met [!UICONTROL Mobile SDK]. Ga als volgt te werk om [!UICONTROL mobile SDK] te integreren met de [!DNL Android]-app:
 
-* Open het *ACSPushTutorial* -project in [!DNL Android Studio]
-* Maak een nieuwe Java-klasse met de naam *MainApp* die wordt uitgebreid [!DNL android.app.Application]
+* Open het *ACSPushTutorial*-project in [!DNL Android Studio]
+* Maak een nieuwe Java-klasse met de naam *MainApp* die [!DNL android.app.Application] uitbreidt
 * Uw projectstructuur op dit punt zou hieronder moeten kijken
 
 ![main-app](assets/android-main-app.PNG)
 
-* Vouw de [!DNL Gradle Scripts] map uit. Dubbelklik op het [!DNL build.gradle] tabblad van de module. Plak de volgende afhankelijkheden in de sectie voor afhankelijkheden van het [!DNL build.gradle] bestand. Het [!DNL build.gradle] bestand moet er hieronder als volgt uitzien
+* Vouw de map [!DNL Gradle Scripts] uit. Dubbelklik op [!DNL build.gradle] van de module. Plak de volgende afhankelijkheden in de sectie voor afhankelijkheden van het [!DNL build.gradle]-bestand. Uw [!DNL build.gradle]-bestand moet er nu als hieronder uitzien
 
 <!--
 Removed `{.line-numbers}` below
@@ -39,11 +39,11 @@ implementation 'com.adobe.marketing.mobile:sdk-core:1.+'
 
 ![modulewrijving](assets/module-build-gradle.PNG)
 
-* Synchroniseer uw [!DNL Android] project door op de knop Nu synchroniseren te klikken om uw project te synchroniseren
+* Synchroniseer uw [!DNL Android] project door op de knop Synchroniseren nu te klikken om uw project te synchroniseren
 
-## Wijzigen [!DNL AndroidManifest.xml]{#modify-android-manifest}
+## [!DNL AndroidManifest.xml]{#modify-android-manifest} wijzigen
 
-Open *AndroidManifest.xml* en plak de volgende twee regels na het manifestelement en vóór het toepassingselement. Hierdoor kan uw app communiceren met externe gebruikers
+Open *AndroidManifest.xml* en plak de volgende twee regels na het manifest-element en vóór het toepassingselement. Hierdoor kan uw app communiceren met externe gebruikers
 
 <!--
 Removed `{.line-numbers}` below
@@ -54,7 +54,10 @@ Removed `{.line-numbers}` below
 <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 ```
 
-Kopieer de volgende regel in het toepassingselement[!DNL android:name=".MainApp"]Sla [!DNL AndroidManifest.xml]uw [!DNL AndroidManifest.xml] moet er als volgt uitzien
+Kopieer de volgende regel in het toepassingselement
+[!DNL android:name=".MainApp"]
+Uw [!DNL AndroidManifest.xml] opslaan
+Uw [!DNL AndroidManifest.xml] moet er als volgt uitzien
 
 <!--
 Removed `{.line-numbers}` below

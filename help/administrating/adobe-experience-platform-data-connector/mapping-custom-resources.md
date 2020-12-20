@@ -23,7 +23,7 @@ ht-degree: 9%
 >
 >Deze mogelijkheid wordt momenteel in bèta aangeboden en kan zonder voorafgaande kennisgeving regelmatig worden bijgewerkt en gewijzigd.
 >
->Neem contact op met [!UICONTROL Adobe Customer Support] als u deze functie wilt implementeren.
+>Neem contact op met [!UICONTROL Adobe Customer Support] als u van plan bent deze functie te implementeren.
 
 Leer hoe u verschillende gegevenstypen kunt toewijzen tussen Adobe Campaign Standard en Adobe Experience Platform.
 

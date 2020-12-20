@@ -12,12 +12,12 @@ translation-type: tm+mt
 source-git-commit: fe305d729e8e1c7113ae1c310b3b8177f3cad093
 workflow-type: tm+mt
 source-wordcount: '95'
-ht-degree: 22%
+ht-degree: 47%
 
 ---
 
 
-# Subdomeinen delegeren met gebruik van CNAME (bèta)
+# Subdomeinen delegeren met CNAME-records (bèta)
 
 >[!IMPORTANT]
 >
@@ -25,7 +25,7 @@ ht-degree: 22%
 
 Als u met Adobe Campaign e-mailberichten wilt verzenden of bestemmingspagina&#39;s wilt publiceren, moet u een nieuw subdomein instellen.
 
-Leer hoe u een subdomein instelt en verzendt met gebruik van CNAME&#39;s in het Configuratiescherm.
+Leer hoe u een subdomein instelt en verzendt met behulp van CNAME-records in het Configuratiescherm.
 
 >[!VIDEO](https://video.tv.adobe.com/v/326612?quality=12)
 

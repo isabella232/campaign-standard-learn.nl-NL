@@ -37,5 +37,5 @@ In de video wordt uitgelegd wat er nodig is om de integratie met Dreamweaver mog
 ## Aanvullende bronnen
 
 * [Problemen met de installatie van Adobe Campaign Dreamweaver oplossen](https://helpx.adobe.com/nl/dreamweaver/kb/dreamweaver-campaign-integration-issue.html)
-* [Adobe Dreamweaver-documentatie](https://helpx.adobe.com/nl/dreamweaver/using/working-with-dreamweaver-and-campaign.html)
+* [Adobe Dreamweaver-documentatie](https://helpx.adobe.com/dreamweaver/using/working-with-dreamweaver-and-campaign.html)
 * [Invoegtoepassingen en extensies installeren voor Adobe-apps](https://helpx.adobe.com/nl/creative-cloud/kb/installingextensionsandaddons.html)

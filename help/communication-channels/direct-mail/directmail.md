@@ -17,17 +17,17 @@ ht-degree: 1%
 ---
 
 
-# Create a [!UICONTROL Direct Mail] {#create-a-direct-mail}
+# Een [!UICONTROL Direct Mail] {#create-a-direct-mail} maken
 
-Met het [!UICONTROL Direct Mail] kanaal kunt u een gesegmenteerde lijst met ontvangers extraheren die naar een agentschap moeten worden verzonden of naar een SFTP-server moeten worden geüpload.
+Met het kanaal [!UICONTROL Direct Mail] kunt u een gesegmenteerde lijst met ontvangers extraheren die naar een agentschap moeten worden verzonden of naar een SFTP-server moeten worden geüpload.
 
-In deze video wordt uitgelegd hoe u een [!UICONTROL Direct Mail] levering configureert en welke instellingen zijn vereist om een profiel aan een [!UICONTROL Direct Mail] levering toe te voegen.
+In deze video wordt uitgelegd hoe u een [!UICONTROL Direct Mail]-levering configureert en welke instellingen zijn vereist om een profiel aan een [!UICONTROL Direct Mail]-levering toe te voegen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23417?quality=12)
 
-## Een [!UICONTROL Direct Mail] werkstroom maken
+## Een [!UICONTROL Direct Mail] maken in een workflow
 
-Het kanaal is beschikbaar bij de homepage en binnen de werkschemamening om samenhangende, dwars-kanaalmarketing strategieën te bepalen. De volgende voorbeeldwerkstroom omvat [!UICONTROL Direct Mail activity].
+Het kanaal is beschikbaar bij de homepage en binnen de werkschemamening om samenhangende, dwars-kanaalmarketing strategieën te bepalen. Het volgende voorbeeldwerkschema omvat [!UICONTROL Direct Mail activity].
 
 ![Workflowafbeelding](/help/assets/direct_mail_examplewf.png)
 

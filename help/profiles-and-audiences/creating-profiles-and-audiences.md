@@ -24,7 +24,7 @@ Adobe Campaign heeft twee typen of profielen:
 * Geïdentificeerde profielen
 * Test profiles
 
-Profielen die volgens een of meer gemeenschappelijke criteria zijn gegroepeerd, worden **publiek** genoemd.
+Profielen die volgens een of meer algemene criteria zijn gegroepeerd, worden **publiek** genoemd.
 
 In deze video wordt uitgelegd hoe u naar bestaande profielen kunt navigeren en hoe u profielen en doelgroepen kunt maken in Adobe Campaign Standard.
 

@@ -26,7 +26,7 @@ In het [!UICONTROL Adobe Campaign Control Panel] van kunt u SSL-certificaten toe
 
 Om toegang te krijgen tot subdomeinbeheer in het [!UICONTROL Control Panel] gaat u naar:
 
-* [Experience Cloud Home](https://experience.adobe.com/#/home) > [!UICONTROL Solution picker]: [!DNL Campaign] > **[!UICONTROL Control Panel]** Kaart > [!UICONTROL **Subdomeinen &amp; Certificaten**] kaart
+* [Experience Cloud startpunt](https://experience.adobe.com/#/home) >  [!UICONTROL Solution picker]:  [!DNL Campaign] >  **[!UICONTROL Control Panel]** Kaart >  [!UICONTROL **Subdomeinen &amp;**] Certificaten
 
    of
 * Rechtstreeks via de URL: [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
@@ -35,11 +35,11 @@ Om toegang te krijgen tot subdomeinbeheer in het [!UICONTROL Control Panel] gaat
 
 Voor het toevoegen van SSL-certificaten zijn drie stappen vereist:
 
-### Stap 1: Genereren [!UICONTROL Certificate Signing Requests]
+### Stap 1: [!UICONTROL Certificate Signing Requests] genereren
 
-The [!UICONTROL Certificate Signing Request] (CSR) is required for the purchase of a SSL certificate. Het moet voor de instantie en subdomeinen worden geproduceerd u van plan bent te beveiligen.
+De [!UICONTROL Certificate Signing Request] (CSR) is vereist voor de aanschaf van een SSL-certificaat. Het moet voor de instantie en subdomeinen worden geproduceerd u van plan bent te beveiligen.
 
-In de onderstaande video wordt beschreven hoe u een [!UICONTROL Certificate Signing Request] insteekmodule kunt genereren [!UICONTROL Control Panel].
+In de onderstaande video wordt beschreven hoe u een [!UICONTROL Certificate Signing Request] in [!UICONTROL Control Panel] genereert.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31317?quality=12)
 
@@ -59,7 +59,7 @@ In de onderstaande video ziet u hoe u SSL-certificaten kunt installeren in [!UIC
 
 *SSL-certificaten installeren (01:25 min)*
 
-## Aanvullende resources
+## Aanvullende bronnen
 
 * [Volledige subdomeindelegatie (video)](./subdomain-delegation.md)
 * [Subdomeinen en certificaten - Documentatie](https://docs.adobe.com/content/help/nl-NL/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)

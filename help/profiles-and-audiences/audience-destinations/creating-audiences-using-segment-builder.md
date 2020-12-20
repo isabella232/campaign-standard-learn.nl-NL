@@ -23,13 +23,13 @@ ht-degree: 9%
 >
 >Deze mogelijkheid wordt momenteel in bèta aangeboden en kan zonder voorafgaande kennisgeving regelmatig worden bijgewerkt en gewijzigd. [!UICONTROL Audience Destinations] is gebaseerd op Adobe Experience Platform en vereist een specifieke configuratie.
 >
->Neem contact op met [!UICONTROL Adobe Customer Support] als u deze functie wilt implementeren.
+>Neem contact op met [!UICONTROL Adobe Customer Support] als u van plan bent deze functie te implementeren.
 
-Met Adobe Campaign Standard kunt u een publiek maken met behulp van gegevens uit het Adobe Experience Cloud [Real-Time Klantprofiel](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html) met behulp van de Adobe Experience Platform [!UICONTROL Unified Segment Builder].
+Met Adobe Campaign Standard kunt u een publiek maken met behulp van gegevens uit het [Real-Time Klantprofiel](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html) van Adobe Experience Cloud met behulp van de Adobe Experience Platform [!UICONTROL Unified Segment Builder].
 
-U hebt [!UICONTROL Unified Segment Builder] rechtstreeks via de [!UICONTROL Audiences ] module toegang tot het bestand in Adobe Campaign Standard. Hierdoor kunt u dit publiek rechtstreeks beheren in de [!UICONTROL Audiences] lijstweergave, waar u een nieuw Adobe Experience Platform-publiek rechtstreeks vanuit de Adobe Campaign-interface kunt bewerken of maken
+U kunt [!UICONTROL Unified Segment Builder] tot direct binnen Adobe Campaign Standard via [!UICONTROL Audiences ] module toegang hebben. Hierdoor kunt u dit publiek rechtstreeks beheren in de lijstweergave [!UICONTROL Audiences], waar u een nieuw Adobe Experience Platform-publiek rechtstreeks vanuit de Adobe Campaign-interface kunt bewerken of maken
 
-In de onderstaande video wordt uitgelegd hoe u een nieuw publiek maakt met [!UICONTROL Unified Segment Builder] Adobe Campaign Standard.
+In de onderstaande video wordt uitgelegd hoe een nieuw publiek wordt gemaakt met [!UICONTROL Unified Segment Builder] in Adobe Campaign Standard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27638?quality=12)
 

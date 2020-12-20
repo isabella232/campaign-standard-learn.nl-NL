@@ -8,9 +8,9 @@ thumbnail: 40470.jpg
 doc-type: feature video
 activity: use
 team: ACS
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 06a4a418906d4bf74cad5faf809bea086537bbd3
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '215'
 ht-degree: 100%
 
@@ -28,7 +28,7 @@ ht-degree: 100%
 
 Leer hoe u de betrokkenheidsscores op het individuele profielniveau kunt weergeven, scores kunt gebruiken voor targeting van betrokken gebruikers en onderdrukking van vermoeide gebruikers, en hoe u typologische regels kunt maken om vermoeidheid van de klant aan te pakken.
 
->[!VIDEO](https://video.tv.adobe.com/v/40470?quality=12&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/40470?quality=12)
 
 ## Aanvullende resources
 

@@ -19,7 +19,7 @@ ht-degree: 7%
 
 # Een in-app-bericht uitzenden
 
-U kunt een bericht in de app uitzenden voor alle gebruikers van een mobiele app, ongeacht of Adobe Campaign over hun profielgegevens beschikt. Om een bericht uit te zenden moet u het gebruiken **[!UICONTROL Target all users of a mobile app template]** wanneer het vormen van het bericht In-App.
+U kunt een bericht in de app uitzenden voor alle gebruikers van een mobiele app, ongeacht of Adobe Campaign over hun profielgegevens beschikt. Om een bericht uit te zenden moet u **[!UICONTROL Target all users of a mobile app template]** gebruiken wanneer het vormen van het In-App bericht.
 
 Enkele relevante gebruiksgevallen in deze categorie zijn:
 

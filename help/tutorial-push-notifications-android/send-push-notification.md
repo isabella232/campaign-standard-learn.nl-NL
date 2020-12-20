@@ -16,17 +16,17 @@ ht-degree: 3%
 ---
 
 
-# Deel 6 - Uw werk [!UICONTROL Push Notification] testen
+# Deel 6 - Verstuur [!UICONTROL Push Notification] om uw werk te testen
 
-We moeten nu een [!UICONTROL Push Notification] Adobe Campaign maken en verzenden. . Voer de volgende stappen uit om een eenvoudige pushmelding voor testdoeleinden te maken.
+We moeten nu een [!UICONTROL Push Notification] maken en verzenden met Adobe Campaign. . Voer de volgende stappen uit om een eenvoudige pushmelding voor testdoeleinden te maken.
 
 * Aanmelden bij uw Adobe Campaign Standard-exemplaar
 * Klik op **[!UICONTROL Marketing Activities]->[!UICONTROL Create]->[!UICONTROL Push Notification]**
-* Select **[!UICONTROL Send push to app subscribers(mobileApp)]** and click Next
-* Selecteer de geschikte mobiele toepassing in de **[!UICONTROL Associate a Mobile App to a delivery]** vervolgkeuzelijst en klik op **[!UICONTROL Next]**
+* Selecteer **[!UICONTROL Send push to app subscribers(mobileApp)]** en klik op Volgende
+* Selecteer de geschikte mobiele toepassing in de vervolgkeuzelijst **[!UICONTROL Associate a Mobile App to a delivery]** en klik op **[!UICONTROL Next]**
 * Klik op het tellabel en retourneert een waarde groter dan 0. Klik op **[!UICONTROL Next]**
-* Geef een betekenisvolle [!UICONTROL Message title] en [!UICONTROL Message body] klik op **[!UICONTROL Create]**.
-* Klik op **[!UICONTROL Prepare]**. Klik eenmaal op Voltooien om het bericht **[!UICONTROL Confirm]** te verzenden.
+* Geef een betekenisvolle [!UICONTROL Message title] en [!UICONTROL Message body] op en klik op **[!UICONTROL Create]**.
+* Klik op **[!UICONTROL Prepare]**. Wanneer de voorbereiding is voltooid, klikt u **[!UICONTROL Confirm]** om het bericht te verzenden.
 
 Als alles goed gaat, ziet u een melding in uw Android-app die in de emulator wordt uitgevoerd
 

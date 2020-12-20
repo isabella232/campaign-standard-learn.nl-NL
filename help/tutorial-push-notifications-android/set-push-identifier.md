@@ -10,16 +10,16 @@ team: TM
 translation-type: tm+mt
 source-git-commit: aa01c2f8fe1560468d0d8f3fae6291bb82f9a21f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '206'
 ht-degree: 0%
 
 ---
 
-# Stap 4 - Instellen [!DNL pushidentifier]
+# Stap 4 - Set [!DNL pushidentifier]
 
-De tekenreeks **[!DNL pushidentifier]** bevat de apparaattoken voor [!DNL Push] meldingen. Dit is het zelfde teken dat door wordt verzonden [!DNL Firebase] en tot SDK gebruikend de [!DNL MobileCore.setPushIdentifier] methode overgegaan.
+De **[!DNL pushidentifier]** is een tekenreeks die de apparaattoken voor [!DNL Push]-berichten bevat. Dit is het zelfde teken dat door [!DNL Firebase] wordt verzonden en tot SDK gebruikend de [!DNL MobileCore.setPushIdentifier] methode wordt overgegaan.
 
-Open je project in [!DNL Android ]studio. Verwijder de gehele code in [!DNL MainActivity] behalve de eerste regel die de pakketinstructie **** is.
+Open uw project in [!DNL Android ]studio. Verwijder de gehele code in [!DNL MainActivity] **behalve de eerste regel die uw pakketinstructie** is.
 
 Plak de volgende code in [!DNL MainActivity]:
 
@@ -91,18 +91,18 @@ MobileCore.lifecyclePause();
 Het is nu een goed moment om uw app te testen voordat u verder gaat.
 
 * Voer uw app uit door op de groene pijl te klikken of selecteer **[!DNL Run->Run'app']**.
-* De [!DNL Android] emulator moet starten en uw app moet met [!DNL "Hello World" ]tekst worden uitgevoerd.
-* Open het [!DNL logcat] venster. Zoek naar &quot;[!DNL Got]&quot;. U zou het teken moeten zien dat van [!DNL Firebase] geschreven aan het logboek zoals hieronder getoond werd ontvangen. De lange tekenreeks na &quot;[!DNL Got token]&quot; is de tekenreeks [!DNL pushidentifier ]die naar Adobe Campaign wordt verzonden.
+* De emulator [!DNL Android] moet worden gestart en uw app moet worden uitgevoerd met [!DNL "Hello World" ]tekst.
+* Open het venster [!DNL logcat]. Zoeken naar &quot;[!DNL Got]&quot;. U zou het teken moeten zien dat van [!DNL Firebase] werd ontvangen die aan het logboek zoals hieronder wordt geschreven. De lange tekenreeks na &quot;[!DNL Got token]&quot; is de [!DNL pushidentifier ]die naar Adobe Campaign wordt verzonden.
 
 ![logcat-token](assets/logcat-got-token.PNG)
 
 ### Abonnees voor mobiele toepassingen controleren
 
 Meld u aan bij uw Adobe Campaign Standard-exemplaar.
-Navigeren **[!UICONTROL Administration->Channels->Mobile App(AEP SDK)]**. Open de juiste mobiele toepassing. Tab to the [!UICONTROL Mobile Application Subscribers] tab. Je moet een [!UICONTROL registration token ]lijst zien.
+Navigeer **[!UICONTROL Administration->Channels->Mobile App(AEP SDK)]**. Open de juiste mobiele toepassing. Tab naar het tabblad [!UICONTROL Mobile Application Subscribers]. Er wordt een [!UICONTROL registration token ]vermeld.
 
 ![mobiele applicatie-abonnees](assets/mobile-application-subscribers.PNG)
 
 >[!NOTE]
 >
->Als u geen registratietoken ziet in de [!UICONTROL Mobile Application Subscribers] tab STOP hier voordat u verdergaat.
+>Als u geen registratietoken ziet in de [!UICONTROL Mobile Application Subscribers] lusje STOP hier alvorens verder te gaan.

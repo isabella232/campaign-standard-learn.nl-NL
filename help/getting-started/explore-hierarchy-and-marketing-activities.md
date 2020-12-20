@@ -8,9 +8,9 @@ thumbnail: 18465.jpg
 doc-type: feature video
 activity: Understand
 team: WWFRE
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 In deze video wordt de hiërarchie van programma’s en campagnes uitgelegd, ziet u hoe u een marketingprogramma maakt en hoe u een marketingcampagne binnen een programma maakt.
 
->[!VIDEO](https://video.tv.adobe.com/v/18465?quality=12&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/18465?quality=12)
 
 ## Aanvullende bronnen
 

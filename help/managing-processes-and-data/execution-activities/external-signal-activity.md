@@ -1,7 +1,7 @@
 ---
 title: Externe signaalactiviteit - Een workflow met parameters aanroepen
 description: De externe signaalactiviteit wordt gebruikt om verschillende processen te organiseren en te ordenen die deel van de zelfde klantenreis in verschillende werkschema's uitmaken. Deze activiteit maakt het mogelijk een workflow te starten vanuit een andere workflow ter ondersteuning van complexere klanttrajecten, terwijl u in geval van problemen gemakkelijker kunt opvolgen en reageren.
-feature: External Signal Activity
+feature: Externe signaalactiviteit
 topics: Workflows
 kt: 2750
 thumbnail: 27249
@@ -9,10 +9,10 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 2237e6a7d6a8c202ea87aeeb4b1e6fa83e1c677c
 workflow-type: tm+mt
-source-wordcount: '332'
-ht-degree: 19%
+source-wordcount: '333'
+ht-degree: 17%
 
 ---
 
@@ -45,4 +45,4 @@ In de volgende video worden de vereiste configuratiestappen uitgelegd:
 
 ## Aanvullende bronnen
 
-* [Extern signaal (documentatie)](https://docs.adobe.com/content/help/nl-NL/campaign-standard/using/managing-processes-and-data/data-management-activities/external-api.html)
+* [Extern signaal (documentatie)](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/calling-workflow-external-parameters/calling-a-workflow-with-external-parameters.html)

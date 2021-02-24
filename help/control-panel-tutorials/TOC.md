@@ -1,7 +1,7 @@
 ---
 product: adobe campaign standard
 user-guide-title: Adobe Campaign Configuratiescherm - tutorials
-user-guide-description: Met het Configuratiescherm kunnen Adobe Campaign-beheerders belangrijke assets controleren en beheertaken uitvoeren, zoals het beheren van de SFTP-opslag per instantie of de lijst van gewenste IP-adressen.
+user-guide-description: Leer hoe u de belangrijkste elementen van uw Adobe Campaign-instanties kunt controleren en beheertaken kunt uitvoeren in het Configuratiescherm.
 breadcrumb-title: Tutorials voor het Configuratiescherm
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?lang=nl&tag=Campaign+Standard#recommended/solutions/campaign
@@ -11,10 +11,10 @@ getting-started-title: Documentatie
 getting-started-url: https://docs.adobe.com/content/help/nl-NL/campaign-standard/using/campaign-standard-home.html
 index: true
 translation-type: tm+mt
-source-git-commit: 16cd416f567c8177aadd35e03cfa27d0e0478e6b
+source-git-commit: fb724628536b81f1032c557d27e7f4dd655ceeeb
 workflow-type: tm+mt
-source-wordcount: '152'
-ht-degree: 100%
+source-wordcount: '142'
+ht-degree: 88%
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Profielen en doelgroepen maken - overzicht
 description: Leer hoe u naar bestaande profielen kunt navigeren en hoe u profielen en doelgroepen kunt maken in Adobe Campaign Standard.
-feature: profiles, audiences
+feature: profielen, publiek
 topics: null
 kt: 3899
 thumbnail: 18463.jpg
@@ -11,8 +11,8 @@ team: WWFRE
 translation-type: tm+mt
 source-git-commit: 99eedbf8c99fc6040dea5061ae4883cd6f0808ae
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 16%
+source-wordcount: '89'
+ht-degree: 15%
 
 ---
 

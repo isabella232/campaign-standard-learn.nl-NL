@@ -10,7 +10,7 @@ team: TM
 translation-type: tm+mt
 source-git-commit: 8b968e15b78655ff9ae49f812f10683201559722
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '200'
 ht-degree: 41%
 
 ---
@@ -25,7 +25,7 @@ Deze tutorial begeleidt u door de stappen voor het verzenden van pushmeldingen v
 ## Vereisten
 
 * U moet de opstarteigenschap hebben geconfigureerd met Adobe Campaign Standard Extension. Volg de onderstaande online Help.
-   * [Videozelfstudie](https://video.tv.adobe.com/v/26224?quality=12&captions=dut)
+   * [Videozelfstudie](https://video.tv.adobe.com/v/26224?quality=12)
    * [Documentatie](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.html)
 
 * Zorg ervoor dat de status van de bijbehorende eigenschap in Adobe Campaign Standard is ingesteld op geconfigureerd.

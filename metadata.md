@@ -1,23 +1,24 @@
 ---
 cloud: experience-cloud
 product: adobe campaign
-type: Tutorial
+type: Zelfstudie
 solution: Campaign, Campaign Standard
+feature-set: Campaign
 mini-toc-levels: 3
 git-repo: https://git.corp.adobe.com/AdobeDocs/campaign-standard-learn.nl-NL
 index: true
-translation-type: ht
-source-git-commit: ab38f860429da19c662bacb68c04d9c166422782
-workflow-type: ht
-source-wordcount: '130'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 140cc2966bdbeded0dcd09e85353732c5fc4dc7e
+workflow-type: tm+mt
+source-wordcount: '131'
+ht-degree: 99%
 
 ---
 
 
 # Metagegevens voor intern gebruik
 
-Het bestand metadata.md bevat metagegevens op niveau van de opslagplaats die worden doorgegeven aan TOC.md-bestanden van de gebruikershandleiding in de opslagplaats. Als u de content van metadata.md voor om het even welke gebruikershandleiding wilt veranderen, doet u dit in om het even welk TOC.md-bestand.
+Het bestand metadata.md bevat metagegevens op niveau van de repository die worden doorgegeven aan TOC.md-bestanden van de gebruikershandleiding in de repository. Als u de content van metadata.md voor om het even welke gebruikershandleiding wilt veranderen, doet u dit in om het even welk TOC.md-bestand.
 
 | metadata | wat het doet |
 |--- |--- |
@@ -27,11 +28,11 @@ Het bestand metadata.md bevat metagegevens op niveau van de opslagplaats die wor
 | getting-started-url | Koppeling naar pagina om aan de slag te gaan met helpx |
 | tutorials-url | Koppeling naar videotutorials: helpx-tutorials of KT-tutorials |
 | mini-toc-levels | Hiermee bepaalt u het aantal kopniveaus dat wordt weergegeven in de rechterrail. standaard is dit 2 |
-| git-repo | Hiermee wordt de locatie van de primaire opslagplaats voor intern gebruik opgegeven |
+| git-repo | Hiermee wordt de locatie van de primaire repository voor intern gebruik opgegeven |
 
 In TOC.md-bestand
 
-| metadata | wat het doet |
+| metagegevens | wat het doet |
 |--- |--- |
 | user-guide-title | Gebruikt in artikelkoptekst als koppeling |
 | user-guide-url | Opent helpx-hubpagina |

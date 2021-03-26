@@ -1,7 +1,7 @@
 ---
 title: Experience-gebeurtenissen toewijzen
 description: Leer hoe u Experience Events in Adobe Experience Platform (AEP) in kaart brengt
-feature: Adobe Experience Platform Data Connector
+feature: Adobe Experience Platform-gegevensconnector
 topics: null
 kt: 2832
 thumbnail: 27265.jpg
@@ -9,10 +9,10 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 469bb62991b768929e75b360d93d1cef9a9f3d9a
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 11%
+source-wordcount: '79'
+ht-degree: 17%
 
 ---
 
@@ -31,6 +31,6 @@ Leer hoe u [!UICONTROL Experience Events] in Adobe Experience Platform (AEP) in 
 
 ## Aanvullende bronnen
 
-* [Toewijzingsdefinitie](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-mapping-definition.html)
-* [Toewijzingsactivering](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-mapping-activation.html)
+* [Toewijzingsdefinitie](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html)
+* [Toewijzingsactivering](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-activation.html)
 

@@ -19,7 +19,7 @@ Adobe Campaign biedt een platform voor het ontwerpen van kanaaloverschrijdende k
 
 * **[Databases controleren](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)**
 
-   *Ontdek hoe u het databasegebruik van uw instanties kunt controleren.*
+   *Ontdek hoe u het databasegebruik van uw instanties kunt bewaken.*
 
 * **[Subdomeinen delegeren met CNAME](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
 

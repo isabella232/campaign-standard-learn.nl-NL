@@ -1,7 +1,7 @@
 ---
 product: adobe campaign standard
-user-guide-title: Adobe Campaign Configuratiescherm - tutorials
-user-guide-description: Leer hoe u de belangrijkste elementen van uw Adobe Campaign-instanties kunt controleren en beheertaken kunt uitvoeren in het Configuratiescherm.
+user-guide-title: Tutorials voor het Adobe Campaign-configuratiescherm
+user-guide-description: Leer hoe u in het configuratiescherm de belangrijkste assets van uw Adobe Campaign-instanties kunt controleren en beheertaken kunt uitvoeren.
 breadcrumb-title: Tutorials voor het Configuratiescherm
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?lang=nl&tag=Campaign+Standard#recommended/solutions/campaign
@@ -10,11 +10,11 @@ tutorials-url: https://docs.adobe.com/content/help/nl-NL/campaign-standard-learn
 getting-started-title: Documentatie
 getting-started-url: https://docs.adobe.com/content/help/nl-NL/campaign-standard/using/campaign-standard-home.html
 index: true
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: fb724628536b81f1032c557d27e7f4dd655ceeeb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '142'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 

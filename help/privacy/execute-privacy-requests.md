@@ -1,17 +1,17 @@
 ---
 title: Verzoeken om toegang tot persoonsgegevens uitvoeren
 description: In Adobe Campaign worden verzoeken om toegang tot persoonsgegevens uitgevoerd door workflows. In deze video wordt beschreven welke workflows toegang hebben tot verzoeken en verzoeken kunnen verwijderen. Daarnaast ziet u wat er gebeurt wanneer de workflows worden uitgevoerd.
-feature: GDPR, CCPA
+feature: AVG, CCPA
 topic: null
 kt: 1525
 thumbnail: 22770.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: tm+mt
-source-wordcount: '79'
+workflow-type: ht
+source-wordcount: '81'
 ht-degree: 100%
 
 ---

@@ -1,17 +1,17 @@
 ---
 title: Campagnes beheren
 description: Met Adobe Campaign kunt u marketingcampagnes plannen waarin u verschillende soorten activiteiten kunt maken en beheren. Deze video laat zien hoe u campagnes kunt maken en beheren in Adobe Campaign.
-feature: campaigns
+feature: campagnes
 topics: Getting Started
 kt: 1816
 thumbnail: 24672.jpg
 doc-type: feature video
 activity: USE
 team: DOC
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: tm+mt
-source-wordcount: '99'
+workflow-type: ht
+source-wordcount: '100'
 ht-degree: 100%
 
 ---

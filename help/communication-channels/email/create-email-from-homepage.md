@@ -1,5 +1,5 @@
 ---
-title: Een e-maillevering maken
+title: Een e-mailverzending maken
 description: 'U kunt een e-mail van een campagne, van de homepage van Adobe Campaign, of in de marketing activiteitenlijst tot stand brengen. U kunt vanuit een workflow ook eenmalige en terugkerende e-mails maken. In deze video wordt uitgelegd hoe u een e-maillevering vanaf de startpagina kunt maken. '
 landing-page-description: In deze video wordt uitgelegd hoe u een e-maillevering vanaf de startpagina kunt maken.
 feature: Email
@@ -13,12 +13,12 @@ translation-type: tm+mt
 source-git-commit: 8b968e15b78655ff9ae49f812f10683201559722
 workflow-type: tm+mt
 source-wordcount: '147'
-ht-degree: 14%
+ht-degree: 20%
 
 ---
 
 
-# Een e-maillevering maken {#create-an-email-delivery}
+# Een e-mailverzending maken {#create-an-email-delivery}
 
 U kunt een stand-alone e-maillevering van een campagne, van de homepage van Adobe Campaign, of in [!UICONTROL Marketing Activity] lijst tot stand brengen. U kunt vanuit een workflow ook eenmalige en terugkerende e-mails maken en verzenden.
 
@@ -30,4 +30,4 @@ In deze video wordt uitgelegd hoe u een zelfstandige e-maillevering vanaf de sta
 
 * [E-mails maken en verzenden via een workflow](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
 * [Een e-mail maken (documentatie)](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/email-messages/creating-an-email.html)
-* [Best practices voor levering](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/delivery-bestpractices/delivery-best-practices.html?lang=nl)
+* [Best practices voor verzending](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/delivery-bestpractices/delivery-best-practices.html?lang=nl)

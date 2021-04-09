@@ -9,11 +9,11 @@ tutorials-title: Tutorials
 tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=nl
 getting-started-title: Documentatie
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=nl
-translation-type: ht
-source-git-commit: 46b8e3391e78ac333bad28b5cacceea3969cbb28
-workflow-type: ht
-source-wordcount: '507'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: d83ef6bcf615f9dc10af800bd6f0ef2aa58a7a45
+workflow-type: tm+mt
+source-wordcount: '517'
+ht-degree: 98%
 
 ---
 
@@ -101,6 +101,8 @@ ht-degree: 100%
    + [Een dynamisch rapport maken](/help/reporting/creating-a-dynamic-report.md)
    + [Een rapport maken op basis van aangepaste profielkenmerken](/help/reporting/custom-profile-attributes-dynamic-reports.md)
    + [Een rapport maken op basis van workflowsegmenten](/help/reporting/report-on-workflow-segments.md)
++ Integraties
+   + [Houd het succes van je leveringen in Adobe Analytics bij](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
 + Beheer {#administrating}
    + [Toegangsrechten van gebruikers beheren](/help/administrating/managing-user-access-rights.md)
    + [Aangepaste bronnen maken](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=nl)

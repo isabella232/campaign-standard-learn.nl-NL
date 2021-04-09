@@ -5,14 +5,16 @@ feature: Email
 topics: null
 kt: 4319
 thumbnail: 31465.jpg
+role: business-practitioner
+level: beginner
 doc-type: feature video
 activity: use
 team: DOC
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 1889079e0c8c87a445354c0ac0ea6481ec8799ae
 workflow-type: tm+mt
-source-wordcount: '132'
-ht-degree: 21%
+source-wordcount: '133'
+ht-degree: 24%
 
 ---
 
@@ -27,6 +29,6 @@ In deze video wordt uitgelegd hoe u e-mailberichten kunt maken en verzenden via 
 
 ## Aanvullende bronnen
 
-* [Een e-maillevering maken](/help/communication-channels/email/create-email-from-homepage.md)
+* [Een e-mailverzending maken](/help/communication-channels/email/create-email-from-homepage.md)
 * [Een e-mail maken (documentatie)](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/email-messages/creating-an-email.html)
-* [Best practices voor levering](https://docs.adobe.com/content/help/nl-NL/campaign-standard/using/communication-channels/delivery-bestpractices/delivery-best-practices.html)
+* [Best practices voor verzending](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/delivery-bestpractices/delivery-best-practices.html?lang=nl)

@@ -9,10 +9,10 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/t
 getting-started-title: Documentatie
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=nl
 translation-type: tm+mt
-source-git-commit: c285a5493dad114c817d78692400f4056c707db4
+source-git-commit: 8b4c60a2950d86074a3057bb8fe6460288da93b6
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '517'
+ht-degree: 98%
 
 ---
 
@@ -100,7 +100,7 @@ ht-degree: 0%
    + [Een dynamisch rapport maken](/help/reporting/creating-a-dynamic-report.md)
    + [Een rapport maken op basis van aangepaste profielkenmerken](/help/reporting/custom-profile-attributes-dynamic-reports.md)
    + [Een rapport maken op basis van workflowsegmenten](/help/reporting/report-on-workflow-segments.md)
-+ Integraties
++ Integratie {#integrations}
    + [Houd het succes van je leveringen in Adobe Analytics bij](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
 + Beheer {#administrating}
    + [Toegangsrechten van gebruikers beheren](/help/administrating/managing-user-access-rights.md)

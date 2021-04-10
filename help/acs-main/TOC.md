@@ -9,10 +9,10 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/t
 getting-started-title: Documentatie
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=nl
 translation-type: tm+mt
-source-git-commit: 8b4c60a2950d86074a3057bb8fe6460288da93b6
+source-git-commit: c8d9a7c79bb9fe8882ac390cc0f0fec7cffa82da
 workflow-type: tm+mt
-source-wordcount: '517'
-ht-degree: 98%
+source-wordcount: '546'
+ht-degree: 93%
 
 ---
 
@@ -100,8 +100,13 @@ ht-degree: 98%
    + [Een dynamisch rapport maken](/help/reporting/creating-a-dynamic-report.md)
    + [Een rapport maken op basis van aangepaste profielkenmerken](/help/reporting/custom-profile-attributes-dynamic-reports.md)
    + [Een rapport maken op basis van workflowsegmenten](/help/reporting/report-on-workflow-segments.md)
-+ Integratie {#integrations}
++ Integreren met andere oplossingen {#integrations}
    + [Houd het succes van je leveringen in Adobe Analytics bij](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
+   + Triggers gebruiken voor transactieberichten {#triggers}
+      + [Overzicht](/help/integrations/using-triggers-for-transactional-messaging-overview.md)
+      + [Een trigger in Experience Cloud maken](/help/integrations/create-a-trigger-in-experience-cloud.md)
+      + [Een triggergebeurtenis maken in Campaign Standard](/help/integrations/create-a-trigger-event.md)
+      + [Transactieberichten configureren met realtime-gebeurtenisgegevens](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
 + Beheer {#administrating}
    + [Toegangsrechten van gebruikers beheren](/help/administrating/managing-user-access-rights.md)
    + [Aangepaste bronnen maken](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=nl)

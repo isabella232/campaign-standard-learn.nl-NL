@@ -9,10 +9,10 @@ role: administrator
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: f1805428e57e778853ded71ba286ce2aefb9ec8c
+source-git-commit: f8fceeaaf26439b8fc11fe5039ce6bb3474f43dc
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 2%
+source-wordcount: '104'
+ht-degree: 1%
 
 ---
 
@@ -23,8 +23,9 @@ In de volgende leerprogramma&#39;s zult u leren hoe te om trekkers voor transact
 
 Voordat u een trigger in een transactiebericht kunt gebruiken, moet u:
 
-1. [Een trigger in Experience Cloud maken](/help/integrations/create-a-trigger-in-experience-cloud.md)
-2. [Een triggergebeurtenis maken in Campaign Standard](/help/integrations/create-a-trigger-event.md)
+1. Starten voor triggers configureren
+2. [Een trigger in Experience Cloud maken](/help/integrations/create-a-trigger-in-experience-cloud.md)
+3. [Een triggergebeurtenis maken in Campaign Standard](/help/integrations/create-a-trigger-event.md)
 
 Zodra de trekker is gevormd, staat het u toe om transactionele berichten [te vormen gebruikend realtime gebeurtenisgegevens](/help/integrations/configure-transactional-messages-using-realtime-event-data.md).
 

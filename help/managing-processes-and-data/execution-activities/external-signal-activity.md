@@ -1,21 +1,23 @@
 ---
 title: Externe signaalactiviteit - Een workflow met parameters aanroepen
-description: De externe signaalactiviteit wordt gebruikt om verschillende processen te organiseren en te ordenen die deel van de zelfde klantenreis in verschillende werkschema's uitmaken. Deze activiteit maakt het mogelijk een workflow te starten vanuit een andere workflow ter ondersteuning van complexere klanttrajecten, terwijl u in geval van problemen gemakkelijker kunt opvolgen en reageren.
-feature: Externe signaalactiviteit
+description: '"Leer hoe te om één werkschema van een andere te beginnen om complexere klantenreizen te steunen, terwijl het kunnen beter controleren en op kwesties reageren."'
+feature: Uitvoeringsactiviteit
 topics: Workflows
 kt: 2750
 thumbnail: 27249
 doc-type: feature video
 activity: use
 team: TM
+exl-id: d3996185-681c-4906-85f0-0543ab767519
+role: Business Practitioner, Developer
+level: Experienced
 translation-type: tm+mt
-source-git-commit: 2237e6a7d6a8c202ea87aeeb4b1e6fa83e1c677c
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '333'
-ht-degree: 17%
+source-wordcount: '306'
+ht-degree: 9%
 
 ---
-
 
 # [!UICONTROL External Signal activity ]- Een workflow met parameters bellen
 

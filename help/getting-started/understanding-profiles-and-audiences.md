@@ -1,21 +1,23 @@
 ---
-title: Inzicht in profielen en doelgroepen in Adobe Campaign Standard
-description: In deze video wordt het concept van profielen en doelgroepen uitgelegd en leert u hoe u profielen en doelgroepen kunt maken in Adobe Campaign Standard.
-feature: profielen, doelgroepen
+title: Profielen en publiek in Adobe Campaign Standard begrijpen
+description: Begrijp het concept profielen en publiek en leer hoe te om profielen en publiek tot stand te brengen.
+feature: Profielen, publiek
 topics: null
 kt: 3893
 thumbnail: 18464.jpg
 doc-type: feature video
 activity: understand
 team: WWFRE
-translation-type: ht
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: ht
-source-wordcount: '64'
-ht-degree: 100%
+exl-id: 8a11b35f-ac6b-4f63-a72e-4e676ea3d69d
+role: Business Practitioner, Developer, Administrator
+level: Beginner
+translation-type: tm+mt
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
+workflow-type: tm+mt
+source-wordcount: '59'
+ht-degree: 57%
 
 ---
-
 
 # Inzicht in profielen en doelgroepen in Adobe Campaign Standard
 

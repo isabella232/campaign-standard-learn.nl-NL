@@ -1,21 +1,23 @@
 ---
 title: Een meertalige e-mail- of sms-levering maken
-description: Met Adobe Campaign Standard (ACS) kunt u de operationele complexiteit van het verzenden van meertalige campagnes vereenvoudigen. Zowel e-mailleveringen als SMS-leveringen kunnen worden ingesteld als meertalig, zodat u de e-mail of SMS kunt verzenden op basis van de voorkeurstaal van een profiel. De aanpak die in de video's wordt getoond, geldt zowel voor e-mail als voor SMS-berichten.
-feature: Multi-lingual Deliveries
+description: 'Leer hoe u de operationele complexiteit van het verzenden van meertalige campagnes kunt vereenvoudigen. '
+feature: E-mail, SMS
 topics: Mobile Channel, Email Channel
 kt: 1277
 thumbnail: 23252
 doc-type: feature video
 activity: use
 team: TM
+exl-id: 4b7e4602-6d4f-4a16-bbe7-070a95511ebb
+role: Business Practitioner
+level: Intermediate, Experienced
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '121'
 ht-degree: 1%
 
 ---
-
 
 # Een meertalige e-mail- of sms-levering maken
 

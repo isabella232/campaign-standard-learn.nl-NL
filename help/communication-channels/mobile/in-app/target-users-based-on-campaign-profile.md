@@ -1,21 +1,23 @@
 ---
 title: Gebruikers doelgericht benaderen op basis van hun Campaign-profiel
-description: Met deze sjabloon kunt u bekende gebruikers van mobiele apps berichten sturen die zijn gepersonaliseerd met CRM-profielkenmerken die beschikbaar zijn in Adobe Campaign Standard (ACS).
-feature: In-App
+description: Leer hoe u bekende gebruikers van mobiele apps kunt besturen met berichten die zijn aangepast met CRM-profielkenmerken.
+feature: In app
 topics: Channels
 kt: 1796
 thumbnail: 26200.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: 72b1fe11-3c38-4f0b-8ccd-0f7b73b1083a
+role: Business Practitioner, Developer
+level: Beginner, Intermediate
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '135'
 ht-degree: 6%
 
 ---
-
 
 # Doelgebruikers op basis van hun [!DNL Campaign]-profiel
 

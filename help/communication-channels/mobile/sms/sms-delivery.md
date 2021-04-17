@@ -1,23 +1,25 @@
 ---
-title: Een sms-levering maken
-description: In deze video wordt uitgelegd hoe u een SMS-levering maakt in Adobe Campaign Standard (ACS).
-feature: SMS
+title: Een sms-verzending maken
+description: Klik hier als je wilt weten hoe je een SMS-verzending maakt.
+feature: Sms
 topics: null
 kt: 1819
 thumbnail: 25265.jpg
 doc-type: feature video
 activity: use
 team: DOC
+exl-id: 7184a998-a4d7-4ad8-9b29-4504088eeb4d
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 07c2696cbdc72e24563c5d1442bf5c39b22d5a22
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 10%
+source-wordcount: '92'
+ht-degree: 11%
 
 ---
 
-
-# Een sms-levering maken{#creating-a-sms-delivery}
+# Een sms-verzending maken{#creating-a-sms-delivery}
 
 In deze video wordt uitgelegd hoe u een SMS-bericht kunt maken in Adobe Campaign Standard. U kunt het verzenden van SMS in een werkschema ook vormen gebruikend de de leveringsactiviteit van SMS.
 

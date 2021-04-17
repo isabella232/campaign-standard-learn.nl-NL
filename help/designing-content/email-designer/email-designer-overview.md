@@ -1,21 +1,23 @@
 ---
 title: E-mail Designer - overzicht
-description: In deze video wordt besproken wat de algemene functionaliteit van Email Designer is, en hoe u een heel nieuw e-mailbericht kunt ontwerpen. Deze pagina bevat een overzicht van alle beschikbare video’s over functies voor de Adobe Campaign Email Designer
-feature: Email Designer
+description: Begrijp de algemene functionaliteit van de e-mailontwerper en hoe u een e-mailbericht helemaal zelf kunt ontwerpen.
+feature: E-mailontwerp
 topics: Content Creation
 kt: 1402
 thumbnail: 22771.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: 17813cda-50a1-406b-b4ae-9267671a6910
+role: Business Practitioner, Developer
+level: Beginner
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 100%
+source-wordcount: '125'
+ht-degree: 85%
 
 ---
-
 
 # [!UICONTROL Email Designer] - overzicht
 

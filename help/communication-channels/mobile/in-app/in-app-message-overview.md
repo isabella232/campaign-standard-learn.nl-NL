@@ -1,20 +1,22 @@
 ---
 title: Inleiding tot in-app-berichten
-description: Met het Adobe Campaign Standard (ACS) In-App Messaging-kanaal kunt u de gebruiker contextafhankelijke In-App-berichten geven als reactie op het realtime gedrag van de klant in de mobiele toepassing.
-feature: In-App
+description: '"Leer hoe u de gebruiker contextafhankelijke berichten in de app kunt presenteren als reactie op het realtime gedrag van de klant in de mobiele toepassing."'
+feature: In app
 topics: Mobile
 kt: 1911
 doc-type: feature video
 activity: use
 team: TM
+exl-id: c51716eb-7239-4fc0-9ccf-9f5f0a5fae65
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
-source-git-commit: 82fb2d39dc61a55c0aa20ca1fa215f35a7dd9088
+source-git-commit: 07c2696cbdc72e24563c5d1442bf5c39b22d5a22
 workflow-type: tm+mt
-source-wordcount: '753'
+source-wordcount: '747'
 ht-degree: 21%
 
 ---
-
 
 # Inleiding tot [!UICONTROL In-App] berichten {#introduction}
 

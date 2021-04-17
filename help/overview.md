@@ -3,10 +3,13 @@ title: Adobe Campaign Standard-tutorials - overzicht
 description: Adobe Campaign biedt een platform voor het ontwerpen van kanaaloverschrijdende klantervaringen en biedt een omgeving voor visuele campagnelay-out, real-time interactiebeheer en kanaaloverschrijdende uitvoering. Deze gebruikershandleiding bevat video’s en tutorials over de vele functies en mogelijkheden van Adobe Campaign Standard.
 products: SG_CAMPAIGN/STANDARD
 exl-id: b97710d1-3e93-41f6-a51e-9bf4c519fec3
+feature: Overzicht
+role: Business Practitioner, Administrator, Developer
+level: Beginner
 translation-type: tm+mt
-source-git-commit: 8cc421c50c731cae216aa6efb62077946239d8cb
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '297'
 ht-degree: 82%
 
 ---

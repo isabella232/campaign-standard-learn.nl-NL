@@ -1,21 +1,23 @@
 ---
 title: Een voorbeeld van uw e-mail- en antispamanalyse bekijken
-description: In deze video wordt uitgelegd hoe u een voorvertoning van uw e-mail en de anti-spamanalyse kunt weergeven.
-feature: email designer
+description: '"Leer hoe u een voorbeeld van uw e-mail en de anti-spamanalyse kunt bekijken."'
+feature: E-mailontwerp
 topics: null
 kt: 2393
 thumbnail: 25921.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: 45c6fc1b-1276-4f21-97f6-1af3929e0514
+role: Business Practitioner, Developer
+level: Beginner
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
 source-wordcount: '38'
 ht-degree: 36%
 
 ---
-
 
 # Een voorbeeld van uw e-mail- en antispamanalyse bekijken{#preview-your-email}
 

@@ -1,21 +1,23 @@
 ---
 title: Een directe e-mail maken
-description: Direct mail is nog steeds een belangrijk kanaal voor marketeers over de hele wereld en ze kunnen deze offline interacties nu naast hun online interacties organiseren. Dezelfde engine die digitale communicatie mogelijk maakt, zoals e-mail en mobiel, kan nu ook directe mailers personaliseren.
-feature: direct mail
+description: Leer hoe u een directe e-mail maakt.
+feature: Direct mail
 topics: null
 kt: 1430
 thumbnail: 23417.jpg
 doc-type: feature video
 activity: using
 team: TM
+exl-id: f54acc7f-4efe-4d7f-89f1-c4ed596a5d9e
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 07c2696cbdc72e24563c5d1442bf5c39b22d5a22
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '110'
 ht-degree: 1%
 
 ---
-
 
 # Een [!UICONTROL Direct Mail] {#create-a-direct-mail} maken
 

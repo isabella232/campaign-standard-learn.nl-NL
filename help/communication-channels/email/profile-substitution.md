@@ -1,21 +1,23 @@
 ---
 title: Profielsubstitutie - E-mailberichten testen met behulp van doelprofielen
-description: In deze video wordt uitgelegd hoe u uw e-mailberichten kunt testen met de functie voor profielsubstitutie.
-feature: Email
+description: Leer hoe u uw e-mailberichten kunt testen met de functie voor profielvervanging.
+feature: 'Email  '
 topics: Channels
 kt: 4667
 thumbnail: 32368.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: 7bee3ab5-0666-4ea5-a785-917f0b18ca12
+role: Business Practitioner
+level: Intermediate, Experienced
 translation-type: tm+mt
-source-git-commit: f04ac773029bf15ff445bf1c506a4234cf5060bb
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '178'
-ht-degree: 100%
+source-wordcount: '177'
+ht-degree: 92%
 
 ---
-
 
 # [!UICONTROL Profile Substitution] - E-mailberichten testen met behulp van doelprofielen
 

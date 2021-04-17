@@ -1,21 +1,23 @@
 ---
-title: 'Een in-app-bericht uitzenden '
-description: Met de berichtsjabloon In-app uitzenden kunt u zich richten op alle gebruikers van uw mobiele app met Adobe Campaign Standard (ACS)
-feature: In-App
+title: '"Een in-app-bericht uitzenden "'
+description: Leer hoe u met de sjabloon Uitzenden alle gebruikers van uw mobiele app kunt aanspreken.
+feature: In app
 topics: Mobile
 kt: 2497
 thumbnail: 26199.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: 55cc83d2-e1ec-488d-b36a-b5f8c96dc412
+role: Business Practitioner, Developer
+level: Beginner, Intermediate
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '128'
 ht-degree: 7%
 
 ---
-
 
 # Een in-app-bericht uitzenden
 

@@ -1,23 +1,23 @@
 ---
 title: E-mails maken en verzenden via een workflow
-description: 'U kunt een e-mail van een campagne, van de homepage van Adobe Campaign, of in de marketing activiteitenlijst tot stand brengen. U kunt vanuit een workflow ook eenmalige en terugkerende e-mails maken. In deze video wordt uitgelegd hoe u een e-maillevering vanaf de startpagina kunt maken. '
+description: 'Leer hoe u een eenmalige e-maillevering vanaf de startpagina kunt maken. '
 feature: Email
 topics: null
 kt: 4319
 thumbnail: 31465.jpg
-role: business-practitioner
-level: beginner
+role: Business Practitioner
+level: Beginner
 doc-type: feature video
 activity: use
 team: DOC
+exl-id: cc5d1bd2-a416-4df3-b12b-b1f9de4736fd
 translation-type: tm+mt
-source-git-commit: 1889079e0c8c87a445354c0ac0ea6481ec8799ae
+source-git-commit: 07c2696cbdc72e24563c5d1442bf5c39b22d5a22
 workflow-type: tm+mt
-source-wordcount: '133'
-ht-degree: 24%
+source-wordcount: '102'
+ht-degree: 32%
 
 ---
-
 
 # E-mails maken en verzenden via een workflow
 

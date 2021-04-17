@@ -1,21 +1,23 @@
 ---
 title: Een bestaande e-mail, sms-levering of sjabloon converteren naar meertalig
-description: In deze video ziet u hoe een bestaande e-mail, SMS-levering of een leveringssjabloon eenvoudig kan worden omgezet in meertalig.
-feature: Multi-lingual Deliveries
+description: '"Leer hoe u e-mail, SMS-levering of een leveringssjabloon kunt converteren naar meertalig."'
+feature: E-mail, SMS
 topics: Mobile
 kt: 1703
 thumbnail: 23251.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: f069fe5c-654c-4be3-818d-b34741e4681e
+role: Business Practitioner
+level: Intermediate, Experienced
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 30%
+source-wordcount: '70'
+ht-degree: 31%
 
 ---
-
 
 # Een bestaande e-mail, sms-levering of sjabloon converteren naar meertalig
 

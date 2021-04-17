@@ -1,21 +1,23 @@
 ---
 title: Een workflow configureren en uitvoeren met de externe API-activiteit
-description: De externe API-activiteit is een activiteit voor data management. Met deze activiteit kunt u een extern REST API-eindpunt aanroepen. Het doel van deze activiteit is om personalisatiegegevens van een extern systeem in uw campagne te krijgen.
-feature: External API activity
+description: Leer u om een extern REST API eindpunt te roepen om verpersoonlijkingsgegevens van een derdesysteem in uw campagne te trekken.
+feature: Activiteit gegevensbeheer
 topics: null
 kt: 2764
 thumbnail: 28200.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: bce6fa2e-a684-43af-a41e-dfec54dd453a
+role: Business Practitioner, Developer
+level: Experienced
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '201'
-ht-degree: 100%
+source-wordcount: '188'
+ht-degree: 87%
 
 ---
-
 
 # Een workflow configureren en uitvoeren met de [!UICONTROL External API activity]
 
@@ -32,7 +34,7 @@ In deze video wordt het gebruik van de [!UICONTROL External API activity] gedemo
 
 >[!VIDEO](https://video.tv.adobe.com/v/28200/?quality=12)
 
-*[!UICONTROL External API activity] (06:48 min)*
+*[!UICONTROL External API activity](06:48 min)*
 
 >[!NOTE]
 >
@@ -41,4 +43,3 @@ In deze video wordt het gebruik van de [!UICONTROL External API activity] gedemo
 ## Aanvullende bronnen
 
 * [Externe API (documentatie)](https://docs.adobe.com/content/help/nl-NL/campaign-standard/using/managing-processes-and-data/data-management-activities/external-api.html)
-

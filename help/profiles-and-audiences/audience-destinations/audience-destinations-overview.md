@@ -1,21 +1,23 @@
 ---
 title: Bestemmingen van het publiek - Overzicht
-description: Hefboomwerking Adobe Experience Platform (AEP) publiek in Adobe Campaign Standard (ACS)
-feature: Audience Destinations
+description: Leer hoe u Adobe Experience Platform (AEP)-doelgroepen in Adobe Campaign Standard (ACS) kunt gebruiken
+feature: Integratie van de People Core-service
 topics: ACOP
 kt: 2755
 thumbnail: null
 doc-type: feature video
 activity: using
 team: TM
+exl-id: e70fdef9-2907-4858-9eca-006c59695bb3
+role: Business Practitioner, Developer
+level: Beginner, Intermediate, Experienced
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '174'
-ht-degree: 10%
+source-wordcount: '181'
+ht-degree: 9%
 
 ---
-
 
 # [!UICONTROL Audience Destinations] (BETA) - Overzicht
 
@@ -41,4 +43,3 @@ De volgende videozelfstudies begeleiden u bij de verschillende stappen:
 ## Aanvullende bronnen
 
 *[Inzicht in de Adobe Experience Platform-gegevensconnector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
-

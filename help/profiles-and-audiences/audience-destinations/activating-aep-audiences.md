@@ -1,21 +1,23 @@
 ---
 title: Adobe Experience Platform-doelgroepen in een workflow activeren
 description: In deze video wordt uitgelegd hoe u de Query Audience van Data Services binnen een workflow activeert met de activiteit ‘Lezen publiek’.
-feature: Audience Destinations
+feature: Integratie van de People Core-service
 topics: ACOP
 kt: 2760
 thumbnail: 27647.jpg
 doc-type: feature video
 activity: using
 team: PM
+exl-id: 955d063f-4709-4f56-8f39-f1b838354300
+role: Business Practitioner, Developer
+level: Beginner, Intermediate, Experienced
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '151'
 ht-degree: 7%
 
 ---
-
 
 # Adobe Experience Platform-publiek activeren in een workflow [!UICONTROL Adobe Experience Platform Audiences] in een marketingworkflow
 
@@ -41,4 +43,3 @@ Videobron:
 
 * [Een nieuw publiek maken in Adobe Campaign Standard met behulp van de Unified Segment Builder](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
 * [De doeldimensie van een levering voor een publiek Platform wijzigen](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
-

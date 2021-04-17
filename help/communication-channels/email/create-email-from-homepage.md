@@ -1,6 +1,6 @@
 ---
 title: Een e-mailverzending maken
-description: 'U kunt een e-mail van een campagne, van de homepage van Adobe Campaign, of in de marketing activiteitenlijst tot stand brengen. U kunt vanuit een workflow ook eenmalige en terugkerende e-mails maken. In deze video wordt uitgelegd hoe u een e-maillevering vanaf de startpagina kunt maken. '
+description: 'Leer hoe u een e-maillevering kunt maken vanaf de startpagina. '
 landing-page-description: In deze video wordt uitgelegd hoe u een e-maillevering vanaf de startpagina kunt maken.
 feature: Email
 topics: null
@@ -9,14 +9,16 @@ thumbnail: 23721.jpg
 doc-type: feature video
 activity: use
 team: DOC
+exl-id: 9daf4e3d-3c96-443d-85d6-99f7a0377cd8
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
-source-git-commit: 8b968e15b78655ff9ae49f812f10683201559722
+source-git-commit: 07c2696cbdc72e24563c5d1442bf5c39b22d5a22
 workflow-type: tm+mt
-source-wordcount: '147'
-ht-degree: 20%
+source-wordcount: '114'
+ht-degree: 26%
 
 ---
-
 
 # Een e-mailverzending maken {#create-an-email-delivery}
 

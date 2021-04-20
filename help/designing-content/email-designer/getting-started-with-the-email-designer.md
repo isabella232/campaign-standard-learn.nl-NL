@@ -1,7 +1,7 @@
 ---
 title: Aan de slag met Email Designer
 description: Begrijp de algemene functionaliteit van de e-mailontwerper en hoe u een e-mailbericht helemaal zelf kunt ontwerpen.
-feature: E-mailontwerp
+feature: Email Design
 topics: Content Creation
 kt: 2391
 thumbnail: 25912.jpg

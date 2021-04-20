@@ -1,7 +1,7 @@
 ---
 title: Werken met bestaande content
 description: In deze video wordt uitgelegd hoe u uw creatieve inhoud snel van een website kunt ophalen en in de e-mailontwerper kunt laden.
-feature: E-mailontwerp
+feature: Email Design
 topics: Content Creation
 kt: 6295
 thumbnail: 25926.jpg

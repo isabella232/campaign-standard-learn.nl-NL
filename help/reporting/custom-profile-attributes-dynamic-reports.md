@@ -1,7 +1,7 @@
 ---
 title: Een op een rapport gebaseerde aangepaste profielkenmerken maken
 description: Leer hoe u een rapport maakt op basis van aangepaste profielkenmerken.
-feature: Rapportage
+feature: Reporting
 kt: 1444
 thumbnail: 28204.jpg
 doc-type: feature video

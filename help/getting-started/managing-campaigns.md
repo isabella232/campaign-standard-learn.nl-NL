@@ -1,7 +1,7 @@
 ---
 title: Campagnes beheren
 description: Leer hoe u campagnes kunt maken en beheren.
-feature: 'Campagnes '
+feature: Campaigns 
 topics: Getting Started
 kt: 1816
 thumbnail: 24672.jpg

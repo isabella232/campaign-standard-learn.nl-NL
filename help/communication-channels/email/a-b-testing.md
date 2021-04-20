@@ -1,7 +1,7 @@
 ---
 title: A/B-tests
 description: '"Leer hoe te om een A/B test te vormen en te verzenden, die de onderwerpregel test. ’'
-feature: 'A/B-tests  '
+feature: A/B Testing  
 topics: null
 kt: 3907
 thumbnail: 18480.jpg

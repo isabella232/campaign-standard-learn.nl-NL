@@ -1,7 +1,7 @@
 ---
 title: Een directe e-mail maken
 description: Leer hoe u een directe e-mail maakt.
-feature: Direct mail
+feature: Direct Mail
 topics: null
 kt: 1430
 thumbnail: 23417.jpg

@@ -1,7 +1,7 @@
 ---
 title: Databases controleren
 description: Ontdek hoe u het databasegebruik van uw instanties kunt controleren.
-feature: Databases controleren
+feature: Database Monitoring
 topics: Control Panel
 kt: 6433
 thumbnail: 327175.jpg

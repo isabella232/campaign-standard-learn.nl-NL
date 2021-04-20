@@ -1,7 +1,7 @@
 ---
 title: Rapporteren over uw in-app-levering
 description: '"Leer hoe u de gebruiker contextafhankelijke In-App-berichten kunt presenteren als reactie op het realtime gedrag van de klant in de mobiele toepassing."'
-feature: In app
+feature: In App
 topics: Mobile
 kt: 2558
 thumbnail: 26412.jpg

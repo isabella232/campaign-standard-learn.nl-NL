@@ -1,7 +1,7 @@
 ---
 title: Een testprofiel maken
 description: Leer hoe u ontvangers die niet voldoen aan de gedefinieerde doelcriteria kunt aanwijzen om frauduleus gebruik van uw database voor ontvangers te detecteren of om ervoor te zorgen dat de e-mails in de Postvakken aankomen.
-feature: Profielen testen
+feature: Test Profiles
 kt: 1810
 thumbnail: 24094.jpg
 doc-type: feature video

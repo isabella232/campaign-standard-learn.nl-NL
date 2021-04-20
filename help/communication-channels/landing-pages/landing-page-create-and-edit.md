@@ -1,7 +1,7 @@
 ---
 title: Een landingspagina maken en bewerken
 description: '"Leer hoe u bestemmingspagina''s in Adobe Campaign Standard kunt maken, bewerken en testen."'
-feature: Landingspagina's
+feature: Landing Pages
 topics: null
 kt: 1808
 thumbnail: 24093.jpg

@@ -1,7 +1,7 @@
 ---
 title: 'Aan de slag met de gebruikersinterface '
 description: Deze video biedt u een overzicht van de Adobe Campaign Standard-gebruikersinterface en de belangrijkste functies.
-feature: Overzicht
+feature: Overview
 topics: Getting started
 kt: 3882
 thumbnail: acs-ui-get-started.png

@@ -1,7 +1,7 @@
 ---
 title: Inleiding tot sjablonen voor e-mailcontent
 description: Leer hoe u een sjabloon voor e-mailinhoud maakt.
-feature: E-mailontwerp
+feature: Email Design
 topics: null
 kt: 1442
 thumbnail: 23106.jpg

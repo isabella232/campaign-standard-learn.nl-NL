@@ -1,7 +1,7 @@
 ---
 title: Inleiding tot rapportage
 description: De rapportagemogelijkheden van Adobe Campaign Standard begrijpen
-feature: Rapportage
+feature: Reporting
 topics: null
 kt: 3974
 thumbnail: 29461.jpg

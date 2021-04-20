@@ -1,7 +1,7 @@
 ---
 title: De doeldimensie wijzigen
 description: In deze video wordt uitgelegd hoe u de doeldimensie van een levering voor een Platform Publiek buiten de hoofdprofielentabel in Adobe Campaign Standard wijzigt.
-feature: Integratie van de People Core-service
+feature: People Core Service Integration
 topics: ACOP
 kt: 3739
 thumbnail: 30151.jpg

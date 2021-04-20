@@ -1,7 +1,7 @@
 ---
 title: Profielen en doelgroepen maken - overzicht
 description: Leer hoe u naar bestaande profielen kunt navigeren en hoe u profielen en doelgroepen kunt maken.
-feature: Profielen, publiek
+feature: Profiles, Audiences
 topics: null
 kt: 3899
 thumbnail: 18463.jpg

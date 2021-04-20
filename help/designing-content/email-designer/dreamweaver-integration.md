@@ -1,7 +1,7 @@
 ---
 title: Content maken met Adobe Dreamweaver
 description: Begrijp wat nodig is om de Dreamweaver-integratie mogelijk te maken en hoe u inhoud voor Adobe Campaign Standard kunt maken en bewerken met Dreamweaver.
-feature: E-mailontwerp
+feature: Email Design
 kt: 1420
 thumbnail: 23121.jpg
 doc-type: feature video

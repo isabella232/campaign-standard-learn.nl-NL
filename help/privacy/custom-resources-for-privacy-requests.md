@@ -1,7 +1,7 @@
 ---
 title: Aangepaste bronnen wijzigen bij het instellen van Adobe Campaign Standard (ACS) voor verzoeken om toegang tot persoonsgegevens
 description: Wanneer u Adobe Campaign Standard (ACS) instelt voor het verwerken van verzoeken om toegang tot persoonsgegevens, moet u ervoor zorgen dat aangepaste gegevens die aan een profiel zijn gekoppeld, worden verwijderd wanneer het profiel wordt verwijderd. In deze video wordt uitgelegd hoe u aangepaste bronnen kunt aanpassen om aan deze eis te voldoen.
-feature: AVG, CCPA
+feature: GDPR, CCPA
 kt: 1243
 thumbnail: 23326.jpg
 doc-type: feature video

@@ -1,7 +1,7 @@
 ---
 title: Een test verzenden, een e-mail voorbereiden en verzenden
 description: '"Leer hoe u een test-e-mail verzendt, bereidt u deze voor en verzendt u vervolgens de e-mail. ’'
-feature: 'Email  '
+feature: Email  
 topics: null
 kt: 1812
 thumbnail: 24013.jpg

@@ -1,7 +1,7 @@
 ---
 title: Productvermeldingen configureren in transactie-e-mails
 description: Leer welke stappen worden vereist om productlijsten in transactie-e-mails te vormen.
-feature: Transactieberichten, e-mails
+feature: Transactional Messaging, Emails
 topics: Content Creation
 kt: 1728
 thumbnail: 25915

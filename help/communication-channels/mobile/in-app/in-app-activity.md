@@ -3,7 +3,7 @@ title: Een in-app-levering maken binnen een workflow
 seo-title: In-app levering maken binnen een workflow
 description: '"Leer hoe u de leveringsactiviteit in de app gebruikt om het verzenden van een bericht in de app naar een doelgroep die in een workflow is berekend, te automatiseren."'
 seo-description: De leveringsactiviteit in de app wordt over het algemeen gebruikt om het verzenden van een bericht in de app naar een doelpubliek te automatiseren dat in dezelfde workflow wordt berekend.
-feature: In app
+feature: In App
 topics: Mobile
 kt: 2500
 thumbnail: 26226.jpg

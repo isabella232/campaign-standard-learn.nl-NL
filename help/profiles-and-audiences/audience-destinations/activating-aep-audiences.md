@@ -1,7 +1,7 @@
 ---
 title: Adobe Experience Platform-doelgroepen in een workflow activeren
 description: In deze video wordt uitgelegd hoe u de Query Audience van Data Services binnen een workflow activeert met de activiteit ‘Lezen publiek’.
-feature: Integratie van de People Core-service
+feature: People Core Service Integration
 topics: ACOP
 kt: 2760
 thumbnail: 27647.jpg

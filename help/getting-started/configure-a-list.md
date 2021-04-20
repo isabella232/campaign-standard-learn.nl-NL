@@ -1,7 +1,7 @@
 ---
 title: Een lijst configureren
 description: '"Leer hoe u de weergegeven kolommen, de volgorde en de sorteervolgorde van een lijstweergave in Adobe Campaign Standard kunt wijzigen.  ’'
-feature: Overzicht
+feature: Overview
 topics: null
 kt: 1821
 thumbnail: 25288.jpg

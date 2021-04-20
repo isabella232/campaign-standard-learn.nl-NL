@@ -1,7 +1,7 @@
 ---
 title: De mobiele weergave configureren in de e-mailontwerper
 description: '"Leer hoe u het responsieve ontwerp van een e-mail kunt verfijnen door alle stijlopties voor mobiele weergave afzonderlijk te bewerken."'
-feature: E-mailontwerp
+feature: Email Design
 topics: null
 kt: 2423
 thumbnail: 25919.jpg

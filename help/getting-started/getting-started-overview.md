@@ -1,7 +1,7 @@
 ---
 title: Aan de slag met Adobe Campaign Standard
 description: Deze video biedt u een overzicht van de Adobe Campaign Standard-gebruikersinterface en de belangrijkste functies.
-feature: Overzicht
+feature: Overview
 topics: null
 kt: null
 doc-type: null

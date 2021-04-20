@@ -1,7 +1,7 @@
 ---
 title: Profielsubstitutie - E-mailberichten testen met behulp van doelprofielen
 description: Leer hoe u uw e-mailberichten kunt testen met de functie voor profielvervanging.
-feature: 'Email  '
+feature: Email  
 topics: Channels
 kt: 4667
 thumbnail: 32368.jpg

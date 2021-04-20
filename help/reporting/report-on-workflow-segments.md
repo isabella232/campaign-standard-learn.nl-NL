@@ -1,7 +1,7 @@
 ---
 title: Een rapport maken op basis van workflowsegmenten
 description: Het melden van de Segmenten van het Werkschema verstrekt de capaciteit om de code van het werkschemasegment in dynamische rapportering toe te voegen.
-feature: Rapportage
+feature: Reporting
 topics: Reporting
 kt: 3252
 thumbnail: 28262.jpg

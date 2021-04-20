@@ -1,7 +1,7 @@
 ---
 title: Een bestaande e-mail, sms-levering of sjabloon converteren naar meertalig
 description: '"Leer hoe u e-mail, SMS-levering of een leveringssjabloon kunt converteren naar meertalig."'
-feature: E-mail, SMS
+feature: Email, SMS
 topics: Mobile
 kt: 1703
 thumbnail: 23251.jpg

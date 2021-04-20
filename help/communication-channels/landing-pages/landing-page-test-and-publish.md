@@ -1,7 +1,7 @@
 ---
 title: Een landingspagina testen en publiceren
 description: Leer hoe u een bestemmingspagina test die in Adobe Campaign Standard is gemaakt en hoe u deze publiceert.
-feature: Landingspagina's
+feature: Landing Pages
 topics: null
 kt: 1813
 thumbnail: 24992.jpg

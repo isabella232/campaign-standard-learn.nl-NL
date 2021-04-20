@@ -1,7 +1,7 @@
 ---
 title: Een controlegroep toevoegen aan een levering
 description: Leer hoe u een controlegroep voor uw levering kunt definiëren en hoe u de profielen die aan de controlegroep zijn toegewezen, kunt extraheren nadat de levering is uitgevoerd.
-feature: Controlegroepen
+feature: Control Groups
 topics: null
 kt: 5060
 thumbnail: 40684.jpg

@@ -1,7 +1,7 @@
 ---
 title: Groeien met Adobe Campaign
 description: Begrijp de potentiële volgende stappen aan ware kanaalorkest.
-feature: Cross-channel Orchestratie
+feature: Cross Channel Orchestration
 topics: null
 kt: 3973
 thumbnail: 29460.jpg

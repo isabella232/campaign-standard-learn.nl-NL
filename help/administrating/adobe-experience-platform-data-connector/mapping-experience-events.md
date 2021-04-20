@@ -1,7 +1,7 @@
 ---
 title: Experience-gebeurtenissen toewijzen
 description: Leer hoe u Experience Events in Adobe Experience Platform (AEP) in kaart brengt
-feature: Adobe Experience Platform-gegevensconnector
+feature: Adobe Experience Platform Data Connector
 topics: null
 kt: 2832
 thumbnail: 27265.jpg

@@ -1,7 +1,7 @@
 ---
 title: Rapporten verkennen
 description: Begrijp de verschillende rapporten die uit de doos voor een e-maillevering beschikbaar zijn.
-feature: Rapportage
+feature: Reporting
 topics: Getting Started
 kt: 3906
 thumbnail: 23021.jpg

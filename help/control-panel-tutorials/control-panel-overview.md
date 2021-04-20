@@ -2,7 +2,7 @@
 title: Overzicht van het Configuratiescherm
 description: Met het Adobe Campaign-configuratiescherm kunnen Adobe Campaign-beheerders belangrijke assets controleren en beheertaken uitvoeren, zoals het beheren van de SFTP-opslag per instantie, het beheren van GPG-sleutels of het beheren van subdomeinen en certificaten.
 landing-page-description: Met het configuratiescherm kunnen Campaign-beheerders beheertaken uitvoeren, zoals het beheren van SFTP-opslag, GPG-sleutels of subdomeinen en certificaten.
-feature: 'Configuratiescherm '
+feature: Control Panel
 topics: Control Panel
 audience: administrator
 kt: 4696

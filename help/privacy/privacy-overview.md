@@ -1,7 +1,7 @@
 ---
 title: Verzoeken om toegang tot persoonsgegevens via Adobe Campaign Standard (ACS) - overzicht
 description: In de tutorial wordt uitgelegd hoe u verzoeken om toegang tot persoonsgegevens maakt via de interface van Adobe Campaign Standard (ACS).
-feature: AVG, CCAP
+feature: GDPR, CCAP
 topic: Privacy
 kt: 1480
 doc-type: feature video

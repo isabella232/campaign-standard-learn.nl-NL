@@ -1,7 +1,7 @@
 ---
 title: Een workflow configureren en uitvoeren met de externe API-activiteit
 description: Leer u om een extern REST API eindpunt te roepen om verpersoonlijkingsgegevens van een derdesysteem in uw campagne te trekken.
-feature: Activiteit gegevensbeheer
+feature: Data Management Activity
 topics: null
 kt: 2764
 thumbnail: 28200.jpg

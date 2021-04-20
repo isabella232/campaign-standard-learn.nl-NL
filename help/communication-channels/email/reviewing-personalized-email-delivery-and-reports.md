@@ -1,7 +1,7 @@
 ---
 title: Een e-maillevering en rapporten reviewen
 description: Leer hoe u een persoonlijke e-maillevering kunt bekijken en verschillende rapporten kunt bekijken die beschikbaar zijn in Adobe Campaign Standard.
-feature: Rapportage
+feature: Reporting
 topics: null
 kt: 3904
 thumbnail: 21389.jpg

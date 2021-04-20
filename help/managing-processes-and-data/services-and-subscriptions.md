@@ -1,7 +1,7 @@
 ---
 title: Services en abonnementen beheren
 description: Leer hoe u een service maakt en abonnementen beheert.
-feature: Abonnementen
+feature: Subscriptions
 topics: null
 kt: 1815
 thumbnail: 24673.jpg

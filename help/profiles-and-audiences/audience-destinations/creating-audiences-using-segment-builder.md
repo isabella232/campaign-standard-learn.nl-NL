@@ -1,6 +1,6 @@
 ---
 title: Een nieuwe doelgroep maken met de Unified Segment Builder
-feature: Integratie van de People Core-service
+feature: People Core Service Integration
 topics: ACOP
 kt: 2754
 thumbnail: 27638.jpg

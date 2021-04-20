@@ -1,7 +1,7 @@
 ---
 title: Een meertalige e-mail- of sms-levering maken
 description: 'Leer hoe u de operationele complexiteit van het verzenden van meertalige campagnes kunt vereenvoudigen. '
-feature: E-mail, SMS
+feature: Email, SMS
 topics: Mobile Channel, Email Channel
 kt: 1277
 thumbnail: 23252

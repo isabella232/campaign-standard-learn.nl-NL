@@ -1,7 +1,7 @@
 ---
 title: Een sjabloon voor een landingspagina configureren
 Description: This video explains how to configure Landing Page templates in Adobe Campaign Standard.
-feature: Landingspagina's
+feature: Landing Pages
 topics: null
 kt: 1817
 thumbnail: 25200.jpg

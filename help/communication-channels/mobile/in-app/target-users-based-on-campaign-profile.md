@@ -1,7 +1,7 @@
 ---
 title: Gebruikers doelgericht benaderen op basis van hun Campaign-profiel
 description: Leer hoe u bekende gebruikers van mobiele apps kunt besturen met berichten die zijn aangepast met CRM-profielkenmerken.
-feature: In app
+feature: In App
 topics: Channels
 kt: 1796
 thumbnail: 26200.jpg

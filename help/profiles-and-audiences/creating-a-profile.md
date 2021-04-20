@@ -1,7 +1,7 @@
 ---
 title: 'Een profiel maken '
 description: Leer hoe u een profiel maakt en hoe u dit aan een publiek kunt toevoegen.
-feature: Profielen, publiek
+feature: Profiles, Audiences
 kt: 1820
 thumbnail: 25277.jpg
 doc-type: feature video

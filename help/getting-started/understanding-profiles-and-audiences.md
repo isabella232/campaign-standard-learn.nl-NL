@@ -1,7 +1,7 @@
 ---
 title: Profielen en publiek in Adobe Campaign Standard begrijpen
 description: Begrijp het concept profielen en publiek en leer hoe te om profielen en publiek tot stand te brengen.
-feature: Profielen, publiek
+feature: Profiles, Audiences
 topics: null
 kt: 3893
 thumbnail: 18464.jpg

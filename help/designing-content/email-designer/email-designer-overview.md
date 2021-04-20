@@ -1,7 +1,7 @@
 ---
 title: E-mail Designer - overzicht
 description: Begrijp de algemene functionaliteit van de e-mailontwerper en hoe u een e-mailbericht helemaal zelf kunt ontwerpen.
-feature: E-mailontwerp
+feature: Email Design
 topics: Content Creation
 kt: 1402
 thumbnail: 22771.jpg

@@ -1,7 +1,7 @@
 ---
 title: Hiërarchie- en marketingactiviteiten verkennen
 description: '"Begrijp de hiërarchie van programma''s en campagnes, hoe te om een marketingprogramma tot stand te brengen, en hoe te om een marketing campagne binnen een programma tot stand te brengen."'
-feature: Campagnes, programma's
+feature: Campaigns, Programs
 topics: null
 kt: 3892
 thumbnail: 18465.jpg

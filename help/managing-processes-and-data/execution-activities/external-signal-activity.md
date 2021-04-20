@@ -1,7 +1,7 @@
 ---
 title: Externe signaalactiviteit - Een workflow met parameters aanroepen
 description: '"Leer hoe te om één werkschema van een andere te beginnen om complexere klantenreizen te steunen, terwijl het kunnen beter controleren en op kwesties reageren."'
-feature: Uitvoeringsactiviteit
+feature: Execution Activity
 topics: Workflows
 kt: 2750
 thumbnail: 27249

@@ -1,7 +1,7 @@
 ---
 title: Bestemmingen van het publiek - Overzicht
 description: Leer hoe u Adobe Experience Platform (AEP)-doelgroepen in Adobe Campaign Standard (ACS) kunt gebruiken
-feature: Integratie van de People Core-service
+feature: People Core Service Integration
 topics: ACOP
 kt: 2755
 thumbnail: null

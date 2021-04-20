@@ -1,7 +1,7 @@
 ---
 title: Profielen importeren met een workflow
 description: Leer hoe u profielgegevens importeert met een workflow.
-feature: Gegevensbeheer
+feature: Data Management
 topics: null
 kt: 1818
 thumbnail: 24993.jpg

@@ -1,7 +1,7 @@
 ---
 title: Een sms-verzending maken
 description: Klik hier als je wilt weten hoe je een SMS-verzending maakt.
-feature: Sms
+feature: SMS
 topics: null
 kt: 1819
 thumbnail: 25265.jpg

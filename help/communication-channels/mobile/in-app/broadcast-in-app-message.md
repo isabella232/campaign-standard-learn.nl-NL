@@ -1,7 +1,7 @@
 ---
 title: '"Een in-app-bericht uitzenden "'
 description: Leer hoe u met de sjabloon Uitzenden alle gebruikers van uw mobiele app kunt aanspreken.
-feature: In app
+feature: In App
 topics: Mobile
 kt: 2497
 thumbnail: 26199.jpg

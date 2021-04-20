@@ -1,7 +1,7 @@
 ---
 title: Een dynamisch rapport maken
 description: Leer hoe u een rapport maakt.
-feature: Rapportage
+feature: Reporting
 kt: 2037
 thumbnail: 25264.jpg
 doc-type: feature video

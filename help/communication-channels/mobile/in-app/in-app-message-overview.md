@@ -1,7 +1,7 @@
 ---
 title: Inleiding tot in-app-berichten
 description: '"Leer hoe u de gebruiker contextafhankelijke berichten in de app kunt presenteren als reactie op het realtime gedrag van de klant in de mobiele toepassing."'
-feature: In app
+feature: In App
 topics: Mobile
 kt: 1911
 doc-type: feature video

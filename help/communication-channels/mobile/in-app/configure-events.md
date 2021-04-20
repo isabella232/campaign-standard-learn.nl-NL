@@ -1,7 +1,7 @@
 ---
 title: Gebeurtenissen configureren
 description: '"Begrijp hoe gebeurtenissen bepalen welke actie van de gebruiker een bericht in-app teweegbrengt om te worden getoond. ’'
-feature: In app
+feature: In App
 topics: Mobile
 kt: 2548
 thumbnail: 26245.jpg

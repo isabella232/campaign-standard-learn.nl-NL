@@ -1,7 +1,7 @@
 ---
 title: Een voorbeeld van uw e-mail- en antispamanalyse bekijken
 description: '"Leer hoe u een voorbeeld van uw e-mail en de anti-spamanalyse kunt bekijken."'
-feature: E-mailontwerp
+feature: Email Design
 topics: null
 kt: 2393
 thumbnail: 25921.jpg

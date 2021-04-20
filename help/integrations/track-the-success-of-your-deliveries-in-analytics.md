@@ -2,7 +2,7 @@
 title: Houd het succes van je leveringen in Adobe Analytics bij
 description: Leer hoe u de integratie van Campaign Standard en Analytics configureert. Begrijp hoe te om een rapport in Analytics te bouwen gebruikend gegevens die van Campaign Standard worden ontvangen en welke KPIs beschikbaar is.
 product: adobe analytics, campaign
-feature: Toepassingsinstellingen
+feature: Application Settings
 topics: Integrations
 role: Administrator
 level: Intermediate

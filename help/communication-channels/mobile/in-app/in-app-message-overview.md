@@ -1,8 +1,7 @@
 ---
 title: Inleiding tot in-app-berichten
-description: '"Leer hoe u de gebruiker contextafhankelijke berichten in de app kunt presenteren als reactie op het realtime gedrag van de klant in de mobiele toepassing."'
-feature: In App
-topics: Mobile
+description: Leer hoe u de gebruiker contextafhankelijke berichten in de app kunt presenteren als reactie op het realtime gedrag van de klant in de mobiele toepassing.
+feature: In app
 kt: 1911
 doc-type: feature video
 activity: use
@@ -11,7 +10,7 @@ exl-id: c51716eb-7239-4fc0-9ccf-9f5f0a5fae65
 role: Business Practitioner
 level: Beginner
 translation-type: tm+mt
-source-git-commit: 07c2696cbdc72e24563c5d1442bf5c39b22d5a22
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '747'
 ht-degree: 21%

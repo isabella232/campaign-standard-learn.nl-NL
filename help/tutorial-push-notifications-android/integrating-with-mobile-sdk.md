@@ -2,15 +2,15 @@
 title: Stap 2 - De mobiele SDK integreren
 description: In dit deel integreren we de Android-toepassing met de Mobile SDK. Mobiele SDK integreren met de Android-app
 feature: Push
-topics: Mobile
 kt: 4826
 doc-type: tutorial
 activity: use
 team: TM
+exl-id: 0fa53536-8330-4e96-be2f-afc078609bcd
 translation-type: tm+mt
-source-git-commit: 13b4f1d395dfe53f9fc5263e7b06be700e30b986
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '159'
 ht-degree: 3%
 
 ---

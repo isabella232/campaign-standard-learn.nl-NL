@@ -1,20 +1,19 @@
 ---
 title: Problemen oplossen met het Configuratiescherm
 description: Met het Configuratiescherm kunt u uw SFTP-opslag per instantie controleren en beheren en IP-adressen op lijsten van gewenste adressen plaatsen.
-feature: Control Panel
-topics: null
+feature: 'Configuratiescherm '
 kt: 2938
 doc-type: article
 activity: use
 team: PM
+exl-id: f546f791-a69b-4586-abfa-3e626b8feb17
 translation-type: tm+mt
-source-git-commit: f120eaf237378db3ddd5833930c0222ee028941d
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '327'
+source-wordcount: '329'
 ht-degree: 100%
 
 ---
-
 
 # Het oplossen van problemen met het [!UICONTROL Control Panel]
 
@@ -71,4 +70,3 @@ Voor verbinding met SFTP-servers is het volgende vereist:
 ### Handige documentatie  {#helpful-docs}
 
 * [Aanmelden bij uw SFTP-server](https://docs.adobe.com/content/help/nl-NL/control-panel/using/control-panel-home.html#LoggingintoyourSFTPserver)
-

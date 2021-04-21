@@ -2,19 +2,18 @@
 title: Stap 3 - Extensies registreren voor uw mobiele app
 description: In dit deel voegen we de code toe voor het registreren van de extensies Gebruikersprofiel, Identiteit, Levenscyclus en Signaal.
 feature: Push
-topics: Mobile
 kt: 4827
 doc-type: tutorial
 activity: use
 team: TM
+exl-id: d8c0d8c6-2e04-4c27-b27a-d0de79dd953b
 translation-type: tm+mt
-source-git-commit: 13b4f1d395dfe53f9fc5263e7b06be700e30b986
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 0%
+source-wordcount: '123'
+ht-degree: 12%
 
 ---
-
 
 # Stap 3 - Extensies registreren voor uw mobiele app
 

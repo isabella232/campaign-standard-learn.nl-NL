@@ -1,22 +1,21 @@
 ---
 title: Aan de slag met het Configuratiescherm
 description: In dit artikel wordt uitgelegd hoe u toegang krijgt tot het Configuratiescherm en wat de voorwaarden zijn om met het Configuratiescherm te kunnen werken.
-feature: Control Panel
-topics: Control Panel
+feature: 'Configuratiescherm '
 audience: administrator
 kt: 6385
 thumbnail: kt-6385.jpg
 doc-type: feature video
 activity: setup
 team: TM
+exl-id: 3626c012-e2f7-4480-aca0-97d7c7ce9a95
 translation-type: tm+mt
-source-git-commit: fcb815eba6f704ae948d98acc0c3fbf9ef778264
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '217'
 ht-degree: 65%
 
 ---
-
 
 # Aan de slag met [!UICONTROL Control Panel] {#control-panel}
 
@@ -61,4 +60,3 @@ De volgende video laat zien hoe u een beheerder aan een Campaign-instantie kunt 
 ## Aanvullende resources
 
 * [Help Center voor het Configuratiescherm](https://docs.adobe.com/content/help/nl-NL/control-panel/using/control-panel-home.html)
-

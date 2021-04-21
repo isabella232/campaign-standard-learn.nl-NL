@@ -1,8 +1,7 @@
 ---
 title: Rapporteren over uw in-app-levering
-description: '"Leer hoe u de gebruiker contextafhankelijke In-App-berichten kunt presenteren als reactie op het realtime gedrag van de klant in de mobiele toepassing."'
-feature: In App
-topics: Mobile
+description: Leer hoe u de gebruiker contextafhankelijke In-App-berichten kunt presenteren als reactie op het realtime gedrag van de klant in de mobiele toepassing.
+feature: In app
 kt: 2558
 thumbnail: 26412.jpg
 doc-type: feature video
@@ -12,7 +11,7 @@ exl-id: bb587ee7-9587-44d3-8bb4-3d4e64f66749
 role: Business Practitioner, Developer
 level: Beginner, Intermediate
 translation-type: tm+mt
-source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 10%

@@ -9,9 +9,9 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/t
 getting-started-title: Documentatie
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=nl
 translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 433357e28b44e96ddb443f6359d12a6a106a3246
 workflow-type: tm+mt
-source-wordcount: '545'
+source-wordcount: '549'
 ht-degree: 93%
 
 ---
@@ -103,6 +103,7 @@ ht-degree: 93%
    + [Houd het succes van je leveringen in Adobe Analytics bij](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
    + Triggers gebruiken voor transactieberichten {#triggers}
       + [Overzicht](/help/integrations/using-triggers-for-transactional-messaging-overview.md)
+      + [Starten voor triggers configureren](/help/integrations/configure-launch-for-triggers.md)
       + [Een trigger in Experience Cloud maken](/help/integrations/create-a-trigger-in-experience-cloud.md)
       + [Een triggergebeurtenis maken in Campaign Standard](/help/integrations/create-a-trigger-event.md)
       + [Transactieberichten configureren met realtime-gebeurtenisgegevens](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)

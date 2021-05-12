@@ -11,14 +11,14 @@ exl-id: da1ba3a1-c27c-458e-ba96-5bc1aef486ba
 role: Business Practitioner, Developer, Administrator
 level: Beginner
 translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: ce167645baa65a7f54b94bf1c1bfd07829c29331
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '83'
 ht-degree: 10%
 
 ---
 
-# Een workflow maken {#how-to-create-a-workflow-in-adobe-campaign-standard}
+# Maak een workflow {#how-to-create-a-workflow-in-adobe-campaign-standard}
 
 Workflows kunnen in verschillende contexten worden gebruikt, zoals:
 
@@ -33,4 +33,4 @@ In deze video ziet u hoe u een workflow in Adobe Campaign Standard kunt maken en
 
 ## Aanvullende bronnen
 
-* [Workflows en gegevensbeheer](https://docs.adobe.com/content/help/en/campaign-standard/using/managing-processes-and-data/about-workflows-and-data-management/discovering-workflows.html)
+* [Een workflow maken (documentatie)](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/building-a-workflow.html)

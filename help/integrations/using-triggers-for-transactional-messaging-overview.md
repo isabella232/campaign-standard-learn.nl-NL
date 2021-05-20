@@ -1,6 +1,6 @@
 ---
-title: Het gebruiken van trekkers voor transactieoverseinen - Overzicht
-description: Leer hoe te om trekkers voor transactioneel overseinen te vormen en te gebruiken.
+title: Triggers gebruiken voor transactieberichten - overzicht
+description: Leer triggers voor transactieberichten configureren en gebruiken.
 feature: Triggers
 topic: Integraties
 kt: 6525
@@ -9,26 +9,25 @@ role: Administrator
 level: Experienced
 team: TM
 exl-id: 9bc5e4e6-c943-40ca-9d99-a3fa802775f4
-translation-type: tm+mt
 source-git-commit: 433357e28b44e96ddb443f6359d12a6a106a3246
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '105'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
-# Het gebruiken van trekkers voor transactieoverseinen - Overzicht
+# Triggers gebruiken voor transactieberichten - overzicht
 
-In de volgende leerprogramma&#39;s zult u leren hoe te om trekkers voor transactioneel overseinen te vormen en te gebruiken.
+In de volgende tutorials leert u hoe u triggers configureert en gebruikt voor voor transactieberichten.
 
-Voordat u een trigger in een transactiebericht kunt gebruiken, moet u:
+Voordat u een trigger in een transactieberichten kunt gebruiken, moet u het volgende doen:
 
-1. [Starten voor triggers configureren](/help/integrations/configure-launch-for-triggers.md)
+1. [Launch configureren voor triggers](/help/integrations/configure-launch-for-triggers.md)
 2. [Een trigger in Experience Cloud maken](/help/integrations/create-a-trigger-in-experience-cloud.md)
 3. [Een triggergebeurtenis maken in Campaign Standard](/help/integrations/create-a-trigger-event.md)
 
-Zodra de trekker is gevormd, staat het u toe om transactionele berichten [te vormen gebruikend realtime gebeurtenisgegevens](/help/integrations/configure-transactional-messages-using-realtime-event-data.md).
+Zodra de trigger is geconfigureerd, kunt u daarmee transactieberichten [configureren met realtimegebeurtenisgegevens](/help/integrations/configure-transactional-messages-using-realtime-event-data.md).
 
 ## Aanvullende bronnen
 
-* [Info over Adobe Experience Cloud Trigger](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/working-with-campaign-and-triggers/about-adobe-experience-cloud-triggers.html?lang=en#integrating-with-adobe-cloud)
+* [Adobe Experience Cloud Trigger](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/working-with-campaign-and-triggers/about-adobe-experience-cloud-triggers.html?lang=nl#integrating-with-adobe-cloud)

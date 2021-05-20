@@ -3,14 +3,13 @@ title: Adobe Campaign Standard-tutorials - overzicht
 description: Adobe Campaign biedt een platform voor het ontwerpen van kanaaloverschrijdende klantervaringen en biedt een omgeving voor visuele campagnelay-out, real-time interactiebeheer en kanaaloverschrijdende uitvoering. Deze gebruikershandleiding bevat video’s en tutorials over de vele functies en mogelijkheden van Adobe Campaign Standard.
 products: SG_CAMPAIGN/STANDARD
 exl-id: b97710d1-3e93-41f6-a51e-9bf4c519fec3
-feature: Overview
+feature: Overzicht
 role: Business Practitioner, Administrator, Developer
 level: Beginner
-translation-type: tm+mt
 source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '297'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
@@ -20,13 +19,13 @@ Adobe Campaign biedt een platform voor het ontwerpen van kanaaloverschrijdende k
 
 ## Nieuwe functies
 
-* **[Houd het succes van je leveringen in Adobe Analytics bij](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)**
+* **[Het succes van je leveringen in Adobe Analytics bijhouden](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)**
 
-   *Leer hoe u de integratie van Campaign Standard en Analytics configureert. Begrijp hoe te om een rapport in Analytics te bouwen gebruikend gegevens die van Campaign Standard worden ontvangen en welke KPIs beschikbaar zijn.*
+   *Leer hoe u Campaign Standard configureert en Analytics integreert. Begrijp hoe u een rapport in Analytics bouwt met gebruikersgegevens die van Campaign Standard worden ontvangen, en welke KPI&#39;s beschikbaar zijn.*
 
 * **[Triggers gebruiken voor transactieberichten](/help/integrations/using-triggers-for-transactional-messaging-overview.md)**
 
-   *Leer hoe te om trekkers voor transactioneel overseinen te vormen en te gebruiken.*
+   *Leer hoe u triggers voor transactieberichten configureert en gebruikt.*
 
 ## Aanbevolen door medewerkers van Adobe
 
@@ -63,7 +62,7 @@ Adobe Campaign biedt een platform voor het ontwerpen van kanaaloverschrijdende k
       <img alt="Tutorial: Aan de slag met pushmeldingen voor Android" src="./assets/push-for-android.png" />
     </a>
     <div>
-      <a href="https://docs.adobe.com/content/help/en/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html">
+      <a href="https://docs.adobe.com/content/help/nl-NL/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html">
     <strong>Tutorial: Aan de slag met pushmeldingen voor Android</strong>
     </a>
     </div>

@@ -1,8 +1,8 @@
 ---
-title: Houd het succes van je leveringen in Adobe Analytics bij
-description: Leer hoe u de integratie van Campaign Standard en Analytics configureert. Begrijp hoe te om een rapport in Analytics te bouwen gebruikend gegevens die van Campaign Standard worden ontvangen en welke KPIs beschikbaar is.
+title: Het succes van uw leveringen in Adobe Analytics bijhouden
+description: Leer hoe u de integratie van Campaign Standard en Analytics configureert. Begrijp hoe u een rapport in Analytics bouwt met het gebruik van gegevens die van Campaign Standard worden ontvangen en welke KPI's beschikbaar zijn.
 product: adobe analytics, campaign
-feature: Toepassingsinstellingen
+feature: Applicatie-instellingen
 topic: Integraties
 role: Administrator
 level: Intermediate
@@ -11,20 +11,19 @@ thumbnail: 332576.jpg
 doc-type: feature video
 team: TM
 exl-id: babe7b9f-c198-4358-ba3a-91fabf584f9b
-translation-type: tm+mt
 source-git-commit: ddbb0843ea45a83d9ab5bfa0877287f6ba7d6210
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '97'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
-# Houd het succes van je leveringen in Adobe Analytics bij
+# Het succes van uw leveringen in Adobe Analytics bijhouden
 
-Leer hoe u de integratie van Campaign Standard en Analytics configureert. Begrijp hoe te om een rapport in Analytics te bouwen gebruikend gegevens die van Campaign Standard worden ontvangen en welke KPIs beschikbaar is.
+Leer hoe u de integratie van Campaign Standard en Analytics configureert. Begrijp hoe u een rapport in Analytics bouwt met het gebruik van gegevens die van Campaign Standard worden ontvangen en welke KPI&#39;s beschikbaar zijn.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332576/?quality=12)
 
 ## Aanvullende bronnen
 
-[Het begrijpen van en het Creëren van de Reeksen van het Rapport](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=en#intro-to-analytics)
+[Report Suites maken en begrijpen](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=nl#intro-to-analytics)

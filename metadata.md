@@ -8,9 +8,8 @@ feature-set: Campaign
 mini-toc-levels: 3
 git-repo: https://git.corp.adobe.com/AdobeDocs/campaign-standard-learn.nl-NL
 index: true
-translation-type: tm+mt
 source-git-commit: c285a5493dad114c817d78692400f4056c707db4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '130'
 ht-degree: 100%
 
@@ -33,7 +32,7 @@ Het bestand metadata.md bevat metagegevens op niveau van de repository die worde
 
 In TOC.md-bestand
 
-| metagegevens | wat het doet |
+| metadata | wat het doet |
 |--- |--- |
 | user-guide-title | Gebruikt in artikelkoptekst als koppeling |
 | user-guide-url | Opent helpx-hubpagina |

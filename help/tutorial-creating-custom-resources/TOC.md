@@ -1,9 +1,8 @@
 ---
 user-guide-title: Adobe Campaign Standard - Tutorial over het maken van aangepaste bronnen
 user-guide-description: 'Deze tutorial met meerdere onderdelen begeleidt u door de stappen die nodig zijn om aangepaste bronnen te maken en te koppelen. '
-translation-type: tm+mt
 source-git-commit: 0125d22122128037759c65f94e5e90ab4740173f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '48'
 ht-degree: 100%
 

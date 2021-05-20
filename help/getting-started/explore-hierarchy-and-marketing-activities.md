@@ -1,6 +1,6 @@
 ---
 title: Hiërarchie- en marketingactiviteiten verkennen
-description: '"Begrijp de hiërarchie van programma''s en campagnes, hoe te om een marketingprogramma tot stand te brengen, en hoe te om een marketing campagne binnen een programma tot stand te brengen."'
+description: '''Krijg inzicht in de hiërarchie van programma’s en campagnes, het maken van een marketingprogramma en het maken van een marketingcampagne binnen een programma.'''
 feature: Campagnes, programma's
 kt: 3892
 thumbnail: 18465.jpg
@@ -10,11 +10,10 @@ team: WWFRE
 exl-id: c5804637-804c-473f-80d8-d54263c49a5c
 role: Business Practitioner
 level: Beginner
-translation-type: tm+mt
 source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '73'
-ht-degree: 65%
+ht-degree: 100%
 
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: Transactieberichten configureren met realtime-gebeurtenisgegevens
-description: Leer hoe te om transactieberichten te vormen gebruikend gebeurtenisgegevens die in real time uit trekkers komen.
+title: Transactieberichten configureren met realtimegebeurtenisgegevens
+description: Leer hoe u transactieberichten configureert gebeurtenisgegevens van realtimetriggers.
 feature: Triggers
 kt: 7471
 thumbnail: 332602.jpg
@@ -10,16 +10,15 @@ level: Experienced
 activity: use
 team: TM
 exl-id: 748d6cb3-86f0-4763-9d71-1f1e30dfeb93
-translation-type: tm+mt
 source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '41'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Transactieberichten configureren met realtime-gebeurtenisgegevens
+# Transactieberichten configureren met realtimegebeurtenisgegevens
 
-Leer hoe te om transactieberichten te vormen gebruikend gebeurtenisgegevens die in real time uit trekkers komen.
+Leer hoe u transactieberichten configureert gebeurtenisgegevens van realtimetriggers.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332602?quality=12)

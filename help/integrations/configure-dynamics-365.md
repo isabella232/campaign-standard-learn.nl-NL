@@ -2,12 +2,13 @@
 title: Microsoft® Dynamics 365 configureren voor integratie met Campaign Standard
 description: Leer hoe te om Dynamica 365 te vormen Microsoft® voor gebruik in de Integratie van de Dynamiek en van de Campaign Standard.
 feature: Microsoft Dynamics 365 Connector
-topics: null
 kt: 2927
 doc-type: feature video
+role: Administrator
+level: Experienced
 activity: setup
 team: PM
-source-git-commit: af394b33cac0952beea2b3b6aefcfee3934a9a1c
+source-git-commit: 80a04a3aefb5a530433fbd32d7728a8889484cdb
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 3%
@@ -20,7 +21,6 @@ ht-degree: 3%
 Leer hoe te om Dynamica 365 te vormen Microsoft® voor gebruik in de Integratie van de Dynamiek en van de Campaign Standard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27637?quality=12)
-
 
 ## Aanvullende bronnen
 

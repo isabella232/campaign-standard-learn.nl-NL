@@ -9,9 +9,9 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/t
 getting-started-title: Documentatie
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=nl
 source-git-commit: df4f635fc2760edc7c10a97da554a0d7704747c1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '558'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -77,7 +77,7 @@ ht-degree: 94%
       + [Een landingspagina maken en bewerken](/help/communication-channels/landing-pages/landing-page-create-and-edit.md)
       + [Een landingspagina testen en publiceren](/help/communication-channels/landing-pages/landing-page-test-and-publish.md)
       + [Een sjabloon voor een landingspagina configureren](/help/communication-channels/landing-pages/landing-page-configure-templates.md)
-+ Inhoud ontwerpen en aanpassen {#designing-content}
++ Content ontwerpen en aanpassen {#designing-content}
    + Email Designer{#email-designer}
       + [Overzicht](/help/designing-content/email-designer/email-designer-overview.md)
       + [Aan de slag met Email Designer](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
@@ -87,27 +87,27 @@ ht-degree: 94%
       + [Werken met bestaande content](/help/designing-content/email-designer/working-with-existing-content.md)
       + [Content maken met Adobe Dreamweaver](/help/designing-content/email-designer/dreamweaver-integration.md)
    + [Productvermeldingen configureren in transactie-e-mails](/help/designing-content/product-listings-in-transactional-email.md)
-+ Proces- en gegevensbeheer {#managing-processes-and-data}
++ Proces- en data management {#managing-processes-and-data}
    + [Een workflow maken](/help/managing-processes-and-data/creating-a-workflow.md)
    + Uitvoeringsactiviteiten {#execution-activities}
       + [Externe signaalactiviteit](/help/managing-processes-and-data/execution-activities/external-signal-activity.md)
    + Activiteiten voor gegevensbeheer{#data-management-activities}
       + [Externe API-activiteit](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)
-+ {#reporting} rapporteren
++ Rapporteren {#reporting}
    + [Rapporten verkennen](/help/getting-started/exploring-reports.md)
    + [Een dynamisch rapport maken](/help/reporting/creating-a-dynamic-report.md)
    + [Een rapport maken op basis van aangepaste profielkenmerken](/help/reporting/custom-profile-attributes-dynamic-reports.md)
    + [Een rapport maken op basis van workflowsegmenten](/help/reporting/report-on-workflow-segments.md)
 + Integreren met andere oplossingen {#integrations}
    + [Het succes van uw leveringen in Adobe Analytics bijhouden](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
-   + Gebruik triggers voor transactieberichten {#triggers}
+   + Triggers gebruiken voor transactieberichten {#triggers}
       + [Overzicht](/help/integrations/using-triggers-for-transactional-messaging-overview.md)
       + [Launch configureren voor triggers](/help/integrations/configure-launch-for-triggers.md)
       + [Een trigger in Experience Cloud maken](/help/integrations/create-a-trigger-in-experience-cloud.md)
       + [Een triggergebeurtenis maken in Campaign Standard](/help/integrations/create-a-trigger-event.md)
       + [Transactieberichten configureren met realtimegebeurtenisgegevens](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
    + [Microsoft® Dynamics 365 configureren voor integratie met Campaign Standard](/help/integrations/configure-dynamics-365.md)
-+ {#administrating} beheren
++ Beheren {#administrating}
    + [Toegangsrechten van gebruikers beheren](/help/administrating/managing-user-access-rights.md)
    + [Aangepaste bronnen maken](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=nl)
    + [Configuratiescherm](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=nl)

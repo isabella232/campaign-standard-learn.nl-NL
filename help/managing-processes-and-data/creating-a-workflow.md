@@ -1,5 +1,5 @@
 ---
-title: Maak een workflow
+title: Een workflow maken
 description: Leer hoe u een workflow maakt en bewerkt.
 feature: Workflows
 kt: 1809
@@ -8,17 +8,16 @@ doc-type: feature video
 activity: use
 team: DOC
 exl-id: da1ba3a1-c27c-458e-ba96-5bc1aef486ba
-role: Business Practitioner, Developer, Administrator
+role: User, Developer, Admin
 level: Beginner
-translation-type: tm+mt
-source-git-commit: ec1917e613aeb220bd83a053bfc71b37ea2b4a6c
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 10%
 
 ---
 
-# Maak een workflow {#how-to-create-a-workflow-in-adobe-campaign-standard}
+# Een workflow maken {#how-to-create-a-workflow-in-adobe-campaign-standard}
 
 Workflows kunnen in verschillende contexten worden gebruikt, zoals:
 

@@ -4,19 +4,19 @@ description: Leer hoe u Microsoft® Dynamics 365 kunt configureren voor gebruik 
 feature: Microsoft Dynamics 365-connector
 kt: 2927
 doc-type: feature video
-role: Administrator
+role: Admin
 level: Experienced
 activity: setup
 team: PM
-source-git-commit: 80a04a3aefb5a530433fbd32d7728a8889484cdb
-workflow-type: ht
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 100%
 
 ---
 
 
-# [!DNL Microsoft® Dynamics 365] voor de integratie met Campaign Standard  configureren {#configure-microsoft-dynamics-365}
+# [!DNL Microsoft® Dynamics 365] voor de integratie met Campaign Standard  configureren  {#configure-microsoft-dynamics-365}
 
 Leer hoe u Microsoft® Dynamics 365 kunt configureren voor gebruik in de integratie van Dynamics en Campaign Standard.
 

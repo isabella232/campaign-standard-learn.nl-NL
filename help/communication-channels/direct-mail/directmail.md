@@ -8,17 +8,16 @@ doc-type: feature video
 activity: using
 team: TM
 exl-id: f54acc7f-4efe-4d7f-89f1-c4ed596a5d9e
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '110'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
-# Een [!UICONTROL Direct Mail] {#create-a-direct-mail} maken
+# Een [!UICONTROL Direct Mail] maken {#create-a-direct-mail}
 
 Met het kanaal [!UICONTROL Direct Mail] kunt u een gesegmenteerde lijst met ontvangers extraheren die naar een agentschap moeten worden verzonden of naar een SFTP-server moeten worden geüpload.
 

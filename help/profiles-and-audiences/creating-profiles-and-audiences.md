@@ -1,20 +1,19 @@
 ---
 title: Profielen en doelgroepen maken - overzicht
 description: Leer hoe u naar bestaande profielen kunt navigeren en hoe u profielen en doelgroepen kunt maken.
-feature: Profielen, publiek
+feature: Profielen, doelgroepen
 kt: 3899
 thumbnail: 18463.jpg
 doc-type: feature video
 activity: understand
 team: WWFRE
 exl-id: 5948ce53-0d12-4768-912a-9edb0b9b6f2b
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '85'
-ht-degree: 16%
+ht-degree: 18%
 
 ---
 

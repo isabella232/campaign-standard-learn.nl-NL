@@ -4,14 +4,13 @@ description: 'Leer hoe u een eenmalige e-maillevering vanaf de startpagina kunt 
 feature: Email
 kt: 4319
 thumbnail: 31465.jpg
-role: Business Practitioner
+role: User
 level: Beginner
 doc-type: feature video
 activity: use
 team: DOC
 exl-id: cc5d1bd2-a416-4df3-b12b-b1f9de4736fd
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 32%
@@ -28,6 +27,6 @@ In deze video wordt uitgelegd hoe u e-mailberichten kunt maken en verzenden via 
 
 ## Aanvullende bronnen
 
-* [Een e-mailverzending maken](/help/communication-channels/email/create-email-from-homepage.md)
+* [Een e-maillevering maken](/help/communication-channels/email/create-email-from-homepage.md)
 * [Een e-mail maken (documentatie)](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/email-messages/creating-an-email.html)
 * [Best practices voor verzending](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/delivery-bestpractices/delivery-best-practices.html?lang=nl)

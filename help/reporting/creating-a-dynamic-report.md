@@ -1,24 +1,23 @@
 ---
 title: Een dynamisch rapport maken
 description: Leer hoe u een rapport maakt.
-feature: Reporting
+feature: Rapportage
 kt: 2037
 thumbnail: 25264.jpg
 doc-type: feature video
 activity: use
 team: DOC
 exl-id: a2b93d8b-0d3e-4525-a334-a01701d34d85
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: 07c2696cbdc72e24563c5d1442bf5c39b22d5a22
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 13%
 
 ---
 
-# Een [!UICONTROL Dynamic Report]{#creating-a-report} maken
+# Een [!UICONTROL Dynamic Report] maken{#creating-a-report}
 
 Adobe Campaign [!UICONTROL Dynamic Reports] is ontworpen als een flexibele vrije omgeving waarin u gegevens kunt verkennen. Hiermee kunt u dimensies, metriek en tijdbereik combineren in elke combinatie, met onbeperkte onderverdelingen en vergelijkingen.
 

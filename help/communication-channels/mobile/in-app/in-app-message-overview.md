@@ -7,10 +7,9 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: c51716eb-7239-4fc0-9ccf-9f5f0a5fae65
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '747'
 ht-degree: 21%
@@ -46,7 +45,7 @@ Raadpleeg voor meer informatie over extensies de extensie [Campaign Standard con
 
 1. [Configureer gebeurtenissen](/help/communication-channels/mobile/in-app/configure-events.md).
 
-## [!UICONTROL In-App] Leveringen {#create-manage-publish} maken, beheren en publiceren
+## [!UICONTROL In-App]-leveringen maken, beheren en publiceren {#create-manage-publish}
 
 U kunt of één keer leveringen in-app door op **[!UICONTROL Create an In-App Message]** kaart van de homepage, van [!UICONTROL Marketing Activities] te klikken, of u kunt [een levering in-app binnen een werkschema creëren](/help/communication-channels/mobile/in-app/in-app-activity.md).
 
@@ -66,7 +65,7 @@ Bij het instellen van de levering hebt u drie mogelijkheden om uw gebruikers als
 
 Deze sjabloon is handig ter ondersteuning van gevallen waarin gebruikers al op andere kanalen zoals E-mail of Push zijn aangewezen en die op hun reactie zijn gebaseerd, wilt u hen een bericht in de app geven.
 
-## Rapport over uw in-app leveringen {#report}
+## Rapport over uw In-App-leveringen {#report}
 
 Zodra uw levering is gepubliceerd, kunt u [op uw levering in-app ](/help/communication-channels/mobile/in-app/in-app-reporting.md) melden.
 

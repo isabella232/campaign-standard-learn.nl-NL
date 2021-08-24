@@ -1,6 +1,6 @@
 ---
-title: Een nieuwe doelgroep maken met de Unified Segment Builder
-description: Leer hoe te om een nieuw publiek tot stand te brengen gebruikend de Verenigde Bouwer van het Segment
+title: Creeer een publiek gebruikend de Verenigde Bouwer van het Segment
+description: Leer hoe te om een publiek tot stand te brengen gebruikend de Verenigde Bouwer van het Segment
 feature: Integratie van de People Core-service
 kt: 2754
 thumbnail: 27638.jpg
@@ -10,39 +10,39 @@ team: PM
 exl-id: ce52a988-5072-401b-9a8b-112e42504022
 role: User, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '241'
-ht-degree: 8%
+source-wordcount: '214'
+ht-degree: 4%
 
 ---
 
-# Een nieuwe doelgroep maken met de Unified Segment Builder
+# Creeer een publiek gebruikend de Verenigde Bouwer van het Segment
 
 >[!NOTE]
 >
->Deze mogelijkheid wordt momenteel in bèta aangeboden en kan zonder voorafgaande kennisgeving regelmatig worden bijgewerkt en gewijzigd. [!UICONTROL Audience Destinations] is gebaseerd op Adobe Experience Platform en vereist een specifieke configuratie.
+>Deze mogelijkheid is in bèta beschikbaar en kan regelmatig worden bijgewerkt en gewijzigd zonder voorafgaande kennisgeving. [!UICONTROL Audience Destinations] is gebaseerd op Adobe Experience Platform en vereist een specifieke configuratie.
 >
 >Neem contact op met [!UICONTROL Adobe Customer Support] als u van plan bent deze functie te implementeren.
 
-Met Adobe Campaign Standard kunt u een publiek maken met behulp van gegevens uit het [Real-Time Klantprofiel](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html) van Adobe Experience Cloud met behulp van de Adobe Experience Platform [!UICONTROL Unified Segment Builder].
+Met Adobe Campaign Standard kunt u een publiek maken met behulp van gegevens uit het [Real-Time Klantprofiel](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en) van Adobe Experience Cloud met behulp van de Adobe Experience Platform [!UICONTROL Unified Segment Builder].
 
-U kunt [!UICONTROL Unified Segment Builder] tot direct binnen Adobe Campaign Standard via [!UICONTROL Audiences ] module toegang hebben. Hierdoor kunt u dit publiek rechtstreeks beheren in de lijstweergave [!UICONTROL Audiences], waar u een nieuw Adobe Experience Platform-publiek rechtstreeks vanuit de Adobe Campaign-interface kunt bewerken of maken
+U kunt [!UICONTROL Unified Segment Builder] tot direct binnen Adobe Campaign Standard via [!UICONTROL Audiences ] module toegang hebben. Hiermee kunt u deze soorten publiek rechtstreeks beheren in de lijstweergave [!UICONTROL Audiences], waar u een Adobe Experience Platform-publiek rechtstreeks vanuit de Adobe Campaign-interface kunt bewerken of maken
 
 In de onderstaande video wordt uitgelegd hoe een nieuw publiek wordt gemaakt met [!UICONTROL Unified Segment Builder] in Adobe Campaign Standard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27638?quality=12)
 
-*Hoe te om een nieuw publiek in Adobe Campaign Standard tot stand te brengen gebruikend de Verenigde Bouwer van het Segment (min 02:47)*
+*Hoe te om een publiek in Adobe Campaign Standard tot stand te brengen gebruikend de Verenigde Bouwer van het Segment (min 02:47)*
 
 ## Aanvullende resources
 
 Documentatie:
 
-* [Real-Time overzicht van klantprofiel](https://www.adobe.io/apis/experienceplatform/home/profile-identity-segmentation/profile-identity-segmentation-services.html#!api-specification/markdown/narrative/technical_overview/unified_profile_architectural_overview/unified_profile_architectural_overview.md)
-* [Gebruikershandleiding voor Segment Builder](https://www.adobe.io/apis/experienceplatform/home/profile-identity-segmentation/profile-identity-segmentation-services.html#!api-specification/markdown/narrative/technical_overview/segmentation/segment-builder-guide.md)
+* [Real-Time overzicht van klantprofiel](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
+* [Gebruikershandleiding voor Segment Builder](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
 
 Videobronnen:
 
-* [AEP-publiek activeren in een workflow](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
+* [ Experience Platform-doelgroepen in een workflow activeren](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
 * [Wijzig de doeldimensie van een levering voor een publiek van een Platform](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)

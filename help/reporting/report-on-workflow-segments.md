@@ -1,6 +1,6 @@
 ---
 title: Een rapport maken op basis van workflowsegmenten
-description: Het melden van de Segmenten van het Werkschema verstrekt de capaciteit om de code van het werkschemasegment in dynamische rapportering toe te voegen.
+description: Leer hoe u segmenten in uw workflow definieert en hoe u deze kunt gebruiken voor dynamische rapporten.
 feature: Rapportage
 kt: 3252
 thumbnail: 28262.jpg
@@ -10,10 +10,10 @@ team: TM
 exl-id: 2ee84302-69c3-4011-af7a-5541ca070cd8
 role: User
 level: Beginner
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 16%
+source-wordcount: '86'
+ht-degree: 17%
 
 ---
 
@@ -21,8 +21,8 @@ ht-degree: 16%
 
 Nadat u een workflow hebt gemaakt en uw populatie hebt gefilterd in verschillende doelgroepen, kunt u de efficiëntie van uw marketingcampagnes meten op basis van segmenten die zijn gedefinieerd in deze doelworkflow.
 
-In de onderstaande video worden de drie stappen beschreven die vereist zijn om deze segmenten in uw rapport als doel in te stellen:
+Leer hoe u segmenten in uw workflow definieert en hoe u deze kunt gebruiken voor dynamische rapporten.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28262?quality=12)
 
-Zie de [documentatie](https://docs.adobe.com/content/help/en/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html) voor meer informatie
+Zie de [documentatie](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html?lang=en) voor meer informatie

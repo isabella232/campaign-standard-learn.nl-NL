@@ -1,7 +1,7 @@
 ---
 title: Mobiele marketing met Adobe Campaign
 description: In deze video wordt uitgelegd welke Adobe Campaign Standard-functies uw marketingstrategie voor mobiele apparaten kunnen ondersteunen.
-feature: SMS, Push, In-App
+feature: SMS, push, in app
 kt: 3976
 thumbnail: 29468.jpg
 doc-type: value video
@@ -10,10 +10,10 @@ team: PMM
 exl-id: 4377b2d6-e5cc-4f25-b40a-e24b7ddf74ed
 role: User, Developer
 level: Beginner
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 5a2f8c9a78bf5100b272f9b4461131545b3aeb8b
 workflow-type: tm+mt
-source-wordcount: '52'
-ht-degree: 100%
+source-wordcount: '53'
+ht-degree: 92%
 
 ---
 

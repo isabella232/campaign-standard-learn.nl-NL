@@ -9,11 +9,10 @@ doc-type: feature video
 activity: use
 team: PM
 exl-id: 3d4aaf1f-b8cf-4e22-accb-4f73aaaf21af
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 64940a739897c3969574dcf1d1e36c5a986d0473
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 100%
+source-wordcount: '89'
+ht-degree: 92%
 
 ---
 
@@ -27,4 +26,4 @@ Leer hoe u een openbare sleutel maakt en deze kunt importeren en installeren in 
 ## Aanvullende bronnen
 
 * [GPG-sleutelbeheer (video’s)](./gpg-key-management-overview.md)
-* [GPG-sleutelbeheer (documentatie)](https://docs.adobe.com/content/help/nl-NL/control-panel/using/instances-settings/gpg-keys-management.html)
+* [GPG-sleutelbeheer (documentatie)](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html)

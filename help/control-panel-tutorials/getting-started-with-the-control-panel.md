@@ -1,6 +1,6 @@
 ---
 title: Aan de slag met het Configuratiescherm
-description: In dit artikel wordt uitgelegd hoe u toegang krijgt tot het Configuratiescherm en wat de voorwaarden zijn om met het Configuratiescherm te kunnen werken.
+description: Leer hoe u toegang krijgt tot het Configuratiescherm en welke voorwaarden u nodig hebt om met het Configuratiescherm te kunnen werken.
 feature: 'Configuratiescherm '
 audience: administrator
 kt: 6385
@@ -9,25 +9,24 @@ doc-type: feature video
 activity: setup
 team: TM
 exl-id: 3626c012-e2f7-4480-aca0-97d7c7ce9a95
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
-source-wordcount: '217'
-ht-degree: 65%
+source-wordcount: '208'
+ht-degree: 41%
 
 ---
 
-# Aan de slag met [!UICONTROL Control Panel] {#control-panel}
+# Aan de slag met de [!UICONTROL Control Panel] {#control-panel}
 
 >[!NOTE]
 >
->De termen ‘[!UICONTROL whitelist]’ en ‘[!UICONTROL blacklist]’ zijn vervangen door ‘[!UICONTROL allowlist]’ en ‘[!UICONTROL denylist]’ in de documentatie van Adobe Campaign. Sommige van deze termen staan nog steeds in de gebruikersinterface van het product, optienamen, interne code en de tutorialvideo’s. Deze worden vervangen in toekomstige versies van het Configuratiescherm.
+>De termen ‘[!UICONTROL whitelist]’ en ‘[!UICONTROL blacklist]’ zijn vervangen door ‘[!UICONTROL allowlist]’ en ‘[!UICONTROL denylist]’ in de documentatie van Adobe Campaign. Sommige van deze termen staan nog steeds in de gebruikersinterface van het product, optienamen, interne code en de zelfstudievideo&#39;s. Deze worden vervangen in toekomstige versies van het Configuratiescherm.
 
 Met [!UICONTROL Control Panel] kunnen Adobe Campaign-beheerders belangrijke elementen controleren en beheertaken uitvoeren, zoals het beheren van de [!DNL SFTP]-opslag per instantie, het beheren van [!DNL GPG]-toetsen of [!UICONTROL subdomains] en [!UICONTROL certificates].
 
-In dit artikel wordt uitgelegd hoe u toegang krijgt tot het Configuratiescherm en wat de voorwaarden zijn om met het Configuratiescherm te kunnen werken.
+Leer hoe u toegang krijgt tot het Configuratiescherm en welke voorwaarden u nodig hebt om met het Configuratiescherm te kunnen werken.
 
-## Toegang tot het [!UICONTROL Control Panel]
+## Toegang krijgen tot [!UICONTROL Control Panel]
 
 Ga naar Experience Cloud Home voor toegang tot het Configuratiescherm: [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com):
 
@@ -46,7 +45,7 @@ Voordat u aan de slag gaat, moet u aan de volgende voorwaarden voldoen:
 
 ### [!DNL IMS Org ID] bevestigen
 
-U dient uw [!DNL IMS org ID] te weten. De volgende video beschrijft waar u de [!DNL IMS org ID] van uw instantie kunt zoeken.
+In de volgende video wordt beschreven waar u [!DNL IMS org ID] van uw instantie kunt opzoeken.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
 
@@ -59,4 +58,4 @@ De volgende video laat zien hoe u een beheerder aan een Campaign-instantie kunt 
 
 ## Aanvullende resources
 
-* [Help Center voor het Configuratiescherm](https://docs.adobe.com/content/help/nl-NL/control-panel/using/control-panel-home.html)
+* [Help Center voor het Configuratiescherm](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=nl)

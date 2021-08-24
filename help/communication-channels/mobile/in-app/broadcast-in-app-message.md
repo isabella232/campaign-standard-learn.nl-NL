@@ -10,7 +10,7 @@ team: TM
 exl-id: 55cc83d2-e1ec-488d-b36a-b5f8c96dc412
 role: User, Developer
 level: Beginner, Intermediate
-source-git-commit: 63d07d2922310ac779c486383b83d708beeba627
+source-git-commit: 7f70c5a02654b03f248e2ec71563473f98688b70
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 7%
@@ -30,7 +30,7 @@ Leer hoe u de uitzendsjabloon configureert en gebruikt om deze te richten op all
 
 >[!VIDEO](https://video.tv.adobe.com/v/26199?quality=12)
 
-*Een bericht Uitzenden in app maken met een SDKV5 Mobile-eigenschap]*
+*Een bericht voor uitzending in de app maken met de eigenschap SDKV5 Mobile*
 
 ## Aanvullende bronnen
 

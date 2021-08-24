@@ -8,10 +8,10 @@ tutorials-title: Tutorials
 tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=nl
 getting-started-title: Documentatie
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=nl
-source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
 source-wordcount: '557'
-ht-degree: 89%
+ht-degree: 83%
 
 ---
 
@@ -39,7 +39,7 @@ ht-degree: 89%
    + [Services en lidmaatschappen beheren](/help/managing-processes-and-data/services-and-subscriptions.md)
    + Audience Destinations (BETA){#audience-destinations}
       + [Overzicht](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
-      + [Een nieuwe doelgroep maken met de Unified Segment Builder](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+      + [Creeer een publiek gebruikend de Verenigde Bouwer van het Segment](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
       + [Adobe Experience Platform-doelgroepen in een workflow activeren](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
       + [De richtingsdimensie wijzigen](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
 + Communicatiekanalen {#communication-channels}
@@ -50,7 +50,7 @@ ht-degree: 89%
       + [E-mailberichten testen met gerichte profielen](/help/communication-channels/email/profile-substitution.md)
       + [Voeg een controlegroep aan een levering toe](/help/communication-channels/email/control-groups.md)
       + [Een meertalige e-mail- of sms-levering maken](/help/communication-channels/create-multilingual-deliveries.md)
-      + [Een bestaande e-mail, sms-levering of sjabloon converteren naar meertalig](/help/communication-channels/covert-into-multilingual-deliveries.md)
+      + [Een bestaande sjabloon voor e-mail, SMS-levering of levering converteren naar een meertalige](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [Een e-maillevering en rapporten reviewen](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
       + [E-mails maken en verzenden via een workflow](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
       + [Gids met best practices op het gebied van aflevering](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=nl)
@@ -63,7 +63,7 @@ ht-degree: 89%
       + Pushmeldingen {#push}
          + [Een pushmelding maken](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
          + [Een meertalige pushmelding maken](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
-         + [Tutorial: Aan de slag met pushmeldingen voor Android](https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=nl)
+         + [Tutorial: Aan de slag met pushmeldingen voor Android™](https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=nl)
       + In-app-berichten {#in-app}
          + [Inleiding tot in-app-berichten](/help/communication-channels/mobile/in-app/in-app-message-overview.md)
          + [Gebeurtenissen configureren](/help/communication-channels/mobile/in-app/configure-events.md)
@@ -105,7 +105,7 @@ ht-degree: 89%
       + [Launch configureren voor triggers](/help/integrations/configure-launch-for-triggers.md)
       + [Een trigger in Experience Cloud maken](/help/integrations/create-a-trigger-in-experience-cloud.md)
       + [Een triggergebeurtenis maken in Campaign Standard](/help/integrations/create-a-trigger-event.md)
-      + [Transactieberichten configureren met realtimegebeurtenisgegevens](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
+      + [Transactieberichten configureren met real-time gebeurtenisgegevens](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
    + [Microsoft® Dynamics 365 configureren voor integratie met Campaign Standard](/help/integrations/configure-dynamics-365.md)
 + Beheren {#administrating}
    + [Toegangsrechten van gebruikers beheren](/help/administrating/managing-user-access-rights.md)
@@ -117,7 +117,7 @@ ht-degree: 89%
       + [Gebeurtenissen kaartervaring](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
       + [Voorbeeldtabelgegevens toewijzen](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
       + [De gegevenstoewijzing wijzigen](/help/administrating/adobe-experience-platform-data-connector/modifying-data-mapping.md)
-      + [De status van taken voor gegevensinvoer controleren](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
+      + [De status van een gegevensinvoertaak controleren](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
    + Typologieregels{#typology-rules}
       + Vermoeidheidsbeheer{#fatigue-management}
          + [Vermoeidheidsregels maken](/help/administrating/typology-rules/fatigue-management/create-fatigue-rules.md)

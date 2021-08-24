@@ -10,16 +10,16 @@ team: TM
 exl-id: 72b1fe11-3c38-4f0b-8ccd-0f7b73b1083a
 role: User, Developer
 level: Beginner, Intermediate
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '134'
 ht-degree: 6%
 
 ---
 
 # Doelgebruikers op basis van hun [!DNL Campaign]-profiel
 
-U kunt bekende gebruikers van een mobiele app als doel instellen (gebruikers die zich hebben aangemeld bij de app met PII) met berichten die zijn aangepast met CRM-profielkenmerken die beschikbaar zijn in Adobe Campaign Standard. Deze sjabloon is handig ter ondersteuning van gevallen waarin gebruikers al op andere kanalen, zoals E-mail of Push, zijn aangewezen en die zijn gebaseerd op hun reactie, een [!UICONTROL In-App]-bericht willen sturen.
+U kunt gebruikers die zich met PII (bekende gebruikers van mobiele apps) bij de app hebben aangemeld, aanwijzen met persoonlijke berichten en daarbij de in Adobe Campaign Standard beschikbare CRM-profielkenmerken gebruiken. Deze sjabloon biedt ondersteuning voor het gebruik van meerdere kanalen, waarbij u klanten al hebt aangewezen op andere kanalen, zoals E-mail of Push, op basis van hun reactie, en u deze klanten opnieuw wilt laten communiceren met een bericht in de app.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26200?quality=12)
 
@@ -27,5 +27,5 @@ U kunt bekende gebruikers van een mobiele app als doel instellen (gebruikers die
 
 ## Aanvullende bronnen
 
-* [Een bericht in de app voorbereiden en verzenden (documentatie)](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/in-app-messaging/preparing-and-sending-an-in-app-message.html)
-* [Een bericht in de app aanpassen (documentatie)](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/in-app-messaging/customizing-an-in-app-message.html)
+* [Een bericht in de app voorbereiden en verzenden (documentatie)](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/in-app-messaging/preparing-and-sending-an-in-app-message.html?lang=en)
+* [Een bericht in de app aanpassen (documentatie)](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/in-app-messaging/customizing-an-in-app-message.html?lang=en)

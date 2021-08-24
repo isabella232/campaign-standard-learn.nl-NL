@@ -10,16 +10,16 @@ team: DOC
 exl-id: a2b93d8b-0d3e-4525-a334-a01701d34d85
 role: User
 level: Beginner
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 13%
+source-wordcount: '63'
+ht-degree: 14%
 
 ---
 
 # Een [!UICONTROL Dynamic Report] maken{#creating-a-report}
 
-Adobe Campaign [!UICONTROL Dynamic Reports] is ontworpen als een flexibele vrije omgeving waarin u gegevens kunt verkennen. Hiermee kunt u dimensies, metriek en tijdbereik combineren in elke combinatie, met onbeperkte onderverdelingen en vergelijkingen.
+Adobe Campaign [!UICONTROL Dynamic Reports] is een flexibele vrije omgeving waarin u gegevens kunt verkennen. Hiermee kunt u dimensies, metriek en tijdbereik in elke combinatie combineren met onbeperkte onderverdelingen en vergelijkingen.
 
 Leer hoe u een rapport maakt.
 
@@ -27,4 +27,4 @@ Leer hoe u een rapport maakt.
 
 ## Aanvullende bronnen
 
-* [Informatie over rapportage](https://docs.adobe.com/content/help/en/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html)
+* [Informatie over rapportage](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=en)

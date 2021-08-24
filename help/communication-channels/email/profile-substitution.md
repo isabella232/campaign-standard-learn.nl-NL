@@ -1,5 +1,5 @@
 ---
-title: Profielsubstitutie - E-mailberichten testen met behulp van doelprofielen
+title: Profielvervanging - E-mailberichten testen met doelprofielen
 description: Leer hoe u uw e-mailberichten kunt testen met de functie voor profielvervanging.
 feature: 'Email  '
 kt: 4667
@@ -10,14 +10,14 @@ team: TM
 exl-id: 7bee3ab5-0666-4ea5-a785-917f0b18ca12
 role: User
 level: Intermediate, Experienced
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
 workflow-type: tm+mt
 source-wordcount: '177'
-ht-degree: 92%
+ht-degree: 72%
 
 ---
 
-# [!UICONTROL Profile Substitution] - E-mailberichten testen met behulp van doelprofielen
+# [!UICONTROL Profile Substitution] - E-mailberichten testen met gerichte profielen
 
 In deze video wordt uitgelegd hoe u e-mailberichten kunt testen met [!UICONTROL Profile Substitution]. Dit bestrijkt het volgende gebruiksscenario:
 
@@ -25,7 +25,7 @@ Stel dat u een gepersonaliseerde e-mailnieuwsbrief wilt verzenden. Voordat u de 
 
 >[!VIDEO](https://video.tv.adobe.com/v/32368?quality=12)
 
-Raadpleeg de gedetailleerde [productdocumentatie](https://docs.adobe.com/content/help/nl-NL/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html) voor meer informatie.
+Raadpleeg de gedetailleerde [productdocumentatie](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html?lang=en) voor meer informatie.
 
 >[!IMPORTANT]
 >
@@ -33,6 +33,6 @@ Raadpleeg de gedetailleerde [productdocumentatie](https://docs.adobe.com/content
 
 ## Aanvullende bronnen
 
-* [Berichten testen met behulp van doelprofielen (documentatie)](https://docs.adobe.com/content/help/en/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html)
+* [Berichten testen met behulp van doelprofielen (documentatie)](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html?lang=en)
 * [Een e-mail met A/B-testfunctie ontwerpen](/help/communication-channels/email/a-b-testing.md)
 * [Een test verzenden, een e-mail voorbereiden en verzenden](/help/communication-channels/email/sending-test-preparing-sending-email.md)

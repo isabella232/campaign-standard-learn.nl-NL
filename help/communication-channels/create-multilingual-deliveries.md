@@ -10,9 +10,9 @@ team: TM
 exl-id: 4b7e4602-6d4f-4a16-bbe7-070a95511ebb
 role: User
 level: Intermediate, Experienced
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '115'
 ht-degree: 1%
 
 ---
@@ -21,10 +21,10 @@ ht-degree: 1%
 
 Met Adobe Campaign kunt u de operationele complexiteit van het verzenden van meertalige campagnes vereenvoudigen. Zowel e-mailleveringen als SMS-leveringen kunnen worden ingesteld als meertalig, zodat u de e-mail of SMS kunt verzenden op basis van de voorkeurstaal van een profiel.
 
-In deze video wordt uitgelegd hoe u een meertalige levering kunt maken op basis van een sjabloon op basis van een voorbeeld van een e-mailnieuwsbrief. De in de video&#39;s getoonde aanpak geldt zowel voor e-mail als voor SMS-berichten.
+In deze video wordt uitgelegd hoe u een meertalige levering kunt maken op basis van een sjabloon op basis van een e-mailnieuwsbrief. De aanpak die in de video&#39;s wordt getoond, is van toepassing op zowel e-mail- als sms-leveringen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23252?quality=12)
 
 ## Aanvullende bronnen
 
-* [Een meertalige e-mail maken (documentatie)](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/email-messages/creating-a-multilingual-email.html)
+* [Een meertalige e-mail maken (documentatie)](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/creating-a-multilingual-email.html)

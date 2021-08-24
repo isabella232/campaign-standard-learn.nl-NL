@@ -9,10 +9,10 @@ doc-type: feature video
 activity: use
 team: PM
 exl-id: 6c236625-1a7a-4009-898b-b4bd82fa1efa
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
-workflow-type: ht
+source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
+workflow-type: tm+mt
 source-wordcount: '232'
-ht-degree: 100%
+ht-degree: 94%
 
 ---
 
@@ -36,11 +36,11 @@ Met het Adobe Campaign Configuratiescherm kunnen Adobe Campaign-beheerders belan
 <tr>
   <td>
     <a href="./subdomains-and-certificates/subdomain-delegation.md"> 
-      <img alt="Subdomeinen delegeren naar Adobe Campaign (video)" src="./assets/31390.jpg"/>
+      <img alt="Subdomeinen delegeren aan Adobe Campaign (video)" src="./assets/31390.jpg"/>
     </a>
     <div>
       <a href="./subdomains-and-certificates/subdomain-delegation.md">
-    <strong>Subdomeinen delegeren naar Adobe Campaign (video)</strong>
+    <strong>Subdomeinen delegeren aan Adobe Campaign (video)</strong>
     </a>
     </div>
     <p>
@@ -66,8 +66,8 @@ Met het Adobe Campaign Configuratiescherm kunnen Adobe Campaign-beheerders belan
     </a>
     <div>
       <a href="./sftp-management/connect-to-sftp-server.md">
-    <strong>Verbinding maken met een SFTP-server</strong>
-    </a>
+    <strong>Verbinding maken met een SFTP-server</strong>
+    </a>
     </div>
     <p>
     <em>Ontdek hoe u verbinding maakt met uw SFTP-server met behulp van een client-SFTP-applicatie. Hierbij worden de sleutels gebruikt die u in het Configuratiescherm hebt opgeslagen. </em>
@@ -78,4 +78,4 @@ Met het Adobe Campaign Configuratiescherm kunnen Adobe Campaign-beheerders belan
 
 ## Aanvullende resources
 
-* [Help Center voor het Configuratiescherm](https://docs.adobe.com/content/help/nl-NL/control-panel/using/control-panel-home.html)
+* [Help Center voor het Configuratiescherm](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=nl)

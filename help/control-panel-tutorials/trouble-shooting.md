@@ -1,17 +1,16 @@
 ---
 title: Problemen oplossen met het Configuratiescherm
-description: Met het Configuratiescherm kunt u uw SFTP-opslag per instantie controleren en beheren en IP-adressen op lijsten van gewenste adressen plaatsen.
+description: Met het Configuratiescherm kunt u uw SFTP-opslag op instantie controleren en beheren en IP-adressen van lijsten van gewenste personen beheren.
 feature: 'Configuratiescherm '
 kt: 2938
 doc-type: article
 activity: use
 team: PM
 exl-id: f546f791-a69b-4586-abfa-3e626b8feb17
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '329'
-ht-degree: 100%
+source-wordcount: '320'
+ht-degree: 44%
 
 ---
 
@@ -23,26 +22,26 @@ Leer hoe u problemen met het gebruik van het Configuratiescherm kunt oplossen.
 
 Problemen met aanmelding en de startpagina.
 
-### Probleem: Kan niet aanmelden bij Adobe Experience Cloud
+### Symptoom: Aanmelden bij Adobe Experience Cloud is mislukt
 
-**Oplossing:**
-De gebruiker moet zijn of haar [!DNL IMS Org ID] (xxx) opzoeken. De beheerder moet de gebruiker toevoegen aan het [!UICONTROL product profile] [!DNL “Campaign-xxx-Admins”] voor elke instantie die de gebruiker wil beheren. Als de gebruiker een beheerder van alle instanties is, moet hij of zij zichzelf mogelijk toch nog toevoegen als *[!UICONTROL user]*.
+**Wat te doen:**
+de gebruiker moet van hun  [!DNL IMS Org ID] (xxx) de plaats bepalen. De beheerder moet de gebruiker aan [!UICONTROL product profile] [!DNL “Campaign-xxx-Admins”] voor elke instantie toevoegen die zij zouden willen leiden. Als de gebruiker een beheerder van alle instanties is, moeten zij toevoegen als *[!UICONTROL user]*.
 
 ### Probleem: Gebruiker ziet de koppelingen in [!UICONTROL Adobe Experience Cloud Home] voor toegang tot het [!UICONTROL Control Panel] niet
 
 **Oorzaak:**
 Gebruikers zien de koppelingen pas nadat ze als gebruikers zijn toegevoegd aan [!UICONTROL product profile] `Campaign-xxx-Administrators/Admin`
 
-**Oplossing:**
-De beheerder moet de gebruiker toevoegen aan het [!UICONTROL product profile] *[!DNL Campaign-xxx-Admins]* voor elke instantie die de gebruiker wil beheren. Als de gebruiker een beheerder van alle instanties is, moet hij of zij zichzelf mogelijk toch nog toevoegen als *[!UICONTROL user]*.
+**Wat te doen:**
+de beheerder moet de gebruiker aan  [!UICONTROL product profile] *[!DNL Campaign-xxx-Admins]* voor elke instantie toevoegen die zij zouden willen leiden. Als de gebruiker een beheerder van alle instanties is, moeten zij toevoegen als *[!UICONTROL user]*.
 
-### Probleem: Een instantie wordt niet vermeld in het [!UICONTROL Control Panel]
+### Symptoom: Een instantie wordt niet vermeld in het [!UICONTROL Control Panel]
 
 **Oorzaak:**
-Waarschijnlijk moet de gebruiker worden toegevoegd als een *[!UICONTROL user]* Productprofiel`Campaign-xxx-Administrators/Admin` voor de instantie die ontbreekt
+Meest waarschijnlijke gebruiker moet worden toegevoegd als  *[!UICONTROL user]* productprofiel  `Campaign-xxx-Administrators/Admin` voor de instantie die ontbreekt
 
-**Oplossing:**
-De beheerder moet de gebruiker toevoegen aan het Productprofiel `Campaign-xxx-Admins` voor elke instantie die de gebruiker wil beheren. Als de gebruiker een beheerder van alle instanties is, moet hij of zij zichzelf mogelijk toch nog toevoegen als *[!UICONTROL user]*.
+**Wat te doen:**
+de beheerder moet de gebruiker aan het Profiel van het Product  `Campaign-xxx-Admins` voor elke instantie toevoegen die zij zouden willen leiden. Als de gebruiker een beheerder van alle instanties is, moeten zij toevoegen als *[!UICONTROL user]*.
 
 ### Nuttige video’s
 
@@ -56,17 +55,17 @@ De beheerder moet de gebruiker toevoegen aan het Productprofiel `Campaign-xxx-Ad
 
 ### Handige documentatie
 
-* [Het [!UICONTROL Control Panel] ontdekken](https://helpx.adobe.com/nl/campaign/kb/control-panel-overview.html)
-* [Toestemmingen beheren voor het [!UICONTROL Control Panel]](https://helpx.adobe.com/nl/campaign/kb/control-panel-access.html)
+* [Het [!UICONTROL Control Panel] ontdekken](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=nl)
+* [Toestemmingen beheren voor het [!UICONTROL Control Panel]](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=en)
 
 ## Verbinding met SFTP-server tot stand brengen (client of API)
 
 Voor verbinding met SFTP-servers is het volgende vereist:
 
 * [!UICONTROL allow listing] het IP-adres waarvan u verbinding maakt met de SFTP-server
-* Privé/openbaar sleutelpaar dat bij Adobe Campaign moet worden geregistreerd
-* Als u rechtstreeks verbinding maakt met de SFTP-server, hebt u ook SFTP-clientsoftware nodig
+* Persoonlijke/openbare sleutelparen die bij Adobe Campaign moeten worden geregistreerd
+* Als u rechtstreeks verbinding maakt met de SFTP-server, hebt u SFTP-clientsoftware nodig
 
-### Handige documentatie  {#helpful-docs}
+### Handige documentatie {#helpful-docs}
 
-* [Aanmelden bij uw SFTP-server](https://docs.adobe.com/content/help/nl-NL/control-panel/using/control-panel-home.html#LoggingintoyourSFTPserver)
+* [Aanmelden bij uw SFTP-server](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=en)

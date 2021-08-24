@@ -10,16 +10,16 @@ team: TM
 exl-id: bb587ee7-9587-44d3-8bb4-3d4e64f66749
 role: User, Developer
 level: Beginner, Intermediate
-source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
+source-git-commit: 63d07d2922310ac779c486383b83d708beeba627
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '83'
 ht-degree: 10%
 
 ---
 
 # Rapport over uw [!UICONTROL In-App] levering {#in-app-message-reporting}
 
-U kunt uw [!UICONTROL In-App] levering-verwante gegevens of in de leveringssamenvatting herzien door [!UICONTROL in-app-Specifieke metriek toe te voegen. Alternatief, kunt u uit de doos [In-App Rapport](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/list-of-reports/in-app-report.html?lang=en) gebruiken.
+U kunt uw [!UICONTROL In-App] levering-verwante gegevens of in het leveringsoverzicht herzien door [!UICONTROL In-App]-specifieke metriek toe te voegen. Alternatief, kunt u uit de doos [In-App Rapport](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/list-of-reports/in-app-report.html?lang=en) gebruiken.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26412?quality=12)
 

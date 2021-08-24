@@ -1,5 +1,5 @@
 ---
-title: Een op een rapport gebaseerde aangepaste profielkenmerken maken
+title: Op rapporten gebaseerde aangepaste profielkenmerken maken
 description: Leer hoe u een rapport maakt op basis van aangepaste profielkenmerken.
 feature: Rapportage
 kt: 1444
@@ -10,16 +10,16 @@ team: DOC
 exl-id: 28889ce5-7f25-41f4-8ecd-47c77b0e3c00
 role: User
 level: Beginner
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '88'
 ht-degree: 14%
 
 ---
 
 # Een rapport maken op basis van aangepaste profielkenmerken
 
-Adobe Campaign [!UICONTROL Dynamic Reports] is ontworpen als een flexibele vrije omgeving waarin u gegevens kunt verkennen door aangepaste profielkenmerken op te nemen. Hiermee kunt u dimensies, metriek en tijdbereik combineren in elke combinatie, met onbeperkte onderverdelingen en vergelijkingen.
+Adobe Campaign [!UICONTROL Dynamic Reports] is een flexibele vrije omgeving waarin u gegevens kunt verkennen door aangepaste profielkenmerken op te nemen. Hiermee kunt u dimensies, metriek en tijdbereik in elke combinatie combineren met onbeperkte onderverdelingen en vergelijkingen.
 
 In deze video wordt uitgelegd hoe u een rapport maakt op basis van aangepaste profielkenmerken.
 
@@ -27,4 +27,4 @@ In deze video wordt uitgelegd hoe u een rapport maakt op basis van aangepaste pr
 
 ## Aanvullende bronnen
 
-* [Informatie over rapportage](https://docs.adobe.com/content/help/en/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html)
+* [Informatie over rapportage](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=en)

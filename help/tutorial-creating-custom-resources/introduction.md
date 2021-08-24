@@ -1,44 +1,43 @@
 ---
 title: Aangepaste bronnen maken - Inleiding
-description: Adobe Campaign Standard biedt de mogelijkheid om bronnen uit te breiden of geheel nieuwe bronnen te maken. Deze tutorial met meerdere onderdelen begeleidt u door de stappen die nodig zijn om aangepaste bronnen te maken en te koppelen.
-feature: 'Aangepaste bronnen '
+description: Dit multipart leerprogramma begeleidt u door de vereiste stappen om douanemiddelen tot stand te brengen en te verbinden.
+feature: 'Gegevensmodel '
 kt: 2999
 thumbnail: 27715.jpg
 doc-type: feature video
 activity: use
 team: TM
 exl-id: 93af995f-6eca-4427-86f2-a8f63ae6b9c4
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
-workflow-type: ht
-source-wordcount: '235'
-ht-degree: 100%
+source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+workflow-type: tm+mt
+source-wordcount: '189'
+ht-degree: 42%
 
 ---
 
 # Aangepaste bronnen maken - Inleiding
 
-[!DNL Adobe Campaign] wordt geleverd met een vooraf gedefinieerd gegevensmodel, waarbij gegevens via verschillende bronnen worden gedefinieerd. [!DNL Campaign] biedt de mogelijkheid om bronnen uit te breiden of geheel nieuwe bronnen te maken.
+[!DNL Adobe Campaign] wordt geleverd met een vooraf gedefinieerd gegevensmodel, waarbij gegevens via verschillende bronnen worden gedefinieerd. [!DNL Campaign] Hiermee kan de gebruiker bestaande bronnen uitbreiden of nieuwe bronnen maken.
 
-Deze tutorial met meerdere onderdelen begeleidt u door de stappen die nodig zijn om aangepaste bronnen te maken en te koppelen. Aan het einde van deze tutorial hebt u geleerd hoe u het volgende kunt doen:
+Dit multipart leerprogramma begeleidt u door de vereiste stappen om douanemiddelen tot stand te brengen en te verbinden.
+Meer informatie:
 
 * Een aangepaste bron maken
 * Velden toevoegen aan de aangepaste bron
 * Twee aangepaste bronnen koppelen
 * Een schermdefinitie configureren
 
-## Vereiste
+## Voorwaarde
 
-U hebt beheerdersrechten nodig om aangepaste bronnen te kunnen maken.
+Als u aangepaste bronnen wilt maken, moet u over beheergebruikersrechten beschikken.
 
 ## Overzicht van tutorial
 
-We willen graag extra informatie over wat een klant heeft besteld, zodat we deze informatie kunnen gebruiken voor marketing- en remarketingdoeleinden.
-
-Daarom verrijken we het [!DNL Campaign]-gegevensmodel door de bestaande bronnen uit te breiden en onze eigen aangepaste tabellen toe te voegen. We gaan een tabel met klanten en een tabel met bestellingen toevoegen.
+Als u aanvullende informatie wilt gebruiken over wat een klant heeft besteld, zodat deze beschikbaar is voor marketing- en wedermarketingdoeleinden, moet het gegevensmodel [!DNL Campaign] worden uitgebreid door aangepaste tabellen toe te voegen. Voor dit gebruiksgeval, moeten een klant en een orderlijst worden gecreeerd.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27715?quality=9)
 
-In deze tutorial wordt stapsgewijs uitgelegd hoe u:
+In deze zelfstudie wordt uitgelegd hoe u:
 
 Stap 1 - [Een aangepaste bron maakt](./creating-a-custom-resource.md)
 Stap 2 - [Een schermdefinitie configureert](./configuring-a-screen-definition-for-a-custom-resource.md)

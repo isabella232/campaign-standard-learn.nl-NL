@@ -1,6 +1,6 @@
 ---
 title: E-mails maken en verzenden via een workflow
-description: 'Leer hoe u een eenmalige e-maillevering vanaf de startpagina kunt maken. '
+description: Leer hoe u e-mailberichten kunt maken en verzenden via een workflow.
 feature: Email
 kt: 4319
 thumbnail: 31465.jpg
@@ -10,10 +10,10 @@ doc-type: feature video
 activity: use
 team: DOC
 exl-id: cc5d1bd2-a416-4df3-b12b-b1f9de4736fd
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 32%
+source-wordcount: '86'
+ht-degree: 24%
 
 ---
 
@@ -21,12 +21,11 @@ ht-degree: 32%
 
 U kunt een e-mail van een campagne, van de homepage van Adobe Campaign, of in de marketing activiteitenlijst tot stand brengen. U kunt vanuit een workflow ook eenmalige en terugkerende e-mails maken.
 
-In deze video wordt uitgelegd hoe u e-mailberichten kunt maken en verzenden via een workflow.
+Leer hoe u e-mailberichten kunt maken en verzenden via een workflow.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31465?quality=12)
 
 ## Aanvullende bronnen
 
 * [Een e-maillevering maken](/help/communication-channels/email/create-email-from-homepage.md)
-* [Een e-mail maken (documentatie)](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/email-messages/creating-an-email.html)
-* [Best practices voor verzending](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/delivery-bestpractices/delivery-best-practices.html?lang=nl)
+* [Een e-mail maken (documentatie)](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/creating-an-email.html?lang=en)

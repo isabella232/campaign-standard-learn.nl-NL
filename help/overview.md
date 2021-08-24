@@ -1,21 +1,21 @@
 ---
 title: Adobe Campaign Standard-tutorials - overzicht
-description: Adobe Campaign biedt een platform voor het ontwerpen van kanaaloverschrijdende klantervaringen en biedt een omgeving voor visuele campagnelay-out, real-time interactiebeheer en kanaaloverschrijdende uitvoering. Deze gebruikershandleiding bevat video’s en tutorials over de vele functies en mogelijkheden van Adobe Campaign Standard.
+description: Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klantervaringen en levert een omgeving voor visuele orkestratie van campagnes, realtime-interactiebeheer en uitvoering via meerdere kanalen. Deze gebruikershandleiding bevat video’s en tutorials over de vele functies en mogelijkheden van Adobe Campaign Standard.
 products: SG_CAMPAIGN/STANDARD
 exl-id: b97710d1-3e93-41f6-a51e-9bf4c519fec3
 feature: Overzicht
 role: User, Admin, Developer
 level: Beginner
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '297'
-ht-degree: 100%
+source-wordcount: '294'
+ht-degree: 82%
 
 ---
 
 # Adobe Campaign Standard - overzicht
 
-Adobe Campaign biedt een platform voor het ontwerpen van kanaaloverschrijdende klantervaringen en biedt een omgeving voor visuele campagneorkestratie, realtime-interactiebeheer en uitvoering via meerdere kanalen. Deze gebruikershandleiding bevat video’s en tutorials over de vele functies en mogelijkheden van Adobe Campaign Standard.
+Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klantervaringen en levert een omgeving voor visuele orkestratie van campagnes, realtime-interactiebeheer en uitvoering via meerdere kanalen. Deze gebruikershandleiding bevat video’s en tutorials over de vele functies en mogelijkheden van Adobe Campaign Standard.
 
 ## Nieuwe functies
 
@@ -41,15 +41,15 @@ Adobe Campaign biedt een platform voor het ontwerpen van kanaaloverschrijdende k
     </a>
     </div>
     <p>
-    <em>Leer hoe u een proef voor review verzendt met de exacte weergave van het bericht dat het profiel ontvangt.</em>
+    <em>Leer hoe u een proefdruk ter controle verzendt met de exacte weergave van het bericht dat het profiel ontvangt.</em>
     <p>
   </td>
    <td>
-    <a href="https://docs.adobe.com/content/help/nl-NL/campaign-standard-learn/control-panel/control-panel-overview.html">
+    <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=nl">
       <img alt="Configuratiescherm (video’s)" src="./assets/control-panel.png" />
     </a>
     <div>
-    <a href="https://docs.adobe.com/content/help/nl-NL/campaign-standard-learn/control-panel/control-panel-overview.html">
+    <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=en">
     <strong>Configuratiescherm (video’s)</strong>
     </a>
     </div>
@@ -58,16 +58,16 @@ Adobe Campaign biedt een platform voor het ontwerpen van kanaaloverschrijdende k
     <p>
   </td>
   <td>
-    <a href="https://docs.adobe.com/content/help/nl-NL/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html">
+    <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=en">
       <img alt="Tutorial: Aan de slag met pushmeldingen voor Android" src="./assets/push-for-android.png" />
     </a>
     <div>
-      <a href="https://docs.adobe.com/content/help/en/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html">
-    <strong>Tutorial: Aan de slag met pushmeldingen voor Android</strong>
+      <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=en">
+    <strong>Tutorial: Aan de slag met pushmeldingen voor Android™</strong>
     </a>
     </div>
     <p>
-    <em>Deze tutorial begeleidt u door de stappen voor het verzenden van pushmeldingen vanuit Adobe Campaign en het ontvangen van deze meldingen in uw Android-app. </em>
+    <em>Deze tutorial leidt u door de stappen die nodig zijn voor het verzenden van pushmeldingen vanuit Adobe Campaign en het ontvangen van deze meldingen in uw Android™-app. </em>
     <p>
   </td>
 </tr>
@@ -75,4 +75,4 @@ Adobe Campaign biedt een platform voor het ontwerpen van kanaaloverschrijdende k
 
 ## Aanvullende bronnen
 
-* [Documentatie](https://docs.adobe.com/content/help/nl-NL/campaign-standard/using/campaign-standard-home.html)
+* [Documentatie](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=en)

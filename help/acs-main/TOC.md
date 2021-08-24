@@ -8,10 +8,10 @@ tutorials-title: Tutorials
 tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=nl
 getting-started-title: Documentatie
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=nl
-source-git-commit: 0dd34fe4027d2c7512a7fc6ec7258cf7a41efa65
+source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
 source-wordcount: '557'
-ht-degree: 100%
+ht-degree: 89%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 100%
    + [Een lijst configureren](/help/getting-started/configure-a-list.md)
    + [Hiërarchie- en marketingactiviteiten verkennen](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
    + [Campagnes beheren](/help/getting-started/managing-campaigns.md)
-   + [Profielen en doelgroepen begrijpen](/help/getting-started/understanding-profiles-and-audiences.md)
+   + [Inzicht in profielen en doelgroepen](/help/getting-started/understanding-profiles-and-audiences.md)
    + [Een e-mail maken](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html?lang=nl)
    + [Een workflow maken](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/managing-processes-and-data/creating-a-workflow.html?lang=nl)
    + [Inleiding tot rapportage](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
@@ -48,7 +48,7 @@ ht-degree: 100%
       + [Een test verzenden, een e-mail voorbereiden en verzenden](/help/communication-channels/email/sending-test-preparing-sending-email.md)
       + [A/B-test](/help/communication-channels/email/a-b-testing.md)
       + [E-mailberichten testen met gerichte profielen](/help/communication-channels/email/profile-substitution.md)
-      + [Een controlegroep toevoegen aan een levering](/help/communication-channels/email/control-groups.md)
+      + [Voeg een controlegroep aan een levering toe](/help/communication-channels/email/control-groups.md)
       + [Een meertalige e-mail- of sms-levering maken](/help/communication-channels/create-multilingual-deliveries.md)
       + [Een bestaande e-mail, sms-levering of sjabloon converteren naar meertalig](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [Een e-maillevering en rapporten reviewen](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
@@ -84,8 +84,8 @@ ht-degree: 100%
       + [Inleiding tot sjablonen voor e-mailcontent](/help/designing-content/email-designer/email-content-templates.md)
       + [De mobiele weergave configureren](/help/designing-content/email-designer/configure-the-mobile-view.md)
       + [Een voorbeeld van uw e-mail- en antispamanalyse voorvertonen](/help/designing-content/email-designer/preview-your-email.md)
-      + [Werken met bestaande content](/help/designing-content/email-designer/working-with-existing-content.md)
-      + [Content maken met Adobe Dreamweaver](/help/designing-content/email-designer/dreamweaver-integration.md)
+      + [Werken met bestaande inhoud](/help/designing-content/email-designer/working-with-existing-content.md)
+      + [Inhoud maken met Adobe Dreamweaver](/help/designing-content/email-designer/dreamweaver-integration.md)
    + [Productvermeldingen configureren in transactie-e-mails](/help/designing-content/product-listings-in-transactional-email.md)
 + Proces- en data management {#managing-processes-and-data}
    + [Een workflow maken](/help/managing-processes-and-data/creating-a-workflow.md)
@@ -114,16 +114,16 @@ ht-degree: 100%
    + Adobe Experience Platform-gegevensconnector {#adobe-experience-platform-data-connector}
       + [Adobe Experience Platform Data Connector begrijpen](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
       + [Aangepaste bronnen toewijzen](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
-      + [Experience-gebeurtenissen toewijzen](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
-      + [Seedtabelgegevens toewijzen](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
+      + [Gebeurtenissen kaartervaring](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
+      + [Voorbeeldtabelgegevens toewijzen](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
       + [De gegevenstoewijzing wijzigen](/help/administrating/adobe-experience-platform-data-connector/modifying-data-mapping.md)
-      + [De status van taken voor gegevensopname controleren](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
+      + [De status van taken voor gegevensinvoer controleren](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
    + Typologieregels{#typology-rules}
       + Vermoeidheidsbeheer{#fatigue-management}
          + [Vermoeidheidsregels maken](/help/administrating/typology-rules/fatigue-management/create-fatigue-rules.md)
 + Privacy {#privacy}
    + [Overzicht](/help/privacy/privacy-overview.md)
    + [Naamruimten maken voor privacyverzoeken](/help/privacy/namespaces-for-privacy-requests.md)
-   + [Aangepaste bronnen voor privacyverzoeken wijzigen](/help/privacy/custom-resources-for-privacy-requests.md)
+   + [Aangepaste bronnen wijzigen voor privacyverzoeken](/help/privacy/custom-resources-for-privacy-requests.md)
    + [Privacyverzoeken handmatig maken en bijhouden](/help/privacy/create-and-track-privacy-requests.md)
-   + [Privacyverzoeken uitvoeren](/help/privacy/execute-privacy-requests.md)
+   + [Verzoeken om toegang tot persoonsgegevens uitvoeren](/help/privacy/execute-privacy-requests.md)

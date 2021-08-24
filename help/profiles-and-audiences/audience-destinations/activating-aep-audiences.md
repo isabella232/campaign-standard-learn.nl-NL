@@ -10,10 +10,10 @@ team: PM
 exl-id: 955d063f-4709-4f56-8f39-f1b838354300
 role: User, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '151'
-ht-degree: 7%
+source-wordcount: '148'
+ht-degree: 12%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 7%
 
 >[!NOTE]
 >
->Deze mogelijkheid wordt momenteel in bèta aangeboden en kan zonder voorafgaande kennisgeving regelmatig worden bijgewerkt en gewijzigd. [!UICONTROL Audience Destinations] is gebaseerd op Adobe Experience Platform en vereist een specifieke configuratie.
+>Deze mogelijkheid is in bèta beschikbaar en kan regelmatig worden bijgewerkt en gewijzigd zonder voorafgaande kennisgeving. [!UICONTROL Audience Destinations] is gebaseerd op Adobe Experience Platform en vereist een specifieke configuratie.
 >
 >Neem contact op met [!UICONTROL Adobe Customer Support] als u van plan bent deze functie te implementeren.
 
@@ -35,9 +35,9 @@ In deze video wordt uitgelegd hoe u [!UICONTROL Data Services Query Audience] bi
 
 Documentatie:
 
-* [Het activeren van het publiek van het Experience Platform binnen Campagne - Documentatie](https://docs.adobe.com/content/help/en/campaign-standard/using/profiles-and-audiences/working-with-adobe-experience-platform/aep-about-audience-destinations-service.html)
+* [Adobe Experience Platform-doelgroepen opnemen in Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/aep-sources-destinations/ingest-aep-data.html)
 
-Videobron:
+Videobronnen:
 
-* [Een nieuw publiek maken in Adobe Campaign Standard met behulp van de Unified Segment Builder](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
-* [De doeldimensie van een levering voor een publiek Platform wijzigen](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
+* [Creeer een publiek in Adobe Campaign Standard gebruikend de Verenigde Bouwer van het Segment](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+* [Wijzig het richten dimensie van een levering voor een Publiek van het Platform](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)

@@ -1,6 +1,6 @@
 ---
-title: Gegevens ontsleutelen
-description: In de onderstaande video wordt uitgelegd hoe u een openbare sleutel maakt en hoe u deze kunt importeren en installeren op een Campaign-instantie voor het ontsleutelen van gegevens.
+title: Gegevens decoderen
+description: Leer hoe u een openbare sleutel maakt en importeert en installeert op een Campagne-instantie voor het decoderen van gegevens.
 feature: 'Configuratiescherm '
 audience: administrator
 kt: 5545
@@ -9,14 +9,14 @@ doc-type: feature video
 activity: use
 team: PM
 exl-id: 3d4aaf1f-b8cf-4e22-accb-4f73aaaf21af
-source-git-commit: 64940a739897c3969574dcf1d1e36c5a986d0473
+source-git-commit: 344b8d8bb216489db586b030c71fd84d273968d9
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 92%
+source-wordcount: '86'
+ht-degree: 62%
 
 ---
 
-# Gegevens ontsleutelen
+# Gegevens decoderen
 
 Met het Configuratiescherm kunt u externe data die Adobe Campaign-instanties binnenkomen, ontsleutelen met behulp van een openbaar/persoonlijk sleutelpaar.
 Leer hoe u een openbare sleutel maakt en deze kunt importeren en installeren in een Campaign-instantie voor het decoderen van binnenkomende data.

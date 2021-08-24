@@ -10,36 +10,19 @@ team: TM
 exl-id: d3996185-681c-4906-85f0-0543ab767519
 role: User, Developer
 level: Experienced
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '306'
-ht-degree: 9%
+source-wordcount: '169'
+ht-degree: 1%
 
 ---
 
-# [!UICONTROL External Signal activity ]- Een workflow met parameters bellen
 
-De [!UICONTROL External Signal activity] wordt gebruikt om verschillende processen te organiseren en te ordenen die deel van de zelfde klantenreis in verschillende werkschema&#39;s uitmaken. Deze activiteit maakt het mogelijk een workflow te starten vanuit een andere workflow ter ondersteuning van complexere klanttrajecten, terwijl u in geval van problemen gemakkelijker kunt opvolgen en reageren.
+# [!UICONTROL External Signal activity] - Een workflow met parameters bellen
 
-In ACS 19.2 [!UICONTROL External Signal activity] kan niet alleen een werkschema roepen, maar ook parameters tot het werkschema (een publieksnaam aan doel, een dossier - naam aan invoer, een deel van berichtinhoud, enz.) overgaan vanuit een andere workflow of via een REST API-aanroep om te integreren met uw externe systemen.
+De [!UICONTROL External Signal activity] wordt gebruikt om verschillende processen te organiseren en te ordenen die deel van de zelfde klantenreis in verschillende werkschema&#39;s uitmaken. Deze activiteit kan één werkschema van een andere beginnen. [!UICONTROL External Signal activity] kan een werkschema roepen en parameters, zoals een publieksnaam om, een dossier - naam om, of een deel van de berichtinhoud, van één werkschema aan een andere invoeren te richten. Het kan ook een REST API roepen om met externe systemen, zoals een systeem van het inhoudsbeheer te integreren. Met **Test** activiteit, kunnen de tests op deze functionaliteit worden in werking gesteld.
 
-Dit omvat ook een nieuwe **Test** Activiteit waar u tests op deze functionaliteit kunt in werking stellen.
-
-In de volgende video worden de vereiste configuratiestappen uitgelegd:
-
-1. **Ontvang externe** parameters van een extern systeem, zoals een systeem van het inhoudsbeheer (CRM):
-
-   * De parameters in de externe signaalactiviteit declareren
-   * Configureer de API-aanroep om de parameters te definiëren en de workflow Externe signaalactiviteit te activeren. Voor meer informatie over hoe te om een API vraag te vormen te zien [Triggerend een Activiteit van het Signaal](https://docs.campaign.adobe.com/doc/standard/en/api/ACS_API.html#triggering-a-signal-activity).
-
-1. **Een workflow aanpassen met externe parameters**  (gebeurtenisvariabelen):
-
-   Nadat de workflow is geactiveerd, worden de parameters opgenomen in de gebeurtenisvariabelen van de workflow en kunnen deze binnen de workflow worden gebruikt. Zie de [documentatie](https://helpx.adobe.com/campaign/standard/automating/using/calling-a-workflow-with-external-parameters.html) voor alle activiteiten die met gebeurtenisvariabelen kunnen worden aangepast:
-
-   * De testactiviteit configureren (nieuw in 19.2)
-   * Activiteit voor leespubliek en e-maillevering configureren
-
-1. **Vorm een** Activiteit van het Eind om een werkschema met externe parameters te roepen
+Leer hoe u [!UICONTROL External Signal activity] configureert voor het ontvangen van parameters** van een extern systeem, een workflow met externe parameters aanpast en een eindactiviteit configureert om een workflow met de externe parameters aan te roepen
 
 >[!VIDEO](https://video.tv.adobe.com/v/27249/?quality=12)
 

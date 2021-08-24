@@ -1,6 +1,6 @@
 ---
 title: Een test verzenden, een e-mail voorbereiden en verzenden
-description: '"Leer hoe u een test-e-mail verzendt, bereidt u deze voor en verzendt u vervolgens de e-mail. ’'
+description: '"Leer hoe u een test-e-mail verzendt, voorbereidt en vervolgens de e-mail verzendt. ’'
 feature: 'Email  '
 kt: 1812
 thumbnail: 24013.jpg
@@ -10,10 +10,10 @@ team: DOC
 exl-id: 2cb70be4-cd27-4da3-828a-be4c07d4c951
 role: User
 level: Beginner
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 20%
+source-wordcount: '71'
+ht-degree: 18%
 
 ---
 
@@ -25,5 +25,5 @@ In deze video wordt uitgelegd hoe u een test-e-mail verzendt, een e-maillevering
 
 ## Aanvullende bronnen
 
-* [Testprofielen beheren en proefdrukken verzenden](https://docs.adobe.com/content/help/en/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/managing-test-profiles-and-sending-proofs.html)
+* [Aan de slag met testen en verzenden](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/get-started-sending-messages.html)
 * [Een testprofiel maken](/help/profiles-and-audiences/creating-a-profile.md)

@@ -1,18 +1,16 @@
 ---
-title: Inzicht in de Adobe Experience Platform-gegevensconnector
+title: Adobe Experience Platform Data Connector begrijpen
 description: Adobe Experience Platform Data Connector helpt bestaande klanten hun gegevens op Adobe Experience Platform beschikbaar te maken door XTK-gegevens (gegevens die in Campaign worden opgenomen) toe te wijzen aan XDM-gegevens (Experience Data Model) op Adobe Experience Platform.
-feature: Adobe Experience Platform-gegevensconnector
 kt: 2826
 thumbnail: 27304.jpg
 doc-type: feature video
 activity: understand
 team: TM
 exl-id: 686961f9-5374-4cc6-8b36-7ee0584ea720
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 5a2f8c9a78bf5100b272f9b4461131545b3aeb8b
 workflow-type: tm+mt
-source-wordcount: '348'
-ht-degree: 11%
+source-wordcount: '343'
+ht-degree: 10%
 
 ---
 

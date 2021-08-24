@@ -1,17 +1,17 @@
 ---
 title: Aangepaste bronnen koppelen
 description: Leer hoe u twee aangepaste bronnen kunt koppelen.
-feature: Aangepaste bronnen
+feature: Gegevensmodel
 kt: 3002
 thumbnail: 27712.jpg
 doc-type: feature video
 activity: use
 team: TM
 exl-id: 32100e9e-a38e-40bd-b2ee-5816b496f118
-source-git-commit: c9b9a937c647b3a3e2b1a1c41dac667cc0595901
+source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
 source-wordcount: '29'
-ht-degree: 13%
+ht-degree: 6%
 
 ---
 

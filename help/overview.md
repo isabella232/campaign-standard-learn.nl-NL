@@ -3,13 +3,13 @@ title: Adobe Campaign Standard-tutorials - overzicht
 description: Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klantervaringen en levert een omgeving voor visuele orkestratie van campagnes, realtime-interactiebeheer en uitvoering via meerdere kanalen. Deze gebruikershandleiding bevat video’s en tutorials over de vele functies en mogelijkheden van Adobe Campaign Standard.
 products: SG_CAMPAIGN/STANDARD
 exl-id: b97710d1-3e93-41f6-a51e-9bf4c519fec3
-feature: Overzicht
+feature: Overview
 role: User, Admin, Developer
 level: Beginner
-source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+source-git-commit: 5f019c5a5906a8bd24ab7c0dac23045cfbc046ad
 workflow-type: tm+mt
-source-wordcount: '294'
-ht-degree: 82%
+source-wordcount: '258'
+ht-degree: 73%
 
 ---
 
@@ -19,13 +19,9 @@ Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klanterva
 
 ## Nieuwe functies
 
-* **[Het succes van je leveringen in Adobe Analytics bijhouden](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)**
+* **[Problemen oplossen](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=en)**
 
-   *Leer hoe u Campaign Standard configureert en Analytics integreert. Begrijp hoe u een rapport in Analytics bouwt met gebruikersgegevens die van Campaign Standard worden ontvangen, en welke KPI&#39;s beschikbaar zijn.*
-
-* **[Triggers gebruiken voor transactieberichten](/help/integrations/using-triggers-for-transactional-messaging-overview.md)**
-
-   *Leer hoe u triggers voor transactieberichten configureert en gebruikt.*
+   *Hulp zoeken bij het oplossen van bekende problemen met Adobe Campaign Standard.*
 
 ## Aanbevolen door medewerkers van Adobe
 

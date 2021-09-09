@@ -6,13 +6,13 @@ feature: Overview
 role: User, Admin, Developer
 level: Beginner, Experienced
 source-git-commit: 908c997c130cf0fbb6699b4b5d824e6996e59cc3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '39'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
 # Problemen met Adobe Campaign oplossen - Overzicht
 
-Deze sectie is verstrekt door de Steun van de Klant van Adobe om u te helpen problemen oplossen u met Adobe Campaign Standard zou kunnen ontmoeten.
+Deze sectie is verstrekt door de klantenondersteuning van Adobe om u te helpen problemen op te lossen die u met Adobe Campaign Standard kunt tegenkomen.

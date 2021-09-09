@@ -4,9 +4,9 @@ user-guide-description: Leer hoe u in het configuratiescherm de belangrijkste as
 breadcrumb-title: Tutorials voor het configuratiescherm
 index: true
 source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '114'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 85%
 # Tutorials over het Adobe Campaign-configuratiescherm {#control-panel}
 
 + [Overzicht van het configuratiescherm](/help/control-panel-tutorials/control-panel-overview.md)
-+ [Aan de slag met het Configuratiescherm](/help/control-panel-tutorials/getting-started-with-the-control-panel.md)
++ [Aan de slag met het configuratiescherm](/help/control-panel-tutorials/getting-started-with-the-control-panel.md)
 + SFTP-beheer {#sftp-management}
    + [Servercapaciteit controleren](/help/control-panel-tutorials/sftp-management/monitoring-server-capacity.md)
    + [Een IP-bereik toevoegen aan de lijst van gewenste personen](/help/control-panel-tutorials/sftp-management/adding-ip-range-to-allow-list.md)
@@ -28,9 +28,9 @@ ht-degree: 85%
 + Versie-instellingen {#instance-settings}
    + GPG-sleutelbeheer {#gpg-key-management}
       + [GPG-sleutelbeheer - overzicht](/help/control-panel-tutorials/instance-settings/gpg-key-management/gpg-key-management-overview.md)
-      + [GPG-sleutels voor gegevenscodering genereren en installeren](/help/control-panel-tutorials/instance-settings/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
+      + [GPG-sleutels voor versleuteling van gegevens genereren en installeren](/help/control-panel-tutorials/instance-settings/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
       + [Gegevens versleutelen met een GPG-sleutel](/help/control-panel-tutorials/instance-settings/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
-      + [Gegevens decoderen](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypting-data.md)
+      + [Gegevens ontsleutelen](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypting-data.md)
 + Prestatiecontrole {#performance-monitoring}
    + [Databases controleren](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)
 + [Problemen met het configuratiescherm oplossen](/help/control-panel-tutorials/trouble-shooting.md)

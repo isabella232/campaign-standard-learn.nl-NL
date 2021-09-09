@@ -1,7 +1,7 @@
 ---
-user-guide-title: Problemen met Adobe Campaign Standard oplossen
+user-guide-title: Problemen oplossen in Adobe Campaign Standard
 user-guide-description: Zoek hulp voor het oplossen van problemen met Adobe Campaign Standard.
-breadcrumb-title: Problemen met Adobe Campaign Standard oplossen
+breadcrumb-title: Problemen oplossen in Adobe Campaign Standard
 breadcrumb-url: /docs/campaign-standard-learn/troubleshoot-adobe-campaign/overview.html
 index: true
 feature: Overview
@@ -9,13 +9,13 @@ role: Admin
 level: Experienced
 source-git-commit: 9eecc356e0ef4595874894294a71f797f3d105ac
 workflow-type: tm+mt
-source-wordcount: '51'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
-# Problemen met Adobe Campaign Standard oplossen {#troubleshooting}
+# Problemen oplossen in Adobe Campaign Standard {#troubleshooting}
 
 + [Overzicht](/help/troubleshoot/overview.md)
 + [Technische fout tijdens het weergeven van een profiel](/help/troubleshoot/technical-error-while-viewing-profile.md)

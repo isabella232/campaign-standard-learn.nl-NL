@@ -1,5 +1,5 @@
 ---
-title: Adobe Campaign Standard-tutorials - overzicht
+title: Adobe Campaign Standard-tutorials - Overzicht
 description: Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klantervaringen en levert een omgeving voor visuele orkestratie van campagnes, realtime-interactiebeheer en uitvoering via meerdere kanalen. Deze gebruikershandleiding bevat video’s en tutorials over de vele functies en mogelijkheden van Adobe Campaign Standard.
 products: SG_CAMPAIGN/STANDARD
 exl-id: b97710d1-3e93-41f6-a51e-9bf4c519fec3
@@ -8,8 +8,8 @@ role: User, Admin, Developer
 level: Beginner
 source-git-commit: 5f019c5a5906a8bd24ab7c0dac23045cfbc046ad
 workflow-type: tm+mt
-source-wordcount: '258'
-ht-degree: 73%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -37,7 +37,7 @@ Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klanterva
     </a>
     </div>
     <p>
-    <em>Leer hoe u een proefdruk ter controle verzendt met de exacte weergave van het bericht dat het profiel ontvangt.</em>
+    <em>Leer hoe u een proef voor reviewen verzendt met de exacte weergave van het bericht dat het profiel ontvangt.</em>
     <p>
   </td>
    <td>
@@ -71,4 +71,4 @@ Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klanterva
 
 ## Aanvullende bronnen
 
-* [Documentatie](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=en)
+* [Documentatie](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=nl)

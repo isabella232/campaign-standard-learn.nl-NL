@@ -2,7 +2,7 @@
 title: Overzicht van het Configuratiescherm
 description: Met het Adobe Campaign-configuratiescherm kunnen Adobe Campaign-beheerders belangrijke assets controleren en beheertaken uitvoeren, zoals het beheren van de SFTP-opslag per instantie, het beheren van GPG-sleutels of het beheren van subdomeinen en certificaten.
 landing-page-description: Met het configuratiescherm kunnen Campaign-beheerders beheertaken uitvoeren, zoals het beheren van SFTP-opslag, GPG-sleutels of subdomeinen en certificaten.
-feature: 'Configuratiescherm '
+feature: Control Panel
 audience: administrator
 kt: 4696
 doc-type: feature video
@@ -10,9 +10,9 @@ activity: use
 team: PM
 exl-id: 6c236625-1a7a-4009-898b-b4bd82fa1efa
 source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
-workflow-type: tm+mt
-source-wordcount: '232'
-ht-degree: 94%
+workflow-type: ht
+source-wordcount: '230'
+ht-degree: 100%
 
 ---
 
@@ -36,11 +36,11 @@ Met het Adobe Campaign Configuratiescherm kunnen Adobe Campaign-beheerders belan
 <tr>
   <td>
     <a href="./subdomains-and-certificates/subdomain-delegation.md"> 
-      <img alt="Subdomeinen delegeren aan Adobe Campaign (video)" src="./assets/31390.jpg"/>
+      <img alt="Subdomeinen delegeren naar Adobe Campaign (video)" src="./assets/31390.jpg"/>
     </a>
     <div>
       <a href="./subdomains-and-certificates/subdomain-delegation.md">
-    <strong>Subdomeinen delegeren aan Adobe Campaign (video)</strong>
+    <strong>Subdomeinen delegeren naar Adobe Campaign (video)</strong>
     </a>
     </div>
     <p>
@@ -76,6 +76,6 @@ Met het Adobe Campaign Configuratiescherm kunnen Adobe Campaign-beheerders belan
 </tr>
 </table>
 
-## Aanvullende resources
+## Aanvullende bronnen
 
 * [Help Center voor het Configuratiescherm](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=nl)

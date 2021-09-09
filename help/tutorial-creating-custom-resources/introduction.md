@@ -1,7 +1,7 @@
 ---
 title: Aangepaste bronnen maken - Inleiding
-description: Dit multipart leerprogramma begeleidt u door de vereiste stappen om douanemiddelen tot stand te brengen en te verbinden.
-feature: 'Gegevensmodel '
+description: Deze tutorial met meerdere onderdelen begeleidt u door de stappen die nodig zijn om aangepaste bronnen te maken en te koppelen.
+feature: Data Model
 kt: 2999
 thumbnail: 27715.jpg
 doc-type: feature video
@@ -9,9 +9,9 @@ activity: use
 team: TM
 exl-id: 93af995f-6eca-4427-86f2-a8f63ae6b9c4
 source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
-workflow-type: tm+mt
-source-wordcount: '189'
-ht-degree: 42%
+workflow-type: ht
+source-wordcount: '187'
+ht-degree: 100%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 42%
 
 [!DNL Adobe Campaign] wordt geleverd met een vooraf gedefinieerd gegevensmodel, waarbij gegevens via verschillende bronnen worden gedefinieerd. [!DNL Campaign] Hiermee kan de gebruiker bestaande bronnen uitbreiden of nieuwe bronnen maken.
 
-Dit multipart leerprogramma begeleidt u door de vereiste stappen om douanemiddelen tot stand te brengen en te verbinden.
+Deze tutorial met meerdere onderdelen begeleidt u door de stappen die nodig zijn om aangepaste bronnen te maken en te koppelen.
 Meer informatie:
 
 * Een aangepaste bron maken
@@ -29,15 +29,15 @@ Meer informatie:
 
 ## Voorwaarde
 
-Als u aangepaste bronnen wilt maken, moet u over beheergebruikersrechten beschikken.
+U hebt beheerdersrechten nodig om aangepaste bronnen te kunnen maken.
 
 ## Overzicht van tutorial
 
-Als u aanvullende informatie wilt gebruiken over wat een klant heeft besteld, zodat deze beschikbaar is voor marketing- en wedermarketingdoeleinden, moet het gegevensmodel [!DNL Campaign] worden uitgebreid door aangepaste tabellen toe te voegen. Voor dit gebruiksgeval, moeten een klant en een orderlijst worden gecreeerd.
+Als u aanvullende informatie wilt gebruiken over wat een klant heeft besteld, zodat deze beschikbaar is voor marketing- en re-marketingdoeleinden, moet het gegevensmodel [!DNL Campaign] worden uitgebreid door aangepaste tabellen toe te voegen. Voor dit gebruiksscenario moeten een klant en een orderlijst worden gemaakt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27715?quality=9)
 
-In deze zelfstudie wordt uitgelegd hoe u:
+In deze tutorial wordt het volgende uitgelegd:
 
 Stap 1 - [Een aangepaste bron maakt](./creating-a-custom-resource.md)
 Stap 2 - [Een schermdefinitie configureert](./configuring-a-screen-definition-for-a-custom-resource.md)

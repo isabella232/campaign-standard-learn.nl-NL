@@ -1,19 +1,19 @@
 ---
-title: Hoe te om ontsleutelde gebeurtenisID en leveringsID te krijgen
-description: Leer hoe u een gedecodeerde gebeurtenis-id en een leverings-id ophaalt in Campaign Standard.
+title: Een ontsleutelde event-ID en leverings-ID krijgen
+description: Leer hoe u een gedecodeerde event-ID en een leverings-ID in Campaign Standard ophaalt.
 role: Admin
 level: Beginner, Experienced
 kt: 8432
 source-git-commit: 908c997c130cf0fbb6699b4b5d824e6996e59cc3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '48'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Hoe te om ontsleutelde gebeurtenisID en leveringsID te krijgen
+# Een ontsleutelde event-ID en leverings-ID krijgen
 
-Leer hoe u een gedecodeerde gebeurtenis-id en een leverings-id ophaalt in Campaign Standard.
+Leer hoe u een gedecodeerde event-ID en een leverings-ID in Campaign Standard ophaalt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335989?quality=12)

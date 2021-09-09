@@ -1,7 +1,7 @@
 ---
 title: Profielen en doelgroepen in Adobe Campaign Standard begrijpen
 description: Begrijp het concept van profielen en doelgroepen en leer hoe u profielen en doelgroepen maakt.
-feature: Profielen, doelgroepen
+feature: Profiles, Audiences
 kt: 3893
 thumbnail: 18464.jpg
 doc-type: feature video
@@ -11,8 +11,8 @@ exl-id: 8a11b35f-ac6b-4f63-a72e-4e676ea3d69d
 role: User, Developer, Admin
 level: Beginner
 source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
-workflow-type: tm+mt
-source-wordcount: '59'
+workflow-type: ht
+source-wordcount: '57'
 ht-degree: 100%
 
 ---

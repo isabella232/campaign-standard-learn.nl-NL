@@ -1,7 +1,7 @@
 ---
 title: SSL-certificaten toevoegen
 description: Leer hoe u SSL-certificaten toevoegt om uw subdomeinen te beveiligen.
-feature: 'Configuratiescherm '
+feature: Control Panel
 audience: administrator
 kt: 4219
 thumbnail: 31317.jpg
@@ -11,8 +11,8 @@ team: PM
 exl-id: b46d9186-07db-4225-8dd7-3f3452aa7a1b
 source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
-source-wordcount: '191'
-ht-degree: 36%
+source-wordcount: '189'
+ht-degree: 35%
 
 ---
 
@@ -20,11 +20,11 @@ ht-degree: 36%
 
 Leer hoe u SSL-certificaten toevoegt om uw subdomeinen te beveiligen.
 
-## Toegang tot subdomeinbeheer [!UICONTROL Control Panel]
+## Toegang [!UICONTROL Control Panel] Subdomeinbeheer
 
 Om toegang te krijgen tot subdomeinbeheer in het [!UICONTROL Control Panel] gaat u naar:
 
-* [Experience Cloud startpunt](https://experience.adobe.com/#/home) >  [!UICONTROL Solution picker]:  [!DNL Campaign] >  **[!UICONTROL Control Panel]** Kaart >  [!UICONTROL **Subdomeinen &amp;**] Certificaten
+* [Experience Cloud Home](https://experience.adobe.com/#/home) > [!UICONTROL Solution picker]: [!DNL Campaign] > **[!UICONTROL Control Panel]** kaart > [!UICONTROL **Subdomeinen en certificaten**] kaart
 
    of
 * Rechtstreeks via de URL: [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
@@ -33,11 +33,11 @@ Om toegang te krijgen tot subdomeinbeheer in het [!UICONTROL Control Panel] gaat
 
 Voor het toevoegen van SSL-certificaten zijn drie stappen vereist:
 
-### Stap 1: [!UICONTROL Certificate Signing Requests] genereren
+### Stap 1: Genereren [!UICONTROL Certificate Signing Requests]
 
-Een [!UICONTROL Certificate Signing Request] (CSR) is vereist voor de aankoop van een SSL-certificaat. Deze moet worden gegenereerd voor de instantie en de subdomeinen die u wilt beveiligen.
+A [!UICONTROL Certificate Signing Request] (CSR) is vereist voor de aankoop van een SSL-certificaat. Deze moet worden gegenereerd voor de instantie en de subdomeinen die u wilt beveiligen.
 
-In de onderstaande video wordt beschreven hoe u een [!UICONTROL Certificate Signing Request] in [!UICONTROL Control Panel] genereert.
+In de onderstaande video wordt beschreven hoe u een [!UICONTROL Certificate Signing Request] in [!UICONTROL Control Panel].
 
 >[!VIDEO](https://video.tv.adobe.com/v/31317?quality=12)
 

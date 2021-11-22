@@ -1,7 +1,7 @@
 ---
 title: De richtingsdimensie wijzigen
 description: In deze video wordt uitgelegd hoe u de doeldimensie van een levering voor een Platform Publiek buiten de hoofdprofielentabel in Adobe Campaign Standard wijzigt.
-feature: Integratie van de People Core-service
+feature: People Core Service Integration
 kt: 3739
 thumbnail: 30151.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ role: User, Developer
 level: Beginner, Intermediate, Experienced
 source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '166'
-ht-degree: 6%
+source-wordcount: '162'
+ht-degree: 11%
 
 ---
 
@@ -23,9 +23,9 @@ ht-degree: 6%
 >
 >Deze mogelijkheid is in bèta beschikbaar en kan regelmatig worden bijgewerkt en gewijzigd zonder voorafgaande kennisgeving. [!UICONTROL Audience Destinations] is gebaseerd op Adobe Experience Platform en vereist een specifieke configuratie.
 >
->Neem contact op met [!UICONTROL Adobe Customer Support] als u van plan bent deze functie te implementeren.
+>Neem contact op met [!UICONTROL Adobe Customer Support] als u van plan bent om dit vermogen uit te voeren.
 
-In deze video wordt uitgelegd hoe u de doeldimensie van een levering voor een [!UICONTROL Platform Audience] buiten de primaire profielentabel in Adobe Campaign Standard wijzigt.
+In deze video wordt uitgelegd hoe u de doeldimensie van een levering voor een [!UICONTROL Platform Audience] buiten de tabel met het primaire profiel in Adobe Campaign Standard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/30151?quality=12)
 
@@ -39,5 +39,5 @@ Documentatie:
 
 Videobronnen:
 
-* [Creeer een publiek gebruikend de Verenigde Bouwer van het Segment](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+* [Een nieuwe doelgroep maken met de uniforme segmentbouwer](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
 * [Adobe Experience Platform-publiek activeren in een marketingworkflow](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)

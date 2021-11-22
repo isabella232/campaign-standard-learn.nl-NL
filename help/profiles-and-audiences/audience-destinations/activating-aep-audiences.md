@@ -1,7 +1,7 @@
 ---
 title: Adobe Experience Platform-doelgroepen in een workflow activeren
 description: In deze video wordt uitgelegd hoe u de Query Audience van Data Services binnen een workflow activeert met de activiteit ‘Lezen publiek’.
-feature: Integratie van de People Core-service
+feature: People Core Service Integration
 kt: 2760
 thumbnail: 27647.jpg
 doc-type: feature video
@@ -12,20 +12,20 @@ role: User, Developer
 level: Beginner, Intermediate, Experienced
 source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '144'
 ht-degree: 12%
 
 ---
 
-# Adobe Experience Platform-publiek activeren in een workflow [!UICONTROL Adobe Experience Platform Audiences] in een marketingworkflow
+# Adobe Experience Platform-publiek activeren in een workflow [!UICONTROL Adobe Experience Platform Audiences] in een Marketing Workflow
 
 >[!NOTE]
 >
 >Deze mogelijkheid is in bèta beschikbaar en kan regelmatig worden bijgewerkt en gewijzigd zonder voorafgaande kennisgeving. [!UICONTROL Audience Destinations] is gebaseerd op Adobe Experience Platform en vereist een specifieke configuratie.
 >
->Neem contact op met [!UICONTROL Adobe Customer Support] als u van plan bent deze functie te implementeren.
+>Neem contact op met [!UICONTROL Adobe Customer Support] als u van plan bent om dit vermogen uit te voeren.
 
-In deze video wordt uitgelegd hoe u [!UICONTROL Data Services Query Audience] binnen een workflow activeert met de activiteit [!UICONTROL Read Audience].
+In deze video wordt uitgelegd hoe u de [!UICONTROL Data Services Query Audience] in een werkstroom met behulp van de [!UICONTROL Read Audience] activiteit.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27647?quality=12)
 

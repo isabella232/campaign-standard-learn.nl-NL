@@ -1,7 +1,7 @@
 ---
 title: Een in-app-levering maken binnen een workflow
 description: Leer hoe u de leveringsactiviteit in de app gebruikt om het verzenden van een bericht in de app naar een doelpubliek dat in een workflow is berekend, te automatiseren.
-feature: In app
+feature: In App
 kt: 2500
 thumbnail: 26226.jpg
 doc-type: feature video
@@ -12,14 +12,14 @@ role: User, Developer
 level: Beginner, Intermediate
 source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '129'
 ht-degree: 6%
 
 ---
 
-# Een [!UICONTROL In-App]-levering maken binnen een workflow
+# Een [!UICONTROL In-App] levering binnen een workflow
 
-De leveringsactiviteit in-app wordt gebruikt om het verzenden van een [!UICONTROL In-App] bericht aan een doelpubliek te automatiseren dat in het zelfde werkschema wordt berekend.
+De leveringsactiviteit in de app wordt gebruikt om het verzenden van een [!UICONTROL In-App] bericht aan een doelpubliek dat in de zelfde werkschema wordt berekend.
 
 Leer hoe u de leveringsactiviteit in de app gebruikt om het verzenden van een bericht in de app naar een doelpubliek dat in een workflow is berekend, te automatiseren.
 

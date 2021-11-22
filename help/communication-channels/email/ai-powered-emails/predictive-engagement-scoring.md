@@ -1,7 +1,7 @@
 ---
 title: Voorspellende betrokkenheidsscore
 description: Leer hoe u de betrokkenheidsscores op het individuele profielniveau kunt weergeven, scores kunt gebruiken voor targeting van betrokken gebruikers en onderdrukking van vermoeide gebruikers, en hoe u typologische regels kunt maken om vermoeidheid van de klant aan te pakken.
-feature: Progressieve scores voor betrokkenheid
+feature: Predictive Engagement Scoring
 kt: 6275
 thumbnail: 40470.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ role: User, Developer, Admin
 level: Experienced
 source-git-commit: 64940a739897c3969574dcf1d1e36c5a986d0473
 workflow-type: tm+mt
-source-wordcount: '216'
-ht-degree: 65%
+source-wordcount: '213'
+ht-degree: 66%
 
 ---
 

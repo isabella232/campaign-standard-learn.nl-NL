@@ -1,7 +1,7 @@
 ---
 title: Profielen en doelgroepen maken - overzicht
 description: Leer hoe u naar bestaande profielen kunt navigeren en hoe u profielen en doelgroepen kunt maken.
-feature: Profielen, doelgroepen
+feature: Profiles, Audiences
 kt: 3899
 thumbnail: 18463.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ role: User
 level: Beginner
 source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 18%
+source-wordcount: '83'
+ht-degree: 16%
 
 ---
 
@@ -24,7 +24,7 @@ Adobe Campaign heeft twee typen of profielen:
 * Geïdentificeerde profielen
 * Test profiles
 
-Profielen die volgens een of meer algemene criteria zijn gegroepeerd, worden **publiek** genoemd.
+Profielen die volgens een of meer gemeenschappelijke criteria zijn gegroepeerd, worden **publiek**.
 
 In deze video wordt uitgelegd hoe u naar bestaande profielen kunt navigeren en hoe u profielen en doelgroepen kunt maken in Adobe Campaign Standard.
 

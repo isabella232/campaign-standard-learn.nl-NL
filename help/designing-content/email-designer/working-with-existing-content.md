@@ -1,7 +1,7 @@
 ---
 title: Werken met bestaande content
 description: Leer hoe u creatieve inhoud van een website ophaalt en deze in de e-mailontwerper laadt.
-feature: E-mailontwerp
+feature: Email Design
 kt: 6295
 thumbnail: 25926.jpg
 doc-type: feature video
@@ -12,7 +12,7 @@ role: User, Developer
 level: Beginner
 source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '103'
 ht-degree: 7%
 
 ---
@@ -27,7 +27,7 @@ Leer hoe u creatieve inhoud van een website ophaalt en deze in de e-mailontwerpe
 
 ## Bestaande HTML-inhoud compatibel maken {#making-existing-html-content-compatible}
 
-Voor e-mailontwerpen is specifieke codering vereist. Deze moet worden toegepast om standaard HTML-inhoud die naar Adobe Campaign is geüpload volledig compatibel en bewerkbaar te maken.
+Voor de e-mailontwerper is specifieke codering vereist. Deze moet worden toegepast om de standaard HTML-inhoud die naar Adobe Campaign is geüpload volledig compatibel en bewerkbaar te maken.
 
 U vindt de gedetailleerde documentatie onder de volgende koppeling:
 

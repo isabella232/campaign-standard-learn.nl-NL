@@ -1,7 +1,7 @@
 ---
 title: Aan de slag met Email Designer
 description: Begrijp de algemene functionaliteit van de e-mailontwerper en hoe u een e-mailbericht helemaal zelf kunt ontwerpen.
-feature: E-mailontwerp
+feature: Email Design
 kt: 2391
 thumbnail: 25912.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ role: User, Developer
 level: Beginner
 source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
-source-wordcount: '44'
-ht-degree: 59%
+source-wordcount: '42'
+ht-degree: 61%
 
 ---
 

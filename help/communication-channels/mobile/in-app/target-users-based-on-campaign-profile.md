@@ -1,7 +1,7 @@
 ---
 title: Gebruikers doelgericht benaderen op basis van hun Campaign-profiel
 description: Leer hoe u bekende gebruikers van mobiele apps kunt besturen met berichten die zijn aangepast met CRM-profielkenmerken.
-feature: In app
+feature: In App
 kt: 1796
 thumbnail: 26200.jpg
 doc-type: feature video
@@ -12,14 +12,14 @@ role: User, Developer
 level: Beginner, Intermediate
 source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '132'
 ht-degree: 6%
 
 ---
 
-# Doelgebruikers op basis van hun [!DNL Campaign]-profiel
+# Doelgebruikers gebaseerd op hun [!DNL Campaign] profiel
 
-U kunt gebruikers die zich met PII (bekende gebruikers van mobiele apps) bij de app hebben aangemeld, aanwijzen met persoonlijke berichten en daarbij de in Adobe Campaign Standard beschikbare CRM-profielkenmerken gebruiken. Deze sjabloon biedt ondersteuning voor het gebruik van meerdere kanalen, waarbij u klanten al hebt aangewezen op andere kanalen, zoals E-mail of Push, op basis van hun reactie, en u deze klanten opnieuw wilt laten communiceren met een bericht in de app.
+U kunt gebruikers die zich met PII (bekende gebruikers van mobiele apps) bij de app hebben aangemeld, aanwijzen met persoonlijke berichten, met gebruik van CRM-profielkenmerken die beschikbaar zijn in Adobe Campaign Standard. Deze sjabloon biedt ondersteuning voor het gebruik van meerdere kanalen, waarbij u klanten al hebt aangewezen op andere kanalen, zoals E-mail of Push, op basis van hun reactie, en u deze klanten opnieuw wilt laten communiceren met een bericht in de app.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26200?quality=12)
 

@@ -1,7 +1,7 @@
 ---
 title: Productvermeldingen configureren in transactie-e-mails
 description: Leer welke stappen worden vereist om productlijsten in transactie-e-mails te vormen.
-feature: Transactieberichten, e-mail
+feature: Transactional Messaging, Email
 kt: 1728
 thumbnail: 25915
 doc-type: feature video
@@ -12,16 +12,16 @@ role: User, Developer
 level: Experienced
 source-git-commit: 344b8d8bb216489db586b030c71fd84d273968d9
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '166'
 ht-degree: 4%
 
 ---
 
-# [!UICONTROL product listings] configureren in transactie-e-mails
+# Configureren [!UICONTROL product listings] in transactie-e-mails
 
 U kunt een e-mailbericht voor opnieuw richten configureren dat een lijst met producten bevat die onbekend zijn bij het ontwerpen van de e-mail. Deze producten kunnen vanaf de lading bij runtime worden toegevoegd. U kunt bijvoorbeeld automatisch een e-mailbericht met een winkelwagentje verzenden waarin alle producten worden vermeld die zich in de winkelwagentje bevonden voordat de gebruiker het afsloot, met een afbeelding, prijs en koppeling naar elk product.
 
-In de volgende video&#39;s worden de stappen beschreven die nodig zijn om [!UICONTROL product listings] in [!UICONTROL transactional emails] te configureren.
+De volgende video&#39;s verklaren de stappen die worden vereist om te vormen [!UICONTROL product listings] in [!UICONTROL transactional emails].
 
 >[!NOTE]
 >

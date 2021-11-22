@@ -1,14 +1,14 @@
 ---
 title: GPG-sleutelbeheer - Overzicht
 description: Ontdek hoe u een openbaar/privé sleutelpaar kunt genereren en installeren op een opgegeven Campaign-instantie voor de versleuteling van uitgaande gegevens. Leer hoe u een openbare sleutel importeert en installeert op een Campagne-instantie voor het decoderen van binnenkomende gegevens.
-feature: 'Configuratiescherm '
+feature: Control Panel
 audience: administrator
 team: TM
 exl-id: a9a24104-332c-483e-8a6f-6d80f90ad66f
 source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
-source-wordcount: '160'
-ht-degree: 64%
+source-wordcount: '158'
+ht-degree: 70%
 
 ---
 
@@ -18,10 +18,10 @@ GPG (GnuPG) versleutelt berichten aan de hand van asymmetrische, individuele sle
 
 Ontdek hoe u een openbaar/privé sleutelpaar kunt genereren en installeren op een opgegeven Campaign-instantie voor de versleuteling van uitgaande gegevens. Leer hoe u een openbare sleutel importeert en installeert op een Campagne-instantie voor het decoderen van binnenkomende gegevens.
 
-* [GPG-sleutels voor gegevenscodering genereren en installeren](./generating-and-installing-gpg-keys-for-data-encryption.md)
+* [GPG-sleutels voor versleuteling van gegevens genereren en installeren](./generating-and-installing-gpg-keys-for-data-encryption.md)
 * [Gegevens versleutelen met een GPG-sleutel](./using-a-gpg-key-to-encrypt-data.md)
-* [Gegevens decoderen](./decrypting-data.md)
+* [Gegevens ontsleutelen](./decrypting-data.md)
 
-## Aanvullende resources
+## Aanvullende bronnen
 
 * [GPG-sleutelbeheer (documentatie)](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html?lang=en)

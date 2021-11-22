@@ -1,7 +1,7 @@
 ---
 title: Een rapport maken op basis van workflowsegmenten
 description: Leer hoe u segmenten in uw workflow definieert en hoe u deze kunt gebruiken voor dynamische rapporten.
-feature: Rapportage
+feature: Reporting
 kt: 3252
 thumbnail: 28262.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ role: User
 level: Beginner
 source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 17%
+source-wordcount: '85'
+ht-degree: 16%
 
 ---
 
@@ -25,4 +25,4 @@ Leer hoe u segmenten in uw workflow definieert en hoe u deze kunt gebruiken voor
 
 >[!VIDEO](https://video.tv.adobe.com/v/28262?quality=12)
 
-Zie de [documentatie](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html?lang=en) voor meer informatie
+Zie voor meer informatie de [documentatie](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html?lang=en)

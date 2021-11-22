@@ -1,7 +1,7 @@
 ---
 title: Voorspellende optimalisatie van verzendtijd
 description: Begrijp welke workflows nodig zijn om gegevens tussen Adobe Campaign en het Journey AI-model te synchroniseren. Leer hoe u verzendtijdscores weergeeft op individueel profielniveau en hoe u e-mailverzendingen uitvoert met een verzendtijdformule.
-feature: Tijdoptimalisatie verzenden
+feature: Send Time Optimization
 kt: 6274
 thumbnail: 40469.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ role: User, Developer, Admin
 level: Experienced
 source-git-commit: 64940a739897c3969574dcf1d1e36c5a986d0473
 workflow-type: tm+mt
-source-wordcount: '204'
-ht-degree: 88%
+source-wordcount: '201'
+ht-degree: 89%
 
 ---
 

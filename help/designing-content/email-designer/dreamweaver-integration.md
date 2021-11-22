@@ -1,7 +1,7 @@
 ---
 title: Content maken met Adobe Dreamweaver
 description: Begrijp wat nodig is om de Dreamweaver-integratie mogelijk te maken en hoe u inhoud voor Adobe Campaign Standard kunt maken en bewerken met Dreamweaver.
-feature: E-mailontwerp
+feature: Email Design
 kt: 1420
 thumbnail: 23121.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ role: User, Developer
 level: Beginner
 source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '175'
-ht-degree: 76%
+source-wordcount: '173'
+ht-degree: 77%
 
 ---
 
@@ -27,7 +27,7 @@ Dankzij de Adobe Campaign Standard-integratie met Adobe Dreamweaver kunt u de co
 
 >[!NOTE]
 >
->Voor deze functie is de Dreamweaver-extensie **[!UICONTROL Adobe Campaign Integration]** vereist. U kunt de extensie downloaden van [Adobe Exchange](https://exchange.adobe.com/creativecloud.html#search). Zie [Uitbreiding campagne voor Dreamweaver](https://helpx.adobe.com/nl/dreamweaver/using/working-with-dreamweaver-and-campaign.html) voor meer informatie over de installatie.
+>Voor deze functie is de Dreamweaver-extensie **[!UICONTROL Adobe Campaign Integration]** vereist. U kunt de extensie downloaden van [Adobe Exchange](https://exchange.adobe.com/creativecloud.html#search). Voor meer informatie over de installatie raadpleegt u [Uitbreiding campagne voor Dreamweaver](https://helpx.adobe.com/nl/dreamweaver/using/working-with-dreamweaver-and-campaign.html).
 
 In de video wordt uitgelegd wat er nodig is om de integratie met Dreamweaver mogelijk te maken en hoe u content voor Adobe Campaign Standard kunt maken en bewerken met Dreamweaver.
 

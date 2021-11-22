@@ -1,7 +1,7 @@
 ---
 title: Beheer van Google-TXT-records
 description: U kunt een Google-TXT-record voor websiteverificatie toevoegen aan al uw subdomeinen die worden gebruikt om e-mails naar GMAIL-adressen te verzenden via het Configuratiescherm van Campaign.
-feature: 'Configuratiescherm '
+feature: Control Panel
 audience: administrator
 kt: 4744
 doc-type: feature video
@@ -10,7 +10,7 @@ team: PM
 exl-id: 51f3d728-d547-41c8-bf53-bca49d5427fe
 source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '120'
 ht-degree: 92%
 
 ---

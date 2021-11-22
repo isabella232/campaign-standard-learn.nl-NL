@@ -1,7 +1,7 @@
 ---
 title: Een landingspagina testen en publiceren
 description: Leer hoe u een bestemmingspagina test die in Adobe Campaign Standard is gemaakt en hoe u deze publiceert.
-feature: Landingspagina's
+feature: Landing Pages
 kt: 1813
 thumbnail: 24992.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ role: User
 level: Beginner
 source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
-source-wordcount: '46'
-ht-degree: 30%
+source-wordcount: '44'
+ht-degree: 27%
 
 ---
 

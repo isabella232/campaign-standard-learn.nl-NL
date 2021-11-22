@@ -1,7 +1,7 @@
 ---
 title: Profielen importeren met een workflow
 description: Leer hoe u profielgegevens importeert met een workflow.
-feature: Data management
+feature: Data Management
 kt: 1818
 thumbnail: 24993.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ role: User, Developer, Admin
 level: Beginner
 source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 27%
+source-wordcount: '102'
+ht-degree: 26%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 27%
 
 U kunt gegevens uit een bestand verzamelen om het te verwerken en/of te importeren in de Adobe Campaign-database.
 
-In deze video wordt uitgelegd hoe u de [!UICONTROL Data Management]-activiteiten in een workflow kunt gebruiken om profielgegevens te importeren.
+In deze video wordt uitgelegd hoe u de [!UICONTROL Data Management] activiteiten in een workflow om profielgegevens te importeren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24993?quality=12)
 

@@ -7,11 +7,10 @@ doc-type: tutorial
 activity: use
 team: TM
 exl-id: d8c0d8c6-2e04-4c27-b27a-d0de79dd953b
-translation-type: tm+mt
 source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '123'
-ht-degree: 12%
+source-wordcount: '122'
+ht-degree: 11%
 
 ---
 
@@ -19,7 +18,7 @@ ht-degree: 12%
 
 In dit deel voegen we de code toe voor het registreren van de extensies Gebruikersprofiel, Identiteit, Levenscyclus en Signaal. Deze extensies maken deel uit van [[!UICONTROL Mobile Core Extensions]](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core). We moeten ook de Adobe Campaign Standard-extensie registreren, zoals in de onderstaande code wordt getoond.
 
-Open uw project in [!DNL Android] studio. Verwijder de gehele code in MainApp **behalve de eerste regel die uw pakketinstructie** is.
+Open uw project in [!DNL Android] studio. De gehele code in MainApp verwijderen **behalve de eerste regel die de pakketinstructie is**.
 
 Plak de volgende code in MainApp
 
@@ -69,6 +68,6 @@ try{
 }
 ```
 
-Lijn 32 u moet uw [!UICONTROL  Launch] milieu dossier identiteitskaart van het Bezit verstrekken. Dit kan van [!UICONTROL environment tab] van uw [!UICONTROL Launch] bezit worden betreden.
+Lijn 32 u uw moet verstrekken[!UICONTROL  Launch] Omgevingsbestand-id van eigenschap. Dit is toegankelijk via de [!UICONTROL environment tab] van uw [!UICONTROL Launch] eigenschap.
 
 ![launch-id](assets/launch-id-property.PNG)

@@ -1,7 +1,7 @@
 ---
 title: Een e-maillevering maken
 description: 'Leer hoe u een e-maillevering kunt maken vanaf de startpagina. '
-feature: 'Email '
+feature: Email
 kt: 1807
 thumbnail: 23721.jpg
 doc-type: feature video
@@ -12,14 +12,14 @@ role: User
 level: Beginner
 source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 21%
+source-wordcount: '84'
+ht-degree: 20%
 
 ---
 
 # Een e-maillevering maken {#create-an-email-delivery}
 
-U kunt een stand-alone e-maillevering van een campagne, van de homepage van Adobe Campaign, of in [!UICONTROL Marketing Activity] lijst tot stand brengen. U kunt vanuit een workflow ook eenmalige en terugkerende e-mails maken en verzenden.
+U kunt een stand-alone e-maillevering van een campagne, van de homepage van Adobe Campaign, of in creëren [!UICONTROL Marketing Activity] lijst. U kunt vanuit een workflow ook eenmalige en terugkerende e-mails maken en verzenden.
 
 Leer hoe u een e-maillevering kunt maken vanaf de startpagina.
 

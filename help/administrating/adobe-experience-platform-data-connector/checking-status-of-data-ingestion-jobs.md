@@ -1,7 +1,7 @@
 ---
-title: De status van een gegevensinvoertaak controleren
+title: De status van taken voor gegevensopname controleren
 description: Leer hoe u de status kunt controleren en de gegevenstoewijzing kunt wijzigen.
-feature: Integratie van de People Core-service
+feature: People Core Service Integration
 audience: administrator
 kt: 2831
 thumbnail: 27268.jpg
@@ -11,18 +11,18 @@ team: PM
 exl-id: aa0f8abe-0b42-4957-8a82-25521751b7af
 source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 9%
+source-wordcount: '116'
+ht-degree: 23%
 
 ---
 
-# De status van een gegevensinvoertaak controleren
+# De status van taken voor gegevensopname controleren
 
 >[!NOTE]
 >
 >Deze mogelijkheid is in bèta beschikbaar en kan regelmatig worden bijgewerkt en gewijzigd zonder voorafgaande kennisgeving.
 >
->Neem contact op met [!UICONTROL Adobe Customer Support] als u van plan bent deze functie te implementeren.
+>Neem contact op met [!UICONTROL Adobe Customer Support] als u van plan bent om dit vermogen uit te voeren.
 
 Leer hoe u de status van een gegevensinnametaak kunt controleren en of de gegevens vanuit Adobe Campaign Standard in Adobe Experience Platform zijn ingevoerd.
 

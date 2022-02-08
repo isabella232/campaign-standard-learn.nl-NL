@@ -10,10 +10,11 @@ team: TM
 exl-id: e70fdef9-2907-4858-9eca-006c59695bb3
 role: User, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+recommendations: noDisplay
+source-git-commit: 87c7d040e2bdd1ccaceb5035b494a6fb50c77f7b
 workflow-type: tm+mt
-source-wordcount: '174'
-ht-degree: 9%
+source-wordcount: '165'
+ht-degree: 4%
 
 ---
 
@@ -36,7 +37,3 @@ De volgende videozelfstudies begeleiden u door de verschillende stappen:
 1. [Een nieuwe doelgroep maken met de uniforme segmentbouwer](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
 2. [Experience Platforms in een marketingworkflow activeren](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
 3. [Wijzig het richten dimensie van een levering voor een Publiek van het Platform](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
-
-## Aanvullende bronnen
-
-*[Inzicht in de Adobe Experience Platform-gegevensconnector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)

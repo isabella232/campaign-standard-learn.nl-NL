@@ -10,10 +10,10 @@ team: TM
 exl-id: f1ae414c-6b42-445b-bb33-9a28a3e854fa
 role: User
 level: Beginner
-source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
+source-git-commit: d8775a03ddf61470c0a9144d6bf2aabd1b0cda80
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 50%
+source-wordcount: '109'
+ht-degree: 41%
 
 ---
 
@@ -25,6 +25,4 @@ Leer hoe te om een test A/B te vormen en te verzenden, die de onderwerpregel tes
 
 >[!VIDEO](https://video.tv.adobe.com/v/18480?quality=12)
 
-## Aanvullende bronnen
-
-* [Een e-mail met een A/B-test ontwerpen](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/designing-an-a-b-test-email.html)
+Zie ook de productdocumentatie op [Een e-mail met een A/B-test ontwerpen](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/designing-an-a-b-test-email.html)

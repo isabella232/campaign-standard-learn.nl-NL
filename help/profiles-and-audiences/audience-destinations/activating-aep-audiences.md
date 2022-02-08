@@ -10,10 +10,10 @@ team: PM
 exl-id: 955d063f-4709-4f56-8f39-f1b838354300
 role: User, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+source-git-commit: c270d2c6ef7ad695226d79da51cfd2f18dcefaff
 workflow-type: tm+mt
-source-wordcount: '144'
-ht-degree: 12%
+source-wordcount: '123'
+ht-degree: 6%
 
 ---
 
@@ -31,13 +31,4 @@ In deze video wordt uitgelegd hoe u de [!UICONTROL Data Services Query Audience]
 
 *Een Adobe Experience Platform-publiek activeren in een workflow (20:37 min)*
 
-## Aanvullende resources
-
-Documentatie:
-
-* [Adobe Experience Platform-doelgroepen opnemen in Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/aep-sources-destinations/ingest-aep-data.html)
-
-Videobronnen:
-
-* [Creeer een publiek in Adobe Campaign Standard gebruikend de Verenigde Bouwer van het Segment](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
-* [Wijzig het richten dimensie van een levering voor een Publiek van het Platform](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
+Zie de productdocumentatie over hoe u [Adobe Experience Platform-publiek in campagne](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/aep-sources-destinations/ingest-aep-data.html)

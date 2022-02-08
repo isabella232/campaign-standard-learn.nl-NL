@@ -10,10 +10,10 @@ team: TM
 exl-id: 7520cb4a-f277-42fa-81be-afb46b21365f
 role: User
 level: Beginner
-source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
+source-git-commit: 7777c76109ca8f40982073ec4782e82903a78095
 workflow-type: tm+mt
-source-wordcount: '153'
-ht-degree: 12%
+source-wordcount: '119'
+ht-degree: 3%
 
 ---
 
@@ -30,14 +30,3 @@ Met Adobe Campaign kunt u gepersonaliseerde en gesegmenteerde [!UICONTROL push n
 In de video wordt beschreven hoe u een [!DNL push notification to app subscribers].
 
 >[!VIDEO](https://video.tv.adobe.com/v/31499?quality=12)
-
-## Aanvullende resources
-
-Documentatie:
-
-* [Informatie over pushberichten](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/push-notifications/about-push-notifications.html)
-* [Een pushmelding voorbereiden en verzenden](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/push-notifications/preparing-and-sending-a-push-notification.html)
-
-Tutorials:
-
-* [Een meertalige pushmelding maken](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)

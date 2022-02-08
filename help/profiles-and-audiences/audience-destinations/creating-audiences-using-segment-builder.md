@@ -10,10 +10,10 @@ team: PM
 exl-id: ce52a988-5072-401b-9a8b-112e42504022
 role: User, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+source-git-commit: c249ea1f955d3e0d3f1477ee822edb6295da8de1
 workflow-type: tm+mt
-source-wordcount: '210'
-ht-degree: 12%
+source-wordcount: '194'
+ht-degree: 8%
 
 ---
 
@@ -35,14 +35,9 @@ In de onderstaande video wordt uitgelegd hoe u een nieuw publiek maakt met [!UIC
 
 *Hoe te om een publiek in Adobe Campaign Standard tot stand te brengen gebruikend de Verenigde Bouwer van het Segment (min 02:47)*
 
-## Aanvullende resources
-
-Documentatie:
+Zie de productdocumentatie voor meer informatie:
 
 * [Real-Time overzicht van klantprofiel](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
 * [Gebruikershandleiding voor Segment Builder](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
 
-Videobronnen:
 
-* [ Experience Platform-doelgroepen in een workflow activeren](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
-* [Wijzig de doeldimensie van een levering voor een publiek van een Platform](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)

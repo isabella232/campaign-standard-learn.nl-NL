@@ -10,10 +10,10 @@ team: ACS
 exl-id: 7d6634ed-f6b0-4d77-9148-3f2c0e444862
 role: User, Developer, Admin
 level: Experienced
-source-git-commit: 64940a739897c3969574dcf1d1e36c5a986d0473
+source-git-commit: 275b7f05b50891757a7921c16dfcd9c8a1c3a036
 workflow-type: tm+mt
-source-wordcount: '213'
-ht-degree: 66%
+source-wordcount: '188'
+ht-degree: 67%
 
 ---
 
@@ -29,13 +29,3 @@ ht-degree: 66%
 Leer hoe u de betrokkenheidsscores op het individuele profielniveau kunt weergeven, scores kunt gebruiken voor targeting van betrokken gebruikers en onderdrukking van vermoeide gebruikers, en hoe u typologische regels kunt maken om vermoeidheid van de klant aan te pakken.
 
 >[!VIDEO](https://video.tv.adobe.com/v/40470?quality=12)
-
-## Aanvullende resources
-
-Tutorials:
-
-* [Voorspellende optimalisatie van verzendtijd](predictive-send-time-optimization.md)
-
-Documentatie:
-
-* [Ontwerp en levering optimaliseren met e-mails met AI-mogelijkheden](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/predictive.html?lang=en)

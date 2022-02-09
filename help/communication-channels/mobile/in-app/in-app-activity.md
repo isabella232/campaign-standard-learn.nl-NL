@@ -10,10 +10,10 @@ team: TM
 exl-id: 9d5b1769-9f04-45d0-bbce-38cd33c65bb0
 role: User, Developer
 level: Beginner, Intermediate
-source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 6%
+source-wordcount: '77'
+ht-degree: 9%
 
 ---
 
@@ -24,9 +24,3 @@ De leveringsactiviteit in de app wordt gebruikt om het verzenden van een [!UICON
 Leer hoe u de leveringsactiviteit in de app gebruikt om het verzenden van een bericht in de app naar een doelpubliek dat in een workflow is berekend, te automatiseren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26226?quality=12)
-
-## Aanvullende bronnen
-
-* [Een bericht in de app voorbereiden en verzenden (documentatie)](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/in-app-messaging/preparing-and-sending-an-in-app-message.html?lang=en)
-* [Een bericht in de app aanpassen (documentatie)](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/in-app-messaging/customizing-an-in-app-message.html?lang=en)
-* [Een bericht in de app verzenden binnen een workflow (documentatie)](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/channel-activities/in-app-delivery.html?lang=en)

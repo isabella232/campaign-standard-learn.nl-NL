@@ -8,9 +8,9 @@ doc-type: feature video
 activity: use
 team: PM
 exl-id: 63f65fa1-94c9-42ac-93a7-32d138a0a6a6
-source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '74'
 ht-degree: 100%
 
 ---
@@ -26,8 +26,3 @@ Als u met Adobe Campaign e-mailberichten wilt gaan verzenden of introductiepagin
 Leer hoe u een subdomein instelt en verzendt met behulp van CNAME-records in het configuratiescherm.
 
 >[!VIDEO](https://video.tv.adobe.com/v/326612?quality=12)
-
-## Aanvullende bronnen
-
-* [Subdomeinen volledig delegeren (video)](./subdomain-delegation.md)
-* [Een nieuw subdomein instellen (documentatie)](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/setting-up-new-subdomain.html?lang=nl)

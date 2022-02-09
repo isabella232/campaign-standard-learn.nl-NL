@@ -10,10 +10,10 @@ team: TM
 exl-id: bce6fa2e-a684-43af-a41e-dfec54dd453a
 role: User, Developer
 level: Experienced
-source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
-source-wordcount: '174'
-ht-degree: 47%
+source-wordcount: '159'
+ht-degree: 49%
 
 ---
 
@@ -37,7 +37,3 @@ In deze video wordt het gebruik van de [!UICONTROL External API activity] gedemo
 >[!NOTE]
 >
 >De activiteit is bedoeld voor het halen van campagnebrede gegevens, niet voor het terugwinnen van specifieke informatie voor elk profiel aangezien dat in grote hoeveelheden gegevens kan resulteren die worden overgebracht. Als het gebruiksgeval profiel-specifieke informatie vereist, is de aanbeveling om de activiteit van het Dossier van de Overdracht te gebruiken.
-
-## Aanvullende bronnen
-
-* [Externe API (documentatie)](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/external-api.html?lang=en)

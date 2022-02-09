@@ -10,10 +10,10 @@ team: TM
 exl-id: 72b1fe11-3c38-4f0b-8ccd-0f7b73b1083a
 role: User, Developer
 level: Beginner, Intermediate
-source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
-source-wordcount: '132'
-ht-degree: 6%
+source-wordcount: '98'
+ht-degree: 7%
 
 ---
 
@@ -24,8 +24,3 @@ U kunt gebruikers die zich met PII (bekende gebruikers van mobiele apps) bij de 
 >[!VIDEO](https://video.tv.adobe.com/v/26200?quality=12)
 
 *Een bericht in de app maken met een[!UICONTROL Campaign profile template]*
-
-## Aanvullende bronnen
-
-* [Een bericht in de app voorbereiden en verzenden (documentatie)](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/in-app-messaging/preparing-and-sending-an-in-app-message.html?lang=en)
-* [Een bericht in de app aanpassen (documentatie)](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/in-app-messaging/customizing-an-in-app-message.html?lang=en)

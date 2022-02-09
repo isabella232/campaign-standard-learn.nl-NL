@@ -4,11 +4,12 @@ description: Ontdek hoe u een openbaar/privé sleutelpaar kunt genereren en inst
 feature: Control Panel
 audience: administrator
 team: TM
+recommendations: noDisplay
 exl-id: a9a24104-332c-483e-8a6f-6d80f90ad66f
-source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
-source-wordcount: '158'
-ht-degree: 70%
+source-wordcount: '164'
+ht-degree: 64%
 
 ---
 
@@ -22,6 +23,4 @@ Ontdek hoe u een openbaar/privé sleutelpaar kunt genereren en installeren op ee
 * [Gegevens versleutelen met een GPG-sleutel](./using-a-gpg-key-to-encrypt-data.md)
 * [Gegevens ontsleutelen](./decrypting-data.md)
 
-## Aanvullende bronnen
-
-* [GPG-sleutelbeheer (documentatie)](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html?lang=en)
+Zie de productdocumentatie voor meer informatie over [GPG-sleutelbeheer (documentatie)](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html?lang=en)

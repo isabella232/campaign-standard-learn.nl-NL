@@ -1,15 +1,16 @@
 ---
 title: Stap 1 - Een Android-toepassing maken en configureren voor gebruik van Firebase Cloud Messaging
-description: In dit deel zullen wij [!DNL Android] App to receive [!UICONTROL Push notifications] verzonden vanuit Adobe Campaign Standard. Om de pushberichten te ontvangen, moet de app zijn geregistreerd bij Google [!DNL Firebase Cloud Service].
+description: In dit deel zullen wij [!DNL Android] Te ontvangen app [!UICONTROL Push notifications] verzonden vanuit Adobe Campaign Standard. Om de pushberichten te ontvangen, moet de app zijn geregistreerd bij Google [!DNL Firebase Cloud Service].
 feature: Push
 kt: 4825
 doc-type: tutorial
 activity: use
 team: TM
+recommendations: noDisplay
 exl-id: f087d9f2-cce9-4903-977f-3c5b47522c06
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '319'
 ht-degree: 3%
 
 ---

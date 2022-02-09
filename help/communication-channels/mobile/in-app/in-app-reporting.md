@@ -1,7 +1,7 @@
 ---
 title: Rapporteren over uw in-app-levering
 description: Leer hoe u de gebruiker contextafhankelijke In-App-berichten kunt presenteren als reactie op het realtime gedrag van de klant in de mobiele toepassing.
-feature: In App
+feature: In App, Reporting
 kt: 2558
 thumbnail: 26412.jpg
 doc-type: feature video
@@ -10,10 +10,10 @@ team: TM
 exl-id: bb587ee7-9587-44d3-8bb4-3d4e64f66749
 role: User, Developer
 level: Beginner, Intermediate
-source-git-commit: 63d07d2922310ac779c486383b83d708beeba627
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 11%
+source-wordcount: '67'
+ht-degree: 7%
 
 ---
 
@@ -22,7 +22,3 @@ ht-degree: 11%
 U kunt uw [!UICONTROL In-App] leveringsgerelateerde gegevens in de leveringssamenvatting door toevoeging van [!UICONTROL In-App]-specifieke maatstaven. U kunt ook de knop Buiten het vak gebruiken [Rapport in app](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/list-of-reports/in-app-report.html?lang=en).
 
 >[!VIDEO](https://video.tv.adobe.com/v/26412?quality=12)
-
-## Aanvullende bronnen
-
-* [In-app-rapport](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/list-of-reports/in-app-report.html?lang=en)

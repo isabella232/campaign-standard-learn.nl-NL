@@ -9,10 +9,10 @@ audience: administrator
 activity: use
 team: TM
 exl-id: a0e56349-4296-4309-8698-bf3c48eb6c58
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 100%
+source-wordcount: '91'
+ht-degree: 89%
 
 ---
 
@@ -24,6 +24,4 @@ Leer hoe u het databasegebruik van uw instanties controleert met [!DNL Control P
 
 >[!VIDEO](https://video.tv.adobe.com/v/327175?quality=12)
 
-## Aanvullende bronnen
-
-* [Databases controleren (handleiding)](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/database-monitoring.html?lang=nl#performance-monitoring)
+Zie de productdocumentatie voor meer informatie over [Bewaking van databases](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/database-monitoring.html?lang=nl#performance-monitoring)

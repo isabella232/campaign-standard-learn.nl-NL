@@ -8,9 +8,9 @@ role: User, Admin, Developer
 level: Beginner
 recommendations: noDisplay, noCatalog
 source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '258'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -20,9 +20,9 @@ Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klanterva
 
 ## Nieuwe functies
 
-* **[Problemen oplossen](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=en)**
+* **[Problemen oplossen](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=nl)**
 
-*Hulp zoeken bij het oplossen van bekende problemen met Adobe Campaign Standard.*
+*Krijg hulp bij het oplossen van bekende problemen met Adobe Campaign Standard.*
 
 ## Aanbevolen door medewerkers van Adobe
 
@@ -46,7 +46,7 @@ Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klanterva
       <img alt="Configuratiescherm (video’s)" src="./assets/control-panel.png" />
     </a>
     <div>
-    <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=en">
+    <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=nl">
     <strong>Configuratiescherm (video’s)</strong>
     </a>
     </div>
@@ -55,11 +55,11 @@ Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klanterva
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=en">
+    <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=nl">
       <img alt="Tutorial: Aan de slag met pushmeldingen voor Android" src="./assets/push-for-android.png" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=en">
+      <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=nl">
     <strong>Tutorial: Aan de slag met pushmeldingen voor Android™</strong>
     </a>
     </div>

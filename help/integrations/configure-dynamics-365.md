@@ -10,9 +10,9 @@ activity: setup
 team: PM
 exl-id: b1eecb0f-d51d-4671-93d1-656b507c5bb6
 source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '71'
-ht-degree: 77%
+ht-degree: 100%
 
 ---
 
@@ -22,4 +22,4 @@ Leer hoe u Microsoft® Dynamics 365 kunt configureren voor gebruik in de integra
 
 >[!VIDEO](https://video.tv.adobe.com/v/27637?quality=12)
 
-Raadpleeg de productdocumentatie voor meer informatie over hoe u [Aan de slag met de integratie met Microsoft® Dynamics 365](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/campaign-and-microsoft-dynamics-365/d365-acs-get-started.html?lang=nl)
+Raadpleeg de productdocumentatie voor meer informatie over [Aan de slag met de integratie met Microsoft® Dynamics 365](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/campaign-and-microsoft-dynamics-365/d365-acs-get-started.html?lang=nl)

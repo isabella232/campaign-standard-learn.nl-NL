@@ -3,9 +3,9 @@ user-guide-title: Adobe Campaign Standard-tutorials
 user-guide-description: Ontwerp cross-channel klantervaringen en creëer een omgeving voor visuele campagneorkestratie, realtime-interactiebeheer en uitvoering via meerdere kanalen.
 breadcrumb-title: Campaign Standard-tutorials
 source-git-commit: e38405b798f231c9f7c22ac95ea44324ce94651d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '542'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -121,4 +121,4 @@ ht-degree: 98%
    + [Aangepaste bronnen voor verzoeken om toegang tot persoonsgegevens wijzigen](/help/privacy/custom-resources-for-privacy-requests.md)
    + [Privacyverzoeken handmatig maken en bijhouden](/help/privacy/create-and-track-privacy-requests.md)
    + [Verzoeken om toegang tot persoonsgegevens uitvoeren](/help/privacy/execute-privacy-requests.md)
-+ [Problemen met Campaign Standard oplossen](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html)
++ [Problemen met Campaign Standard oplossen](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=nl)

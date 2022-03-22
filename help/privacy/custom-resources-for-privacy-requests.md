@@ -1,5 +1,5 @@
 ---
-title: Aangepaste bronnen aanpassen bij het instellen van Adobe Campaign Standard voor privacyverzoeken
+title: Aangepaste bronnen wijzigen bij het instellen van Adobe Campaign Standard voor verzoeken om toegang tot persoonsgegevens
 description: Wanneer u Adobe Campaign Standard instelt voor het verwerken van verzoeken om toegang tot persoonsgegevens, moet u ervoor zorgen dat aangepaste gegevens die aan een profiel zijn gekoppeld, worden verwijderd wanneer het profiel wordt verwijderd. In deze video wordt uitgelegd hoe u aangepaste bronnen kunt aanpassen om aan deze eis te voldoen.
 feature: Privacy Tools
 kt: 1243
@@ -9,9 +9,9 @@ activity: use
 team: TM
 exl-id: 79d805ed-e705-472e-b0c9-db73dfd648ed
 source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '198'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -29,4 +29,4 @@ Wanneer u Adobe Campaign Standard instelt voor het verwerken van verzoeken om to
 >
 > Als u uw versie wilt controleren, klikt u op **?** in de rechterbovenhoek van de interface en Info te selecteren.
 
-Zie ook de [Algemene richtlijnen voor privacy voor campagne](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/privacy/privacy-management.html?lang=nl)
+Zie ook de [Algemene richtlijnen voor Campaign](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/privacy/privacy-management.html?lang=nl)

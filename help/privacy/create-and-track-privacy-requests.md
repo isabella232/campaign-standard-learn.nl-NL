@@ -9,9 +9,9 @@ activity: use
 team: TM
 exl-id: 850dbab3-10b4-4a8f-b6a8-6126bc48eee5
 source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '123'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -23,4 +23,4 @@ Deze video laat zien hoe u handmatig verzoeken om toegang tot persoonsgegevens k
 
 >[!VIDEO](https://video.tv.adobe.com/v/29235?quality=12)
 
-Raadpleeg de productdocumentatie voor meer informatie over de [Algemene richtlijnen voor privacy voor campagne](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/privacy/privacy-management.html?lang=nl).
+Raadpleeg de productdocumentatie voor meer informatie over de [Algemene richtlijnen voor Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/privacy/privacy-management.html?lang=nl).

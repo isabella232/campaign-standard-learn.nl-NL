@@ -8,18 +8,14 @@ doc-type: feature video
 activity: use
 team: PM
 exl-id: 63f65fa1-94c9-42ac-93a7-32d138a0a6a6
-source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
-workflow-type: ht
-source-wordcount: '74'
-ht-degree: 100%
+source-git-commit: 26dd621e1f89ed31a8656783f46b2bc388464ed1
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-# Subdomeinen delegeren met CNAME (bèta)
-
->[!IMPORTANT]
->
-> Het gebruik van CNAME voor het delegeren van subdomeinen bevindt zich in de bètafase en ondergaat regelmatige updates en wijzigingen, zonder kennisgeving hiervan.
+# Subdomeinen delegeren met CNAME
 
 Als u met Adobe Campaign e-mailberichten wilt gaan verzenden of introductiepagina&#39;s wilt gaan publiceren, moet u een nieuw subdomein instellen.
 

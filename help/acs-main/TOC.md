@@ -3,9 +3,9 @@ user-guide-title: Adobe Campaign Standard-tutorials
 user-guide-description: Ontwerp cross-channel klantervaringen en creëer een omgeving voor visuele campagneorkestratie, realtime-interactiebeheer en uitvoering via meerdere kanalen.
 breadcrumb-title: Campaign Standard-tutorials
 source-git-commit: 4fe27ac1cb9f00ee512a8554cc8e0fd2acb54a4b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '565'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -122,5 +122,5 @@ ht-degree: 96%
    + [Verzoeken om toegang tot persoonsgegevens uitvoeren](/help/privacy/execute-privacy-requests.md)
 + [Problemen met Campaign Standard oplossen](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=nl)
 + Strategie en leiderschap{#strategy}
-   + [Maximaliseer e-mailROI en beste praktijken voor abonneeherbetrokkenheid](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=en)
-   + [Gids voor best practices inzake leverbaarheid](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=nl)
+   + [De ROI van e-mail en aanbevolen methoden maximaliserenvoor hernieuwde betrokkenheid van leden](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=nl)
+   + [Gids voor aanbevolen methoden voor leverbaarheid](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=nl)

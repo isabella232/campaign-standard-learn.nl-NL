@@ -11,9 +11,9 @@ team: PM
 recommendations: noDisplay
 exl-id: 6c236625-1a7a-4009-898b-b4bd82fa1efa
 source-git-commit: 6c546fa15406b8cdb06790339f5f15b470415a37
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '248'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -31,7 +31,7 @@ Met het Adobe Campaign Configuratiescherm kunnen Adobe Campaign-beheerders belan
 
    *Leer hoe u een subdomein instelt en verzendt met behulp van CNAME-records in het Configuratiescherm.*
 
-Zie de [Opmerkingen bij de release](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=nl) voor meer informatie over de nieuwste productreleases.
+Zie [Aanvullende informatie](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=nl) voor meer informatie over de nieuwste productreleases.
 
 ## Aanbevolen door medewerkers van Adobe
 

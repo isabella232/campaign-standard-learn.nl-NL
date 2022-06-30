@@ -7,10 +7,10 @@ feature: Overview
 role: User, Admin, Developer
 level: Beginner
 recommendations: noDisplay, noCatalog
-source-git-commit: 4fe27ac1cb9f00ee512a8554cc8e0fd2acb54a4b
-workflow-type: ht
-source-wordcount: '305'
-ht-degree: 100%
+source-git-commit: 8a5fe85be0d3dc2f104bb7d4f367ec373ad6f937
+workflow-type: tm+mt
+source-wordcount: '306'
+ht-degree: 78%
 
 ---
 
@@ -20,13 +20,13 @@ Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klanterva
 
 ## Nieuwe functies
 
-* **[Maximaliseer het rendement op investering van uw e-mail en leer praktische tips voor hernieuwde betrokkenheid van leden](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=nl)**
+* **[Configuratiescherm - Workflows controleren](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html){target=&quot;_blank&quot;}**
 
-   *Leer hoe u rendement op investering van e-mail kunt maximaliseren en leer de aanbevolen methoden voor hernieuwde betrokkenheid lan keden. Ontdek de strategieën om uw betrokkenheid van leden te verbeteren en het algemene succes van uw e-mailcampagnes te begrijpen.*
+   *Leer hoe u het tijdelijke opslaggebruik van uw workflows kunt controleren en waar u workflowinstellingen kunt configureren om database- of workflowproblemen voor uw exemplaar te voorkomen.*
 
-* **[Problemen oplossen](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=nl)**
+* **[Configuratiescherm - Doorvoersnelheid en latentie bewaken](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html){target=&quot;_blank&quot;}**
 
-*Krijg hulp bij het oplossen van bekende problemen met Adobe Campaign Standard.*
+   *Leer hoe te om leveringsproductie en transactionele berichtlatentie van uw campagneinstantie te controleren.*
 
 ## Aanbevolen door medewerkers van Adobe
 
@@ -63,7 +63,7 @@ Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klanterva
       <img alt="Tutorial: Aan de slag met pushmeldingen voor Android" src="./assets/push-for-android.png" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=nl">
+      <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=en">
     <strong>Tutorial: Aan de slag met pushmeldingen voor Android™</strong>
     </a>
     </div>

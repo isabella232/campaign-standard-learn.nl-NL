@@ -8,9 +8,9 @@ role: User, Admin, Developer
 level: Beginner
 recommendations: noDisplay, noCatalog
 source-git-commit: 8a5fe85be0d3dc2f104bb7d4f367ec373ad6f937
-workflow-type: tm+mt
-source-wordcount: '306'
-ht-degree: 78%
+workflow-type: ht
+source-wordcount: '0'
+ht-degree: 100%
 
 ---
 
@@ -20,13 +20,13 @@ Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klanterva
 
 ## Nieuwe functies
 
-* **[Configuratiescherm - Workflows controleren](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html){target=&quot;_blank&quot;}**
+* **[Configuratiescherm - Workflows controleren](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html?lang=nl){target=&quot;_blank&quot;}**
 
-   *Leer hoe u het tijdelijke opslaggebruik van uw workflows kunt controleren en waar u workflowinstellingen kunt configureren om database- of workflowproblemen voor uw exemplaar te voorkomen.*
+   *Leer hoe u het tijdelijke opslaggebruik van uw workflows kunt controleren en waar u workflowinstellingen kunt configureren om database- of workflowproblemen voor uw instantie te voorkomen.*
 
-* **[Configuratiescherm - Doorvoersnelheid en latentie bewaken](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html){target=&quot;_blank&quot;}**
+* **[Configuratiescherm - Doorvoer en latentie bewaken](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html?lang=nl){target=&quot;_blank&quot;}**
 
-   *Leer hoe te om leveringsproductie en transactionele berichtlatentie van uw campagneinstantie te controleren.*
+   *Leer leveringsdoorvoer en transactionele berichtlatentie van uw Campaign-instantie te controleren.*
 
 ## Aanbevolen door medewerkers van Adobe
 
@@ -63,7 +63,7 @@ Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klanterva
       <img alt="Tutorial: Aan de slag met pushmeldingen voor Android" src="./assets/push-for-android.png" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=en">
+      <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=nl">
     <strong>Tutorial: Aan de slag met pushmeldingen voor Android™</strong>
     </a>
     </div>

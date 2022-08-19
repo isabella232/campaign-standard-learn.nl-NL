@@ -2,9 +2,9 @@
 user-guide-title: Adobe Campaign Standard-tutorials
 user-guide-description: Ontwerp cross-channel klantervaringen en creëer een omgeving voor visuele campagneorkestratie, realtime-interactiebeheer en uitvoering via meerdere kanalen.
 breadcrumb-title: Campaign Standard-tutorials
-source-git-commit: f06fd60880e5a32326287fa1782404d3909cf3a5
+source-git-commit: 4c256d4622e2acc2ec08e76aa4e6180ddb5184a0
 workflow-type: tm+mt
-source-wordcount: '579'
+source-wordcount: '567'
 ht-degree: 100%
 
 ---
@@ -104,7 +104,6 @@ ht-degree: 100%
    + [Toegangsrechten van gebruikers beheren](/help/administrating/managing-user-access-rights.md)
    + [Aangepaste bronnen maken](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=nl)
    + [Configuratiescherm](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=nl){target=&quot;_blank&quot;}
-   + [Sms instellen voor Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=nl)
    + Adobe Experience Platform-gegevensconnector {#adobe-experience-platform-data-connector}
       + [Inzicht in Adobe Experience Platform Data Connector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
       + [Aangepaste bronnen toewijzen](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)

@@ -1,30 +1,30 @@
 ---
 title: Adobe Campaign Standard-tutorials - Overzicht
-description: Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klantervaringen en levert een omgeving voor visuele orkestratie van campagnes, realtime-interactiebeheer en uitvoering via meerdere kanalen. Deze gebruikershandleiding bevat video’s en tutorials over de vele functies en mogelijkheden van Adobe Campaign Standard.
+description: Adobe Campaign biedt een platform voor het ontwerpen van interkanaalklantervaringen en biedt een omgeving voor visuele campagneorchestratie, interactiebeheer in real time en uitvoering via meerdere kanalen. Deze gebruikershandleiding bevat video’s en tutorials over de vele functies en mogelijkheden van Adobe Campaign Standard.
 products: SG_CAMPAIGN/STANDARD
 exl-id: b97710d1-3e93-41f6-a51e-9bf4c519fec3
 feature: Overview
 role: User, Admin, Developer
 level: Beginner
 recommendations: noDisplay, noCatalog
-source-git-commit: 4c256d4622e2acc2ec08e76aa4e6180ddb5184a0
+source-git-commit: 6a8b4679212207d6cce5c1dba317d3349d319baa
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '308'
+ht-degree: 73%
 
 ---
 
 # Adobe Campaign Standard - overzicht
 
-Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klantervaringen en levert een omgeving voor visuele orkestratie van campagnes, realtime-interactiebeheer en uitvoering via meerdere kanalen. Deze gebruikershandleiding bevat video’s en tutorials over de vele functies en mogelijkheden van Adobe Campaign Standard.
+Adobe Campaign biedt een platform voor het ontwerpen van interkanaalklantervaringen en biedt een omgeving voor visuele campagneorchestratie, interactiebeheer in real time en uitvoering via meerdere kanalen. Deze gebruikershandleiding bevat video’s en tutorials over de vele functies en mogelijkheden van Adobe Campaign Standard.
 
 ## Nieuwe functies
 
-* **[Configuratiescherm - Workflows controleren](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html?lang=nl){target=&quot;_blank&quot;}**
+* **[Configuratiescherm - Workflows controleren](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-workflows.html?lang=en){target=&quot;_blank&quot;}**
 
    *Leer hoe u het tijdelijke opslaggebruik van uw workflows kunt controleren en waar u workflowinstellingen kunt configureren om database- of workflowproblemen voor uw instantie te voorkomen.*
 
-* **[Configuratiescherm - Doorvoer en latentie bewaken](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html?lang=nl){target=&quot;_blank&quot;}**
+* **[Configuratiescherm - Doorvoer en latentie bewaken](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-throughputs-and-latency.html?lang=en){target=&quot;_blank&quot;}**
 
    *Leer leveringsdoorvoer en transactionele berichtlatentie van uw Campaign-instantie te controleren.*
 
@@ -46,11 +46,11 @@ Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klanterva
     <p>
   </td>
    <td>
-    <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=nl">
+    <a href="https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/control-panel-overview.html">
       <img alt="Configuratiescherm (video’s)" src="./assets/control-panel.png" />
     </a>
     <div>
-    <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=nl">
+    <a href="https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/control-panel-overview.html?lang=en">
     <strong>Configuratiescherm (video’s)</strong>
     </a>
     </div>

@@ -5,9 +5,9 @@ doc-type: article
 role: User
 level: Beginner
 kt: 11772
-source-git-commit: 41cc794dbdc295d76bba63cba2ef145eb50df540
+source-git-commit: 8fa4a3e70ab815af801aaf96596fcc466b879086
 workflow-type: tm+mt
-source-wordcount: '1311'
+source-wordcount: '1274'
 ht-degree: 0%
 
 ---
@@ -71,6 +71,4 @@ Wanneer je nieuwe dingen probeert, krijg je het niet altijd goed. Het testen en 
 
 ## 10 Zo behendig mogelijk blijven
 
-De markt verandert en beweegt zich steeds sneller. Het aanmoedigen van uw campagnemeams om zo licht en flexibel mogelijk te blijven is essentieel om te concurreren en te blijven voldoen aan groeiende klantenverwachtingen. [35 % van de leiders van de digital marketing geloven dat de grootste uitdagingen binnen hun organisatie komen](https://www.gartner.com/en/newsroom/press-releases/gartner-says-35--of-digital-marketing-leaders-believe-the-bigges).
-
-De kruistraining op drie platforms en het vergroten van uw inzicht in gegevensstromen en structuur of andere Adobe oplossingen kunnen u helpen dit te verwezenlijken of het hebben van noodplannen voor campagnes. Experimenten met onderwerpen op een primair instrument plaatsen. Kijk vervolgens naar de kanalen met secundaire en tertiaire hulpmiddelen. Dit leidt tot flexibiliteit in uw marketing verrichtingsmodel. Door gebruik te maken van meer dan drie tools wordt uw expertise en uitvoer drastisch verminderd. Deze mentaliteit kan op vele manieren worden verwezenlijkt, maar een algemene inzet voor flexibiliteit en planning is van cruciaal belang voor het welslagen op korte en lange termijn.
+De markt verandert en beweegt zich steeds sneller. Het aanmoedigen van uw campagnemeams om zo licht en flexibel mogelijk te blijven is essentieel om te concurreren en te blijven voldoen aan groeiende klantenverwachtingen. [35 % van de leiders van de digital marketing geloven dat de grootste uitdagingen binnen hun organisatie komen](https://www.gartner.com/en/newsroom/press-releases/gartner-says-35--of-digital-marketing-leaders-believe-the-bigges). Om dit te verwezenlijken, treed op een paar platforms, vergroot uw inzicht in gegevensstromen en structuur of andere Adobe oplossingen, en creeer noodplannen voor campagnes. Deze mentaliteit kan op vele manieren worden bereikt, maar een algemene inzet voor flexibiliteit en planning is van cruciaal belang voor het welslagen op korte en lange termijn.

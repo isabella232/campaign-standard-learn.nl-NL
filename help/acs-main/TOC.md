@@ -2,10 +2,10 @@
 user-guide-title: Adobe Campaign Standard-tutorials
 user-guide-description: Ontwerp cross-channel klantervaringen en creëer een omgeving voor visuele campagneorkestratie, realtime-interactiebeheer en uitvoering via meerdere kanalen.
 breadcrumb-title: Campaign Standard-tutorials
-source-git-commit: 4c256d4622e2acc2ec08e76aa4e6180ddb5184a0
+source-git-commit: 41cc794dbdc295d76bba63cba2ef145eb50df540
 workflow-type: tm+mt
-source-wordcount: '567'
-ht-degree: 100%
+source-wordcount: '566'
+ht-degree: 98%
 
 ---
 
@@ -99,11 +99,11 @@ ht-degree: 100%
       + [Een trigger in Experience Cloud maken](/help/integrations/create-a-trigger-in-experience-cloud.md)
       + [Een triggergebeurtenis maken in Campaign Standard](/help/integrations/create-a-trigger-event.md)
       + [Transactieberichten configureren met realtimegebeurtenisgegevens](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
-   + [Microsoft® Dynamics 365 configureren voor integratie met Campaign Standard](/help/integrations/configure-dynamics-365.md)
+   + [Microsoft configureren](/help/integrations/configure-dynamics-365.md)
 + Beheren {#administrating}
    + [Toegangsrechten van gebruikers beheren](/help/administrating/managing-user-access-rights.md)
    + [Aangepaste bronnen maken](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=nl)
-   + [Configuratiescherm](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=nl){target=&quot;_blank&quot;}
+   + [Configuratiescherm](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=nl){target="_blank"}
    + Adobe Experience Platform-gegevensconnector {#adobe-experience-platform-data-connector}
       + [Inzicht in Adobe Experience Platform Data Connector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
       + [Aangepaste bronnen toewijzen](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
@@ -122,5 +122,6 @@ ht-degree: 100%
    + [Verzoeken om toegang tot persoonsgegevens uitvoeren](/help/privacy/execute-privacy-requests.md)
 + [Problemen met Campaign Standard oplossen](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=nl)
 + Strategie en leiderschap{#strategy}
+   + [10 Aanbevolen procedures voor Adobe Campaign Success voor Marketers](/help/strategy-and-thought-leadership/10-best-practices-to-adobe-campaign-success-for-marketers.md)
    + [De ROI van e-mail en aanbevolen methoden maximaliserenvoor hernieuwde betrokkenheid van leden](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=nl)
    + [Gids voor aanbevolen methoden voor leverbaarheid](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=nl)

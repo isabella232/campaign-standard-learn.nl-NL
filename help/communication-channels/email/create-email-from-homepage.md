@@ -1,6 +1,6 @@
 ---
 title: Een e-maillevering maken
-description: 'Leer hoe u een e-maillevering kunt maken vanaf de startpagina. '
+description: Leer hoe u een e-maillevering kunt maken vanaf de startpagina.
 feature: Email
 kt: 1807
 thumbnail: 23721.jpg
@@ -12,8 +12,8 @@ role: User
 level: Beginner
 source-git-commit: 99f144fa2c6d892a6b1fde4e434fe75145367313
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '61'
+ht-degree: 45%
 
 ---
 

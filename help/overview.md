@@ -7,10 +7,10 @@ feature: Overview
 role: User, Admin, Developer
 level: Beginner
 recommendations: noDisplay, noCatalog
-source-git-commit: 6a8b4679212207d6cce5c1dba317d3349d319baa
-workflow-type: ht
-source-wordcount: '308'
-ht-degree: 100%
+source-git-commit: ee19698fdf2e7f126d6ce73dc5a372f8729c3e83
+workflow-type: tm+mt
+source-wordcount: '297'
+ht-degree: 84%
 
 ---
 
@@ -20,13 +20,17 @@ Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klanterva
 
 ## Nieuwe functies
 
-* **[Configuratiescherm - Workflows controleren](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-workflows.html?lang=nl){target=&quot;_blank&quot;}**
+* **[Abonnementen](/help/communication-channels/email/schedule-messages.md)**
 
-   *Leer hoe u het tijdelijke opslaggebruik van uw workflows kunt controleren en waar u workflowinstellingen kunt configureren om database- of workflowproblemen voor uw instantie te voorkomen.*
+   *Leer hoe u een e-maillevering kunt plannen.*
 
-* **[Configuratiescherm - Doorvoer en latentie bewaken](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-throughputs-and-latency.html?lang=nl){target=&quot;_blank&quot;}**
+* **[Een proef verzenden](/help/communication-channels/email/send-a-proof.md)**
 
-   *Leer leveringsdoorvoer en transactionele berichtlatentie van uw Campaign-instantie te controleren.*
+   *Leer hoe u een e-mailbericht test voordat u het naar de uiteindelijke ontvangers verzendt.*
+
+* **[Tien best practices voor succes met Adobe Campaign voor marketeers](/help/strategy/10-best-practices-for-marketers.md)**
+
+   *Leer over tien beste praktijken om de beoefenaars van Adobe Campaign te helpen de digitale consumptietransformatie en een betere ervaring voor hun klanten ontsluiten en versnellen.*
 
 ## Aanbevolen door medewerkers van Adobe
 

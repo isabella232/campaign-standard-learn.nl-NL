@@ -7,16 +7,18 @@ feature: Overview
 role: User, Admin, Developer
 level: Beginner
 recommendations: noDisplay, noCatalog
-source-git-commit: ee19698fdf2e7f126d6ce73dc5a372f8729c3e83
+source-git-commit: 9ff98f4144284db542d6bb561bc9c21b052e02ed
 workflow-type: tm+mt
-source-wordcount: '297'
-ht-degree: 84%
+source-wordcount: '286'
+ht-degree: 83%
 
 ---
 
 # Adobe Campaign Standard - overzicht
 
 Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klantervaringen en levert een omgeving voor visuele orkestratie van campagnes, realtime-interactiebeheer en uitvoering via meerdere kanalen. Deze gebruikershandleiding bevat video’s en tutorials over de vele functies en mogelijkheden van Adobe Campaign Standard.
+
+<div id="whats-new-section">
 
 ## Nieuwe functies
 
@@ -31,6 +33,11 @@ Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klanterva
 * **[Tien best practices voor succes met Adobe Campaign voor marketeers](/help/strategy/10-best-practices-for-marketers.md)**
 
    *Leer over tien beste praktijken om de beoefenaars van Adobe Campaign te helpen de digitale consumptietransformatie en een betere ervaring voor hun klanten ontsluiten en versnellen.*
+
+</div>
+
+
+<div id="events-section">
 
 ## Aanbevolen door medewerkers van Adobe
 
@@ -78,6 +85,4 @@ Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klanterva
 </tr>
 </table>
 
-## Aanvullende bronnen
-
-* [Documentatie](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=nl)
+</div>

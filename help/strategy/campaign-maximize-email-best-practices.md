@@ -2,7 +2,7 @@
 title: Maximaliseer uw rendement op investering voor e-mail en leer best practices voor hernieuwde betrokkenheid van leden
 description: Leer hoe u uw e-mailrendement kunt maximaliseren en ontdek de best practices voor hernieuwde betrokkenheid van leden. Ontdek de strategieën om de betrokkenheid van uw leden te verbeteren en krijg inzicht in het algemene succes van uw e-mailcampagnes.
 solution: Campaign
-source-git-commit: 73b0775189f05fc2d5be85d33bc0b0ef213d68ca
+source-git-commit: fda23ddb8a9b31dd637e42a31836214ad14f494c
 workflow-type: tm+mt
 source-wordcount: '1471'
 ht-degree: 2%
@@ -104,7 +104,7 @@ De status van uw abonnees (actief, verlopen of inactief) hangt af van hoe vaak u
 
 Hier volgt een eenvoudige tabel die u tijdens uw controle kan helpen:
 
-![abonneestatus](assets/subscriber-status.png)
+![abonneestatus](/help/assets/subscriber-status.png)
 
 Als u bijvoorbeeld dagelijks klanten per e-mail verzendt, hebben ze in de afgelopen maand contact gehad met een van deze e-mails om als actief en betrokken te worden beschouwd. Omgekeerd geldt dat als u maandelijks klanten per e-mail verzendt en ze binnen 9 tot 14 maanden geen interactie hebben gehad, ze als inactief kunnen worden beschouwd.
 

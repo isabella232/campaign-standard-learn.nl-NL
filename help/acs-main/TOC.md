@@ -3,9 +3,9 @@ user-guide-title: Adobe Campaign Standard-tutorials
 user-guide-description: Ontwerp cross-channel klantervaringen en creëer een omgeving voor visuele campagneorkestratie, realtime-interactiebeheer en uitvoering via meerdere kanalen.
 breadcrumb-title: Campaign Standard-tutorials
 source-git-commit: 73b0775189f05fc2d5be85d33bc0b0ef213d68ca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '563'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -40,7 +40,7 @@ ht-degree: 99%
    + E-mail {#email}
       + [Een e-mail maken](/help/communication-channels/email/create-email-from-homepage.md)
       + [Een test verzenden, een e-mail voorbereiden en verzenden](/help/communication-channels/email/sending-test-preparing-sending-email.md)
-      + [Abonnementen](/help/communication-channels/email/schedule-messages.md)
+      + [Berichten plannen](/help/communication-channels/email/schedule-messages.md)
       + [Een proef verzenden](/help/communication-channels/email/send-a-proof.md)
       + [A/B-test](/help/communication-channels/email/a-b-testing.md)
       + [E-mailberichten testen met gerichte profielen](/help/communication-channels/email/profile-substitution.md)

@@ -8,9 +8,9 @@ role: User, Admin, Developer
 level: Beginner
 recommendations: noDisplay, noCatalog
 source-git-commit: 04bc3a93595f90e8ed48fb7f3896b734256fe92d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '286'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klanterva
 
 ## Nieuwe functies
 
-* **[Abonnementen](/help/communication-channels/email/schedule-messages.md)**
+* **[Berichten plannen](/help/communication-channels/email/schedule-messages.md)**
 
    *Leer hoe u een e-maillevering kunt plannen.*
 
@@ -32,7 +32,7 @@ Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klanterva
 
 * **[Tien best practices voor succes met Adobe Campaign voor marketeers](/help/strategy/10-best-practices-for-marketers.md)**
 
-   *Leer over tien beste praktijken om de beoefenaars van Adobe Campaign te helpen de digitale consumptietransformatie en een betere ervaring voor hun klanten ontsluiten en versnellen.*
+   *Leer de tien best practices om Adobe Campaign-gebruikers te helpen de transformatie van de digitale consument en een betere ervaring voor hun klanten te ontgrendelen en te versnellen.*
 
 </div>
 

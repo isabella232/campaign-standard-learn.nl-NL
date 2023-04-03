@@ -10,7 +10,7 @@ team: TM
 exl-id: f54acc7f-4efe-4d7f-89f1-c4ed596a5d9e
 role: User
 level: Beginner
-source-git-commit: cccc2cd4141d4da4d06132af8bab3f15f7ecc853
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
@@ -23,7 +23,7 @@ De [!UICONTROL Direct Mail] kunt u een gesegmenteerde lijst met ontvangers extra
 
 In deze video wordt uitgelegd hoe u een [!UICONTROL Direct Mail] levering en welke instellingen zijn vereist om een profiel aan een [!UICONTROL Direct Mail] levering.
 
->[!VIDEO](https://video.tv.adobe.com/v/23417?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23417?quality=12&learn=on)
 
 ## Een [!UICONTROL Direct Mail] binnen een workflow
 

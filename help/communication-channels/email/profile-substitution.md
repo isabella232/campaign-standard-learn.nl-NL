@@ -10,7 +10,7 @@ team: TM
 exl-id: 7bee3ab5-0666-4ea5-a785-917f0b18ca12
 role: User
 level: Intermediate, Experienced
-source-git-commit: cccc2cd4141d4da4d06132af8bab3f15f7ecc853
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 67%
@@ -23,7 +23,7 @@ In deze video wordt uitgelegd hoe u e-mailberichten kunt testen met [!UICONTROL 
 
 Stel dat u een gepersonaliseerde e-mailnieuwsbrief wilt verzenden. Voordat u de nieuwsbrief verzendt, wil een collega deze echter bekijken en hij heeft om proeven gevraagd. U kunt de [!UICONTROL Profile Substitution]-functies gebruiken om een proef te verzenden, aangezien u daarmee een nauwkeurige representatie kunt verzenden van het bericht dat het doelprofiel ontvangt.
 
->[!VIDEO](https://video.tv.adobe.com/v/32368?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/32368?quality=12&learn=on)
 
 Raadpleeg de gedetailleerde [productdocumentatie](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html?lang=en) voor meer informatie.
 

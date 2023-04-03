@@ -10,7 +10,7 @@ team: ACS
 exl-id: c538b188-bf19-4e5a-bd93-a89ed716668d
 role: User, Developer, Admin
 level: Experienced
-source-git-commit: cccc2cd4141d4da4d06132af8bab3f15f7ecc853
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
 workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 81%
@@ -28,6 +28,6 @@ ht-degree: 81%
 
 Begrijp welke workflows nodig zijn om gegevens tussen Adobe Campaign en het Journey AI-model te synchroniseren. Leer hoe u verzendtijdscores weergeeft op individueel profielniveau en hoe u e-mailverzendingen uitvoert met een verzendtijdformule.
 
->[!VIDEO](https://video.tv.adobe.com/v/40469?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/40469?quality=12&learn=on)
 
 Raadpleeg de productdocumentatie voor meer informatie hierover [ontwerp en levering optimaliseren met e-mails van AI](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/predictive.html?lang=en)

@@ -1,6 +1,6 @@
 ---
 title: E-mail Designer - overzicht
-description: Begrijp de algemene functionaliteit van de e-mailontwerper en hoe u een e-mailbericht helemaal zelf kunt ontwerpen.
+description: Begrijp de algemene functionaliteit van de e-mailontwerper en hoe u een volledig nieuwe e-mail kunt ontwerpen.
 feature: Email Design
 kt: 1402
 thumbnail: 22771.jpg
@@ -12,9 +12,9 @@ role: User, Developer
 recommendations: noDisplay
 level: Beginner
 source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '123'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 

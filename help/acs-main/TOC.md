@@ -2,10 +2,10 @@
 user-guide-title: Adobe Campaign Standard-tutorials
 user-guide-description: Ontwerp cross-channel klantervaringen en creëer een omgeving voor visuele campagneorkestratie, realtime-interactiebeheer en uitvoering via meerdere kanalen.
 breadcrumb-title: Campaign Standard-tutorials
-source-git-commit: 73b0775189f05fc2d5be85d33bc0b0ef213d68ca
-workflow-type: ht
-source-wordcount: '563'
-ht-degree: 100%
+source-git-commit: 5fd8decb13b8d7376c6899b1597eade4b3c5a83d
+workflow-type: tm+mt
+source-wordcount: '568'
+ht-degree: 99%
 
 ---
 
@@ -88,11 +88,12 @@ ht-degree: 100%
       + [Externe signaalactiviteit](/help/managing-processes-and-data/execution-activities/external-signal-activity.md)
    + Activiteiten voor gegevensbeheer{#data-management-activities}
       + [Externe API-activiteit](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)
-+ Rapporteren {#reporting}
++ Rapport en toezicht {#reporting}
    + [Rapporten verkennen](/help/getting-started/exploring-reports.md)
    + [Een dynamisch rapport maken](/help/reporting/creating-a-dynamic-report.md)
    + [Een rapport maken op basis van aangepaste profielkenmerken](/help/reporting/custom-profile-attributes-dynamic-reports.md)
    + [Een rapport maken op basis van workflowsegmenten](/help/reporting/report-on-workflow-segments.md)
+   + [Een verzending controleren](/help/reporting/monitor-a-delivery.md)
 + Integreren met andere oplossingen {#integrations}
    + [Het succes van uw leveringen in Adobe Analytics bijhouden](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
    + Triggers gebruiken voor transactieberichten {#triggers}

@@ -9,7 +9,7 @@ doc-type: Article
 last-substantial-update: 2023-05-18T00:00:00Z
 jira: KT-13256
 thumbnail: KT-13256.jpeg
-source-git-commit: 5ac2210e2682cab45e4fe99eb41e53abf160bbe7
+source-git-commit: bc9e83e1864b02208f9cd7fe591c77bf6d049a37
 workflow-type: tm+mt
 source-wordcount: '737'
 ht-degree: 0%
@@ -80,9 +80,9 @@ Deze fout kan op twee manieren worden opgelost:
 
 1. Dezelfde veldnaam gebruiken in zowel primaire als uitgesloten velden en dat veld als id gebruiken
 
-OF
+   OF
 
-2. Gebruik de methode voor JOINS-uitsluiting om het veld te selecteren waarop u de records wilt uitsluiten.
+1. Gebruik de methode voor JOINS-uitsluiting om het veld te selecteren waarop u de records wilt uitsluiten.
 
 ![Gegevenssetfout algemeen veld - Oplossing ](/help/assets/kt-13256/dataset-error-solution.png)
 

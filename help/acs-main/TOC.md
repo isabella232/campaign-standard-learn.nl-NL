@@ -2,10 +2,10 @@
 user-guide-title: Adobe Campaign Standard-tutorials
 user-guide-description: Ontwerp cross-channel klantervaringen en creëer een omgeving voor visuele campagneorkestratie, realtime-interactiebeheer en uitvoering via meerdere kanalen.
 breadcrumb-title: Campaign Standard-tutorials
-source-git-commit: 5fd8decb13b8d7376c6899b1597eade4b3c5a83d
+source-git-commit: 19ce1d39823df5f60305445c6ad7583c23b845da
 workflow-type: tm+mt
-source-wordcount: '568'
-ht-degree: 99%
+source-wordcount: '571'
+ht-degree: 98%
 
 ---
 
@@ -126,5 +126,6 @@ ht-degree: 99%
 + [Problemen met Campaign Standard oplossen](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=nl)
 + Strategie en leiderschap{#strategy}
    + [Tien best practices voor succes met Adobe Campaign voor marketeers](/help/strategy/10-best-practices-for-marketers.md)
+   + [Problemen met markeertekens oplossen](/help/strategy/troubleshooting-for-marketers)
    + [Maximaliseer het rendement van investering van e-mail en best practices voor hernieuwde betrokkenheid van leden](/help/strategy/campaign-maximize-email-best-practices.md)
    + [Gids voor best practices inzake leverbaarheid](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=nl)

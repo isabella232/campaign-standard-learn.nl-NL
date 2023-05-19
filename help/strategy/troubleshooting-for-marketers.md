@@ -9,9 +9,9 @@ doc-type: Article
 last-substantial-update: 2023-05-18T00:00:00Z
 jira: KT-13256
 thumbnail: KT-13256.jpeg
-source-git-commit: f7f2b6abb26075b25a3b55e4ceed744172691ce8
+source-git-commit: 3da1b695d56f9deb5747cc89de023f19a5b25bad
 workflow-type: tm+mt
-source-wordcount: '735'
+source-wordcount: '724'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Door: [Suraj Patra](https://www.linkedin.com/in/suraj-p-51612053/){target="_blank"}, senior consultant, Meijer
 
-Als Senior Engineer en klant expert op het gebied van Adobe Experience Cloud producten gedurende de afgelopen vijf jaar, geef ik zakelijke gebruikers de mogelijkheid om [Meijer](https://www.meijer.com/){target="_blank"}, een in 1934 opgerichte Amerikaanse supercentrum-keten die complexe marketing- en transactiecampagnes met ACS voert. Enkele projecten waaraan ik heb gewerkt, omvatten aangepaste campagnes om aanbiedingen en orderdetails voor verpersoonlijking op te slaan, geïntegreerd met Adobe Audience Manager, en klantinzicht voor segmentopname.
+Als Senior Engineer en klant expert op het gebied van Adobe Experience Cloud producten gedurende de afgelopen vijf jaar, geef ik zakelijke gebruikers de mogelijkheid om [Meijer](https://www.meijer.com/){target="_blank"}, een in 1934 opgerichte Amerikaanse supercentrum-keten, om complexe marketing- en transactiecampagnes met ACS te voeren. Enkele projecten waaraan ik heb gewerkt, omvatten aangepaste campagnes om aanbiedingen en orderdetails voor verpersoonlijking op te slaan, geïntegreerd met Adobe Audience Manager, en klantinzicht voor segmentopname.
 
 
 In mijn tijd die ACS gebruikt, heb ik fouten ervaren die tijdrovend en frustrerend kunnen zijn om op te lossen. Kennis van de meest voorkomende fouten kan u helpen sneller problemen op te lossen en uw productiviteit te verhogen. Hieronder vindt u de tips voor het oplossen van problemen waarmee u vergelijkbare fouten op effectieve wijze kunt oplossen.
@@ -50,8 +50,6 @@ Wijzig het gegevenstype van het veld bij activiteit Bestand laden in het gegeven
 **Oorzaak:**
 Deze fout treedt op wanneer u een e-mail naar een adres verzendt, maar de e-mail of een andere id niet in overeenstemming is met een profiel. Als u een e-mailbericht wilt verzenden, moet de e-mail of de id altijd zijn gekoppeld aan een profiel.
 
-Gebruik de afstemmingsactiviteit zoals hieronder getoond:
-
 ![workflow met afstemmingsactiviteit](/help/assets/kt-13256/del-persn-error-wf.png)
 
 **Oplossing:**
@@ -69,7 +67,7 @@ Meer informatie over [verzoening](https://experienceleague.adobe.com/docs/campai
 `The document types of inbound events (''and'') are incompatible (step 'Exclusion'). Unable to perform the operation. `
 
 **Oorzaak:**
-Dit probleem treedt op tijdens het gebruik van het **uitsluitingsactiviteit** in ACS-workflows. De fout treedt op bij het uitvoeren en uitsluiten op basis van de id, wanneer de primaire set en de uitgesloten set niet dezelfde veldnamen hebben.
+Dit probleem treedt op tijdens het gebruik van het **uitsluitingsactiviteit** in ACS werkschema&#39;s, wanneer het uitvoeren van een uitsluiting die op identiteitskaart wordt gebaseerd, wanneer de Primaire reeks en de uitgesloten reeks niet de zelfde gebiedsnamen hebben.
 
 
 ![Gegevensfout algemeen veld](/help/assets/kt-13256/dataset-error.png)
@@ -82,7 +80,7 @@ Deze fout kan op twee manieren worden opgelost:
 
    OF
 
-1. Gebruik de methode voor JOINS-uitsluiting om het veld te selecteren waarop u de records wilt uitsluiten.
+2. Gebruik de methode voor JOINS-uitsluiting om het veld te selecteren waarop u de records wilt uitsluiten.
 
 ![Gegevenssetfout algemeen veld - Oplossing ](/help/assets/kt-13256/dataset-error-solution.png)
 

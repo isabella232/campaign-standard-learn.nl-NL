@@ -10,24 +10,15 @@ team: TM
 exl-id: 55cc83d2-e1ec-488d-b36a-b5f8c96dc412
 role: User, Developer
 level: Beginner, Intermediate
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
+source-git-commit: a3f749219525a605a24ccb1d0394c9db3ecb9989
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 8%
+source-wordcount: '42'
+ht-degree: 19%
 
 ---
 
 # Een in-app-bericht uitzenden
 
-U kunt een bericht in de app uitzenden waarin alle gebruikers van een mobiele app worden aangegeven of Adobe Campaign over hun profielgegevens beschikt.
-
-Enkele relevante gebruiksgevallen in deze categorie zijn:
-
-* Een zelfstudie over een mobiele app verzenden naar startprogramma&#39;s voor app voor de eerste keer of
-* Aankondigingen voor nieuwe eigenschapversies
-
 Leer hoe u de uitzendsjabloon configureert en gebruikt om deze te richten op alle gebruikers van uw mobiele app.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26199?quality=12&learn=on)
-
-*Een bericht voor uitzending in de app maken met de eigenschap SDKV5 Mobile*

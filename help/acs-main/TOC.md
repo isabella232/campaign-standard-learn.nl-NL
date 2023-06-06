@@ -2,9 +2,9 @@
 user-guide-title: Adobe Campaign Standard-tutorials
 user-guide-description: Ontwerp cross-channel klantervaringen en creëer een omgeving voor visuele campagneorkestratie, realtime-interactiebeheer en uitvoering via meerdere kanalen.
 breadcrumb-title: Campaign Standard-tutorials
-source-git-commit: 6ae9e253f99947c2515031b520d5ab029e9c4b8a
+source-git-commit: a3f749219525a605a24ccb1d0394c9db3ecb9989
 workflow-type: tm+mt
-source-wordcount: '585'
+source-wordcount: '581'
 ht-degree: 96%
 
 ---
@@ -60,7 +60,6 @@ ht-degree: 96%
          + [Een meertalige pushmelding maken](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
          + [Tutorial: Aan de slag met pushmeldingen voor Android™](https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=nl)
       + In-app-berichten {#in-app}
-         + [Inleiding tot in-app-berichten](/help/communication-channels/mobile/in-app/in-app-message-overview.md)
          + [Gebeurtenissen configureren](/help/communication-channels/mobile/in-app/configure-events.md)
          + [Een in-app-bericht uitzenden](/help/communication-channels/mobile/in-app/broadcast-in-app-message.md)
          + [Gebruikers doelgericht benaderen op basis van hun Campaign-profiel](/help/communication-channels/mobile/in-app/target-users-based-on-campaign-profile.md)

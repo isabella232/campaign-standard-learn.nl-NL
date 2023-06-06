@@ -1,6 +1,6 @@
 ---
 title: Gebeurtenissen configureren
-description: '"Begrijp hoe de gebeurtenissen bepalen welke actie van de gebruiker een in-app bericht teweegbrengt om te worden getoond. ’'
+description: Begrijp welke actie van de gebruiker een in-app bericht teweegbrengt en leer hoe te om deze gebeurtenissen te vormen.
 feature: In App
 kt: 2548
 thumbnail: 26245.jpg
@@ -10,54 +10,15 @@ team: TM
 exl-id: 2c7937f4-b0da-46e5-934e-c660012c2c6f
 role: User, Developer
 level: Beginner, Intermediate
-source-git-commit: 56b973566e9dee412aeee1412fe6271537fc1295
+source-git-commit: a3f749219525a605a24ccb1d0394c9db3ecb9989
 workflow-type: tm+mt
-source-wordcount: '185'
-ht-degree: 2%
+source-wordcount: '35'
+ht-degree: 8%
 
 ---
 
 # Configureren [!UICONTROL Events] {#configuring-events}
 
-Wanneer u een [!UICONTROL In-App] bericht, moet u bepalen welke gebruiker-in werking gestelde actie het te tonen bericht teweegbrengt. Deze handelingen worden [!UICONTROL events]. Drie categorieën [!UICONTROL events] zijn beschikbaar: [!UICONTROL Mobile Application events], [!UICONTROL Life-Cycle events], en [!UICONTROL Analytics events].
-
-## [!UICONTROL Mobile Application Events] {#mobile-application-events}
-
-[!UICONTROL Mobile Application events] zijn [!UICONTROL custom events] die zijn geïmplementeerd in uw mobiele toepassing.
-
-Voorbeelden zijn:
-
-* Een klant heeft een onderdeel bekeken
-* Een klant voegt een item aan het winkelwagentje toe
-* Lozing van winkelwagentjes
-* Een klant heeft iets gekocht
-
-U moet deze configureren [!UICONTROL events] in Adobe Campaign. In de volgende video wordt beschreven hoe u dit doet.
+Begrijp welke actie van de gebruiker een in-app bericht teweegbrengt en leer hoe te om deze gebeurtenissen te vormen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26245?quality=12&learn=on)
-
-## [!UICONTROL Life-Cycle events] {#life-cycle-events}
-
-[!UICONTROL Lifecycle events] buiten de box [!UICONTROL events]. Het volgende [!UICONTROL events] zijn beschikbaar:
-
-* [!UICONTROL launched]
-* [!UICONTROL upgraded]
-* [!UICONTROL crashed]
-
-Een voorbeeld van een gebruiksgeval zou een bericht kunnen zijn introducerend nieuwe eigenschappen na een verbetering, of een gebeurtenisbevordering.
-
->[!NOTE]
->
->De [!UICONTROL Lifecycle module] moet worden geconfigureerd in de mobiele toepassing. Zie hier voor meer informatie over [Lifecycle toevoegen aan uw app](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core/lifecycle)
-
-## [!UICONTROL Analytics Events] {#analytics-events}
-
-De volgende drie categorieën worden ondersteund, afhankelijk van wat er van instrumenten wordt voorzien in uw mobiele app:
-
-* Adobe Analytics
-* [!UICONTROL Context data]
-* [!UICONTROL View state]
-
->[!NOTE]
->
->[!UICONTROL Analytics events] een Adobe Analytics-licentie vereisen. Zodra u [!DNL Analytics] extensie geconfigureerd en Analytics toegevoegd aan uw app, worden deze gebeurtenissen beschikbaar in het dialoogvenster [!UICONTROL In-App] configuratie in ACS.

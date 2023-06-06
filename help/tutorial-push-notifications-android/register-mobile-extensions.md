@@ -1,22 +1,22 @@
 ---
 title: Stap 3 - Extensies registreren voor uw mobiele app
-description: In dit deel voegen we de code toe voor het registreren van de extensies Gebruikersprofiel, Identiteit, Levenscyclus en Signaal.
+description: In dit deel voegen we de code toe om de extensies Gebruikersprofiel, Identiteit, Levenscyclus en Signaal te registreren.
 feature: Push
 kt: 4827
 doc-type: tutorial
 activity: use
 team: TM
 exl-id: d8c0d8c6-2e04-4c27-b27a-d0de79dd953b
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: a3f749219525a605a24ccb1d0394c9db3ecb9989
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 11%
+source-wordcount: '107'
+ht-degree: 13%
 
 ---
 
 # Stap 3 - Extensies registreren voor uw mobiele app
 
-In dit deel voegen we de code toe voor het registreren van de extensies Gebruikersprofiel, Identiteit, Levenscyclus en Signaal. Deze extensies maken deel uit van [[!UICONTROL Mobile Core Extensions]](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core). We moeten ook de Adobe Campaign Standard-extensie registreren, zoals in de onderstaande code wordt getoond.
+In dit deel, voegen wij de code toe om de uitbreidingen van het Profiel van de Gebruiker, van de Identiteit, van de Levenscyclus, en van het Signaal te registreren. We moeten ook de Adobe Campaign Standard-extensie registreren, zoals in de onderstaande code wordt getoond.
 
 Open uw project in [!DNL Android] studio. De gehele code in MainApp verwijderen **behalve de eerste regel die de pakketinstructie is**.
 
@@ -68,6 +68,6 @@ try{
 }
 ```
 
-Lijn 32 u uw moet verstrekken[!UICONTROL  Launch] Omgevingsbestand-id van eigenschap. Dit is toegankelijk via de [!UICONTROL environment tab] van uw [!UICONTROL Launch] eigenschap.
+Regel 32 u moet uw verstrekken[!UICONTROL  Launch] Omgevingsbestand-id van eigenschap. Dit is toegankelijk via de [!UICONTROL environment tab] van uw [!UICONTROL Launch] eigenschap.
 
 ![launch-id](assets/launch-id-property.PNG)

@@ -1,6 +1,6 @@
 ---
 title: Gebeurtenissen configureren
-description: '"Begrijp hoe gebeurtenissen bepalen welke actie van de gebruiker een bericht in-app teweegbrengt om te worden getoond. ’'
+description: '"Begrijp hoe de gebeurtenissen bepalen welke actie van de gebruiker een in-app bericht teweegbrengt om te worden getoond. ’'
 feature: In App
 kt: 2548
 thumbnail: 26245.jpg
@@ -10,16 +10,16 @@ team: TM
 exl-id: 2c7937f4-b0da-46e5-934e-c660012c2c6f
 role: User, Developer
 level: Beginner, Intermediate
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
+source-git-commit: 56b973566e9dee412aeee1412fe6271537fc1295
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '185'
 ht-degree: 2%
 
 ---
 
 # Configureren [!UICONTROL Events] {#configuring-events}
 
-Wanneer u een [!UICONTROL In-App] bericht, moet u bepalen welke gebruiker-in werking gestelde actie het te tonen bericht teweegbrengt. Deze handelingen worden [!UICONTROL events]. Drie categorieën [!UICONTROL events] zijn beschikbaar: [!UICONTROL Mobile Application events], [!UICONTROL Life Cycle events], en [!UICONTROL Analytics events].
+Wanneer u een [!UICONTROL In-App] bericht, moet u bepalen welke gebruiker-in werking gestelde actie het te tonen bericht teweegbrengt. Deze handelingen worden [!UICONTROL events]. Drie categorieën [!UICONTROL events] zijn beschikbaar: [!UICONTROL Mobile Application events], [!UICONTROL Life-Cycle events], en [!UICONTROL Analytics events].
 
 ## [!UICONTROL Mobile Application Events] {#mobile-application-events}
 
@@ -36,7 +36,7 @@ U moet deze configureren [!UICONTROL events] in Adobe Campaign. In de volgende v
 
 >[!VIDEO](https://video.tv.adobe.com/v/26245?quality=12&learn=on)
 
-## [!UICONTROL Life Cycle events] {#life-cycle-events}
+## [!UICONTROL Life-Cycle events] {#life-cycle-events}
 
 [!UICONTROL Lifecycle events] buiten de box [!UICONTROL events]. Het volgende [!UICONTROL events] zijn beschikbaar:
 
@@ -60,4 +60,4 @@ De volgende drie categorieën worden ondersteund, afhankelijk van wat er van ins
 
 >[!NOTE]
 >
->[!UICONTROL Analytics events] een Adobe Analytics-licentie vereisen. Zodra u [[!DNL Analytics] extensie geconfigureerd](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#configure-analytics-extension-in-launch) en toegevoegd [Analyses voor uw app](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#add-analytics-to-your-app)Deze gebeurtenissen zijn beschikbaar in het dialoogvenster [!UICONTROL In-App] configuratie in ACS.
+>[!UICONTROL Analytics events] een Adobe Analytics-licentie vereisen. Zodra u [!DNL Analytics] extensie geconfigureerd en Analytics toegevoegd aan uw app, worden deze gebeurtenissen beschikbaar in het dialoogvenster [!UICONTROL In-App] configuratie in ACS.

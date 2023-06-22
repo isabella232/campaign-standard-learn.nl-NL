@@ -2,7 +2,7 @@
 title: Een testprofiel maken
 description: Leer hoe u ontvangers die niet voldoen aan de gedefinieerde doelcriteria kunt aanwijzen om frauduleus gebruik van uw database voor ontvangers te detecteren of om ervoor te zorgen dat de e-mails in de Postvakken aankomen.
 feature: Test Profiles
-kt: 1810
+jira: KT-1810
 thumbnail: 24094.jpg
 doc-type: feature video
 activity: use
@@ -10,7 +10,7 @@ team: DOC
 exl-id: fb138b50-5022-4320-8d45-a9ac6405a44e
 role: User
 level: Beginner, Intermediate
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 27%

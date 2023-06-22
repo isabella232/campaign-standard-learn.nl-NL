@@ -2,7 +2,7 @@
 title: Bestemmingen van het publiek - Overzicht
 description: Meer informatie over het gebruik van Adobe Experience Platform-soorten publiek in Adobe Campaign Standard
 feature: People Core Service Integration
-kt: 2755
+jira: KT-2755
 thumbnail: null
 doc-type: feature video
 activity: using
@@ -11,7 +11,7 @@ exl-id: e70fdef9-2907-4858-9eca-006c59695bb3
 role: User, Developer
 level: Beginner, Intermediate, Experienced
 recommendations: noDisplay
-source-git-commit: 87c7d040e2bdd1ccaceb5035b494a6fb50c77f7b
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 4%
@@ -27,6 +27,7 @@ ht-degree: 4%
 >Deze mogelijkheid is in bèta beschikbaar en kan regelmatig worden bijgewerkt en gewijzigd zonder voorafgaande kennisgeving. [!UICONTROL Audience Destinations] is gebaseerd op Adobe Experience Platform en vereist een specifieke configuratie.
 >
 >Neem contact op met [!UICONTROL Adobe Customer Support] als u van plan bent om dit vermogen uit te voeren.
+>
 
 In deze zelfstudie wordt uitgelegd hoe u de gecentraliseerde en geconsolideerde profielgegevens van de Adobe Experience Platform kunt gebruiken voor marketingcampagnes in Adobe Campaign Standard.
 

@@ -3,9 +3,9 @@ user-guide-title: Adobe Campaign Standard-tutorials
 user-guide-description: Ontwerp cross-channel klantervaringen en creëer een omgeving voor visuele campagneorkestratie, realtime-interactiebeheer en uitvoering via meerdere kanalen.
 breadcrumb-title: Campaign Standard-tutorials
 source-git-commit: a3f749219525a605a24ccb1d0394c9db3ecb9989
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '581'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -87,14 +87,14 @@ ht-degree: 96%
       + [Externe signaalactiviteit](/help/managing-processes-and-data/execution-activities/external-signal-activity.md)
    + Activiteiten voor gegevensbeheer{#data-management-activities}
       + [Externe API-activiteit](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)
-+ Rapport en toezicht {#reporting}
++ Rapport en bewaken {#reporting}
    + [Rapporten verkennen](/help/getting-started/exploring-reports.md)
    + [Een dynamisch rapport maken](/help/reporting/creating-a-dynamic-report.md)
    + [Een rapport maken op basis van aangepaste profielkenmerken](/help/reporting/custom-profile-attributes-dynamic-reports.md)
    + [Een rapport maken op basis van workflowsegmenten](/help/reporting/report-on-workflow-segments.md)
    + [Een verzending controleren](/help/reporting/monitor-a-delivery.md)
 + Integreren met andere oplossingen {#integrations}
-   + [Doel integreren met campagne](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html?lang=en)
+   + [Target integreren met Campaign](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html?lang=nl)
    + [Het succes van uw leveringen in Adobe Analytics bijhouden](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
    + Triggers gebruiken voor transactieberichten {#triggers}
       + [Overzicht](/help/integrations/using-triggers-for-transactional-messaging-overview.md)
@@ -126,6 +126,6 @@ ht-degree: 96%
 + [Problemen met Campaign Standard oplossen](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=nl)
 + Strategie en leiderschap{#strategy}
    + [Tien best practices voor succes met Adobe Campaign voor marketeers](/help/strategy/10-best-practices-for-marketers.md)
-   + [Problemen met markeertekens oplossen](/help/strategy/troubleshooting-for-marketers.md)
+   + [Problemen oplossen voor marketeers](/help/strategy/troubleshooting-for-marketers.md)
    + [Maximaliseer het rendement van investering van e-mail en best practices voor hernieuwde betrokkenheid van leden](/help/strategy/campaign-maximize-email-best-practices.md)
    + [Gids voor best practices inzake leverbaarheid](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=nl)

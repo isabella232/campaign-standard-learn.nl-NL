@@ -1,5 +1,5 @@
 ---
-title: Het succes van uw leveringen in Adobe Analytics bijhouden
+title: Houd het succes van uw Campaign Standard-leveringen in Adobe Analytics bij
 description: Leer hoe u de integratie van Campaign Standard en Analytics configureert. Begrijp hoe u een rapport in Analytics bouwt met het gebruik van gegevens die van Campaign Standard worden ontvangen en welke KPI's beschikbaar zijn.
 feature: Application Settings
 topic: Integrations
@@ -11,14 +11,14 @@ doc-type: feature video
 team: TM
 exl-id: babe7b9f-c198-4358-ba3a-91fabf584f9b
 badgeIntegration: label="Integratie" type="positive"
-source-git-commit: 4777e0a8f6424a3fb82f7ded4fe0db44875a89e3
+source-git-commit: 019060e150a00b2d615b0ad694c664475b00c302
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 99%
+source-wordcount: '108'
+ht-degree: 78%
 
 ---
 
-# Het succes van uw leveringen in Adobe Analytics bijhouden
+# Houd het succes van uw Campaign Standard-leveringen in Adobe Analytics bij
 
 Leer hoe u de integratie van Campaign Standard en Analytics configureert. Begrijp hoe u een rapport in Analytics bouwt met het gebruik van gegevens die van Campaign Standard worden ontvangen en welke KPI&#39;s beschikbaar zijn.
 

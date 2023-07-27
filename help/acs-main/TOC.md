@@ -2,9 +2,9 @@
 user-guide-title: Adobe Campaign Standard-tutorials
 user-guide-description: Ontwerp cross-channel klantervaringen en creëer een omgeving voor visuele campagneorkestratie, realtime-interactiebeheer en uitvoering via meerdere kanalen.
 breadcrumb-title: Campaign Standard-tutorials
-source-git-commit: a3f749219525a605a24ccb1d0394c9db3ecb9989
-workflow-type: ht
-source-wordcount: '581'
+source-git-commit: 3e8484650a941a3166063b8765f39a90fda6109f
+workflow-type: tm+mt
+source-wordcount: '567'
 ht-degree: 100%
 
 ---
@@ -94,7 +94,6 @@ ht-degree: 100%
    + [Een rapport maken op basis van workflowsegmenten](/help/reporting/report-on-workflow-segments.md)
    + [Een verzending controleren](/help/reporting/monitor-a-delivery.md)
 + Integreren met andere oplossingen {#integrations}
-   + [Target integreren met Campaign](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html?lang=nl)
    + [Het succes van uw leveringen in Adobe Analytics bijhouden](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
    + Triggers gebruiken voor transactieberichten {#triggers}
       + [Overzicht](/help/integrations/using-triggers-for-transactional-messaging-overview.md)

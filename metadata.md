@@ -10,7 +10,7 @@ git-repo: https://github.com/AdobeDocs/campaign-standard-learn.nl-NL
 index: true
 source-git-commit: f19c11812d187b67450eea05d62ada68b4b97bbc
 workflow-type: ht
-source-wordcount: '130'
+source-wordcount: '0'
 ht-degree: 100%
 
 ---

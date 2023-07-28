@@ -6,7 +6,7 @@ level: Beginner
 feature: Data Model
 source-git-commit: fe14b0dc9fbea000ac13f4a538c8e2f5eab38079
 workflow-type: ht
-source-wordcount: '48'
+source-wordcount: '0'
 ht-degree: 100%
 
 ---

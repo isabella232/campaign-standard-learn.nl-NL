@@ -2,12 +2,14 @@
 title: STAP 4 - Push-id instellen
 description: De **pushIdentifier** is een tekenreeks die het apparaattoken voor pushberichten bevat. Het is hetzelfde token dat door Firebase wordt verzonden en via de methode MobileCore.setPushIdentifier aan de SDK wordt doorgegeven.
 feature: Push
+user: Admin
+level: Experienced
 jira: KT-4828
 doc-type: tutorial
 activity: use
 team: TM
 exl-id: 08387b84-edaa-45ee-ae66-53bcbd5c7c39
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 757afce50981b96b7820c987308d639a73746c0c
 workflow-type: tm+mt
 source-wordcount: '207'
 ht-degree: 0%
@@ -98,7 +100,7 @@ Het is nu een goed moment om uw app te testen voordat u verder gaat.
 ### Abonnees voor mobiele toepassingen controleren
 
 Meld u aan bij uw Adobe Campaign Standard-exemplaar.
-Navigeren **[!UICONTROL Administration->Channels->Mobile App(Experience Platform SDK)]**. Open de juiste mobiele toepassing. Tab naar het tabblad [!UICONTROL Mobile Application Subscribers] tab. U dient een [!UICONTROL registration token]vermeld.
+Navigeren **[!UICONTROL Administration->Channels->Mobile App(Experience Platform SDK)]**. Open de juiste mobiele toepassing. Tab naar de [!UICONTROL Mobile Application Subscribers] tab. U dient een [!UICONTROL registration token]vermeld.
 
 ![mobiele applicatie-abonnees](assets/mobile-application-subscribers.PNG)
 

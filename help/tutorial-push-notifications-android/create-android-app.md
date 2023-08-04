@@ -2,13 +2,15 @@
 title: Stap 1 - Een Android-toepassing maken en configureren voor gebruik van Firebase Cloud Messaging
 description: In dit deel zullen wij [!DNL Android] Te ontvangen app [!UICONTROL Push notifications] verzonden vanuit Adobe Campaign Standard. Om de pushberichten te ontvangen, moet de app zijn geregistreerd bij Google [!DNL Firebase Cloud Service].
 feature: Push
+user: Admin
+level: Experienced
 jira: KT-4825
 doc-type: tutorial
 activity: use
 team: TM
 recommendations: noDisplay
 exl-id: f087d9f2-cce9-4903-977f-3c5b47522c06
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 0ad82fb0533ed8fc2a85c2a32c7e54deef14d05a
 workflow-type: tm+mt
 source-wordcount: '319'
 ht-degree: 3%
@@ -67,7 +69,7 @@ Als uw app met Firebase is geïntegreerd, ontvangt u een bericht zoals hieronder
 
    ![projectinstellingen](assets/firebase-project-settings.PNG)
 
-4. Tab naar het tabblad **[!UICONTROL Cloud Messaging]** tab.
+4. Tab naar de **[!UICONTROL Cloud Messaging]** tab.
 5. De serversleutel kopiëren
 
    ![serversleutel](assets/firebase-server-key.PNG)
@@ -82,4 +84,4 @@ Als alles goed gaat, zou u een SUCCESS bericht moeten zien.
 
 ![push-channel-instellingen](assets/push-channel-settings.PNG)
 
-Samenvattend hebben we een [!DNL Android App] en de [!DNL Android App] with [!DNL Firebase]. We hebben de Mobile App in Adobe Campaign vervolgens verbonden met de [!DNL Android App] door de [!DNL Android] De serversleutel van de app is in op de Mobile App in Adobe Campaign Standard.
+Samenvattend hebben we een [!DNL Android App] en de [!DNL Android App] with [!DNL Firebase]. We hebben de Mobile App in Adobe Campaign vervolgens verbonden met de [!DNL Android App] door de [!DNL Android] De serversleutel van de app is in op de Mobile-app in Adobe Campaign Standard.

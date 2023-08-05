@@ -11,9 +11,9 @@ team: TM
 recommendations: noDisplay
 exl-id: fb766403-694c-4a7b-b3d1-4a418df85891
 source-git-commit: d46e4c84a7d162085016722005cca4aadb4feb3c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '350'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -31,7 +31,7 @@ Adobe Campaign biedt gegevenscontrollers drie manieren voor het verwerken van ve
 >
 > **WIJZIGINGEN MET ACS 19.4:**
 > 
-> De [Privacy Service-integratie](https://developer.adobe.com/apis/experienceplatform/gdpr.html) is de methode die u voor alle toegang en schrappingsverzoeken zou moeten gebruiken. Met ingang van versie 19.4 is het gebruik van de Campaign-API en -interface voor toegangs- en verwijderingsverzoeken afgeschaft. Raadpleeg [deze pagina](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/deprecated-features.html?lang=nl) voor meer informatie over Campaign Standard-functies die zijn afgeschaft en verwijderd.
+> De [integratie van Privacy Service](https://developer.adobe.com/apis/experienceplatform/gdpr.html) is de methode die u moet gebruiken voor alle toegangs- en verwijderingsverzoeken. Met ingang van versie 19.4 is het gebruik van de Campaign-API en -interface voor toegangs- en verwijderingsverzoeken afgeschaft. Raadpleeg [deze pagina](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/deprecated-features.html?lang=nl) voor meer informatie over Campaign Standard-functies die zijn afgeschaft en verwijderd.
 >
 >**Opt-out voor de verkoop van persoonlijke gegevens (CCPA)**
 >

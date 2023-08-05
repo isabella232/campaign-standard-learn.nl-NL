@@ -1,6 +1,6 @@
 ---
-title: Microsoft&reg configureren; Dynamics 365 for the integration with Campaign Standard
-description: Leer hoe u Microsoft&reg configureert; Dynamics 365 voor gebruik bij de integratie van Dynamics en Campaign Standard.
+title: Microsoft® Dynamics 365 configureren voor integratie met Campaign Standard
+description: Leer hoe u Microsoft® Dynamics 365 kunt configureren voor gebruik in de integratie van Dynamics en Campaign Standard.
 feature: Microsoft CRM Integration
 jira: KT-2927
 doc-type: feature video
@@ -11,9 +11,9 @@ team: PM
 exl-id: b1eecb0f-d51d-4671-93d1-656b507c5bb6
 badgeIntegration: label="Integratie" type="positive"
 source-git-commit: 4777e0a8f6424a3fb82f7ded4fe0db44875a89e3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '76'
-ht-degree: 61%
+ht-degree: 100%
 
 ---
 

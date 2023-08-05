@@ -1,6 +1,6 @@
 ---
-title: Adobe Experience Platform-gegevensverzameling configureren voor triggers
-description: Leer hoe u Adobe Experience Platform Data Collection kunt gebruiken en de vereiste eigenschappen aan uw website kunt toevoegen om uw configuratie te testen.
+title: Adobe Experience Platform-dataverzameling configureren voor triggers
+description: Leer hoe u Adobe Experience Platform-dataverzameling kunt gebruiken en de vereiste eigenschappen aan uw website kunt toevoegen om uw configuratie te testen.
 feature: Triggers
 jira: KT-7434
 thumbnail: 332908.jpg
@@ -12,18 +12,18 @@ hidefromtoc: false
 exl-id: 39e087af-0868-4db7-b031-1830e72f6e61
 badgeIntegration: label="Integratie" type="positive"
 source-git-commit: 7e5910000bf5af9573529f03d3e47f66807a77ed
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '85'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Adobe Experience Platform-gegevensverzameling configureren voor triggers
+# Adobe Experience Platform-dataverzameling configureren voor triggers
 
-Leer hoe u Adobe Experience Platform Data Collection kunt gebruiken en de vereiste eigenschappen aan uw website kunt toevoegen om uw configuratie te testen.
+Leer hoe u Adobe Experience Platform-dataverzameling kunt gebruiken en de vereiste eigenschappen aan uw website kunt toevoegen om uw configuratie te testen.
 
 >[!IMPORTANT]
 >
-> Houd er rekening mee dat Launch nu de functie Tags van Adobe Experience Platform is. Het is te vinden onder **Adobe Experience Platform-gegevensverzamelingen**.
+> Houd er rekening mee dat Launch nu de functie Tags van Adobe Experience Platform is. Dit kunt u vinden onder **Adobe Experience Platform-dataverzamelingen**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332908?quality=12&learn=on)

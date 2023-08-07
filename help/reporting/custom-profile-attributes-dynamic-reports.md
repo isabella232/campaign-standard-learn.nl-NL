@@ -21,7 +21,7 @@ ht-degree: 13%
 
 Adobe Campaign [!UICONTROL Dynamic Reports] is een flexibele vrije omgeving waarin u gegevens kunt verkennen door aangepaste profielkenmerken op te nemen. Hiermee kunt u dimensies, metriek en tijdbereik in elke combinatie combineren met onbeperkte onderverdelingen en vergelijkingen.
 
-In deze video wordt uitgelegd hoe u een rapport maakt op basis van aangepaste profielkenmerken.
+In deze video wordt uitgelegd hoe u een rapport kunt maken op basis van aangepaste profielkenmerken.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28204?quality=12&learn=on)
 

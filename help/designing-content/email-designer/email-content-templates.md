@@ -21,6 +21,6 @@ ht-degree: 14%
 
 Adobe Campaign Standard biedt 18 volledig aanpasbare, responsieve e-mailsjablonen uit de verpakking. Deze sjablonen zijn speciaal voor Adobe Campaign Standard gemaakt en zijn eenvoudig te bewerken en te wijzigen. Ze zijn een goed uitgangspunt voor het maken van e-mails.
 
-In deze video worden de sjablonen uitgelegd en uitgelegd hoe u uw eigen sjabloon kunt maken.
+In deze video wordt uitgelegd hoe u uw eigen sjabloon kunt maken.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23106?quality=12&learn=on)

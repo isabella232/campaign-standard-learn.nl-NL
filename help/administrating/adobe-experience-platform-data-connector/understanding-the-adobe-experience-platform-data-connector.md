@@ -39,7 +39,7 @@ Adobe Experience Platform [!UICONTROL Data Connector] is bedoeld voor gegevensen
 
 >[!NOTE]
 >
->De overdracht van de [!UICONTROL subscription events] wordt niet ondersteund. Om over te dragen [!UICONTROL subscription events], kunt u overeenkomstige XDM en dataset op Adobe Experience Platform tot stand brengen, dan een afbeelding van douanegegevens voor deze gegevens vormen.
+>Het buiten-de-box-verkeer van [!UICONTROL subscription events] wordt niet ondersteund. Om over te dragen [!UICONTROL subscription events], kunt u overeenkomstige XDM en dataset op Adobe Experience Platform tot stand brengen, dan een afbeelding van douanegegevens voor deze gegevens vormen.
 >
 >Bestaande [!UICONTROL experience events] kan niet in Adobe Experience Platform worden opgenomen, maar wordt gegenereerd [!UICONTROL experience events] naar Adobe Experience Platform worden gestreamd.
 

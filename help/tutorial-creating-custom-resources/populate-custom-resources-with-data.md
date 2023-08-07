@@ -17,7 +17,7 @@ ht-degree: 0%
 
 # Aangepaste bronnen vullen met gegevens
 
-Leer hoe u aangepaste bronnen kunt vullen met gegevens van een [!DNL CSV] bestand met een workflow.
+Leer hoe u aangepaste bronnen kunt vullen met gegevens van een [!DNL CSV] bestand met behulp van een workflow.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27714?quality=9)
 

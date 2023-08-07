@@ -24,15 +24,15 @@ Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klanterva
 
 * **[Berichten plannen](/help/communication-channels/email/schedule-messages.md)**
 
-   *Leer hoe u een e-maillevering kunt plannen.*
+  *Leer hoe u een e-maillevering kunt plannen.*
 
 * **[Een proef verzenden](/help/communication-channels/email/send-a-proof.md)**
 
-   *Leer hoe u een e-mailbericht test voordat u het naar de uiteindelijke ontvangers verzendt.*
+  *Leer hoe u een e-mailbericht test voordat u het naar de uiteindelijke ontvangers verzendt.*
 
 * **[Tien best practices voor succes met Adobe Campaign voor marketeers](/help/strategy/10-best-practices-for-marketers.md)**
 
-   *Leer de tien best practices om Adobe Campaign-gebruikers te helpen de transformatie van de digitale consument en een betere ervaring voor hun klanten te ontgrendelen en te versnellen.*
+  *Leer de tien best practices om Adobe Campaign-gebruikers te helpen de transformatie van de digitale consument en een betere ervaring voor hun klanten te ontgrendelen en te versnellen.*
 
 </div>
 

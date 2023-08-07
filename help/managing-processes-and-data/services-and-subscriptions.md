@@ -25,7 +25,7 @@ Abonnementmechanismen kunnen worden ingesteld om uw klanten de mogelijkheid te b
 
 Elke service wordt geleverd met:
 
-* Abonneren (opt-in) en afmelden (opt-out).
+* Abonneren (opt-in) en annuleren (opt-out) mechanismen.
 * Bevestigingsmechanismen abonneren en/of afmelden.
 * een abonnementsgeschiedenis.
 

@@ -1,6 +1,6 @@
 ---
 title: Een nieuwe doelgroep maken met de uniforme segmentbouwer
-description: Leer hoe te om een publiek tot stand te brengen gebruikend de Verenigde Bouwer van het Segment
+description: Leer hoe te om een publiek te creëren gebruikend de Verenigde Bouwer van het Segment
 feature: People Core Service Integration
 jira: KT-2754
 thumbnail: 27638.jpg
@@ -27,7 +27,7 @@ ht-degree: 9%
 
 Met Adobe Campaign Standard kunt u een publiek maken met behulp van gegevens uit de Adobe Experience Cloud [Klantprofiel in realtime](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en) door de Adobe Experience Platform te gebruiken [!UICONTROL Unified Segment Builder].
 
-U hebt toegang tot de [!UICONTROL Unified Segment Builder] rechtstreeks in Adobe Campaign Standard via [!UICONTROL Audiences] module. Hiermee kunt u deze soorten publiek rechtstreeks beheren in het dialoogvenster [!UICONTROL Audiences] lijstweergave, waar u een Adobe Experience Platform-publiek rechtstreeks vanuit de Adobe Campaign-interface kunt bewerken of maken
+U hebt toegang tot [!UICONTROL Unified Segment Builder] rechtstreeks in Adobe Campaign Standard via [!UICONTROL Audiences] -module. Hiermee kunt u deze soorten publiek rechtstreeks beheren in het dialoogvenster [!UICONTROL Audiences] lijstweergave, waar u een Adobe Experience Platform-publiek rechtstreeks vanuit de Adobe Campaign-interface kunt bewerken of maken
 
 In de onderstaande video wordt uitgelegd hoe u een nieuw publiek maakt met [!UICONTROL Unified Segment Builder] in Adobe Campaign Standard.
 

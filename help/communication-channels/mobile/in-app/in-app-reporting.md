@@ -17,7 +17,7 @@ ht-degree: 9%
 
 ---
 
-# Rapport over uw [!UICONTROL In-App] levering {#in-app-message-reporting}
+# Rapport over uw [!UICONTROL In-App] bezorging {#in-app-message-reporting}
 
 Leer hoe u de gebruiker contextafhankelijke In-App-berichten kunt presenteren als reactie op het realtime gedrag van de klant in de mobiele toepassing.
 

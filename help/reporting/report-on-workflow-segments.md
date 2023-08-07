@@ -25,4 +25,4 @@ Leer hoe u segmenten in uw workflow definieert en hoe u deze kunt gebruiken voor
 
 >[!VIDEO](https://video.tv.adobe.com/v/28262?quality=12&learn=on)
 
-Zie voor meer informatie de [documentatie](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html?lang=en)
+Zie de klasse [documentatie](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html?lang=en)

@@ -25,7 +25,7 @@ ht-degree: 6%
 >
 >Neem contact op met [!UICONTROL Adobe Customer Support] als u van plan bent om dit vermogen uit te voeren.
 
-In deze video wordt uitgelegd hoe u de [!UICONTROL Data Services Query Audience] in een werkstroom met behulp van de [!UICONTROL Read Audience] activiteit.
+In deze video wordt uitgelegd hoe u de [!UICONTROL Data Services Query Audience] in een werkstroom met de opdracht [!UICONTROL Read Audience] activiteit.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27647?quality=12&learn=on)
 

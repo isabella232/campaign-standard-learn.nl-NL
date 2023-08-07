@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # [!UICONTROL External Signal activity] - Een workflow met parameters bellen
 
-De [!UICONTROL External Signal activity] wordt gebruikt om verschillende processen te organiseren en te ordenen die deel van de zelfde klantenreis in verschillende werkschema&#39;s uitmaken. Deze activiteit kan één werkschema van een andere beginnen. De [!UICONTROL External Signal activity] U kunt een workflow aanroepen en parameters doorgeven, zoals een doelgroep, een bestandsnaam om te importeren of een deel van de berichtinhoud van de ene workflow naar de andere. Het kan ook een REST API roepen om met externe systemen, zoals een systeem van het inhoudsbeheer te integreren. Met de **Testen** activiteit, kunnen de tests op deze functionaliteit worden in werking gesteld.
+De [!UICONTROL External Signal activity] wordt gebruikt om verschillende processen te organiseren en te ordenen die deel van de zelfde klantenreis in verschillende werkschema&#39;s uitmaken. Deze activiteit kan één werkschema van een andere beginnen. De [!UICONTROL External Signal activity] U kunt een workflow aanroepen en parameters doorgeven, zoals een doelgroep, een bestandsnaam om te importeren of een deel van de berichtinhoud van de ene workflow naar de andere. Het kan ook een REST API roepen om met externe systemen, zoals een systeem van het inhoudsbeheer te integreren. Met de **Testen** activiteit, kunnen de tests op deze functionaliteit worden uitgevoerd.
 
 Leer hoe te vormen [!UICONTROL External Signal activity] om parameters** van een extern systeem te ontvangen, een werkschema met externe parameters aan te passen en een eindactiviteit te vormen om een werkschema met de externe parameters te roepen
 

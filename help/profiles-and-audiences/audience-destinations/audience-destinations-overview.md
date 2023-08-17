@@ -37,4 +37,4 @@ De volgende videozelfstudies begeleiden u door de verschillende stappen:
 
 1. [Een nieuwe doelgroep maken met de uniforme segmentbouwer](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
 2. [Experience Platforms in een marketingworkflow activeren](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
-3. [Wijzig het richten dimensie van een levering voor een Publiek van het Platform](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
+3. [Wijzig de doeldimensie van een levering voor een publiek Platform](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)

@@ -1,6 +1,6 @@
 ---
 title: De richtingsdimensie wijzigen
-description: In deze video wordt uitgelegd hoe u de doeldimensie van een levering voor een Platform Publiek buiten de hoofdprofielentabel in Adobe Campaign Standard wijzigt.
+description: In deze video wordt uitgelegd hoe u de doeldimensie van een levering voor een platformpubliek buiten de hoofdprofielentabel in Adobe Campaign Standard wijzigt.
 feature: People Core Service Integration
 jira: KT-3739
 thumbnail: 30151.jpg

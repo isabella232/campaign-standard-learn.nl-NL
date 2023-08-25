@@ -10,9 +10,9 @@ level: Experienced
 team: TM
 recommendations: noDisplay
 exl-id: fb766403-694c-4a7b-b3d1-4a418df85891
-source-git-commit: d46e4c84a7d162085016722005cca4aadb4feb3c
+source-git-commit: 9e584a8b5674c200632e92652c9bcc03b1ff2088
 workflow-type: tm+mt
-source-wordcount: '350'
+source-wordcount: '226'
 ht-degree: 100%
 
 ---
@@ -21,23 +21,11 @@ ht-degree: 100%
 
 Adobe Campaign biedt gegevenscontrollers drie manieren voor het verwerken van verzoeken om toegang tot persoonsgegevens of verzoeken om persoonsgegevens te verwijderen, in overeenstemming met privacywetgeving zoals de AVG (Algemene verordening gegevensbescherming) en de CCPA (California Consumer Privacy Act):
 
-* **Via de integratie met de Privacy-kernservice:** verzoeken om toegang tot persoonsgegevens die van [!UICONTROL Privacy Service] naar alle Experience Cloud-oplossingen worden gestuurd, worden door Campaign automatisch afgehandeld via een speciale workflow. Meer informatie over het maken van privacyverzoeken van de Privacy Core Service vindt u in de [Privacy Service in Adobe Experience Platform](https://developer.adobe.com/apis/experienceplatform/gdpr.html)
+* **Via de integratie met de Privacy-kernservice:** verzoeken om toegang tot persoonsgegevens die van [!UICONTROL Privacy Service] naar alle Experience Cloud-oplossingen worden gestuurd, worden door Campaign automatisch afgehandeld via een speciale workflow.
 
 * **Via de API:** Adobe Campaign beschikt over een REST-API die verzoeken om toegang tot persoonsgegevens automatiseert
 
 * **Via de Adobe Campaign-interface:** voor elk verzoek om toegang tot persoonsgegevens maakt de gegevenscontroller een nieuw dergelijk verzoek in Adobe Campaign
-
->[!NOTE]
->
-> **WIJZIGINGEN MET ACS 19.4:**
-> 
-> De [integratie van Privacy Service](https://developer.adobe.com/apis/experienceplatform/gdpr.html) is de methode die u moet gebruiken voor alle toegangs- en verwijderingsverzoeken. Met ingang van versie 19.4 is het gebruik van de Campaign-API en -interface voor toegangs- en verwijderingsverzoeken afgeschaft. Raadpleeg [deze pagina](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/deprecated-features.html?lang=nl) voor meer informatie over Campaign Standard-functies die zijn afgeschaft en verwijderd.
->
->**Opt-out voor de verkoop van persoonlijke gegevens (CCPA)**
->
-> Er wordt een gebruiksklaar CCPA-veld voor opt-out meegeleverd in de interface en API van Campaign.
->
-> U kunt uw versie controleren door op het **?**-pictogram te klikken in de rechterbovenhoek van de interface en Over te selecteren.
 
 ## Videotutorials
 
@@ -55,5 +43,5 @@ Adobe Campaign biedt gegevenscontrollers drie manieren voor het verwerken van ve
 
 * [Algemene richtlijnen op het gebied van privacy voor Campaign](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/privacy/privacy-management.html?lang=nl#getting-started)
 * [CCPA voor ACS](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/privacy/privacy-requests.html?lang=nl#privacy-requests)
-* [Adobe Experience Platform Privacy Service](https://developer.adobe.com/apis/experienceplatform/gdpr.html)
+* [Adobe Experience Platform Privacy Service](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html?lang=nl)
 * [Documentatie voor de REST-API van Adobe Campaign Standard](https://final-docs.campaign.adobe.com/doc/standard/en/api/ACS_API.html#privacy-management)

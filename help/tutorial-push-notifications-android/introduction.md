@@ -8,10 +8,10 @@ activity: use
 team: TM
 recommendations: noDisplay
 exl-id: 8dd772b2-b082-4e1e-842d-c5d6bcec564c
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '197'
-ht-degree: 100%
+source-wordcount: '199'
+ht-degree: 98%
 
 ---
 
@@ -24,7 +24,7 @@ Deze tutorial leidt u door de stappen die nodig zijn voor het verzenden van push
 ## Vereisten
 
 * U moet de starteigenschap hebben geconfigureerd met de Adobe Campaign Standard-extensie. Volg de onderstaande online Help.
-   * [Videotutorial](https://video.tv.adobe.com/v/26224?quality=12&learn=on)
+   * [Videotutorial](https://video.tv.adobe.com/v/26224?learn=on){transcript=true}
    * [Documentatie](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.html?lang=nl)
 
 * Zorg ervoor dat de status van de bijbehorende eigenschap in Adobe Campaign Standard is ingesteld op geconfigureerd.

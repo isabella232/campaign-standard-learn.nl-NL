@@ -10,9 +10,9 @@ team: TM
 exl-id: 2ee84302-69c3-4011-af7a-5541ca070cd8
 role: User
 level: Beginner
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '87'
 ht-degree: 16%
 
 ---
@@ -23,6 +23,6 @@ Nadat u een workflow hebt gemaakt en uw populatie hebt gefilterd in verschillend
 
 Leer hoe u segmenten in uw workflow definieert en hoe u deze kunt gebruiken voor dynamische rapporten.
 
->[!VIDEO](https://video.tv.adobe.com/v/28262?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/28262?learn=on){transcript=true}
 
 Zie de klasse [documentatie](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html?lang=en)

@@ -9,10 +9,10 @@ activity: use
 team: TM
 recommendations: noDisplay
 exl-id: 93af995f-6eca-4427-86f2-a8f63ae6b9c4
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '187'
-ht-degree: 100%
+source-wordcount: '189'
+ht-degree: 98%
 
 ---
 
@@ -36,7 +36,7 @@ U hebt beheerdersrechten nodig om aangepaste bronnen te kunnen maken.
 
 Als u aanvullende informatie wilt gebruiken over wat een klant heeft besteld, zodat deze beschikbaar is voor marketing- en re-marketingdoeleinden, moet het gegevensmodel [!DNL Campaign] worden uitgebreid door aangepaste tabellen toe te voegen. Voor dit gebruiksscenario moeten een klant en een orderlijst worden gemaakt.
 
->[!VIDEO](https://video.tv.adobe.com/v/27715?quality=9)
+>[!VIDEO](https://video.tv.adobe.com/v/27715?learn=on){transcript=true}
 
 In deze tutorial wordt het volgende uitgelegd:
 

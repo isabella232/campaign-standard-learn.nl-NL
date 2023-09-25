@@ -11,10 +11,10 @@ doc-type: feature video
 team: TM
 exl-id: babe7b9f-c198-4358-ba3a-91fabf584f9b
 badgeIntegration: label="Integratie" type="positive"
-source-git-commit: 019060e150a00b2d615b0ad694c664475b00c302
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 100%
+source-wordcount: '110'
+ht-degree: 98%
 
 ---
 
@@ -22,6 +22,6 @@ ht-degree: 100%
 
 Leer hoe u de integratie van Campaign Standard en Analytics configureert. Begrijp hoe u een rapport in Analytics bouwt met het gebruik van gegevens die van Campaign Standard worden ontvangen en welke KPI&#39;s beschikbaar zijn.
 
->[!VIDEO](https://video.tv.adobe.com/v/332576/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/332576/?learn=on){transcript=true}
 
 Raadpleeg de Adobe Analytics-producthandleiding voor meer informatie over [Het begrijpen en maken van Report Suites](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=nl#intro-to-analytics).

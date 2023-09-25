@@ -10,9 +10,9 @@ team: TM
 exl-id: 62d0d756-e9b9-4656-94ba-bfc113a7b5c9
 role: User, Developer
 level: Experienced
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '136'
 ht-degree: 4%
 
 ---
@@ -29,12 +29,12 @@ De volgende video&#39;s verklaren de stappen die worden vereist om te vormen [!U
 
 ## Stap 1 - Een gebeurtenis maken en publiceren
 
->[!VIDEO](https://video.tv.adobe.com/v/25914?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/25914?learn=on){transcript=true}
 
 ## Stap 2 - voeg een productaanbieding aan een transactiemalplaatje toe
 
->[!VIDEO](https://video.tv.adobe.com/v/25915?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/25915?learn=on){transcript=true}
 
 ## Stap 3 - test het transactiebericht
 
->[!VIDEO](https://video.tv.adobe.com/v/25916?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/25916?learn=on){transcript=true}

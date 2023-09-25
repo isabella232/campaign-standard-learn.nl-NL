@@ -10,10 +10,10 @@ team: DOC
 exl-id: e93d59fc-0ad5-4fa2-a744-0f723e99eae4
 role: User
 level: Beginner
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 16%
+source-wordcount: '89'
+ht-degree: 15%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 16%
 
 Met Adobe Campaign kunt u bestemmingspagina&#39;s maken die online formulieren zijn die kunnen worden gebruikt om informatie over uw publiek vast te leggen, abonnementen op een service aan te bieden, gegevens weer te geven en uw database uit te breiden. Openingspagina&#39;s kunnen ook worden gebruikt voor het aanschaffen of bijwerken van bestaande profielen.
 
->[!VIDEO](https://video.tv.adobe.com/v/24093?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/24093?learn=on){transcript=true}
 
 ## Aanvullende bronnen
 

@@ -10,9 +10,9 @@ team: PM
 exl-id: 955d063f-4709-4f56-8f39-f1b838354300
 role: User, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '125'
 ht-degree: 6%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 6%
 
 In deze video wordt uitgelegd hoe u de [!UICONTROL Data Services Query Audience] in een werkstroom met de opdracht [!UICONTROL Read Audience] activiteit.
 
->[!VIDEO](https://video.tv.adobe.com/v/27647?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/27647?learn=on){transcript=true}
 
 *Een Adobe Experience Platform-publiek activeren in een workflow (20:37 min)*
 

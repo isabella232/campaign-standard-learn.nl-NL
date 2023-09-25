@@ -10,9 +10,9 @@ team: PM
 exl-id: ce52a988-5072-401b-9a8b-112e42504022
 role: User, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '169'
 ht-degree: 9%
 
 ---
@@ -31,6 +31,6 @@ U hebt toegang tot [!UICONTROL Unified Segment Builder] rechtstreeks in Adobe Ca
 
 In de onderstaande video wordt uitgelegd hoe u een nieuw publiek maakt met [!UICONTROL Unified Segment Builder] in Adobe Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/27638?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/27638?learn=on){transcript=true}
 
 *Hoe te om een publiek in Adobe Campaign Standard tot stand te brengen gebruikend de Verenigde Bouwer van het Segment (min 02:47)*

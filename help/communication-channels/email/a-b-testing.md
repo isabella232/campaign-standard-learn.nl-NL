@@ -10,9 +10,9 @@ team: TM
 exl-id: f1ae414c-6b42-445b-bb33-9a28a3e854fa
 role: User
 level: Beginner
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '121'
 ht-degree: 37%
 
 ---
@@ -23,6 +23,6 @@ De [!UICONTROL A/B Test] Met de functionaliteit in Adobe Campaign kunt u twee to
 
 Leer hoe u een A/B-test configureert en verzendt om de onderwerpregel van een e-mail te testen.
 
->[!VIDEO](https://video.tv.adobe.com/v/18480?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/18480?learn=on){transcript=true}
 
 Zie de [productdocumentatie](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/designing-an-a-b-test-email.html) voor meer informatie over het testen van de inhoud of de afzender.

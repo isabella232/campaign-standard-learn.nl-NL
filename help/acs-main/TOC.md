@@ -2,8 +2,9 @@
 user-guide-title: Adobe Campaign Standard-tutorials
 user-guide-description: Ontwerp cross-channel klantervaringen en creëer een omgeving voor visuele campagneorkestratie, realtime-interactiebeheer en uitvoering via meerdere kanalen.
 breadcrumb-title: Campaign Standard-tutorials
-source-git-commit: 3e8484650a941a3166063b8765f39a90fda6109f
-workflow-type: tm+mt
+auto-video-transcripts: true
+source-git-commit: 7247b194ed8fe65b526d27ef9b76cbbad2d99fc3
+workflow-type: ht
 source-wordcount: '567'
 ht-degree: 100%
 

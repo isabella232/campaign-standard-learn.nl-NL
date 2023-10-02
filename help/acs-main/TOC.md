@@ -4,7 +4,7 @@ user-guide-description: Ontwerp cross-channel klantervaringen en creëer een omg
 breadcrumb-title: Campaign Standard-tutorials
 auto-video-transcripts: true
 source-git-commit: 7247b194ed8fe65b526d27ef9b76cbbad2d99fc3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '567'
 ht-degree: 100%
 

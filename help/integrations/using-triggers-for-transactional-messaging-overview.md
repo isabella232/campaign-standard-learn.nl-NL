@@ -10,7 +10,7 @@ level: Experienced
 team: TM
 hidefromtoc: false
 exl-id: 9bc5e4e6-c943-40ca-9d99-a3fa802775f4
-source-git-commit: 53b919e0201f8d7c950641e5e3d26d557231aa23
+source-git-commit: aaa8e506a95fdf1bf3ddab98a76b668c202a13fd
 workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 98%
@@ -24,7 +24,7 @@ In de volgende tutorials leert u hoe u triggers configureert en gebruikt voor vo
 Voordat u een trigger in een transactieberichten kunt gebruiken, moet u het volgende doen:
 
 1. [Launch configureren voor triggers](/help/integrations/configure-launch-for-triggers.md)
-2. [Een trigger in Experience Cloud maken](https://experienceleague.adobe.com/docs/core-services/interface/services/triggers.html?lang=en)
+2. [Een trigger in Experience Cloud maken](https://experienceleague.adobe.com/docs/core-services/interface/triggers.html?lang=en)
 3. [Een triggergebeurtenis maken in Campaign Standard](/help/integrations/create-a-trigger-event.md)
 
 Zodra de trigger is geconfigureerd, kunt u daarmee transactieberichten [configureren met realtimegebeurtenisgegevens](/help/integrations/configure-transactional-messages-using-realtime-event-data.md).
